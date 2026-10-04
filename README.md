@@ -56,7 +56,7 @@ python3 scripts/restore_release_inputs.py submission-all-traits.zip
 python3 scripts/verify_published_dataset.py
 ```
 
-The local replay-parser environment uses Python 3.9.13 and the inspected parser versions in [requirements.txt](requirements.txt). Analysis additionally uses NumPy, pandas, matplotlib, beautifulsoup4 and requests where imported. Reproduction of the current tables from restored replays and preserved input feature tables uses:
+The local replay-parser environment uses Python 3.9.13 and the inspected parser versions in [requirements.txt](requirements.txt). The existing NumPy, pandas, matplotlib, beautifulsoup4 and requests versions are also recorded there. Optional engine-collection dependencies are in `requirements-engine.txt`. Reproduction of the current tables from restored replays and preserved input feature tables uses:
 
 ```sh
 python3 -m venv .venv

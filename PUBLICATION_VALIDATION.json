@@ -1,0 +1,16 @@
+{
+  "verified_player_game_observations": 98,
+  "window_rows": 195,
+  "comparison_rows": 1148,
+  "trait_definitions": 82,
+  "candidate_metrics_controls": 255,
+  "complete_engine_matches": 4,
+  "complete_engine_frames": 362011,
+  "complete_engine_commands": 12368,
+  "unique_source_replay_files": 91,
+  "restored_source_files_missing": 0,
+  "all_restored_source_hashes_verified": true,
+  "period_comparisons_rebuilt_byte_for_byte": true,
+  "release_archive_integrity_verified": true,
+  "credential_pattern_scan_matches": 0
+}

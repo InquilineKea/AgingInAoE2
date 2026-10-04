@@ -1,0 +1,3 @@
+# Optional local engine collection; requires a running compatible AoE2 DE game.
+grpcio==1.78.0
+protobuf==4.25.8
