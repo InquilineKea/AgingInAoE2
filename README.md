@@ -1,6 +1,6 @@
 # AgingInAoE2
 
-Replay-based longitudinal behavioral comparisons of **DauT, TheViper and TaToH**, using the earliest verified recordings recovered for this project and recent 2026 games. This is an exploratory convenience sample, not evidence of a causal aging effect.
+Replay-based behavioral analysis of **DauT, TheViper, TaToH and MembTV**. Longitudinal comparisons use the earliest verified recordings recovered for the first three players and recent 2026 games. MembTV is a separately labeled recent cohort whose historical replay baseline remains unavailable. This is an exploratory convenience sample, not evidence of a causal aging effect.
 
 Start with **[individual player findings](deadline-sparse/PLAYER_FINDINGS.md)** and the **[full measured-trait comparison](deadline-sparse/ALL_TRAITS_ANALYSIS.md)**. Download [the searchable HTML report](deadline-sparse/all_traits.html) to open it locally.
 
@@ -13,7 +13,29 @@ The [new stamina analysis](stamina/REPORT.md) tests the same 98 observations usi
 - [Counter-proxy audit and coverage](stamina/sync_counter_paired_audit.csv)
 - [Validation](stamina/validation.json)
 
-## What is measured
+## MembTV extension
+
+The [MembTV report](memb/REPORT.md) adds an older player, age 49, using a fixed newest-first sample of public replays. His displayed RM 1v1 rating of 1810 does not establish recent ranked activity: the latest retrieved ranked log is from May 2026 and the tested recordings are unavailable. Recent recovered recordings are primarily unranked Rage Forest team games, with separate ranked team-map contexts. These are not pooled with professional 1v1 periods.
+
+The extension retains the original 82-field dictionary, pairs long-game phases within each recording, and compares opening command patterns across observed sessions. The proposed age 42–49 DE series remains a potential collection range, not measured coverage. Historical endpoints and archive access failures are documented rather than replaced with inferred aging results.
+
+- [Memb per-game traits](memb/original_82_trait_metrics.csv) and [all-player comparison table](memb/all_players_trait_comparisons.csv), including explicitly unavailable Memb historical contrasts.
+- [Memb long-game results](memb/long_game_summary.csv) and [paired measurements](memb/long_game_paired_changes.csv).
+- [Memb observed-session results](memb/session_comparisons.csv) and [individual openings](memb/session_opening_metrics.csv).
+- [Source inventory](memb/game_inventory.csv), [excluded short aborts](memb/excluded_recordings.json), [validation](memb/validation.json), and [combined coverage](memb/integration_validation.json).
+- [Memb release inputs and analysis](https://github.com/InquilineKea/AgingInAoE2/releases/tag/memb-v1).
+
+Restore this extension's replay inputs without overwriting differing files:
+
+```sh
+gh release download memb-v1 --repo InquilineKea/AgingInAoE2 --pattern memb-analysis.zip --pattern SHA256SUMS-memb.txt
+shasum -a 256 -c SHA256SUMS-memb.txt
+python scripts/restore_memb_inputs.py memb-analysis.zip
+python scripts/analyze_memb.py
+python scripts/report_memb.py
+```
+
+## What is measured in the original three-player analysis
 
 | Artifact | Coverage |
 |---|---|

@@ -14,5 +14,11 @@
     "bytes": 871558,
     "sha256": "65bf65c638e03e238b29a34a3513d5f44fca99374de9662aacc7871dfc9f13df",
     "release_tag": "stamina-v1"
+  },
+  {
+    "name": "memb-analysis.zip",
+    "bytes": 136537818,
+    "sha256": "6a5732c8a4664fb78593d288808dddda18f75377ecb192df7a825ba097c1f165",
+    "release_tag": "memb-v1"
   }
 ]

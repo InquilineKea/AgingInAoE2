@@ -1,0 +1,35 @@
+[
+  {
+    "match_id": 183549565,
+    "started": "2022-10-03T11:56:44.000Z",
+    "url": "https://aoe.ms/replay/?gameId=183549565&profileId=196407",
+    "http": "404",
+    "curl_exit": 0
+  },
+  {
+    "match_id": 183547091,
+    "started": "2022-10-03T11:29:19.000Z",
+    "url": "https://aoe.ms/replay/?gameId=183547091&profileId=196407",
+    "http": "404",
+    "curl_exit": 0
+  },
+  {
+    "match_id": 58565740,
+    "started": "2020-12-29T00:11:35.000Z",
+    "url": "https://aoe.ms/replay/?gameId=58565740&profileId=196407",
+    "http": "404",
+    "curl_exit": 0
+  },
+  {
+    "match_id": 58558435,
+    "started": "2020-12-28T23:35:34.000Z",
+    "url": "https://aoe.ms/replay/?gameId=58558435&profileId=196407",
+    "http": "404",
+    "curl_exit": 0
+  },
+  {
+    "url": "https://aoezone.net/forums/2021-the-open-classic.2442/",
+    "http": "403",
+    "purpose": "2021 Memb vs Barles tournament archive; public retrieval denied"
+  }
+]

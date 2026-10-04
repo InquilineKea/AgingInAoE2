@@ -1,0 +1,14 @@
+{
+  "player": "MembTV",
+  "profile_id": 196407,
+  "birth_date": "1977-07-22",
+  "birth_date_source": "https://liquipedia.net/ageofempires/MembTV",
+  "profile_source": "https://www.aoe2insights.com/user/196407/",
+  "verified_on": "2026-10-04",
+  "age_at_verification": 49,
+  "ranked_rating_snapshot": 1810,
+  "ranked_rating_current_activity_warning": "Most recent ranked match in retrieved Companion log is 2026-05-29; rating is not evidence of current ranked activity.",
+  "claimed_total_matches": 12492,
+  "match_count_warning": "Provided count and cached AoE2Insights count differ; total indexed matches are not available replay counts.",
+  "ranked_rm_1v1_games_profile_snapshot": 4572
+}

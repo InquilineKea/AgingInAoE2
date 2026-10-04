@@ -1,0 +1,4 @@
+gap_threshold_minutes,eligible_sessions,median_core_last_over_first,median_burst_last_over_first,sessions_with_core_decrease
+15,6,1.116411194997331,1.2104010025062653,2
+30,7,1.2186379928315412,1.1684210526315784,2
+60,7,1.2186379928315412,1.1684210526315784,2

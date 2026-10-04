@@ -1,0 +1,11 @@
+{
+  "source_replay_hashes_verified": 56,
+  "eligible_observations": 54,
+  "short_abort_exclusions": 2,
+  "owned_actor_slot_and_monotonic_clock_verified": true,
+  "independently_recomputed_phase_windows": 524,
+  "gap_denominators_strict_threshold_and_p95_bursts_verified": true,
+  "original_comparison_rows_preserved": 1148,
+  "historical_memb_contrasts_withheld": true,
+  "qualifying_long_game_cohort": 26
+}

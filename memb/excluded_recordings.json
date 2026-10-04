@@ -1,0 +1,20 @@
+[
+  {
+    "game_id": 510512883,
+    "file": "memb/raw/510512883.aoe2record",
+    "duration_game_seconds": 17.375,
+    "reason": "Aborted recording under one game minute; excluded before command analysis",
+    "profile_and_start_verified": true,
+    "body_end_verified": true,
+    "sync_checks": 1
+  },
+  {
+    "game_id": 509718606,
+    "file": "memb/raw/509718606.aoe2record",
+    "duration_game_seconds": 27.144,
+    "reason": "Aborted recording under one game minute; excluded before command analysis",
+    "profile_and_start_verified": true,
+    "body_end_verified": true,
+    "sync_checks": 0
+  }
+]

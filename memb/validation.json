@@ -1,0 +1,20 @@
+{
+  "profile_id": 196407,
+  "verified_games": 54,
+  "download_attempts": 63,
+  "unavailable_downloads": 7,
+  "parse_failures": [],
+  "short_abort_exclusions": 2,
+  "all_verified_headers_match_profile_and_logged_start": true,
+  "all_verified_body_clocks_checked": true,
+  "complete_recordings": 51,
+  "trait_fields": 61,
+  "trait_windows": 108,
+  "phase_windows": 524,
+  "long_games": 26,
+  "eligible_primary_complete_sessions": 7,
+  "historical_replays_obtained": false,
+  "age_effect_identified": false,
+  "raw_replays_may_contain_public_match_chat": true,
+  "derived_command_export_excludes_chat_and_viewlocks": true
+}

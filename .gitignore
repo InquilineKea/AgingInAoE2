@@ -10,3 +10,4 @@ engine-pass/**/initial-patch.bin
 *.pem
 *.key
 .env*
+memb/analysis-log.txt
