@@ -1,0 +1,170 @@
+== 0. sanity: opening core CPM (nominal) medians
+DauT 2011 53.25
+DauT 2012 59.85
+DauT 2021 95.82
+DauT 2026 84.84
+TheViper 2012 72.0
+TheViper 2021 122.19
+TheViper 2026 102.75
+
+== 1. matched game-time bins: median core CPM (n games reaching bin end)
+DauT     2011  0-5:  69.6(n4)  5-10:  34.5(n4)  10-15:  47.1(n4)  15-20:  49.0(n4)  20-25:  51.3(n4)  25-30:  46.8(n4)  30-40:  47.2(n2)
+DauT     2012  0-5:  72.6(n7)  5-10:  47.1(n7)  10-15:  45.9(n7)  15-20:  43.5(n7)  20-25:  29.4(n7)  25-30:  47.1(n7)  30-40:  38.2(n6)
+DauT     2021  0-5: 103.8(n9)  5-10:  86.2(n9)  10-15:  77.4(n9)  15-20:  77.1(n9)  20-25:  74.9(n8)  25-30:  72.0(n8)  30-40:  67.8(n5)
+DauT     2026  0-5:  96.7(n5)  5-10:  73.3(n5)  10-15:  96.0(n5)  15-20:  83.5(n5)  20-25:  82.8(n3)  25-30:  92.1(n2)  30-40:  76.4(n1)
+TheViper 2012  0-5:  82.8(n9)  5-10:  63.3(n9)  10-15:  67.5(n9)  15-20:  73.2(n9)  20-25:  53.1(n9)  25-30:  61.2(n9)  30-40:  51.7(n8)
+TheViper 2021  0-5: 120.0(n5)  5-10: 102.1(n5)  10-15:  97.0(n5)  15-20:  83.0(n4)  20-25:  85.2(n4)  25-30:  84.2(n4)  30-40:  79.0(n4)
+TheViper 2026  0-5: 111.5(n5)  5-10:  92.3(n5)  10-15: 115.8(n4)  15-20:  97.5(n4)  20-25: 101.1(n3)  25-30: 103.1(n2)  30-40:  99.0(n1)
+   duration (game min) per game:
+   DauT 2011 [33, 34, 42, 43]
+   DauT 2012 [39, 40, 42, 48, 57, 61, 75]
+   DauT 2021 [21, 30, 34, 40, 45, 46, 48, 49, 72]
+   DauT 2026 [21, 24, 25, 33, 46]
+   TheViper 2012 [39, 40, 42, 46, 48, 56, 57, 61, 75]
+   TheViper 2021 [16, 41, 49, 50, 50]
+   TheViper 2026 [15, 23, 28, 32, 74]
+
+== 1b. CPM in last 5 game-min vs game minutes 10-20, per game (DE)
+  DauT 2021 last5 [63, 70, 42, 76, 65, 56, 64, 67] min10-20 [78, 91, 78, 74, 69, 86, 70, 72]
+  DauT 2026 last5 [81, 116, 49] min10-20 [90, 75, 55]
+  TheViper 2021 last5 [76, 53, 100, 93] min10-20 [80, 102, 90, 83]
+  TheViper 2026 last5 [117, 89, 116] min10-20 [141, 110, 84]
+
+== 2. DE timing distribution of core commands (nominal s), windows 0-10 and 10-20 game min
+ window 0-10 game min
+  DauT     2021 n=9  gap p50=0.364  p90=1.50  p99=3.87  pos-gap p10=0.116  silent5s=0.014  peak10s_cpm=198
+  DauT     2026 n=5  gap p50=0.362  p90=1.60  p99=3.87  pos-gap p10=0.123  silent5s=0.014  peak10s_cpm=174
+  TheViper 2021 n=5  gap p50=0.237  p90=1.22  p99=3.45  pos-gap p10=0.115  silent5s=0.028  peak10s_cpm=222
+  TheViper 2026 n=5  gap p50=0.246  p90=1.44  p99=3.50  pos-gap p10=0.115  silent5s=0.028  peak10s_cpm=204
+ window 10-20 game min
+  DauT     2021 n=9  gap p50=0.364  p90=1.85  p99=5.11  pos-gap p10=0.116  silent5s=0.028  peak10s_cpm=198
+  DauT     2026 n=5  gap p50=0.362  p90=1.56  p99=4.06  pos-gap p10=0.123  silent5s=0.014  peak10s_cpm=210
+  TheViper 2021 n=4  gap p50=0.249  p90=1.76  p99=5.37  pos-gap p10=0.116  silent5s=0.035  peak10s_cpm=216
+  TheViper 2026 n=4  gap p50=0.238  p90=1.38  p99=3.37  pos-gap p10=0.115  silent5s=0.028  peak10s_cpm=255
+
+== 3. rapid re-clicks: MOVE/ORDER within <=0.5 nominal s of previous MOVE/ORDER and destination <=2 tiles (or same target)
+  0-10  DauT     2011  reclick share=0.275  dedup CPM=  38.7  raw CPM=  53.2
+  0-10  DauT     2012  reclick share=0.199  dedup CPM=  50.1  raw CPM=  59.8
+  0-10  DauT     2021  reclick share=0.271  dedup CPM=  67.3  raw CPM=  95.8
+  0-10  DauT     2026  reclick share=0.271  dedup CPM=  61.7  raw CPM=  84.8
+  0-10  TheViper 2012  reclick share=0.222  dedup CPM=  55.3  raw CPM=  72.0
+  0-10  TheViper 2021  reclick share=0.401  dedup CPM=  76.2  raw CPM= 122.2
+  0-10  TheViper 2026  reclick share=0.409  dedup CPM=  63.2  raw CPM= 102.8
+  whole DauT     2011  reclick share=0.245  dedup CPM=  38.1  raw CPM=  50.5
+  whole DauT     2012  reclick share=0.205  dedup CPM=  36.4  raw CPM=  46.9
+  whole DauT     2021  reclick share=0.266  dedup CPM=  55.5  raw CPM=  74.7
+  whole DauT     2026  reclick share=0.304  dedup CPM=  62.5  raw CPM=  86.1
+  whole TheViper 2012  reclick share=0.255  dedup CPM=  47.2  raw CPM=  62.5
+  whole TheViper 2021  reclick share=0.345  dedup CPM=  61.7  raw CPM=  94.7
+  whole TheViper 2026  reclick share=0.436  dedup CPM=  58.2  raw CPM= 103.3
+
+== 4. milestones (game time mm:ss; first click) 
+ DauT 2011
+   211c10 win=True  dur= 41.6  feudal 10:23  castle 22:09  imp 33:56  1st mil bldg  6:38 rax   
+   079005 win=True  dur= 42.9  feudal  9:45  castle 12:56  imp 26:36  1st mil bldg 27:14 rax   
+   bb815f win=True  dur= 34.2  feudal  4:40  castle  7:43  imp 23:56  1st mil bldg 22:06 rax   
+   252b3a win=False dur= 32.9  feudal 10:13  castle 25:35  imp   -    1st mil bldg 14:47 rax   
+ DauT 2012
+   5e1293 win=?     dur= 47.9  feudal   -    castle   -    imp   -    1st mil bldg  6:34 rax   
+   bd5257 win=?     dur= 56.7  feudal   -    castle   -    imp   -    1st mil bldg  8:23 rax   
+   5338a2 win=?     dur= 42.2  feudal   -    castle   -    imp   -    1st mil bldg  6:30 rax   
+   c15e43 win=?     dur= 75.0  feudal   -    castle   -    imp   -    1st mil bldg  9:10 rax   
+   65e3f6 win=?     dur= 39.1  feudal   -    castle   -    imp   -    1st mil bldg  9:02 rax   
+   52a03f win=?     dur= 40.5  feudal   -    castle   -    imp   -    1st mil bldg  8:48 rax   
+   1c40a1 win=?     dur= 60.8  feudal   -    castle   -    imp   -    1st mil bldg 12:23 rax   
+ DauT 2021
+   9621aa win=True  dur= 46.3  feudal 11:15  castle 20:18  imp 35:11  1st mil bldg  4:13 rax   
+   2c3759 win=False dur= 33.5  feudal  7:07  castle 17:53  imp   -    1st mil bldg  7:32 rax   
+   11508b win=False dur= 49.1  feudal  7:07  castle 17:31  imp 38:43  1st mil bldg  9:20 stable
+   323cda win=True  dur= 44.9  feudal  9:14  castle 12:43  imp 27:02  1st mil bldg 10:28 rax   
+   dde793 win=True  dur= 39.6  feudal  6:24  castle 19:18  imp 35:04  1st mil bldg  6:15 rax   
+   e1e75a win=True  dur= 21.3  feudal  7:59  castle 18:14  imp   -    1st mil bldg  6:24 rax   
+   0b3bc1 win=False dur= 71.7  feudal  7:06  castle 19:05  imp 40:06  1st mil bldg  8:04 rax   
+   5e1527 win=True  dur= 47.7  feudal  9:22  castle 12:41  imp 36:05  1st mil bldg  9:58 rax   
+   31d31c win=False dur= 30.1  feudal  8:01  castle 19:19  imp   -    1st mil bldg  8:31 rax   
+ DauT 2026
+   c7d358 win=True  dur= 23.6  feudal  6:46  castle 16:57  imp   -    1st mil bldg  7:39 rax   
+   a467a9 win=True  dur= 25.2  feudal  6:32  castle 20:10  imp   -    1st mil bldg  6:31 rax   
+   d4d080 win=False dur= 33.0  feudal  6:25  castle 20:26  imp   -    1st mil bldg  7:43 rax   
+   4d3273 win=True  dur= 21.3  feudal  6:43  castle 20:45  imp   -    1st mil bldg  6:37 rax   
+   23d457 win=True  dur= 46.3  feudal  7:51  castle 12:31  imp 32:09  1st mil bldg 18:14 rax   
+ TheViper 2012
+   2a4d86 win=?     dur= 56.4  feudal  8:19  castle 20:43  imp 35:03  1st mil bldg  8:44 rax   
+   be2ccd win=?     dur= 45.9  feudal 11:00  castle 14:17  imp 28:41  1st mil bldg   -         
+   5e1293 win=?     dur= 47.9  feudal  9:46  castle 20:26  imp 33:22  1st mil bldg  6:45 rax   
+   bd5257 win=?     dur= 56.7  feudal  8:58  castle 21:19  imp 32:01  1st mil bldg  9:02 rax   
+   5338a2 win=?     dur= 42.2  feudal  8:26  castle 19:35  imp 32:23  1st mil bldg  9:22 rax   
+   c15e43 win=?     dur= 75.0  feudal  7:42  castle 19:55  imp 40:04  1st mil bldg  8:25 rax   
+   65e3f6 win=?     dur= 39.1  feudal 10:57  castle 14:32  imp 31:03  1st mil bldg  6:34 rax   
+   52a03f win=?     dur= 40.5  feudal 10:34  castle 15:11  imp 34:17  1st mil bldg  6:22 rax   
+   1c40a1 win=?     dur= 60.8  feudal 11:38  castle 15:01  imp 37:13  1st mil bldg  6:13 rax   
+ TheViper 2021
+   63e462 win=True  dur= 40.9  feudal 10:43  castle 13:55  imp 32:52  1st mil bldg  6:45 rax   
+   40cfbf win=True  dur= 16.4  feudal  7:34  castle   -    imp   -    1st mil bldg  8:10 rax   
+   c0b3c4 win=True  dur= 48.5  feudal  7:42  castle 23:12  imp 38:39  1st mil bldg  6:02 rax   
+   679124 win=True  dur= 49.8  feudal  7:23  castle 17:38  imp 32:24  1st mil bldg 11:16 rax   
+   d777b0 win=True  dur= 49.8  feudal  9:08  castle 14:17  imp 32:10  1st mil bldg 10:34 rax   
+ TheViper 2026
+   bdaf8d win=True  dur= 73.6  feudal  6:14  castle 17:15  imp 33:27  1st mil bldg  6:55 rax   
+   91de7a win=True  dur= 28.1  feudal  6:35  castle 26:36  imp   -    1st mil bldg  6:40 rax   
+   65486e win=True  dur= 32.5  feudal  7:22  castle 18:16  imp   -    1st mil bldg  8:51 rax   
+   67f437 win=True  dur= 22.7  feudal  6:40  castle 17:09  imp   -    1st mil bldg  8:54 range 
+   3598af win=False dur= 14.6  feudal  8:22  castle   -    imp   -    1st mil bldg  6:44 rax   
+
+== 5. 2026 session order
+  DauT game1 23:09  open CPM=  84.8  10-20 CPM=  93.6  win=True
+  DauT game2 23:29  open CPM=  92.8  10-20 CPM=  89.7  win=True
+  DauT game3 23:46  open CPM=  74.4  10-20 CPM=  75.4  win=False
+  DauT game4 00:09  open CPM=  91.8  10-20 CPM= 111.7  win=True
+  DauT game5 00:26  open CPM=  83.0  10-20 CPM=  54.9  win=True
+  TheViper game1 13:54  open CPM= 105.1  10-20 CPM= 140.8  win=True
+  TheViper game2 14:50  open CPM= 102.8  10-20 CPM= 109.9  win=True
+  TheViper game3 15:10  open CPM=  99.0  10-20 CPM=  83.7  win=True
+  TheViper game4 15:31  open CPM= 109.2  10-20 CPM= 100.6  win=True
+  TheViper game5 15:48  open CPM=  89.6  10-20 CPM=   nan  win=False
+
+== 6. Viper/DauT opening CPM ratio, same era
+  2012: DauT 59.8  Viper 72.0  ratio 1.20
+  2021: DauT 95.8  Viper 122.2  ratio 1.28
+  2026: DauT 84.8  Viper 102.8  ratio 1.21
+  2012 same-game pairs ratio: [1.12, 1.04, 1.33, 0.96, 1.1, 1.28, 1.53]
+
+== 7. exact permutation test 2021 vs 2026 (game-level; ignores series clustering -> anti-conservative)
+  DauT     open CPM      n=9v5  median diff= -11.0  p=0.196  cliffs_delta=-0.47
+  DauT     min10-20 CPM  n=9v5  median diff= +12.0  p=0.196  cliffs_delta=+0.33
+  DauT     whole CPM     n=9v5  median diff= +11.4  p=0.203  cliffs_delta=+0.42
+  TheViper open CPM      n=5v5  median diff= -19.4  p=0.167  cliffs_delta=-0.44
+  TheViper min10-20 CPM  n=4v4  median diff= +18.8  p=0.200  cliffs_delta=+0.62
+  TheViper whole CPM     n=5v5  median diff=  +8.6  p=0.119  cliffs_delta=+0.44
+
+== 8. tournament Elo (aoe-elo.com series data, results/tournament_years.csv)
+  DauT     2019  series= 25  median=  2119  max=2136  last=2123  win%=48
+  DauT     2020  series= 38  median=  2148  max=2189  last=2181  win%=68
+  DauT     2021  series= 79  median=  2222  max=2292  last=2270  win%=66
+  DauT     2022  series= 82  median=  2270  max=2292  last=2278  win%=63
+  DauT     2023  series=100  median=  2337  max=2399  last=2387  win%=72
+  DauT     2024  series= 55  median=  2371  max=2397  last=2340  win%=65
+  DauT     2025  series= 63  median=  2328  max=2348  last=2292  win%=63
+  DauT     2026  series= 66  median=  2296  max=2321  last=2276  win%=77
+  TheViper 2019  series= 31  median=  2309  max=2347  last=2295  win%=81
+  TheViper 2020  series= 67  median=  2280  max=2305  last=2276  win%=85
+  TheViper 2021  series= 58  median=  2338  max=2379  last=2377  win%=86
+  TheViper 2022  series= 55  median=  2358  max=2386  last=2368  win%=78
+  TheViper 2023  series= 98  median=  2387  max=2480  last=2462  win%=73
+  TheViper 2024  series= 42  median=  2444  max=2473  last=2441  win%=71
+  TheViper 2025  series= 57  median=  2432  max=2477  last=2477  win%=67
+  TheViper 2026  series= 34  median=  2456  max=2481  last=2443  win%=62
+
+== 9. RM 1v1 ladder rating (aoe2companion snapshot 2026-10-04, reanalysis-v2/ladder_rm1v1_history.csv)
+  DauT: peak 2752, latest 2684
+    2022: n=  93  median=  2403  max=2466  year-end=2456
+    2023: n= 600  median=  2578  max=2752  year-end=2471
+    2024: n= 303  median=  2541  max=2659  year-end=2587
+    2025: n= 418  median=  2488  max=2705  year-end=2454
+    2026: n= 266  median=  2576  max=2714  year-end=2684
+  TheViper: peak 2911, latest 2781
+    2022: n= 112  median=  2592  max=2683  year-end=2572
+    2023: n= 418  median=  2692  max=2813  year-end=2674
+    2024: n= 341  median=  2660  max=2911  year-end=2768
+    2025: n= 366  median=  2659  max=2854  year-end=2663
+    2026: n= 158  median=  2705  max=2826  year-end=2781

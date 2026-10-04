@@ -1,0 +1,13 @@
+{
+  "game_id": "a467a9f1780f",
+  "file": "raw/daut_508980233/AgeIIDE_Replay_508980233.aoe2record",
+  "sha256": "a467a9f1780fb4de13bf524aa4c19f5cb1d104f407bfefaeefb9bf384d3f389f",
+  "year": 2026,
+  "date": "2026-09-24T23:29:10+00:00",
+  "target_players": [
+    "DauT"
+  ],
+  "duration_game_min": 25.17275,
+  "save_version": 68.9,
+  "state": "pending_startup_validation"
+}

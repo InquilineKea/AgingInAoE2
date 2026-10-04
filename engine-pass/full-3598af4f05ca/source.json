@@ -1,0 +1,13 @@
+{
+  "game_id": "3598af4f05ca",
+  "file": "raw/viper_510330665/AgeIIDE_Replay_510330665.aoe2record",
+  "sha256": "3598af4f05ca18bb96d8ada9d70a6bd1df71e08d3933be4960f3640b46b976e5",
+  "year": 2026,
+  "date": "2026-09-30T15:48:39+00:00",
+  "target_players": [
+    "TheViper"
+  ],
+  "duration_game_min": 14.623050000000001,
+  "save_version": 68.9,
+  "state": "pending_startup_validation"
+}

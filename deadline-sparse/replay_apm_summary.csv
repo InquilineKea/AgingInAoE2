@@ -1,0 +1,21 @@
+player,period,window,n_games,median_replay_apm
+DauT,2011 1v1 challenge,first 10 game minutes,2,47.55
+DauT,2011 1v1 challenge,whole available replay,2,46.11405137271056
+DauT,2012 team game,first 10 game minutes,2,57.75
+DauT,2012 team game,whole available replay,2,42.85202983203356
+DauT,2021 1v1 tournament,first 10 game minutes,2,101.40000343322752
+DauT,2021 1v1 tournament,whole available replay,2,89.37180428819383
+DauT,2026 1v1 ranked,first 10 game minutes,2,104.9490035533905
+DauT,2026 1v1 ranked,whole available replay,2,107.46824697590593
+TaToH,2021 tournament,first 10 game minutes,1,106.13200359344481
+TaToH,2021 tournament,whole available replay,1,98.13872205287294
+TaToH,2026 ranked,first 10 game minutes,2,144.4105048894882
+TaToH,2026 ranked,whole available replay,2,141.78704707531045
+TaToH,2026 tournament,first 10 game minutes,2,107.65300364494323
+TaToH,2026 tournament,whole available replay,2,121.79584324821312
+TheViper,2012 team game,first 10 game minutes,2,56.099999999999994
+TheViper,2012 team game,whole available replay,2,68.02429505832363
+TheViper,2021 1v1 tournament,first 10 game minutes,2,132.83400449752807
+TheViper,2021 1v1 tournament,whole available replay,2,125.18751699514243
+TheViper,2026 1v1 ranked,first 10 game minutes,2,128.86250436306
+TheViper,2026 1v1 ranked,whole available replay,2,131.2624023447366

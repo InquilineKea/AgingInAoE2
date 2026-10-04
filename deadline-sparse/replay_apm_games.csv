@@ -1,0 +1,39 @@
+game_id,player,period,window,recorded_player_commands,nominal_minutes,replay_apm,partial_match,definition
+079005bcaa66,DauT,2011 1v1 challenge,first 10 game minutes,174,6.666666666666667,26.099999999999998,False,All decoded ACTION records explicitly attributed to player; no unrecorded clicks/keypresses.
+079005bcaa66,DauT,2011 1v1 challenge,whole available replay,868,28.573999999999998,30.37726604605586,False,All decoded ACTION records explicitly attributed to player; no unrecorded clicks/keypresses.
+211c10a368c4,DauT,2011 1v1 challenge,first 10 game minutes,460,6.666666666666667,69.0,False,All decoded ACTION records explicitly attributed to player; no unrecorded clicks/keypresses.
+211c10a368c4,DauT,2011 1v1 challenge,whole available replay,1715,27.728,61.85083669936526,False,All decoded ACTION records explicitly attributed to player; no unrecorded clicks/keypresses.
+52a03f0c9e03,DauT,2012 team game,first 10 game minutes,371,6.666666666666667,55.65,False,All decoded ACTION records explicitly attributed to player; no unrecorded clicks/keypresses.
+52a03f0c9e03,DauT,2012 team game,whole available replay,1274,26.998499999999996,47.18780673000352,False,All decoded ACTION records explicitly attributed to player; no unrecorded clicks/keypresses.
+5338a28e825b,DauT,2012 team game,first 10 game minutes,399,6.666666666666667,59.849999999999994,False,All decoded ACTION records explicitly attributed to player; no unrecorded clicks/keypresses.
+5338a28e825b,DauT,2012 team game,whole available replay,1083,28.118,38.516252934063594,False,All decoded ACTION records explicitly attributed to player; no unrecorded clicks/keypresses.
+0b3bc1441529,DauT,2021 1v1 tournament,first 10 game minutes,580,5.917159562968885,98.0200033187866,False,All decoded ACTION records explicitly attributed to player; no unrecorded clicks/keypresses.
+0b3bc1441529,DauT,2021 1v1 tournament,whole available replay,3824,42.435116906416056,90.1140441873467,False,All decoded ACTION records explicitly attributed to player; no unrecorded clicks/keypresses.
+11508bc32ada,DauT,2021 1v1 tournament,first 10 game minutes,620,5.917159562968885,104.78000354766844,False,All decoded ACTION records explicitly attributed to player; no unrecorded clicks/keypresses.
+11508bc32ada,DauT,2021 1v1 tournament,whole available replay,2574,29.04222781352489,88.62956438904095,False,All decoded ACTION records explicitly attributed to player; no unrecorded clicks/keypresses.
+c7d3588daf74,DauT,2026 1v1 ranked,first 10 game minutes,582,5.917159562968885,98.3580033302307,False,All decoded ACTION records explicitly attributed to player; no unrecorded clicks/keypresses.
+c7d3588daf74,DauT,2026 1v1 ranked,whole available replay,1456,13.969230296256942,104.22907841888292,False,All decoded ACTION records explicitly attributed to player; no unrecorded clicks/keypresses.
+a467a9f1780f,DauT,2026 1v1 ranked,first 10 game minutes,660,5.917159562968885,111.54000377655028,False,All decoded ACTION records explicitly attributed to player; no unrecorded clicks/keypresses.
+a467a9f1780f,DauT,2026 1v1 ranked,whole available replay,1649,14.895117838872498,110.70741553292893,False,All decoded ACTION records explicitly attributed to player; no unrecorded clicks/keypresses.
+2a4d86704ada,TheViper,2012 team game,first 10 game minutes,426,6.666666666666667,63.9,False,All decoded ACTION records explicitly attributed to player; no unrecorded clicks/keypresses.
+2a4d86704ada,TheViper,2012 team game,whole available replay,2654,37.614000000000004,70.5588344765247,False,All decoded ACTION records explicitly attributed to player; no unrecorded clicks/keypresses.
+be2ccdca713e,TheViper,2012 team game,first 10 game minutes,322,6.666666666666667,48.3,False,All decoded ACTION records explicitly attributed to player; no unrecorded clicks/keypresses.
+be2ccdca713e,TheViper,2012 team game,whole available replay,2002,30.569666666666667,65.48975564012257,False,All decoded ACTION records explicitly attributed to player; no unrecorded clicks/keypresses.
+40cfbfe02398,TheViper,2021 1v1 tournament,first 10 game minutes,761,5.917159562968885,128.60900435447692,False,All decoded ACTION records explicitly attributed to player; no unrecorded clicks/keypresses.
+40cfbfe02398,TheViper,2021 1v1 tournament,whole available replay,1246,9.730413871728551,128.05210717914255,False,All decoded ACTION records explicitly attributed to player; no unrecorded clicks/keypresses.
+63e46229572d,TheViper,2021 1v1 tournament,first 10 game minutes,811,5.917159562968885,137.05900464057922,False,All decoded ACTION records explicitly attributed to player; no unrecorded clicks/keypresses.
+63e46229572d,TheViper,2021 1v1 tournament,whole available replay,2960,24.198243756626464,122.3229268111423,False,All decoded ACTION records explicitly attributed to player; no unrecorded clicks/keypresses.
+3598af4f05ca,TheViper,2026 1v1 ranked,first 10 game minutes,684,5.917159562968885,115.59600391387939,False,All decoded ACTION records explicitly attributed to player; no unrecorded clicks/keypresses.
+3598af4f05ca,TheViper,2026 1v1 ranked,whole available replay,1075,8.652692014727215,124.23879160038386,False,All decoded ACTION records explicitly attributed to player; no unrecorded clicks/keypresses.
+67f43712e111,TheViper,2026 1v1 ranked,first 10 game minutes,841,5.917159562968885,142.1290048122406,False,All decoded ACTION records explicitly attributed to player; no unrecorded clicks/keypresses.
+67f43712e111,TheViper,2026 1v1 ranked,whole available replay,1860,13.450384159978013,138.28601308908938,False,All decoded ACTION records explicitly attributed to player; no unrecorded clicks/keypresses.
+f43d74ec5262,TaToH,2021 tournament,first 10 game minutes,628,5.917159562968885,106.13200359344481,True,All decoded ACTION records explicitly attributed to player; no unrecorded clicks/keypresses.
+f43d74ec5262,TaToH,2021 tournament,whole available replay,4033,41.09489012733621,98.13872205287294,True,All decoded ACTION records explicitly attributed to player; no unrecorded clicks/keypresses.
+56e5d28c9360,TaToH,2026 tournament,first 10 game minutes,709,5.917159562968885,119.82100405693053,False,All decoded ACTION records explicitly attributed to player; no unrecorded clicks/keypresses.
+56e5d28c9360,TaToH,2026 tournament,whole available replay,2053,16.271015228184442,126.17528600451556,False,All decoded ACTION records explicitly attributed to player; no unrecorded clicks/keypresses.
+e7a1406bf245,TaToH,2026 tournament,first 10 game minutes,565,5.917159562968885,95.48500323295592,False,All decoded ACTION records explicitly attributed to player; no unrecorded clicks/keypresses.
+e7a1406bf245,TaToH,2026 tournament,whole available replay,3493,29.748825422736818,117.41640049191066,False,All decoded ACTION records explicitly attributed to player; no unrecorded clicks/keypresses.
+61c225f6fcca,TaToH,2026 ranked,first 10 game minutes,895,5.917159562968885,151.25500512123105,False,All decoded ACTION records explicitly attributed to player; no unrecorded clicks/keypresses.
+61c225f6fcca,TaToH,2026 ranked,whole available replay,1525,10.425512467523111,146.27578306108043,False,All decoded ACTION records explicitly attributed to player; no unrecorded clicks/keypresses.
+47d27ee33bf1,TaToH,2026 ranked,first 10 game minutes,814,5.917159562968885,137.56600465774534,False,All decoded ACTION records explicitly attributed to player; no unrecorded clicks/keypresses.
+47d27ee33bf1,TaToH,2026 ranked,whole available replay,1188,8.652692014727215,137.29831108954048,False,All decoded ACTION records explicitly attributed to player; no unrecorded clicks/keypresses.

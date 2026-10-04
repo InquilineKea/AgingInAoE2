@@ -1,0 +1,11 @@
+player,year,context,n_games,known_game_results,wins,losses,game_win_fraction,equal_cluster_win_fraction,limit
+DauT,2011,1v1 challenge,4,4,3,1,0.75,0.75,Small convenience sample; opponent/context differ. Team results missing. TaToH 2021 series loss does not identify this recovered game outcome.
+DauT,2012,team game,7,0,0,0,,,Small convenience sample; opponent/context differ. Team results missing. TaToH 2021 series loss does not identify this recovered game outcome.
+DauT,2021,1v1 tournament,9,9,5,4,0.5555555555555556,0.55,Small convenience sample; opponent/context differ. Team results missing. TaToH 2021 series loss does not identify this recovered game outcome.
+DauT,2026,1v1 ranked,5,5,4,1,0.8,0.8,Small convenience sample; opponent/context differ. Team results missing. TaToH 2021 series loss does not identify this recovered game outcome.
+TaToH,2021,tournament,1,0,0,0,,,Small convenience sample; opponent/context differ. Team results missing. TaToH 2021 series loss does not identify this recovered game outcome.
+TaToH,2026,ranked,40,39,32,7,0.8205128205128205,0.6964285714285714,Small convenience sample; opponent/context differ. Team results missing. TaToH 2021 series loss does not identify this recovered game outcome.
+TaToH,2026,tournament,13,13,12,1,0.9230769230769231,0.9375,Small convenience sample; opponent/context differ. Team results missing. TaToH 2021 series loss does not identify this recovered game outcome.
+TheViper,2012,team game,9,0,0,0,,,Small convenience sample; opponent/context differ. Team results missing. TaToH 2021 series loss does not identify this recovered game outcome.
+TheViper,2021,1v1 tournament,5,5,5,0,1,1,Small convenience sample; opponent/context differ. Team results missing. TaToH 2021 series loss does not identify this recovered game outcome.
+TheViper,2026,1v1 ranked,5,5,4,1,0.8,0.8,Small convenience sample; opponent/context differ. Team results missing. TaToH 2021 series loss does not identify this recovered game outcome.

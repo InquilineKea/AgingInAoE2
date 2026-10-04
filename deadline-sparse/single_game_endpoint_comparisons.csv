@@ -1,0 +1,493 @@
+player,window,trait,early_game_id,late_game_id,early_value,late_value,difference,limit
+DauT,first 10 game minutes,all_recorded_cpm,211c10a368c4,23d4576b7264,69.0,99.71000337600707,30.710003376007066,Classic commands can lack ownership or differ in encoding; rates may undercount actions.
+DauT,first 10 game minutes,core_cpm,211c10a368c4,23d4576b7264,69.0,82.97900280952453,13.97900280952453,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,first 10 game minutes,noncore_action_fraction,211c10a368c4,23d4576b7264,0.0,0.16779661016949152,0.16779661016949152,Classic commands can lack ownership or differ in encoding; rates may undercount actions.
+DauT,first 10 game minutes,first_core_command_nominal_s,211c10a368c4,23d4576b7264,2.97,1.415384567462157,-1.5546154325378432,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,first 10 game minutes,core_gap_p10_s,211c10a368c4,23d4576b7264,0.3299999999999983,0.12307691890975292,-0.20692308109024538,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,first 10 game minutes,core_gap_p50_s,211c10a368c4,23d4576b7264,0.6600000000000179,0.3615384492974272,-0.2984615507025907,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,first 10 game minutes,core_gap_p90_s,211c10a368c4,23d4576b7264,2.1599999999999966,1.6846153275772338,-0.47538467242276283,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,first 10 game minutes,core_gap_p99_s,211c10a368c4,23d4576b7264,5.617499999999989,3.872384484272439,-1.7451155157275502,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,first 10 game minutes,core_gap_max_s,211c10a368c4,23d4576b7264,13.049999999999955,8.653845860841955,-4.396154139158,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,first 10 game minutes,simultaneous_core_gap_fraction,211c10a368c4,23d4576b7264,0.18082788671023964,0.0,-0.18082788671023964,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,first 10 game minutes,core_gap_cv,211c10a368c4,23d4576b7264,1.33423692531729,1.1708928291292486,-0.16334409618804147,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,first 10 game minutes,core_gap_burstiness,211c10a368c4,23d4576b7264,0.14318894611431,0.07872006707848135,-0.06446887903582864,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,first 10 game minutes,command_silence_ge5s_time_fraction,211c10a368c4,23d4576b7264,0.11234999999999981,0.040624999999999904,-0.0717249999999999,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,first 10 game minutes,command_silence_ge10s_time_fraction,211c10a368c4,23d4576b7264,0.03262499999999988,0.0,-0.03262499999999988,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,first 10 game minutes,core_count_5s_cv,211c10a368c4,23d4576b7264,0.5544117610189593,0.41928985546244285,-0.13512190555651643,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,first 10 game minutes,peak_5s_nominal_cpm,211c10a368c4,23d4576b7264,180.0,2028.8243094965098,1848.8243094965098,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,first 10 game minutes,empty_5s_bin_fraction,211c10a368c4,23d4576b7264,0.0375,0.013888888888888888,-0.02361111111111111,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,first 10 game minutes,core_type_entropy_bits,211c10a368c4,23d4576b7264,0.8209948197718039,0.7925443006759857,-0.028450519095818194,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,first 10 game minutes,core_category_entropy_bits,211c10a368c4,23d4576b7264,0.8096964446131685,0.7562115734314072,-0.05348487118176126,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,first 10 game minutes,core_type_transition_entropy_bits,211c10a368c4,23d4576b7264,0.7380627977857694,0.7190500949174274,-0.019012702868342002,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,first 10 game minutes,core_type_switch_fraction,211c10a368c4,23d4576b7264,0.22657952069716775,0.22448979591836735,-0.0020897247788004003,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,first 10 game minutes,core_category_switch_fraction,211c10a368c4,23d4576b7264,0.22440087145969498,0.22448979591836735,8.892445867236809e-05,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,first 10 game minutes,core_same_type_triplet_fraction,211c10a368c4,23d4576b7264,0.6637554585152838,0.6687116564417178,0.004956197926433981,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,first 10 game minutes,coordinate_coverage,211c10a368c4,23d4576b7264,1.0,1.0,0.0,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,first 10 game minutes,destination_jump_diagonal_p50,211c10a368c4,23d4576b7264,0.018622978311230335,0.02380848402276607,0.0051855057115357366,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,first 10 game minutes,destination_jump_diagonal_p90,211c10a368c4,23d4576b7264,0.22118670260349116,0.16128008746431,-0.05990661513918116,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,first 10 game minutes,destination_jump_ge_quarter_fraction,211c10a368c4,23d4576b7264,0.08314606741573034,0.021367521367521368,-0.061778546048208975,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,first 10 game minutes,destination_entropy_4x4_bits,211c10a368c4,23d4576b7264,2.5813268517113483,1.8275464407473638,-0.7537804109639845,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,first 10 game minutes,destination_cell_switch_fraction,211c10a368c4,23d4576b7264,0.27415730337078653,0.32051282051282054,0.04635551714203401,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,first 10 game minutes,rapid_destination_repeat_fraction,211c10a368c4,23d4576b7264,0.3101123595505618,0.27136752136752135,-0.038744838183040475,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,first 10 game minutes,dedup_core_cpm,211c10a368c4,23d4576b7264,48.300000000000004,61.516002082824706,13.216002082824701,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,first 10 game minutes,move_order_commands,211c10a368c4,23d4576b7264,446.0,469.0,23.0,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,first 10 game minutes,explicit_actor_commands,211c10a368c4,23d4576b7264,157.0,185.0,28.0,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+DauT,first 10 game minutes,explicit_actor_coverage,211c10a368c4,23d4576b7264,0.35201793721973096,0.39445628997867804,0.042438352758947084,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+DauT,first 10 game minutes,actor_pair_count,211c10a368c4,23d4576b7264,61.0,76.0,15.0,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+DauT,first 10 game minutes,same_actor_pair_count,211c10a368c4,23d4576b7264,0.0,5.0,5.0,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+DauT,first 10 game minutes,actor_group_size_median,211c10a368c4,23d4576b7264,1.0,1.0,0.0,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+DauT,first 10 game minutes,actor_group_size_p90,211c10a368c4,23d4576b7264,3.4000000000000057,2.0,-1.4000000000000057,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+DauT,first 10 game minutes,actor_group_ge10_fraction,211c10a368c4,23d4576b7264,0.0,0.0,0.0,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+DauT,first 10 game minutes,actor_group_change_fraction,211c10a368c4,23d4576b7264,1.0,0.9342105263157895,-0.06578947368421051,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+DauT,first 10 game minutes,actor_overlap_jaccard_median,211c10a368c4,23d4576b7264,0.0,0.0,0.0,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+DauT,first 10 game minutes,same_actor_gap_nominal_median_s,211c10a368c4,23d4576b7264,,0.2384615303875906,,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+DauT,first 10 game minutes,same_actor_recommand_under1s_fraction,211c10a368c4,23d4576b7264,,1.0,,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+DauT,first 10 game minutes,commanded_actor_ids,211c10a368c4,23d4576b7264,34.0,29.0,-5.0,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+DauT,first 10 game minutes,valid_target_order_fraction,211c10a368c4,23d4576b7264,0.8169014084507042,1.0,0.18309859154929575,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,first 10 game minutes,distinct_order_target_ids,211c10a368c4,23d4576b7264,26.0,26.0,0.0,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,first 10 game minutes,distinct_building_type_ids,211c10a368c4,23d4576b7264,5.0,3.0,-2.0,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,first 10 game minutes,distinct_research_type_ids,211c10a368c4,23d4576b7264,0.0,1.0,1.0,Classic commands can lack ownership or differ in encoding; rates may undercount actions.
+DauT,first 10 game minutes,positive_de_queue_commands,211c10a368c4,23d4576b7264,,28.0,,Classic commands can lack ownership or differ in encoding; rates may undercount actions.
+DauT,first 10 game minutes,requested_queue_unit_type_ids,211c10a368c4,23d4576b7264,,2.0,,Classic commands can lack ownership or differ in encoding; rates may undercount actions.
+DauT,first 10 game minutes,explicitly_commanded_production_building_ids,211c10a368c4,23d4576b7264,,2.0,,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,first 10 game minutes,production_command_revisit_nominal_median_s,211c10a368c4,23d4576b7264,,15.565384088367797,,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,first 10 game minutes,positive_queue_amount_mean,211c10a368c4,23d4576b7264,,1.1071428571428572,,Classic commands can lack ownership or differ in encoding; rates may undercount actions.
+DauT,first 10 game minutes,build_commands_nominal_min,211c10a368c4,23d4576b7264,1.95,1.6900000572204588,-0.2599999427795412,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,first 10 game minutes,wall_commands_nominal_min,211c10a368c4,23d4576b7264,0.15,1.352000045776367,1.202000045776367,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,first 10 game minutes,research_commands_nominal_min,211c10a368c4,23d4576b7264,0.0,0.16900000572204588,0.16900000572204588,Classic commands can lack ownership or differ in encoding; rates may undercount actions.
+DauT,first 10 game minutes,market_commands_nominal_min,211c10a368c4,23d4576b7264,0.0,0.0,0.0,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,first 10 game minutes,legacy_command_class_entropy_bits,211c10a368c4,23d4576b7264,,,,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,first 10 game minutes,legacy_switches_per_100_commands,211c10a368c4,23d4576b7264,,,,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,first 10 game minutes,legacy_core_silence_over5s_fraction,211c10a368c4,23d4576b7264,,,,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,first 10 game minutes,legacy_peak_10s_nominal_cpm,211c10a368c4,23d4576b7264,,,,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,first 10 game minutes,legacy_move_share,211c10a368c4,23d4576b7264,,,,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,first 10 game minutes,legacy_planning_command_share,211c10a368c4,23d4576b7264,,,,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,first 10 game minutes,legacy_queue_batch_mean,211c10a368c4,23d4576b7264,,,,Classic commands can lack ownership or differ in encoding; rates may undercount actions.
+DauT,first 10 game minutes,legacy_queue_batch_gt1_fraction,211c10a368c4,23d4576b7264,,,,Classic commands can lack ownership or differ in encoding; rates may undercount actions.
+DauT,first 10 game minutes,legacy_duration_game_min,211c10a368c4,23d4576b7264,,,,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,first 10 game minutes,tatoh_cpm_0_5,211c10a368c4,23d4576b7264,,,,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,first 10 game minutes,tatoh_cpm_5_10,211c10a368c4,23d4576b7264,,,,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,first 10 game minutes,tatoh_cpm_10_15,211c10a368c4,23d4576b7264,,,,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,first 10 game minutes,tatoh_cpm_15_20,211c10a368c4,23d4576b7264,,,,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,first 10 game minutes,tatoh_cpm_10_20,211c10a368c4,23d4576b7264,,,,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,first 10 game minutes,tatoh_reclick_open,211c10a368c4,23d4576b7264,,,,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,first 10 game minutes,tatoh_dedup_open_cpm,211c10a368c4,23d4576b7264,,,,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,first 10 game minutes,tatoh_reclick_whole,211c10a368c4,23d4576b7264,,,,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,first 10 game minutes,tatoh_dedup_whole_cpm,211c10a368c4,23d4576b7264,,,,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,first 10 game minutes,tatoh_gap_p50_open,211c10a368c4,23d4576b7264,,,,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,first 10 game minutes,tatoh_gap_p90_open,211c10a368c4,23d4576b7264,,,,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,first 10 game minutes,tatoh_gap_p99_open,211c10a368c4,23d4576b7264,,,,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,first 10 game minutes,tatoh_gap_p99_10_20,211c10a368c4,23d4576b7264,,,,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,first 10 game minutes,feudal_request_game_s,211c10a368c4,23d4576b7264,,471.594,,Age-up request timing depends strongly on start-age and tournament settings.
+DauT,first 10 game minutes,castle_request_game_s,211c10a368c4,23d4576b7264,,,,Age-up request timing depends strongly on start-age and tournament settings.
+DauT,first 10 game minutes,imperial_request_game_s,211c10a368c4,23d4576b7264,,,,Age-up request timing depends strongly on start-age and tournament settings.
+DauT,whole available replay,all_recorded_cpm,211c10a368c4,23d4576b7264,61.85083669936525,96.57351822557578,34.72268152621053,Classic commands can lack ownership or differ in encoding; rates may undercount actions.
+DauT,whole available replay,core_cpm,211c10a368c4,23d4576b7264,61.77870744373918,70.72321542644245,8.944507982703271,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,whole available replay,noncore_action_fraction,211c10a368c4,23d4576b7264,0.0011661807580174927,0.26767485822306236,0.26650867746504486,Classic commands can lack ownership or differ in encoding; rates may undercount actions.
+DauT,whole available replay,first_core_command_nominal_s,211c10a368c4,23d4576b7264,2.97,1.415384567462157,-1.5546154325378432,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,whole available replay,core_gap_p10_s,211c10a368c4,23d4576b7264,0.35999999999989996,0.12307691890976002,-0.23692308109013993,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,whole available replay,core_gap_p50_s,211c10a368c4,23d4576b7264,0.7200000000000273,0.48461536820714723,-0.23538463179288005,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,whole available replay,core_gap_p90_s,211c10a368c4,23d4576b7264,2.519999999999982,1.9230768579649293,-0.5969231420350525,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,whole available replay,core_gap_p99_s,211c10a368c4,23d4576b7264,5.680500000000008,5.253100413855347,-0.4273995861446611,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,whole available replay,core_gap_max_s,211c10a368c4,23d4576b7264,13.049999999999955,17.55325384354728,4.503253843547327,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,whole available replay,simultaneous_core_gap_fraction,211c10a368c4,23d4576b7264,0.16238317757009346,0.0010330578512396695,-0.1613501197188538,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,whole available replay,core_gap_cv,211c10a368c4,23d4576b7264,1.2131605649035533,1.30519134381019,0.0920307789066368,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,whole available replay,core_gap_burstiness,211c10a368c4,23d4576b7264,0.09631500230207773,0.1323930634347027,0.03607806113262496,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,whole available replay,command_silence_ge5s_time_fraction,211c10a368c4,23d4576b7264,0.10886107905366414,0.09773620098012764,-0.011124878073536501,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,whole available replay,command_silence_ge10s_time_fraction,211c10a368c4,23d4576b7264,0.014660271206001111,0.023237156982417403,0.008576885776416292,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,whole available replay,core_count_5s_cv,211c10a368c4,23d4576b7264,0.5960901024559547,0.5206028165529816,-0.07548728590297316,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,whole available replay,peak_5s_nominal_cpm,211c10a368c4,23d4576b7264,192.0,192.0,0.0,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,whole available replay,empty_5s_bin_fraction,211c10a368c4,23d4576b7264,0.03303303303303303,0.0243161094224924,-0.00871692361054063,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,whole available replay,core_type_entropy_bits,211c10a368c4,23d4576b7264,1.3001708156663845,1.2946589803797128,-0.005511835286671651,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,whole available replay,core_category_entropy_bits,211c10a368c4,23d4576b7264,1.276347279203647,1.2593054448208512,-0.01704183438279583,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,whole available replay,core_type_transition_entropy_bits,211c10a368c4,23d4576b7264,1.1315928508269502,1.1108817984966015,-0.020711052330348645,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,whole available replay,core_type_switch_fraction,211c10a368c4,23d4576b7264,0.3177570093457944,0.3114669421487603,-0.006290067197034066,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,whole available replay,core_category_switch_fraction,211c10a368c4,23d4576b7264,0.31600467289719625,0.3114669421487603,-0.004537730748435942,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,whole available replay,core_same_type_triplet_fraction,211c10a368c4,23d4576b7264,0.5195791934541204,0.5281653746770025,0.008586181222882128,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,whole available replay,coordinate_coverage,211c10a368c4,23d4576b7264,1.0,1.0,0.0,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,whole available replay,destination_jump_diagonal_p50,211c10a368c4,23d4576b7264,0.017862761082960955,0.024557237453909902,0.0066944763709489465,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,whole available replay,destination_jump_diagonal_p90,211c10a368c4,23d4576b7264,0.23734811566374917,0.22991943712900167,-0.00742867853474749,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,whole available replay,destination_jump_ge_quarter_fraction,211c10a368c4,23d4576b7264,0.09460359760159893,0.08972073677956031,-0.0048828608220386205,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,whole available replay,destination_entropy_4x4_bits,211c10a368c4,23d4576b7264,2.894931568231925,3.5826546737843668,0.6877231055524415,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,whole available replay,destination_cell_switch_fraction,211c10a368c4,23d4576b7264,0.2691538974017322,0.2917409387997623,0.02258704139803014,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,whole available replay,rapid_destination_repeat_fraction,211c10a368c4,23d4576b7264,0.33710859427048634,0.2679738562091503,-0.06913473806133602,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,whole available replay,dedup_core_cpm,211c10a368c4,23d4576b7264,43.530005770340445,54.256426496486064,10.72642072614562,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,whole available replay,move_order_commands,211c10a368c4,23d4576b7264,1502.0,1684.0,182.0,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,whole available replay,explicit_actor_commands,211c10a368c4,23d4576b7264,565.0,798.0,233.0,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+DauT,whole available replay,explicit_actor_coverage,211c10a368c4,23d4576b7264,0.37616511318242346,0.47387173396674587,0.0977066207843224,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+DauT,whole available replay,actor_pair_count,211c10a368c4,23d4576b7264,250.0,458.0,208.0,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+DauT,whole available replay,same_actor_pair_count,211c10a368c4,23d4576b7264,5.0,177.0,172.0,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+DauT,whole available replay,actor_group_size_median,211c10a368c4,23d4576b7264,2.0,5.0,3.0,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+DauT,whole available replay,actor_group_size_p90,211c10a368c4,23d4576b7264,11.0,30.300000000000068,19.300000000000068,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+DauT,whole available replay,actor_group_ge10_fraction,211c10a368c4,23d4576b7264,0.1433628318584071,0.39974937343358397,0.2563865415751769,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+DauT,whole available replay,actor_group_change_fraction,211c10a368c4,23d4576b7264,0.98,0.6135371179039302,-0.3664628820960698,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+DauT,whole available replay,actor_overlap_jaccard_median,211c10a368c4,23d4576b7264,0.0,0.0,0.0,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+DauT,whole available replay,same_actor_gap_nominal_median_s,211c10a368c4,23d4576b7264,2.5199999999998304,0.23846153038764104,-2.2815384696121894,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+DauT,whole available replay,same_actor_recommand_under1s_fraction,211c10a368c4,23d4576b7264,0.2,0.768361581920904,0.568361581920904,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+DauT,whole available replay,commanded_actor_ids,211c10a368c4,23d4576b7264,218.0,252.0,34.0,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+DauT,whole available replay,valid_target_order_fraction,211c10a368c4,23d4576b7264,0.896551724137931,1.0,0.10344827586206895,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,whole available replay,distinct_order_target_ids,211c10a368c4,23d4576b7264,142.0,157.0,15.0,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,whole available replay,distinct_building_type_ids,211c10a368c4,23d4576b7264,13.0,17.0,4.0,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,whole available replay,distinct_research_type_ids,211c10a368c4,23d4576b7264,23.0,45.0,22.0,Classic commands can lack ownership or differ in encoding; rates may undercount actions.
+DauT,whole available replay,positive_de_queue_commands,211c10a368c4,23d4576b7264,,244.0,,Classic commands can lack ownership or differ in encoding; rates may undercount actions.
+DauT,whole available replay,requested_queue_unit_type_ids,211c10a368c4,23d4576b7264,,7.0,,Classic commands can lack ownership or differ in encoding; rates may undercount actions.
+DauT,whole available replay,explicitly_commanded_production_building_ids,211c10a368c4,23d4576b7264,,24.0,,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,whole available replay,production_command_revisit_nominal_median_s,211c10a368c4,23d4576b7264,,5.281064909949702,,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,whole available replay,positive_queue_amount_mean,211c10a368c4,23d4576b7264,,1.360655737704918,,Classic commands can lack ownership or differ in encoding; rates may undercount actions.
+DauT,whole available replay,build_commands_nominal_min,211c10a368c4,23d4576b7264,5.157241777264859,5.440247340495574,0.2830055632307156,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,whole available replay,wall_commands_nominal_min,211c10a368c4,23d4576b7264,0.2524523946912868,0.4381407254090395,0.1856883307177527,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,whole available replay,research_commands_nominal_min,211c10a368c4,23d4576b7264,1.2622619734564338,2.4827974439845573,1.2205354705281235,Classic commands can lack ownership or differ in encoding; rates may undercount actions.
+DauT,whole available replay,market_commands_nominal_min,211c10a368c4,23d4576b7264,0.7212925562608193,0.3286055440567796,-0.39268701220403973,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,whole available replay,legacy_command_class_entropy_bits,211c10a368c4,23d4576b7264,1.276347279203647,1.2593054448208512,-0.01704183438279583,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,whole available replay,legacy_switches_per_100_commands,211c10a368c4,23d4576b7264,31.600467289719628,31.14669421487603,-0.4537730748435962,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,whole available replay,legacy_core_silence_over5s_fraction,211c10a368c4,23d4576b7264,0.10886107905366402,0.0977362009801275,-0.011124878073536515,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,whole available replay,legacy_peak_10s_nominal_cpm,211c10a368c4,23d4576b7264,186.0,168.0,-18.0,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,whole available replay,legacy_move_share,211c10a368c4,23d4576b7264,0.7244600116754233,0.7408363448631905,0.01637633318776721,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,whole available replay,legacy_planning_command_share,211c10a368c4,23d4576b7264,0.11967308814944541,0.12287041817243159,0.0031973300229861806,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,whole available replay,legacy_queue_batch_mean,211c10a368c4,23d4576b7264,,1.360655737704918,,Classic commands can lack ownership or differ in encoding; rates may undercount actions.
+DauT,whole available replay,legacy_queue_batch_gt1_fraction,211c10a368c4,23d4576b7264,,0.10655737704918032,,Classic commands can lack ownership or differ in encoding; rates may undercount actions.
+DauT,whole available replay,legacy_duration_game_min,211c10a368c4,23d4576b7264,41.592,46.286500000000004,4.694500000000005,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,whole available replay,tatoh_cpm_0_5,211c10a368c4,23d4576b7264,,,,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,whole available replay,tatoh_cpm_5_10,211c10a368c4,23d4576b7264,,,,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,whole available replay,tatoh_cpm_10_15,211c10a368c4,23d4576b7264,,,,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,whole available replay,tatoh_cpm_15_20,211c10a368c4,23d4576b7264,,,,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,whole available replay,tatoh_cpm_10_20,211c10a368c4,23d4576b7264,,,,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,whole available replay,tatoh_reclick_open,211c10a368c4,23d4576b7264,,,,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,whole available replay,tatoh_dedup_open_cpm,211c10a368c4,23d4576b7264,,,,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,whole available replay,tatoh_reclick_whole,211c10a368c4,23d4576b7264,,,,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,whole available replay,tatoh_dedup_whole_cpm,211c10a368c4,23d4576b7264,,,,Descriptive behavior; no cognitive or causal age interpretation.
+DauT,whole available replay,tatoh_gap_p50_open,211c10a368c4,23d4576b7264,,,,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,whole available replay,tatoh_gap_p90_open,211c10a368c4,23d4576b7264,,,,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,whole available replay,tatoh_gap_p99_open,211c10a368c4,23d4576b7264,,,,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,whole available replay,tatoh_gap_p99_10_20,211c10a368c4,23d4576b7264,,,,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+DauT,whole available replay,feudal_request_game_s,211c10a368c4,23d4576b7264,623.61,471.594,-152.01600000000002,Age-up request timing depends strongly on start-age and tournament settings.
+DauT,whole available replay,castle_request_game_s,211c10a368c4,23d4576b7264,1329.435,751.289,-578.146,Age-up request timing depends strongly on start-age and tournament settings.
+DauT,whole available replay,imperial_request_game_s,211c10a368c4,23d4576b7264,2036.43,1929.005,-107.42499999999995,Age-up request timing depends strongly on start-age and tournament settings.
+TheViper,first 10 game minutes,all_recorded_cpm,2a4d86704ada,3598af4f05ca,63.9,115.59600391387939,51.69600391387939,Classic commands can lack ownership or differ in encoding; rates may undercount actions.
+TheViper,first 10 game minutes,core_cpm,2a4d86704ada,3598af4f05ca,63.45,89.57000303268433,26.120003032684323,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,first 10 game minutes,noncore_action_fraction,2a4d86704ada,3598af4f05ca,0.007042253521126761,0.22514619883040934,0.2181039453092826,Classic commands can lack ownership or differ in encoding; rates may undercount actions.
+TheViper,first 10 game minutes,first_core_command_nominal_s,2a4d86704ada,3598af4f05ca,1.9800000000000002,0.6769230540036403,-1.3030769459963598,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,first 10 game minutes,core_gap_p10_s,2a4d86704ada,3598af4f05ca,0.8999999999999773,0.11538461147790713,-0.7846153885220701,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,first 10 game minutes,core_gap_p50_s,2a4d86704ada,3598af4f05ca,1.049999999999983,0.35384614186553165,-0.6961538581344513,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,first 10 game minutes,core_gap_p90_s,2a4d86704ada,3598af4f05ca,3.0780000000000434,1.561538408667488,-1.5164615913325554,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,first 10 game minutes,core_gap_p99_s,2a4d86704ada,3598af4f05ca,6.583499999999981,4.328692161130324,-2.254807838869657,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,first 10 game minutes,core_gap_max_s,2a4d86704ada,3598af4f05ca,9.839999999999996,12.623076495681516,2.78307649568152,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,first 10 game minutes,simultaneous_core_gap_fraction,2a4d86704ada,3598af4f05ca,0.43601895734597157,0.001890359168241966,-0.4341285981777296,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,first 10 game minutes,core_gap_cv,2a4d86704ada,3598af4f05ca,1.3424805271556612,1.7023165205035504,0.3598359933478892,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,first 10 game minutes,core_gap_burstiness,2a4d86704ada,3598af4f05ca,0.1462042152262907,0.2598942482032714,0.11369003297698069,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,first 10 game minutes,command_silence_ge5s_time_fraction,2a4d86704ada,3598af4f05ca,0.14332499999999965,0.1181483333333336,-0.025176666666666042,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,first 10 game minutes,command_silence_ge10s_time_fraction,2a4d86704ada,3598af4f05ca,0.0,0.09581000000000023,0.09581000000000023,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,first 10 game minutes,core_count_5s_cv,2a4d86704ada,3598af4f05ca,0.670791024758657,0.6348937451571952,-0.03589727960146183,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,first 10 game minutes,peak_5s_nominal_cpm,2a4d86704ada,3598af4f05ca,264.0,300.0,36.0,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,first 10 game minutes,empty_5s_bin_fraction,2a4d86704ada,3598af4f05ca,0.025,0.06944444444444445,0.044444444444444446,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,first 10 game minutes,core_type_entropy_bits,2a4d86704ada,3598af4f05ca,0.8425509699901718,0.9133196978523472,0.07076872786217547,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,first 10 game minutes,core_category_entropy_bits,2a4d86704ada,3598af4f05ca,0.8425509699901718,0.9133196978523472,0.07076872786217547,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,first 10 game minutes,core_type_transition_entropy_bits,2a4d86704ada,3598af4f05ca,0.7315945932844832,0.7921226751568387,0.06052808187235548,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,first 10 game minutes,core_type_switch_fraction,2a4d86704ada,3598af4f05ca,0.20853080568720378,0.23440453686200377,0.02587373117479999,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,first 10 game minutes,core_category_switch_fraction,2a4d86704ada,3598af4f05ca,0.20853080568720378,0.23440453686200377,0.02587373117479999,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,first 10 game minutes,core_same_type_triplet_fraction,2a4d86704ada,3598af4f05ca,0.667458432304038,0.6325757575757576,-0.03488267472828044,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,first 10 game minutes,coordinate_coverage,2a4d86704ada,3598af4f05ca,1.0,1.0,0.0,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,first 10 game minutes,destination_jump_diagonal_p50,2a4d86704ada,3598af4f05ca,0.014405142095590883,0.011760472313780843,-0.002644669781810041,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,first 10 game minutes,destination_jump_diagonal_p90,2a4d86704ada,3598af4f05ca,0.17765138233514588,0.12365598708817921,-0.05399539524696667,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,first 10 game minutes,destination_jump_ge_quarter_fraction,2a4d86704ada,3598af4f05ca,0.04691358024691358,0.023255813953488372,-0.02365776629342521,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,first 10 game minutes,destination_entropy_4x4_bits,2a4d86704ada,3598af4f05ca,1.7726774412219748,1.7060904761990687,-0.06658696502290606,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,first 10 game minutes,destination_cell_switch_fraction,2a4d86704ada,3598af4f05ca,0.2074074074074074,0.1937984496124031,-0.01360895779500429,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,first 10 game minutes,rapid_destination_repeat_fraction,2a4d86704ada,3598af4f05ca,0.2222222222222222,0.437984496124031,0.2157622739018088,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,first 10 game minutes,dedup_core_cpm,2a4d86704ada,3598af4f05ca,49.95,51.37600173950195,1.4260017395019489,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,first 10 game minutes,move_order_commands,2a4d86704ada,3598af4f05ca,406.0,517.0,111.0,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,first 10 game minutes,explicit_actor_commands,2a4d86704ada,3598af4f05ca,124.0,189.0,65.0,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TheViper,first 10 game minutes,explicit_actor_coverage,2a4d86704ada,3598af4f05ca,0.3054187192118227,0.3655705996131528,0.06015188040133013,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TheViper,first 10 game minutes,actor_pair_count,2a4d86704ada,3598af4f05ca,44.0,106.0,62.0,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TheViper,first 10 game minutes,same_actor_pair_count,2a4d86704ada,3598af4f05ca,0.0,16.0,16.0,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TheViper,first 10 game minutes,actor_group_size_median,2a4d86704ada,3598af4f05ca,1.0,1.0,0.0,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TheViper,first 10 game minutes,actor_group_size_p90,2a4d86704ada,3598af4f05ca,4.700000000000003,5.200000000000017,0.5000000000000142,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TheViper,first 10 game minutes,actor_group_ge10_fraction,2a4d86704ada,3598af4f05ca,0.0,0.026455026455026454,0.026455026455026454,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TheViper,first 10 game minutes,actor_group_change_fraction,2a4d86704ada,3598af4f05ca,1.0,0.8490566037735849,-0.15094339622641506,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TheViper,first 10 game minutes,actor_overlap_jaccard_median,2a4d86704ada,3598af4f05ca,0.0,0.0,0.0,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TheViper,first 10 game minutes,same_actor_gap_nominal_median_s,2a4d86704ada,3598af4f05ca,,0.36153844929739287,,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TheViper,first 10 game minutes,same_actor_recommand_under1s_fraction,2a4d86704ada,3598af4f05ca,,1.0,,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TheViper,first 10 game minutes,commanded_actor_ids,2a4d86704ada,3598af4f05ca,27.0,32.0,5.0,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TheViper,first 10 game minutes,valid_target_order_fraction,2a4d86704ada,3598af4f05ca,0.8596491228070176,1.0,0.14035087719298245,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,first 10 game minutes,distinct_order_target_ids,2a4d86704ada,3598af4f05ca,20.0,34.0,14.0,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,first 10 game minutes,distinct_building_type_ids,2a4d86704ada,3598af4f05ca,5.0,6.0,1.0,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,first 10 game minutes,distinct_research_type_ids,2a4d86704ada,3598af4f05ca,2.0,2.0,0.0,Classic commands can lack ownership or differ in encoding; rates may undercount actions.
+TheViper,first 10 game minutes,positive_de_queue_commands,2a4d86704ada,3598af4f05ca,,20.0,,Classic commands can lack ownership or differ in encoding; rates may undercount actions.
+TheViper,first 10 game minutes,requested_queue_unit_type_ids,2a4d86704ada,3598af4f05ca,,1.0,,Classic commands can lack ownership or differ in encoding; rates may undercount actions.
+TheViper,first 10 game minutes,explicitly_commanded_production_building_ids,2a4d86704ada,3598af4f05ca,,1.0,,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,first 10 game minutes,production_command_revisit_nominal_median_s,2a4d86704ada,3598af4f05ca,,14.546153353646407,,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,first 10 game minutes,positive_queue_amount_mean,2a4d86704ada,3598af4f05ca,,1.0,,Classic commands can lack ownership or differ in encoding; rates may undercount actions.
+TheViper,first 10 game minutes,build_commands_nominal_min,2a4d86704ada,3598af4f05ca,1.65,1.8590000629425047,0.20900006294250484,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,first 10 game minutes,wall_commands_nominal_min,2a4d86704ada,3598af4f05ca,0.0,0.0,0.0,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,first 10 game minutes,research_commands_nominal_min,2a4d86704ada,3598af4f05ca,0.8999999999999999,0.33800001144409175,-0.5619999885559082,Classic commands can lack ownership or differ in encoding; rates may undercount actions.
+TheViper,first 10 game minutes,market_commands_nominal_min,2a4d86704ada,3598af4f05ca,0.0,0.0,0.0,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,first 10 game minutes,legacy_command_class_entropy_bits,2a4d86704ada,3598af4f05ca,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,first 10 game minutes,legacy_switches_per_100_commands,2a4d86704ada,3598af4f05ca,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,first 10 game minutes,legacy_core_silence_over5s_fraction,2a4d86704ada,3598af4f05ca,,,,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,first 10 game minutes,legacy_peak_10s_nominal_cpm,2a4d86704ada,3598af4f05ca,,,,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,first 10 game minutes,legacy_move_share,2a4d86704ada,3598af4f05ca,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,first 10 game minutes,legacy_planning_command_share,2a4d86704ada,3598af4f05ca,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,first 10 game minutes,legacy_queue_batch_mean,2a4d86704ada,3598af4f05ca,,,,Classic commands can lack ownership or differ in encoding; rates may undercount actions.
+TheViper,first 10 game minutes,legacy_queue_batch_gt1_fraction,2a4d86704ada,3598af4f05ca,,,,Classic commands can lack ownership or differ in encoding; rates may undercount actions.
+TheViper,first 10 game minutes,legacy_duration_game_min,2a4d86704ada,3598af4f05ca,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,first 10 game minutes,tatoh_cpm_0_5,2a4d86704ada,3598af4f05ca,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,first 10 game minutes,tatoh_cpm_5_10,2a4d86704ada,3598af4f05ca,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,first 10 game minutes,tatoh_cpm_10_15,2a4d86704ada,3598af4f05ca,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,first 10 game minutes,tatoh_cpm_15_20,2a4d86704ada,3598af4f05ca,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,first 10 game minutes,tatoh_cpm_10_20,2a4d86704ada,3598af4f05ca,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,first 10 game minutes,tatoh_reclick_open,2a4d86704ada,3598af4f05ca,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,first 10 game minutes,tatoh_dedup_open_cpm,2a4d86704ada,3598af4f05ca,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,first 10 game minutes,tatoh_reclick_whole,2a4d86704ada,3598af4f05ca,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,first 10 game minutes,tatoh_dedup_whole_cpm,2a4d86704ada,3598af4f05ca,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,first 10 game minutes,tatoh_gap_p50_open,2a4d86704ada,3598af4f05ca,,,,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,first 10 game minutes,tatoh_gap_p90_open,2a4d86704ada,3598af4f05ca,,,,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,first 10 game minutes,tatoh_gap_p99_open,2a4d86704ada,3598af4f05ca,,,,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,first 10 game minutes,tatoh_gap_p99_10_20,2a4d86704ada,3598af4f05ca,,,,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,first 10 game minutes,feudal_request_game_s,2a4d86704ada,3598af4f05ca,499.32,502.619,3.299000000000035,Age-up request timing depends strongly on start-age and tournament settings.
+TheViper,first 10 game minutes,castle_request_game_s,2a4d86704ada,3598af4f05ca,,,,Age-up request timing depends strongly on start-age and tournament settings.
+TheViper,first 10 game minutes,imperial_request_game_s,2a4d86704ada,3598af4f05ca,,,,Age-up request timing depends strongly on start-age and tournament settings.
+TheViper,whole available replay,all_recorded_cpm,2a4d86704ada,3598af4f05ca,70.5588344765247,124.12322063145328,53.564386154928584,Classic commands can lack ownership or differ in encoding; rates may undercount actions.
+TheViper,whole available replay,core_cpm,2a4d86704ada,3598af4f05ca,50.406763439144996,97.88861068420943,47.48184724506443,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,whole available replay,noncore_action_fraction,2a4d86704ada,3598af4f05ca,0.28560663149962323,0.21135940409683426,-0.07424722740278897,Classic commands can lack ownership or differ in encoding; rates may undercount actions.
+TheViper,whole available replay,first_core_command_nominal_s,2a4d86704ada,3598af4f05ca,1.9800000000000002,0.6769230540036403,-1.3030769459963598,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,whole available replay,core_gap_p10_s,2a4d86704ada,3598af4f05ca,0.9299999999998363,0.11538461147790713,-0.8146153885219292,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,whole available replay,core_gap_p50_s,2a4d86704ada,3598af4f05ca,1.0799999999999272,0.24615383781949163,-0.8338461621804356,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,whole available replay,core_gap_p90_s,2a4d86704ada,3598af4f05ca,4.199999999999932,1.5615384086674566,-2.638461591332475,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,whole available replay,core_gap_p99_s,2a4d86704ada,3598af4f05ca,11.761500000000002,4.458461387505802,-7.303038612494199,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,whole available replay,core_gap_max_s,2a4d86704ada,3598af4f05ca,20.759999999999764,14.669230272556092,-6.090769727443671,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,whole available replay,simultaneous_core_gap_fraction,2a4d86704ada,3598af4f05ca,0.44063324538258575,0.057919621749408984,-0.38271362363317674,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,whole available replay,core_gap_cv,2a4d86704ada,3598af4f05ca,1.6541075985581364,1.8752024023148792,0.22109480375674284,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,whole available replay,core_gap_burstiness,2a4d86704ada,3598af4f05ca,0.2464510477696854,0.3043967971125223,0.057945749342836916,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,whole available replay,command_silence_ge5s_time_fraction,2a4d86704ada,3598af4f05ca,0.30654809379486414,0.1356773495725356,-0.17087074422232854,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,whole available replay,command_silence_ge10s_time_fraction,2a4d86704ada,3598af4f05ca,0.11002552241186814,0.09377546635847744,-0.016250056053390693,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,whole available replay,core_count_5s_cv,2a4d86704ada,3598af4f05ca,0.860930114635925,0.8505893334730396,-0.010340781162885393,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,whole available replay,peak_5s_nominal_cpm,2a4d86704ada,3598af4f05ca,264.0,636.0,372.0,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,whole available replay,empty_5s_bin_fraction,2a4d86704ada,3598af4f05ca,0.1261061946902655,0.0673076923076923,-0.058798502382573184,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,whole available replay,core_type_entropy_bits,2a4d86704ada,3598af4f05ca,1.3311943814851306,1.3254169486800622,-0.005777432805068372,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,whole available replay,core_category_entropy_bits,2a4d86704ada,3598af4f05ca,1.30734639528485,1.3254169486800622,0.01807055339521213,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,whole available replay,core_type_transition_entropy_bits,2a4d86704ada,3598af4f05ca,1.1118404808211733,0.8812386077076751,-0.2306018731134981,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,whole available replay,core_type_switch_fraction,2a4d86704ada,3598af4f05ca,0.30448548812664905,0.22695035460992907,-0.07753513351671998,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,whole available replay,core_category_switch_fraction,2a4d86704ada,3598af4f05ca,0.30395778364116094,0.22695035460992907,-0.07700742903123187,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,whole available replay,core_same_type_triplet_fraction,2a4d86704ada,3598af4f05ca,0.5343189017951425,0.642603550295858,0.10828464850071551,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,whole available replay,coordinate_coverage,2a4d86704ada,3598af4f05ca,1.0,1.0,0.0,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,whole available replay,destination_jump_diagonal_p50,2a4d86704ada,3598af4f05ca,0.009063361069576625,0.008542301805654543,-0.0005210592639220812,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,whole available replay,destination_jump_diagonal_p90,2a4d86704ada,3598af4f05ca,0.16704841969131712,0.09760508411205754,-0.06944333557925958,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,whole available replay,destination_jump_ge_quarter_fraction,2a4d86704ada,3598af4f05ca,0.0479951397326853,0.018300653594771243,-0.029694486137914058,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,whole available replay,destination_entropy_4x4_bits,2a4d86704ada,3598af4f05ca,2.7318788323854006,1.9180225845149346,-0.8138562478704661,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,whole available replay,destination_cell_switch_fraction,2a4d86704ada,3598af4f05ca,0.1798298906439854,0.1869281045751634,0.007098213931177988,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,whole available replay,rapid_destination_repeat_fraction,2a4d86704ada,3598af4f05ca,0.30558930741190765,0.4849673202614379,0.17937801284953026,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,whole available replay,dedup_core_cpm,2a4d86704ada,3598af4f05ca,37.03408305418195,55.01178121096067,17.97769815677872,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,whole available replay,move_order_commands,2a4d86704ada,3598af4f05ca,1647.0,766.0,-881.0,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,whole available replay,explicit_actor_commands,2a4d86704ada,3598af4f05ca,501.0,299.0,-202.0,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TheViper,whole available replay,explicit_actor_coverage,2a4d86704ada,3598af4f05ca,0.30418943533697634,0.39033942558746737,0.08614999025049103,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TheViper,whole available replay,actor_pair_count,2a4d86704ada,3598af4f05ca,203.0,170.0,-33.0,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TheViper,whole available replay,same_actor_pair_count,2a4d86704ada,3598af4f05ca,6.0,41.0,35.0,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TheViper,whole available replay,actor_group_size_median,2a4d86704ada,3598af4f05ca,3.0,1.0,-2.0,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TheViper,whole available replay,actor_group_size_p90,2a4d86704ada,3598af4f05ca,28.0,8.0,-20.0,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TheViper,whole available replay,actor_group_ge10_fraction,2a4d86704ada,3598af4f05ca,0.3093812375249501,0.0903010033444816,-0.2190802341804685,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TheViper,whole available replay,actor_group_change_fraction,2a4d86704ada,3598af4f05ca,0.9704433497536946,0.7588235294117647,-0.21161982034192994,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TheViper,whole available replay,actor_overlap_jaccard_median,2a4d86704ada,3598af4f05ca,0.0,0.0,0.0,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TheViper,whole available replay,same_actor_gap_nominal_median_s,2a4d86704ada,3598af4f05ca,4.515000000000024,0.23846153038765786,-4.276538469612365,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TheViper,whole available replay,same_actor_recommand_under1s_fraction,2a4d86704ada,3598af4f05ca,0.0,0.9512195121951219,0.9512195121951219,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TheViper,whole available replay,commanded_actor_ids,2a4d86704ada,3598af4f05ca,290.0,41.0,-249.0,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TheViper,whole available replay,valid_target_order_fraction,2a4d86704ada,3598af4f05ca,0.9283154121863799,1.0,0.07168458781362008,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,whole available replay,distinct_order_target_ids,2a4d86704ada,3598af4f05ca,167.0,56.0,-111.0,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,whole available replay,distinct_building_type_ids,2a4d86704ada,3598af4f05ca,14.0,12.0,-2.0,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,whole available replay,distinct_research_type_ids,2a4d86704ada,3598af4f05ca,38.0,3.0,-35.0,Classic commands can lack ownership or differ in encoding; rates may undercount actions.
+TheViper,whole available replay,positive_de_queue_commands,2a4d86704ada,3598af4f05ca,,34.0,,Classic commands can lack ownership or differ in encoding; rates may undercount actions.
+TheViper,whole available replay,requested_queue_unit_type_ids,2a4d86704ada,3598af4f05ca,,2.0,,Classic commands can lack ownership or differ in encoding; rates may undercount actions.
+TheViper,whole available replay,explicitly_commanded_production_building_ids,2a4d86704ada,3598af4f05ca,,2.0,,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,whole available replay,production_command_revisit_nominal_median_s,2a4d86704ada,3598af4f05ca,,14.126922598610044,,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,whole available replay,positive_queue_amount_mean,2a4d86704ada,3598af4f05ca,,1.0,,Classic commands can lack ownership or differ in encoding; rates may undercount actions.
+TheViper,whole available replay,build_commands_nominal_min,2a4d86704ada,3598af4f05ca,3.8283617801882275,2.4269903475423824,-1.401371432645845,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,whole available replay,wall_commands_nominal_min,2a4d86704ada,3598af4f05ca,0.21268676556601263,0.0,-0.21268676556601263,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,whole available replay,research_commands_nominal_min,2a4d86704ada,3598af4f05ca,2.02052427287712,0.4622838757223585,-1.5582403971547616,Classic commands can lack ownership or differ in encoding; rates may undercount actions.
+TheViper,whole available replay,market_commands_nominal_min,2a4d86704ada,3598af4f05ca,0.23927261126176422,0.11557096893058963,-0.12370164233117459,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,whole available replay,legacy_command_class_entropy_bits,2a4d86704ada,3598af4f05ca,1.30734639528485,1.3254169486800622,0.01807055339521213,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,whole available replay,legacy_switches_per_100_commands,2a4d86704ada,3598af4f05ca,30.395778364116094,22.69503546099291,-7.700742903123185,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,whole available replay,legacy_core_silence_over5s_fraction,2a4d86704ada,3598af4f05ca,0.30654809379486403,0.1356773495725355,-0.17087074422232854,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,whole available replay,legacy_peak_10s_nominal_cpm,2a4d86704ada,3598af4f05ca,222.0,510.0,288.0,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,whole available replay,legacy_move_share,2a4d86704ada,3598af4f05ca,0.7215189873417721,0.6623376623376623,-0.059181325004109775,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,whole available replay,legacy_planning_command_share,2a4d86704ada,3598af4f05ca,0.125,0.030696576151121605,-0.0943034238488784,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,whole available replay,legacy_queue_batch_mean,2a4d86704ada,3598af4f05ca,,1.0,,Classic commands can lack ownership or differ in encoding; rates may undercount actions.
+TheViper,whole available replay,legacy_queue_batch_gt1_fraction,2a4d86704ada,3598af4f05ca,,0.0,,Classic commands can lack ownership or differ in encoding; rates may undercount actions.
+TheViper,whole available replay,legacy_duration_game_min,2a4d86704ada,3598af4f05ca,56.42100000000001,14.623050000000001,-41.79795000000001,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,whole available replay,tatoh_cpm_0_5,2a4d86704ada,3598af4f05ca,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,whole available replay,tatoh_cpm_5_10,2a4d86704ada,3598af4f05ca,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,whole available replay,tatoh_cpm_10_15,2a4d86704ada,3598af4f05ca,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,whole available replay,tatoh_cpm_15_20,2a4d86704ada,3598af4f05ca,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,whole available replay,tatoh_cpm_10_20,2a4d86704ada,3598af4f05ca,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,whole available replay,tatoh_reclick_open,2a4d86704ada,3598af4f05ca,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,whole available replay,tatoh_dedup_open_cpm,2a4d86704ada,3598af4f05ca,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,whole available replay,tatoh_reclick_whole,2a4d86704ada,3598af4f05ca,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,whole available replay,tatoh_dedup_whole_cpm,2a4d86704ada,3598af4f05ca,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TheViper,whole available replay,tatoh_gap_p50_open,2a4d86704ada,3598af4f05ca,,,,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,whole available replay,tatoh_gap_p90_open,2a4d86704ada,3598af4f05ca,,,,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,whole available replay,tatoh_gap_p99_open,2a4d86704ada,3598af4f05ca,,,,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,whole available replay,tatoh_gap_p99_10_20,2a4d86704ada,3598af4f05ca,,,,Cross-engine timing resolution/encoding differs; do not infer latency or slowing.
+TheViper,whole available replay,feudal_request_game_s,2a4d86704ada,3598af4f05ca,499.32,502.619,3.299000000000035,Age-up request timing depends strongly on start-age and tournament settings.
+TheViper,whole available replay,castle_request_game_s,2a4d86704ada,3598af4f05ca,1243.485,,,Age-up request timing depends strongly on start-age and tournament settings.
+TheViper,whole available replay,imperial_request_game_s,2a4d86704ada,3598af4f05ca,2103.075,,,Age-up request timing depends strongly on start-age and tournament settings.
+TaToH,first 10 game minutes,all_recorded_cpm,hc4_tatoh_vs_hera,lobby_511057711,106.13200359344482,140.10100474357606,33.969001150131234,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,core_cpm,hc4_tatoh_vs_hera,lobby_511057711,101.23100342750548,108.16000366210938,6.92900023460389,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,noncore_action_fraction,hc4_tatoh_vs_hera,lobby_511057711,0.04617834394904458,0.22798552472858866,0.18180718077954408,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,first_core_command_nominal_s,hc4_tatoh_vs_hera,lobby_511057711,0.9230768918231459,0.7999999729133932,-0.1230769189097527,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,core_gap_p10_s,hc4_tatoh_vs_hera,lobby_511057711,0.11597632743418984,0.11538461147790713,-0.0005917159562827123,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,core_gap_p50_s,hc4_tatoh_vs_hera,lobby_511057711,0.24852070164470774,0.2461538378195165,-0.0023668638251912455,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,core_gap_p90_s,hc4_tatoh_vs_hera,lobby_511057711,1.4115975853418603,1.4384614897577404,0.026863904415880047,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,core_gap_p99_s,hc4_tatoh_vs_hera,lobby_511057711,2.9534200183454904,2.959615284407974,0.006195266062483551,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,core_gap_max_s,hc4_tatoh_vs_hera,lobby_511057711,10.106508533550851,3.9615383274076805,-6.144970206143171,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,simultaneous_core_gap_fraction,hc4_tatoh_vs_hera,lobby_511057711,0.005016722408026756,0.004694835680751174,-0.00032188672727558217,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,core_gap_cv,hc4_tatoh_vs_hera,lobby_511057711,1.3714945527606797,1.1185880474362002,-0.25290650532447945,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,core_gap_burstiness,hc4_tatoh_vs_hera,lobby_511057711,0.15664997093424451,0.055975038460029575,-0.10067493247421494,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,command_silence_ge5s_time_fraction,hc4_tatoh_vs_hera,lobby_511057711,0.06211333333333338,0.0,-0.06211333333333338,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,command_silence_ge10s_time_fraction,hc4_tatoh_vs_hera,lobby_511057711,0.028466666666666657,0.0,-0.028466666666666657,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,core_count_5s_cv,hc4_tatoh_vs_hera,lobby_511057711,0.4922780460716911,0.33095505737184316,-0.16132298869984796,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,peak_5s_nominal_cpm,hc4_tatoh_vs_hera,lobby_511057711,216.0,204.0,-12.0,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,empty_5s_bin_fraction,hc4_tatoh_vs_hera,lobby_511057711,0.027777777777777776,0.013888888888888888,-0.013888888888888888,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,core_type_entropy_bits,hc4_tatoh_vs_hera,lobby_511057711,0.8646945768932369,0.9634543665568661,0.0987597896636292,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,core_category_entropy_bits,hc4_tatoh_vs_hera,lobby_511057711,0.8243018567639684,0.9147298963869634,0.09042803962299506,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,core_type_transition_entropy_bits,hc4_tatoh_vs_hera,lobby_511057711,0.7391880896531458,0.8573783104891057,0.11819022083595998,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,core_type_switch_fraction,hc4_tatoh_vs_hera,lobby_511057711,0.20066889632107024,0.24100156494522693,0.04033266862415669,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,core_category_switch_fraction,hc4_tatoh_vs_hera,lobby_511057711,0.20066889632107024,0.23943661971830985,0.038767723397239606,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,core_same_type_triplet_fraction,hc4_tatoh_vs_hera,lobby_511057711,0.6850921273031826,0.6316614420062696,-0.05343068529691297,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,coordinate_coverage,hc4_tatoh_vs_hera,lobby_511057711,1.0,1.0,0.0,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,destination_jump_diagonal_p50,hc4_tatoh_vs_hera,lobby_511057711,0.02594964639495593,0.019925966065910086,-0.006023680329045843,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,destination_jump_diagonal_p90,hc4_tatoh_vs_hera,lobby_511057711,0.17102127442622667,0.18148658594345807,0.010465311517231402,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,destination_jump_ge_quarter_fraction,hc4_tatoh_vs_hera,lobby_511057711,0.038461538461538464,0.06333333333333334,0.024871794871794875,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,destination_entropy_4x4_bits,hc4_tatoh_vs_hera,lobby_511057711,2.4154784336171677,2.598697969008201,0.18321953539103308,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,destination_cell_switch_fraction,hc4_tatoh_vs_hera,lobby_511057711,0.28321678321678323,0.2816666666666667,-0.0015501165501165537,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,rapid_destination_repeat_fraction,hc4_tatoh_vs_hera,lobby_511057711,0.3409090909090909,0.37,0.02909090909090911,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,dedup_core_cpm,hc4_tatoh_vs_hera,lobby_511057711,68.27600231170653,70.64200239181518,2.3660000801086483,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,move_order_commands,hc4_tatoh_vs_hera,lobby_511057711,573.0,601.0,28.0,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,explicit_actor_commands,hc4_tatoh_vs_hera,lobby_511057711,231.0,219.0,-12.0,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TaToH,first 10 game minutes,explicit_actor_coverage,hc4_tatoh_vs_hera,lobby_511057711,0.4031413612565445,0.3643926788685524,-0.03874868238799206,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TaToH,first 10 game minutes,actor_pair_count,hc4_tatoh_vs_hera,lobby_511057711,96.0,100.0,4.0,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TaToH,first 10 game minutes,same_actor_pair_count,hc4_tatoh_vs_hera,lobby_511057711,0.0,14.0,14.0,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TaToH,first 10 game minutes,actor_group_size_median,hc4_tatoh_vs_hera,lobby_511057711,1.0,1.0,0.0,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TaToH,first 10 game minutes,actor_group_size_p90,hc4_tatoh_vs_hera,lobby_511057711,2.0,3.200000000000017,1.200000000000017,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TaToH,first 10 game minutes,actor_group_ge10_fraction,hc4_tatoh_vs_hera,lobby_511057711,0.0,0.0045662100456621,0.0045662100456621,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TaToH,first 10 game minutes,actor_group_change_fraction,hc4_tatoh_vs_hera,lobby_511057711,1.0,0.86,-0.14,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TaToH,first 10 game minutes,actor_overlap_jaccard_median,hc4_tatoh_vs_hera,lobby_511057711,0.0,0.0,0.0,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TaToH,first 10 game minutes,same_actor_gap_nominal_median_s,hc4_tatoh_vs_hera,lobby_511057711,,0.23846153038764523,,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TaToH,first 10 game minutes,same_actor_recommand_under1s_fraction,hc4_tatoh_vs_hera,lobby_511057711,,0.9285714285714286,,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TaToH,first 10 game minutes,commanded_actor_ids,hc4_tatoh_vs_hera,lobby_511057711,34.0,36.0,2.0,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TaToH,first 10 game minutes,valid_target_order_fraction,hc4_tatoh_vs_hera,lobby_511057711,1.0,1.0,0.0,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,distinct_order_target_ids,hc4_tatoh_vs_hera,lobby_511057711,30.0,36.0,6.0,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,distinct_building_type_ids,hc4_tatoh_vs_hera,lobby_511057711,5.0,7.0,2.0,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,distinct_research_type_ids,hc4_tatoh_vs_hera,lobby_511057711,0.0,3.0,3.0,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,positive_de_queue_commands,hc4_tatoh_vs_hera,lobby_511057711,29.0,29.0,0.0,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,requested_queue_unit_type_ids,hc4_tatoh_vs_hera,lobby_511057711,2.0,3.0,1.0,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,explicitly_commanded_production_building_ids,hc4_tatoh_vs_hera,lobby_511057711,2.0,3.0,1.0,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,production_command_revisit_nominal_median_s,hc4_tatoh_vs_hera,lobby_511057711,13.039052812958234,17.849999395630093,4.810946582671859,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,positive_queue_amount_mean,hc4_tatoh_vs_hera,lobby_511057711,1.103448275862069,1.0,-0.10344827586206895,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,build_commands_nominal_min,hc4_tatoh_vs_hera,lobby_511057711,2.87300009727478,3.2110001087188715,0.33800001144409153,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,wall_commands_nominal_min,hc4_tatoh_vs_hera,lobby_511057711,1.521000051498413,2.1970000743865965,0.6760000228881835,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,research_commands_nominal_min,hc4_tatoh_vs_hera,lobby_511057711,0.0,0.6760000228881835,0.6760000228881835,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,market_commands_nominal_min,hc4_tatoh_vs_hera,lobby_511057711,0.0,0.0,0.0,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,legacy_command_class_entropy_bits,hc4_tatoh_vs_hera,lobby_511057711,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,legacy_switches_per_100_commands,hc4_tatoh_vs_hera,lobby_511057711,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,legacy_core_silence_over5s_fraction,hc4_tatoh_vs_hera,lobby_511057711,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,legacy_peak_10s_nominal_cpm,hc4_tatoh_vs_hera,lobby_511057711,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,legacy_move_share,hc4_tatoh_vs_hera,lobby_511057711,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,legacy_planning_command_share,hc4_tatoh_vs_hera,lobby_511057711,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,legacy_queue_batch_mean,hc4_tatoh_vs_hera,lobby_511057711,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,legacy_queue_batch_gt1_fraction,hc4_tatoh_vs_hera,lobby_511057711,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,legacy_duration_game_min,hc4_tatoh_vs_hera,lobby_511057711,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,tatoh_cpm_0_5,hc4_tatoh_vs_hera,lobby_511057711,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,tatoh_cpm_5_10,hc4_tatoh_vs_hera,lobby_511057711,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,tatoh_cpm_10_15,hc4_tatoh_vs_hera,lobby_511057711,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,tatoh_cpm_15_20,hc4_tatoh_vs_hera,lobby_511057711,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,tatoh_cpm_10_20,hc4_tatoh_vs_hera,lobby_511057711,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,tatoh_reclick_open,hc4_tatoh_vs_hera,lobby_511057711,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,tatoh_dedup_open_cpm,hc4_tatoh_vs_hera,lobby_511057711,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,tatoh_reclick_whole,hc4_tatoh_vs_hera,lobby_511057711,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,tatoh_dedup_whole_cpm,hc4_tatoh_vs_hera,lobby_511057711,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,tatoh_gap_p50_open,hc4_tatoh_vs_hera,lobby_511057711,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,tatoh_gap_p90_open,hc4_tatoh_vs_hera,lobby_511057711,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,tatoh_gap_p99_open,hc4_tatoh_vs_hera,lobby_511057711,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,tatoh_gap_p99_10_20,hc4_tatoh_vs_hera,lobby_511057711,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,first 10 game minutes,feudal_request_game_s,hc4_tatoh_vs_hera,lobby_511057711,,229.021,,Age-up request timing depends strongly on start-age and tournament settings.
+TaToH,first 10 game minutes,castle_request_game_s,hc4_tatoh_vs_hera,lobby_511057711,,,,Age-up request timing depends strongly on start-age and tournament settings.
+TaToH,first 10 game minutes,imperial_request_game_s,hc4_tatoh_vs_hera,lobby_511057711,,,,Age-up request timing depends strongly on start-age and tournament settings.
+TaToH,whole available replay,all_recorded_cpm,hc4_tatoh_vs_hera,lobby_511057711,98.11438812724613,134.73569019381233,36.6213020665662,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,core_cpm,hc4_tatoh_vs_hera,lobby_511057711,77.26021386508097,95.12870218555452,17.868488320473546,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,noncore_action_fraction,hc4_tatoh_vs_hera,lobby_511057711,0.21254960317460317,0.2939606272939606,0.08141102411935744,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,first_core_command_nominal_s,hc4_tatoh_vs_hera,lobby_511057711,0.9230768918231459,0.7999999729133932,-0.1230769189097527,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,core_gap_p10_s,hc4_tatoh_vs_hera,lobby_511057711,0.11597632743416852,0.11538461147802082,-0.0005917159561477092,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,core_gap_p50_s,hc4_tatoh_vs_hera,lobby_511057711,0.36449702907884785,0.3615384492973135,-0.002958579781534354,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,core_gap_p90_s,hc4_tatoh_vs_hera,lobby_511057711,2.0478105815522425,1.5615384086675022,-0.48627217288474034,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,core_gap_p99_s,hc4_tatoh_vs_hera,lobby_511057711,5.102958407104352,3.597846032029415,-1.505112375074937,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,core_gap_max_s,hc4_tatoh_vs_hera,lobby_511057711,10.10650853355088,8.530768941932138,-1.575739591618742,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,simultaneous_core_gap_fraction,hc4_tatoh_vs_hera,lobby_511057711,0.006616257088846881,0.0028368794326241137,-0.003779377656222767,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,core_gap_cv,hc4_tatoh_vs_hera,lobby_511057711,1.3868760364386323,1.2021139222291466,-0.18476211420948574,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,core_gap_burstiness,hc4_tatoh_vs_hera,lobby_511057711,0.16208467910879673,0.09178177395316203,-0.0703029051556347,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,command_silence_ge5s_time_fraction,hc4_tatoh_vs_hera,lobby_511057711,0.09392199033266424,0.024232363967836422,-0.06968962636482781,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,command_silence_ge10s_time_fraction,hc4_tatoh_vs_hera,lobby_511057711,0.008197700900067252,0.0,-0.008197700900067252,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,core_count_5s_cv,hc4_tatoh_vs_hera,lobby_511057711,0.5601538277514682,0.4606526423620913,-0.09950118538937686,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,peak_5s_nominal_cpm,hc4_tatoh_vs_hera,lobby_511057711,228.0,228.0,0.0,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,empty_5s_bin_fraction,hc4_tatoh_vs_hera,lobby_511057711,0.02834008097165992,0.003745318352059925,-0.024594762619599995,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,core_type_entropy_bits,hc4_tatoh_vs_hera,lobby_511057711,1.596308877040768,1.2465021828859302,-0.3498066941548379,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,core_category_entropy_bits,hc4_tatoh_vs_hera,lobby_511057711,1.56669904674924,1.213804781244495,-0.3528942655047451,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,core_type_transition_entropy_bits,hc4_tatoh_vs_hera,lobby_511057711,1.2791471579217841,1.1074504056916363,-0.1716967522301478,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,core_type_switch_fraction,hc4_tatoh_vs_hera,lobby_511057711,0.3267170762444864,0.32009456264775416,-0.006622513596732271,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,core_category_switch_fraction,hc4_tatoh_vs_hera,lobby_511057711,0.3267170762444864,0.31962174940898347,-0.0070953268355029575,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,core_same_type_triplet_fraction,hc4_tatoh_vs_hera,lobby_511057711,0.48692089505200126,0.4971617786187323,0.01024088356673103,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,coordinate_coverage,hc4_tatoh_vs_hera,lobby_511057711,1.0,1.0,0.0,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,destination_jump_diagonal_p50,hc4_tatoh_vs_hera,lobby_511057711,0.02801074001698806,0.023693293505571998,-0.004317446511416061,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,destination_jump_diagonal_p90,hc4_tatoh_vs_hera,lobby_511057711,0.25638793386387715,0.2538287514386005,-0.0025591824252766404,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,destination_jump_ge_quarter_fraction,hc4_tatoh_vs_hera,lobby_511057711,0.10271678451804987,0.10129198966408269,-0.0014247948539671818,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,destination_entropy_4x4_bits,hc4_tatoh_vs_hera,lobby_511057711,3.4476887115276393,3.276562226902545,-0.1711264846250944,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,destination_cell_switch_fraction,hc4_tatoh_vs_hera,lobby_511057711,0.32899144026795685,0.303359173126615,-0.02563226714134187,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,rapid_destination_repeat_fraction,hc4_tatoh_vs_hera,lobby_511057711,0.3074060290286565,0.30801033591731264,0.0006043068886561476,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,dedup_core_cpm,hc4_tatoh_vs_hera,lobby_511057711,57.16039129734652,68.33441744898056,11.174026151634038,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,move_order_commands,hc4_tatoh_vs_hera,lobby_511057711,2688.0,1936.0,-752.0,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,explicit_actor_commands,hc4_tatoh_vs_hera,lobby_511057711,1103.0,984.0,-119.0,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TaToH,whole available replay,explicit_actor_coverage,hc4_tatoh_vs_hera,lobby_511057711,0.4103422619047619,0.5082644628099173,0.09792220090515541,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TaToH,whole available replay,actor_pair_count,hc4_tatoh_vs_hera,lobby_511057711,435.0,570.0,135.0,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TaToH,whole available replay,same_actor_pair_count,hc4_tatoh_vs_hera,lobby_511057711,7.0,146.0,139.0,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TaToH,whole available replay,actor_group_size_median,hc4_tatoh_vs_hera,lobby_511057711,2.0,4.0,2.0,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TaToH,whole available replay,actor_group_size_p90,hc4_tatoh_vs_hera,lobby_511057711,12.0,9.0,-3.0,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TaToH,whole available replay,actor_group_ge10_fraction,hc4_tatoh_vs_hera,lobby_511057711,0.13780598368087035,0.08434959349593496,-0.05345639018493539,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TaToH,whole available replay,actor_group_change_fraction,hc4_tatoh_vs_hera,lobby_511057711,0.9839080459770115,0.743859649122807,-0.24004839685420454,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TaToH,whole available replay,actor_overlap_jaccard_median,hc4_tatoh_vs_hera,lobby_511057711,0.0,0.0,0.0,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TaToH,whole available replay,same_actor_gap_nominal_median_s,hc4_tatoh_vs_hera,lobby_511057711,1.110059134012814,0.23846153038764523,-0.8715976036251689,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TaToH,whole available replay,same_actor_recommand_under1s_fraction,hc4_tatoh_vs_hera,lobby_511057711,0.42857142857142855,0.9657534246575342,0.5371819960861057,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TaToH,whole available replay,commanded_actor_ids,hc4_tatoh_vs_hera,lobby_511057711,686.0,160.0,-526.0,Raw actor-list coverage/reuse differs: numeric contrast is not a reliable group-control trend.
+TaToH,whole available replay,valid_target_order_fraction,hc4_tatoh_vs_hera,lobby_511057711,1.0,1.0,0.0,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,distinct_order_target_ids,hc4_tatoh_vs_hera,lobby_511057711,317.0,185.0,-132.0,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,distinct_building_type_ids,hc4_tatoh_vs_hera,lobby_511057711,16.0,16.0,0.0,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,distinct_research_type_ids,hc4_tatoh_vs_hera,lobby_511057711,45.0,21.0,-24.0,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,positive_de_queue_commands,hc4_tatoh_vs_hera,lobby_511057711,820.0,225.0,-595.0,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,requested_queue_unit_type_ids,hc4_tatoh_vs_hera,lobby_511057711,14.0,6.0,-8.0,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,explicitly_commanded_production_building_ids,hc4_tatoh_vs_hera,lobby_511057711,55.0,12.0,-43.0,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,production_command_revisit_nominal_median_s,hc4_tatoh_vs_hera,lobby_511057711,0.2485207016447362,7.214792655128085,6.966271953483349,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,positive_queue_amount_mean,hc4_tatoh_vs_hera,lobby_511057711,1.0585365853658537,1.0355555555555556,-0.022981029810298148,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,build_commands_nominal_min,hc4_tatoh_vs_hera,lobby_511057711,7.008170580517581,4.945253894334119,-2.0629166861834625,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,wall_commands_nominal_min,hc4_tatoh_vs_hera,lobby_511057711,0.24333925626797157,0.71930965735769,0.47597040108971844,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,research_commands_nominal_min,hc4_tatoh_vs_hera,lobby_511057711,1.4843694632346265,1.5285330218850914,0.04416355865046495,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,market_commands_nominal_min,hc4_tatoh_vs_hera,lobby_511057711,1.9710479757705697,0.3146979750939894,-1.6563500006765803,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,legacy_command_class_entropy_bits,hc4_tatoh_vs_hera,lobby_511057711,1.56669904674924,1.213804781244495,-0.3528942655047451,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,legacy_switches_per_100_commands,hc4_tatoh_vs_hera,lobby_511057711,32.67170762444864,31.962174940898347,-0.7095326835502966,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,legacy_core_silence_over5s_fraction,hc4_tatoh_vs_hera,lobby_511057711,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,legacy_peak_10s_nominal_cpm,hc4_tatoh_vs_hera,lobby_511057711,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,legacy_move_share,hc4_tatoh_vs_hera,lobby_511057711,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,legacy_planning_command_share,hc4_tatoh_vs_hera,lobby_511057711,0.13858267716535436,0.07892249527410207,-0.05966018189125229,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,legacy_queue_batch_mean,hc4_tatoh_vs_hera,lobby_511057711,1.0585365853658537,1.0355555555555556,-0.022981029810298148,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,legacy_queue_batch_gt1_fraction,hc4_tatoh_vs_hera,lobby_511057711,,,,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,legacy_duration_game_min,hc4_tatoh_vs_hera,lobby_511057711,69.45036666666667,37.5916,-31.858766666666668,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,tatoh_cpm_0_5,hc4_tatoh_vs_hera,lobby_511057711,122.6940041542053,113.56800384521483,-9.12600030899047,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,tatoh_cpm_5_10,hc4_tatoh_vs_hera,lobby_511057711,79.76800270080565,102.75200347900389,22.984000778198237,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,tatoh_cpm_10_15,hc4_tatoh_vs_hera,lobby_511057711,71.99400243759155,111.54000377655028,39.54600133895873,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,tatoh_cpm_15_20,hc4_tatoh_vs_hera,lobby_511057711,88.21800298690795,111.20200376510618,22.984000778198237,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,tatoh_cpm_10_20,hc4_tatoh_vs_hera,lobby_511057711,80.10600271224975,111.37100377082824,31.26500105857849,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,tatoh_reclick_open,hc4_tatoh_vs_hera,lobby_511057711,0.32554257095158595,0.346875,0.021332429048414037,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,tatoh_dedup_open_cpm,hc4_tatoh_vs_hera,lobby_511057711,68.27600231170653,70.64200239181518,2.3660000801086483,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,tatoh_reclick_whole,hc4_tatoh_vs_hera,lobby_511057711,0.2600755667506297,0.28166351606805295,0.02158794931742325,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,tatoh_dedup_whole_cpm,hc4_tatoh_vs_hera,lobby_511057711,57.17100535171953,68.30413402838111,11.133128676661585,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,tatoh_gap_p50_open,hc4_tatoh_vs_hera,lobby_511057711,0.24852070164470255,0.2461538378195037,-0.0023668638251988505,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,tatoh_gap_p90_open,hc4_tatoh_vs_hera,lobby_511057711,1.3768046871116195,1.4384614897577257,0.06165680264610618,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,tatoh_gap_p99_open,hc4_tatoh_vs_hera,lobby_511057711,2.9429821488764247,2.956153746063623,0.01317159718719818,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,tatoh_gap_p99_10_20,hc4_tatoh_vs_hera,lobby_511057711,5.969135892569972,3.0400768201451918,-2.9290590724247805,Descriptive behavior; no cognitive or causal age interpretation.
+TaToH,whole available replay,feudal_request_game_s,hc4_tatoh_vs_hera,lobby_511057711,686.539,229.021,-457.51800000000003,Age-up request timing depends strongly on start-age and tournament settings.
+TaToH,whole available replay,castle_request_game_s,hc4_tatoh_vs_hera,lobby_511057711,888.921,974.896,85.97499999999991,Age-up request timing depends strongly on start-age and tournament settings.
+TaToH,whole available replay,imperial_request_game_s,hc4_tatoh_vs_hera,lobby_511057711,1963.656,,,Age-up request timing depends strongly on start-age and tournament settings.

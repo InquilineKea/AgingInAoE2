@@ -1,0 +1,16 @@
+{
+  "game_version": 185872,
+  "api_version": 22,
+  "sequences": 8613,
+  "frames": 8613,
+  "commands": 292,
+  "events": 12,
+  "chat_events_removed": 0,
+  "first_time_ms": 0,
+  "last_time_ms": 114140,
+  "state": "stopped",
+  "complete_match_verified": false,
+  "elapsed_seconds": 119.99,
+  "grpc_code": "DEADLINE_EXCEEDED",
+  "error": "Deadline Exceeded"
+}

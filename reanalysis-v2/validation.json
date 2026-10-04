@@ -1,0 +1,307 @@
+{
+  "unique_games": 37,
+  "player_game_observations": 44,
+  "rows": 88,
+  "core_rate_agreement": true,
+  "hash_and_full_body_checks": [
+    {
+      "game_id": "c7d3588daf74",
+      "sha256": "c7d3588daf740ee14712123d363e2e6f859f85c3bbe2c723fbe58b3e9627e6e8",
+      "actions": 2506,
+      "sync_checks": 217,
+      "full_body_consumed": true,
+      "agrees_with_original": true
+    },
+    {
+      "game_id": "a467a9f1780f",
+      "sha256": "a467a9f1780fb4de13bf524aa4c19f5cb1d104f407bfefaeefb9bf384d3f389f",
+      "actions": 3383,
+      "sync_checks": 231,
+      "full_body_consumed": true,
+      "agrees_with_original": true
+    },
+    {
+      "game_id": "d4d080a3a4f6",
+      "sha256": "d4d080a3a4f639d3327e7a550dd682776d33a9b059acc1db79d89a6d2904ce5e",
+      "actions": 4220,
+      "sync_checks": 304,
+      "full_body_consumed": true,
+      "agrees_with_original": true
+    },
+    {
+      "game_id": "4d327356c515",
+      "sha256": "4d327356c515f50c9346bbf9b70ae8e062ccf075f5d7cbffe14e3292ff7f2fa3",
+      "actions": 3250,
+      "sync_checks": 196,
+      "full_body_consumed": true,
+      "agrees_with_original": true
+    },
+    {
+      "game_id": "23d4576b7264",
+      "sha256": "23d4576b72642f81456c2009ab81b2d571f3719388e167d2fdcbd8b0604d2081",
+      "actions": 5599,
+      "sync_checks": 371,
+      "full_body_consumed": true,
+      "agrees_with_original": true
+    },
+    {
+      "game_id": "9621aabf243e",
+      "sha256": "9621aabf243e3afa246da60f2cbf2956493ca2b316e61f9d3a12e56772fe8e29",
+      "actions": 6722,
+      "sync_checks": 198,
+      "full_body_consumed": true,
+      "agrees_with_original": true
+    },
+    {
+      "game_id": "2c3759e0dc22",
+      "sha256": "2c3759e0dc22245a524b2357d490a6a73675c554cc2bcdb60a1af7e180b26cc9",
+      "actions": 4683,
+      "sync_checks": 143,
+      "full_body_consumed": true,
+      "agrees_with_original": true
+    },
+    {
+      "game_id": "11508bc32ada",
+      "sha256": "11508bc32ada10b533bf9dbfec70ef70b57a7a5f6ff1389af0c40ca4ad8506af",
+      "actions": 6958,
+      "sync_checks": 210,
+      "full_body_consumed": true,
+      "agrees_with_original": true
+    },
+    {
+      "game_id": "323cda4cd90e",
+      "sha256": "323cda4cd90e97c42cbaab2ca39e2d2b11637dca07147f145c04d29258ba9da8",
+      "actions": 5921,
+      "sync_checks": 191,
+      "full_body_consumed": true,
+      "agrees_with_original": true
+    },
+    {
+      "game_id": "dde7930841b0",
+      "sha256": "dde7930841b06c295ffd9884b8294991d17bbf80a4ba2f0a971f114529195806",
+      "actions": 4626,
+      "sync_checks": 169,
+      "full_body_consumed": true,
+      "agrees_with_original": true
+    },
+    {
+      "game_id": "e1e75a47ab4e",
+      "sha256": "e1e75a47ab4efa978e080919d314b2ea7dd5eb4d25b56a8c96298bd7dce10a22",
+      "actions": 2621,
+      "sync_checks": 157,
+      "full_body_consumed": true,
+      "agrees_with_original": true
+    },
+    {
+      "game_id": "0b3bc1441529",
+      "sha256": "0b3bc1441529dcc77b8014dcf995ff985c835035ef6a1b8369813d57af45b389",
+      "actions": 8475,
+      "sync_checks": 374,
+      "full_body_consumed": true,
+      "agrees_with_original": true
+    },
+    {
+      "game_id": "5e152714b185",
+      "sha256": "5e152714b185c8d0cf7c14fd1c5c2f7e828a1bcbc85c35ab147a8a64e84907e6",
+      "actions": 5300,
+      "sync_checks": 204,
+      "full_body_consumed": true,
+      "agrees_with_original": true
+    },
+    {
+      "game_id": "31d31c225a08",
+      "sha256": "31d31c225a0848a4c49270e8af58badbcdd5fcdce27749f8df957c24f6e339be",
+      "actions": 3192,
+      "sync_checks": 128,
+      "full_body_consumed": true,
+      "agrees_with_original": true
+    },
+    {
+      "game_id": "63e46229572d",
+      "sha256": "63e46229572de02442a4bd73152bcb236caca8e4a3fca85cd4954e122342ea57",
+      "actions": 6322,
+      "sync_checks": 362,
+      "full_body_consumed": true,
+      "agrees_with_original": true
+    },
+    {
+      "game_id": "40cfbfe02398",
+      "sha256": "40cfbfe02398dbe87eddfc4febca97bc354dd217f95ba10becda7718baeda0c8",
+      "actions": 2490,
+      "sync_checks": 89,
+      "full_body_consumed": true,
+      "agrees_with_original": true
+    },
+    {
+      "game_id": "c0b3c47feff8",
+      "sha256": "c0b3c47feff80233dae0aa01c297e3ca52781b2896c6d4021812a4cf741052e9",
+      "actions": 6794,
+      "sync_checks": 272,
+      "full_body_consumed": true,
+      "agrees_with_original": true
+    },
+    {
+      "game_id": "679124a7c6b9",
+      "sha256": "679124a7c6b92c0cc3b211707b67e76d93f24b95c4dca568c5c439870ec8b97b",
+      "actions": 7777,
+      "sync_checks": 327,
+      "full_body_consumed": true,
+      "agrees_with_original": true
+    },
+    {
+      "game_id": "d777b0479240",
+      "sha256": "d777b0479240a629bad2516391c0328746cccd04633ed26300abc814bc7c5d2e",
+      "actions": 7691,
+      "sync_checks": 438,
+      "full_body_consumed": true,
+      "agrees_with_original": true
+    },
+    {
+      "game_id": "211c10a368c4",
+      "sha256": "211c10a368c4de9c762027978fafe79e0d4a317ae6f7adadb8dda79bd85c0014",
+      "actions": 4929,
+      "sync_checks": 0,
+      "full_body_consumed": true,
+      "agrees_with_original": true
+    },
+    {
+      "game_id": "079005bcaa66",
+      "sha256": "079005bcaa661f612f9f7c2dc7bb9ab28811e1a74cdfff1183c1fcb36c0e233c",
+      "actions": 3608,
+      "sync_checks": 0,
+      "full_body_consumed": true,
+      "agrees_with_original": true
+    },
+    {
+      "game_id": "bb815fe6233a",
+      "sha256": "bb815fe6233af6923e4369702130f720801cf6524797a3f421410b9572fe7b88",
+      "actions": 3877,
+      "sync_checks": 0,
+      "full_body_consumed": true,
+      "agrees_with_original": true
+    },
+    {
+      "game_id": "252b3a6bcf45",
+      "sha256": "252b3a6bcf458a50ea34694f8695181b0a3c46476f344a2de5191850d762286e",
+      "actions": 3833,
+      "sync_checks": 0,
+      "full_body_consumed": true,
+      "agrees_with_original": true
+    },
+    {
+      "game_id": "2a4d86704ada",
+      "sha256": "2a4d86704adaee9464913639924b0ceaac7b8b1ff5d3037f58eb2b701535d3cc",
+      "actions": 19416,
+      "sync_checks": 0,
+      "full_body_consumed": true,
+      "agrees_with_original": true
+    },
+    {
+      "game_id": "be2ccdca713e",
+      "sha256": "be2ccdca713e06185ce1b35a9e9ec058bcd1f81be6d634ef09eef4c7e00b8877",
+      "actions": 14987,
+      "sync_checks": 0,
+      "full_body_consumed": true,
+      "agrees_with_original": true
+    },
+    {
+      "game_id": "5e1293a4be54",
+      "sha256": "5e1293a4be5471475817cc747ac49f84171ff7b897cb55a67ec82f003cfd8aee",
+      "actions": 11316,
+      "sync_checks": 0,
+      "full_body_consumed": true,
+      "agrees_with_original": true
+    },
+    {
+      "game_id": "bd5257dfee73",
+      "sha256": "bd5257dfee739e36a1749cba002c79a337e23e7cdec0bc32d467856db6111b0a",
+      "actions": 14061,
+      "sync_checks": 0,
+      "full_body_consumed": true,
+      "agrees_with_original": true
+    },
+    {
+      "game_id": "5338a28e825b",
+      "sha256": "5338a28e825b6a411e185b368e9d7e872c562289d9f4a6e5c368a8a63e16793d",
+      "actions": 8675,
+      "sync_checks": 0,
+      "full_body_consumed": true,
+      "agrees_with_original": true
+    },
+    {
+      "game_id": "c15e438221ef",
+      "sha256": "c15e438221ef8de29d6d16ed23f74656c108c9b9967ecb4dbaf92f797d418625",
+      "actions": 17527,
+      "sync_checks": 0,
+      "full_body_consumed": true,
+      "agrees_with_original": true
+    },
+    {
+      "game_id": "65e3f6795645",
+      "sha256": "65e3f6795645d4892f884123a1b4533c9a16d5e8ab664d88a86c16d7f11b5345",
+      "actions": 8464,
+      "sync_checks": 0,
+      "full_body_consumed": true,
+      "agrees_with_original": true
+    },
+    {
+      "game_id": "52a03f0c9e03",
+      "sha256": "52a03f0c9e03a1be711a5b4dc827b2fab1244c1ae51e2b9980f8d9914cb90b54",
+      "actions": 8616,
+      "sync_checks": 0,
+      "full_body_consumed": true,
+      "agrees_with_original": true
+    },
+    {
+      "game_id": "1c40a1c5da42",
+      "sha256": "1c40a1c5da422f8a64659c03fb82d39bfc1dc26e695bae950deadca13173a8de",
+      "actions": 24139,
+      "sync_checks": 0,
+      "full_body_consumed": true,
+      "agrees_with_original": true
+    },
+    {
+      "game_id": "bdaf8d46c8e5",
+      "sha256": "bdaf8d46c8e5896036fe088ea54ea15b5d3f7ba15a57ab8443ffc302ff4b022a",
+      "actions": 13011,
+      "sync_checks": 671,
+      "full_body_consumed": true,
+      "agrees_with_original": true
+    },
+    {
+      "game_id": "91de7aa859e1",
+      "sha256": "91de7aa859e10daf0c562c7edd264a1cfe33da7b2d302ee631ea09e27b1d17eb",
+      "actions": 4905,
+      "sync_checks": 259,
+      "full_body_consumed": true,
+      "agrees_with_original": true
+    },
+    {
+      "game_id": "65486e44c665",
+      "sha256": "65486e44c665242edfd9deb56a9c04991c2b1c80bbc7200d45af2758457008df",
+      "actions": 4883,
+      "sync_checks": 299,
+      "full_body_consumed": true,
+      "agrees_with_original": true
+    },
+    {
+      "game_id": "67f43712e111",
+      "sha256": "67f43712e111b3177e16c4540b8cfcca93806fb8b7d343a75bc7f378ed9f62d7",
+      "actions": 4595,
+      "sync_checks": 209,
+      "full_body_consumed": true,
+      "agrees_with_original": true
+    },
+    {
+      "game_id": "3598af4f05ca",
+      "sha256": "3598af4f05ca18bb96d8ada9d70a6bd1df71e08d3933be4960f3640b46b976e5",
+      "actions": 2263,
+      "sync_checks": 134,
+      "full_body_consumed": true,
+      "agrees_with_original": true
+    }
+  ],
+  "game_state_streams_analyzed": 0,
+  "cognitive_measures_identified": false,
+  "selection_policy": "explicit actor lists only; no inherited selections"
+}

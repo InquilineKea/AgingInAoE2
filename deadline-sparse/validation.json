@@ -1,0 +1,12 @@
+{
+  "created_utc": "2026-10-04T18:57:15.901455+00:00",
+  "player_game_observations": 14,
+  "distinct_replays": 14,
+  "period_rows": 14,
+  "source_hashes_verified": true,
+  "two_games_per_player_period": true,
+  "engine_state_schema_decoded": false,
+  "onager_dodges_classified": 0,
+  "full_dataset_sensitivity": "../reanalysis-v2/period_summary.csv",
+  "selection_rule": "Earliest dated two games per player/year with game_id tie-break; 2026 TheViper uses the two shortest available games for deadline-compatible state validation. Selection uses no command-feature outcome. Convenience sampling and duration selection introduce bias."
+}

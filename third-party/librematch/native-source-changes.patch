@@ -1,0 +1,71 @@
+--- a/crates/uncage-model/src/document.rs
++++ b/crates/uncage-model/src/document.rs
+@@ -385,7 +385,7 @@
+                     .map(|x| serde_json::Value::Number((*x).into()))
+                     .unwrap_or(serde_json::Value::Null),
+                 FieldType::UInt16 => value
+-                    .downcast_ref::<i16>()
++                    .downcast_ref::<u16>()
+                     .map(|x| serde_json::Value::Number((*x).into()))
+                     .unwrap_or(serde_json::Value::Null),
+                 FieldType::Int32 => value
+@@ -393,7 +393,7 @@
+                     .map(|x| serde_json::Value::Number((*x).into()))
+                     .unwrap_or(serde_json::Value::Null),
+                 FieldType::UInt32 => value
+-                    .downcast_ref::<i32>()
++                    .downcast_ref::<u32>()
+                     .map(|x| serde_json::Value::Number((*x).into()))
+                     .unwrap_or(serde_json::Value::Null),
+                 FieldType::Int64 => value
+@@ -409,7 +409,7 @@
+                     .map(|x| serde_json::Value::String(x.to_string()))
+                     .unwrap_or(serde_json::Value::Null),
+                 FieldType::UInt128 => value
+-                    .downcast_ref::<i128>()
++                    .downcast_ref::<u128>()
+                     .map(|x| serde_json::Value::String(x.to_string()))
+                     .unwrap_or(serde_json::Value::Null),
+                 FieldType::Float => value
+--- a/crates/uncage/src/model.rs
++++ b/crates/uncage/src/model.rs
+@@ -1,5 +1,9 @@
+ use std::collections::BTreeMap;
+ use uncage_model::{Model, ModelBTreeMap, ModelCollection, ModelHashMap, ModelRef, ModelVec, Ref};
++// The upstream generated model omitted its derive macro imports.
++use uncage_model_proc_macro::{Model, ModelCollection};
++use bytes::Buf;
++use uncage_model::Reference;
+ 
+ #[derive(ModelCollection, Debug)]
+ pub enum Models {
+--- a/crates/uncage-model/examples/export_patch.rs
++++ b/crates/uncage-model/examples/export_patch.rs
+@@ -0,0 +1,27 @@
++// Mac-compatible snapshot exporter; AGPL-3.0-or-later, like the upstream project.
++// Input is a decoded initial state patch, not an AoE2 command recording.
++#[path = "../../uncage/src/model.rs"]
++mod game_model;
++use bytes::Bytes;
++use game_model::{Models, Root};
++use std::{env, fs};
++pub use uncage_model::*;
++use uncage_model::patcher::Patcher;
++
++fn main() -> anyhow::Result<()> {
++    let args: Vec<String> = env::args().collect();
++    anyhow::ensure!(args.len() == 3, "Usage: export_patch INITIAL_PATCH.bin OUTPUT.json");
++    let input = fs::read(&args[1])?;
++    anyhow::ensure!(input.len() < 64 * 1024 * 1024, "Patch exceeds 64 MiB input limit");
++    let mut patcher: Patcher<Root, Models> = Patcher::new(Document::new());
++    patcher.apply_patch(Bytes::from(input))?;
++    let output = patcher.document().to_json(0);
++    // Detect serializer/schema failures instead of silently exporting a null clock.
++    anyhow::ensure!(output["world"]["time"].is_u64(), "Missing decoded world clock");
++    anyhow::ensure!(output["world"]["map_width"].as_i64().unwrap_or(0) > 0,
++                    "Missing decoded map dimensions");
++    let mut file = fs::OpenOptions::new().write(true).create_new(true).open(&args[2])?;
++    serde_json::to_writer(&mut file, &output)?;
++    println!("Exported snapshot to {}", args[2]);
++    Ok(())
++}

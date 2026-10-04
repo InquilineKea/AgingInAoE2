@@ -1,0 +1,57 @@
+[
+  {
+    "game": "hc4_tatoh_vs_hera",
+    "file": "tatoh/raw/hc4_tatoh_vs_hera/g1_PARTIAL.aoe2record",
+    "sha256": "f43d74ec5262de1d96691791afcba47d3b1d364a42cfed669a920a144c6dc75f",
+    "profile_id": 1819193,
+    "verified_player_name": "Le Loi",
+    "partial": true,
+    "available_game_minutes": 69.45036666666667,
+    "body_end": 4448261,
+    "file_bytes": 4448261
+  },
+  {
+    "game": "lobby_509101119",
+    "file": "tatoh/raw/lobby_509101119/AgeIIDE_Replay_509101119.aoe2record",
+    "sha256": "56e5d28c9360d67fb2b5e3e6b4ec66942e9d41ccd266f3ff165c6ba9fb22ab4a",
+    "profile_id": 197388,
+    "verified_player_name": "Oni.TaToH",
+    "partial": false,
+    "available_game_minutes": 27.49801666666667,
+    "body_end": 3797547,
+    "file_bytes": 3797547
+  },
+  {
+    "game": "lobby_509105894",
+    "file": "tatoh/raw/lobby_509105894/AgeIIDE_Replay_509105894.aoe2record",
+    "sha256": "e7a1406bf2458186aff677ac825cb98149347ad9d8f47948cfd884599644d91a",
+    "profile_id": 197388,
+    "verified_player_name": "Oni.TaToH",
+    "partial": false,
+    "available_game_minutes": 50.27551666666667,
+    "body_end": 6524100,
+    "file_bytes": 6524100
+  },
+  {
+    "game": "ranked_508914728",
+    "file": "tatoh/raw/ranked_508914728/AgeIIDE_Replay_508914728.aoe2record",
+    "sha256": "61c225f6fcca291a17cd213c5f980ec4c5dbb0faa82f0922d588d3590718cac4",
+    "profile_id": 197388,
+    "verified_player_name": "Oni.TaToH",
+    "partial": false,
+    "available_game_minutes": 17.619116666666667,
+    "body_end": 2794445,
+    "file_bytes": 2794445
+  },
+  {
+    "game": "ranked_510330665",
+    "file": "tatoh/raw/ranked_510330665/AgeIIDE_Replay_510330665.aoe2record",
+    "sha256": "47d27ee33bf1f94753055dacd136f9b6660fd9ceec1ecc22ea076600b91a61fd",
+    "profile_id": 197388,
+    "verified_player_name": "Oni.TaToH",
+    "partial": false,
+    "available_game_minutes": 14.623050000000001,
+    "body_end": 2465254,
+    "file_bytes": 2465254
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "upstream_commit": "9bc90f67f22aec47bb050cdea5b73a5fec0d629e",
+  "native_arch": "arm64",
+  "fixture_sha256": "6e5ff7c169b7572a317c84135cad4bf8f4aceadef87629f0c6d8102243e08985",
+  "fixture_world_time_ms": 2106524,
+  "fixture_map_size": [
+    120,
+    120
+  ],
+  "fixture_entities": 2278,
+  "fixture_players": 2,
+  "source_model": "LibreMatch reverse-engineered 2024 schema",
+  "scope": "initial state patch fixture; not DauT or TheViper; not a full caderec reader",
+  "numeric_serialization_checked": true
+}

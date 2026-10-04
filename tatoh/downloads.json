@@ -1,0 +1,1906 @@
+[
+ {
+  "name": "archive_2019_feudalvoy",
+  "kind": "file",
+  "url": "https://archive.org/download/rec.20190928-160552/rec.20190928-160552.mgz",
+  "ext": ".mgz",
+  "period": "2019 community upload",
+  "http": 200,
+  "bytes": 1900312,
+  "sha256": "a182d3a2b3552cb66d0301718d177b9e4200e33603735c7e5f7b8d0f70c0a39d",
+  "files": [
+   "tatoh/raw/archive_2019_feudalvoy/recording.mgz"
+  ]
+ },
+ {
+  "name": "hc4_tatoh_vs_hera",
+  "kind": "zip",
+  "url": "https://ageofnotes.com/wp-content/uploads/2021/05/7.-HC4-Ro16-Le-Loi-vs-John-the-Fearless.zip",
+  "period": "2021 HC4 Ro16",
+  "http": 200,
+  "bytes": 524288,
+  "sha256": "e27c75023cfe3cd9ea01db0b1be06f052a14fa9130f94c925acfde48d8d7d0f2",
+  "error": "BadZipFile('File is not a zip file')",
+  "files": []
+ },
+ {
+  "name": "ranked_510333065",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=510333065&profileId=197388",
+  "period": "2026 ranked",
+  "match": 510333065,
+  "started": "2026-09-30T16:01:43.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "Arabian Desert",
+  "players": [
+   [
+    "Nicov",
+    208393,
+    null
+   ],
+   [
+    "TaToH",
+    197388,
+    null
+   ]
+  ],
+  "http": 200,
+  "bytes": 813584,
+  "sha256": "213676e61f42f62cd2433eb55bd09f882cfed7c87baa49999d7d51bca1090d8d",
+  "files": [
+   "tatoh/raw/ranked_510333065/AgeIIDE_Replay_510333065.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_510330665",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=510330665&profileId=197388",
+  "period": "2026 ranked",
+  "match": 510330665,
+  "started": "2026-09-30T15:48:38.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "Arena",
+  "players": [
+   [
+    "TheViper",
+    196240,
+    false
+   ],
+   [
+    "TaToH",
+    197388,
+    true
+   ]
+  ],
+  "http": 200,
+  "bytes": 763988,
+  "sha256": "785cbc6eb3f4d13dd56999bba514d6ec7d19e078673d7effda7506b0e004cb1c",
+  "files": [
+   "tatoh/raw/ranked_510330665/AgeIIDE_Replay_510330665.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_510325757",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=510325757&profileId=197388",
+  "period": "2026 ranked",
+  "match": 510325757,
+  "started": "2026-09-30T15:21:45.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "Fortress",
+  "players": [
+   [
+    "Target331",
+    245811,
+    false
+   ],
+   [
+    "TaToH",
+    197388,
+    true
+   ]
+  ],
+  "http": 200,
+  "bytes": 886462,
+  "sha256": "d2b0ccf5923160acbeb46eb118751d15c23da3152cd59d30c480b1790ae660b7",
+  "files": [
+   "tatoh/raw/ranked_510325757/AgeIIDE_Replay_510325757.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_510128528",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=510128528&profileId=197388",
+  "period": "2026 ranked",
+  "match": 510128528,
+  "started": "2026-09-29T17:00:45.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "Arabian Desert",
+  "players": [
+   [
+    "Ciskhan",
+    1136191,
+    false
+   ],
+   [
+    "TaToH",
+    197388,
+    true
+   ]
+  ],
+  "http": 200,
+  "bytes": 1083330,
+  "sha256": "eb50be44862d4df0250a69f91caf16df39fc0c003d39e89b39018ae46b5c9bb9",
+  "files": [
+   "tatoh/raw/ranked_510128528/AgeIIDE_Replay_510128528.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_510125405",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=510125405&profileId=197388",
+  "period": "2026 ranked",
+  "match": 510125405,
+  "started": "2026-09-29T16:43:50.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "Arabian Desert",
+  "players": [
+   [
+    "Ciskhan",
+    1136191,
+    true
+   ],
+   [
+    "TaToH",
+    197388,
+    false
+   ]
+  ],
+  "http": 200,
+  "bytes": 786548,
+  "sha256": "17e0d45ab6815c90299347d0370bb8188c86a63ea1e2f2e01b8f241f2abab5ea",
+  "files": [
+   "tatoh/raw/ranked_510125405/AgeIIDE_Replay_510125405.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_510124286",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=510124286&profileId=197388",
+  "period": "2026 ranked",
+  "match": 510124286,
+  "started": "2026-09-29T16:37:52.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "Arabian Desert",
+  "players": [
+   [
+    "El_Matador",
+    230475,
+    false
+   ],
+   [
+    "TaToH",
+    197388,
+    true
+   ]
+  ],
+  "http": 200,
+  "bytes": 696745,
+  "sha256": "e3c6991b829fbfe688631f1d5e9366ed16e08af2697b82abb0f201fdb6cf914b",
+  "files": [
+   "tatoh/raw/ranked_510124286/AgeIIDE_Replay_510124286.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_508931665",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=508931665&profileId=197388",
+  "period": "2026 ranked",
+  "match": 508931665,
+  "started": "2026-09-24T19:09:32.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "Arabian Desert",
+  "players": [
+   [
+    "TaToH",
+    197388,
+    true
+   ],
+   [
+    "Gali",
+    5232543,
+    false
+   ]
+  ],
+  "http": 200,
+  "bytes": 929877,
+  "sha256": "8374159a67e0360c16250f0d445b3c37a3016973bb05bc580aabd5c360a424ef",
+  "files": [
+   "tatoh/raw/ranked_508931665/AgeIIDE_Replay_508931665.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_508927645",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=508927645&profileId=197388",
+  "period": "2026 ranked",
+  "match": 508927645,
+  "started": "2026-09-24T18:50:38.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "Arabian Desert",
+  "players": [
+   [
+    "Gali",
+    5232543,
+    false
+   ],
+   [
+    "TaToH",
+    197388,
+    true
+   ]
+  ],
+  "http": 200,
+  "bytes": 791595,
+  "sha256": "6580691533196de50ef448180bdcb56b6ca0088654d84e4a5fb9e8f3e3a2b579",
+  "files": [
+   "tatoh/raw/ranked_508927645/AgeIIDE_Replay_508927645.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_508924320",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=508924320&profileId=197388",
+  "period": "2026 ranked",
+  "match": 508924320,
+  "started": "2026-09-24T18:36:07.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "Arabian Desert",
+  "players": [
+   [
+    "Red Phosphoru",
+    10266593,
+    false
+   ],
+   [
+    "TaToH",
+    197388,
+    true
+   ]
+  ],
+  "http": 200,
+  "bytes": 735003,
+  "sha256": "1f544a0f658977bc620c7aaf95d3075981bebd2fa0204c1303a85aeb00cd76fc",
+  "files": [
+   "tatoh/raw/ranked_508924320/AgeIIDE_Replay_508924320.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_508917520",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=508917520&profileId=197388",
+  "period": "2026 ranked",
+  "match": 508917520,
+  "started": "2026-09-24T18:04:18.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "Arabian Desert",
+  "players": [
+   [
+    "Gali",
+    5232543,
+    false
+   ],
+   [
+    "TaToH",
+    197388,
+    true
+   ]
+  ],
+  "http": 200,
+  "bytes": 914477,
+  "sha256": "0267a888622a1d3be1a01606a01694f2b70cec88eaa9f4ef4efb23cc340f41e0",
+  "files": [
+   "tatoh/raw/ranked_508917520/AgeIIDE_Replay_508917520.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_508914728",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=508914728&profileId=197388",
+  "period": "2026 ranked",
+  "match": 508914728,
+  "started": "2026-09-24T17:51:10.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "Arabian Desert",
+  "players": [
+   [
+    "Terz",
+    573282,
+    false
+   ],
+   [
+    "TaToH",
+    197388,
+    true
+   ]
+  ],
+  "http": 200,
+  "bytes": 750607,
+  "sha256": "0f513f158b8c4aa31a0aa783c51094355e2b958e02390727b3d6620a9fdd4eb4",
+  "files": [
+   "tatoh/raw/ranked_508914728/AgeIIDE_Replay_508914728.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_508907620",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=508907620&profileId=197388",
+  "period": "2026 ranked",
+  "match": 508907620,
+  "started": "2026-09-24T17:16:33.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "Arabian Desert",
+  "players": [
+   [
+    "ThunderboltX",
+    25183359,
+    false
+   ],
+   [
+    "TaToH",
+    197388,
+    true
+   ]
+  ],
+  "http": 200,
+  "bytes": 935417,
+  "sha256": "9918e822e3b494406174bb6e6a9f65f5afdbd37d297b999608b82bb7eca5e44e",
+  "files": [
+   "tatoh/raw/ranked_508907620/AgeIIDE_Replay_508907620.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_508902656",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=508902656&profileId=197388",
+  "period": "2026 ranked",
+  "match": 508902656,
+  "started": "2026-09-24T16:54:11.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "Golden Pit",
+  "players": [
+   [
+    "Zionic",
+    3025516,
+    false
+   ],
+   [
+    "TaToH",
+    197388,
+    true
+   ]
+  ],
+  "http": 200,
+  "bytes": 849190,
+  "sha256": "ffd897a3b85b825f8ebf7a8350c6a99d0c0d0223a2a74385a3fe2c078553cde6",
+  "files": [
+   "tatoh/raw/ranked_508902656/AgeIIDE_Replay_508902656.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_508899243",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=508899243&profileId=197388",
+  "period": "2026 ranked",
+  "match": 508899243,
+  "started": "2026-09-24T16:37:19.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "Arabian Desert",
+  "players": [
+   [
+    "Pume",
+    1554380,
+    false
+   ],
+   [
+    "TaToH",
+    197388,
+    true
+   ]
+  ],
+  "http": 200,
+  "bytes": 756777,
+  "sha256": "59379a8a854cb34bcc6dd7bc86971cb0d8d5c3ec67030ddcb3dd336493639f0d",
+  "files": [
+   "tatoh/raw/ranked_508899243/AgeIIDE_Replay_508899243.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_508893295",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=508893295&profileId=197388",
+  "period": "2026 ranked",
+  "match": 508893295,
+  "started": "2026-09-24T16:07:44.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "Golden Pit",
+  "players": [
+   [
+    "TaToH",
+    197388,
+    true
+   ],
+   [
+    "Old Time",
+    221879,
+    false
+   ]
+  ],
+  "http": 200,
+  "bytes": 917943,
+  "sha256": "1a89e3bb1fb924fdb61086b97ce8c4e52294d872a7cc9a88edf3b518f901e5dd",
+  "files": [
+   "tatoh/raw/ranked_508893295/AgeIIDE_Replay_508893295.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_508889323",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=508889323&profileId=197388",
+  "period": "2026 ranked",
+  "match": 508889323,
+  "started": "2026-09-24T15:47:43.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "Arabian Desert",
+  "players": [
+   [
+    "Terz",
+    573282,
+    false
+   ],
+   [
+    "TaToH",
+    197388,
+    true
+   ]
+  ],
+  "http": 200,
+  "bytes": 782631,
+  "sha256": "665cb95c53f35ce8323b0bd94ac929166f1e9da948d86529e9d4fc9ff5b111bb",
+  "files": [
+   "tatoh/raw/ranked_508889323/AgeIIDE_Replay_508889323.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_508883926",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=508883926&profileId=197388",
+  "period": "2026 ranked",
+  "match": 508883926,
+  "started": "2026-09-24T15:21:09.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "Arabian Desert",
+  "players": [
+   [
+    "Terz",
+    573282,
+    false
+   ],
+   [
+    "TaToH",
+    197388,
+    true
+   ]
+  ],
+  "http": 200,
+  "bytes": 880239,
+  "sha256": "40c741cb77d8a741af7e1315af5a91e4d3e07b3e7362a49af4cef777343c021d",
+  "files": [
+   "tatoh/raw/ranked_508883926/AgeIIDE_Replay_508883926.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_508468284",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=508468284&profileId=197388",
+  "period": "2026 ranked",
+  "match": 508468284,
+  "started": "2026-09-22T17:39:23.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "Arabia",
+  "players": [
+   [
+    "TaToH",
+    197388,
+    false
+   ],
+   [
+    "Hera",
+    199325,
+    true
+   ]
+  ],
+  "http": 200,
+  "bytes": 938772,
+  "sha256": "e7605ac01eda584635f6a8a97ccd789c7f1c123143b001826c65362e7301082a",
+  "files": [
+   "tatoh/raw/ranked_508468284/AgeIIDE_Replay_508468284.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_507093584",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=507093584&profileId=197388",
+  "period": "2026 ranked",
+  "match": 507093584,
+  "started": "2026-09-16T17:15:11.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "Golden Pit",
+  "players": [
+   [
+    "TaToH",
+    197388,
+    true
+   ],
+   [
+    "Nobody",
+    25836919,
+    false
+   ]
+  ],
+  "http": 200,
+  "bytes": 602624,
+  "sha256": "e9ab67c8d10472fca3f1f0995417398fc475e0c9fc456a58d80ddeb97a990509",
+  "files": [
+   "tatoh/raw/ranked_507093584/AgeIIDE_Replay_507093584.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_507075120",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=507075120&profileId=197388",
+  "period": "2026 ranked",
+  "match": 507075120,
+  "started": "2026-09-16T15:34:40.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "Migration",
+  "players": [
+   [
+    "CNZS_Dadaya",
+    20655768,
+    false
+   ],
+   [
+    "TaToH",
+    197388,
+    true
+   ]
+  ],
+  "http": 200,
+  "bytes": 696618,
+  "sha256": "e34cd1bf51900c9636384bdf0bf564c2b0e635dc048efb50998ac3763d28b13f",
+  "files": [
+   "tatoh/raw/ranked_507075120/AgeIIDE_Replay_507075120.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_507070391",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=507070391&profileId=197388",
+  "period": "2026 ranked",
+  "match": 507070391,
+  "started": "2026-09-16T15:11:22.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "Arena",
+  "players": [
+   [
+    "TaToH",
+    197388,
+    true
+   ],
+   [
+    "FelixAldi",
+    234400,
+    false
+   ]
+  ],
+  "http": 200,
+  "bytes": 690534,
+  "sha256": "e60e8fce7f82373a604869a4e420847fb430895c0b0b28399e6ffdd6b0b3aa07",
+  "files": [
+   "tatoh/raw/ranked_507070391/AgeIIDE_Replay_507070391.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_507064675",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=507064675&profileId=197388",
+  "period": "2026 ranked",
+  "match": 507064675,
+  "started": "2026-09-16T14:40:42.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "Hideout",
+  "players": [
+   [
+    "xana\u00edna",
+    5772003,
+    false
+   ],
+   [
+    "TaToH",
+    197388,
+    true
+   ]
+  ],
+  "http": 200,
+  "bytes": 717377,
+  "sha256": "d9123f7cd99f82725cbcb5413f960fb94959097c8f3ad62de7915b4670da52ff",
+  "files": [
+   "tatoh/raw/ranked_507064675/AgeIIDE_Replay_507064675.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_506897408",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=506897408&profileId=197388",
+  "period": "2026 ranked",
+  "match": 506897408,
+  "started": "2026-09-15T18:23:25.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "MegaRandom",
+  "players": [
+   [
+    "VarVarus",
+    4129359,
+    false
+   ],
+   [
+    "TaToH",
+    197388,
+    true
+   ]
+  ],
+  "http": 200,
+  "bytes": 776868,
+  "sha256": "c26e31b5b21dea5456b2da188573ecb7450d2f62ac64a8f1c216fa6c0281415d",
+  "files": [
+   "tatoh/raw/ranked_506897408/AgeIIDE_Replay_506897408.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_506894055",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=506894055&profileId=197388",
+  "period": "2026 ranked",
+  "match": 506894055,
+  "started": "2026-09-15T18:07:24.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "MegaRandom",
+  "players": [
+   [
+    "EMPEROR VASILIY ALIBABAEVICH",
+    4519871,
+    false
+   ],
+   [
+    "TaToH",
+    197388,
+    true
+   ]
+  ],
+  "http": 200,
+  "bytes": 624374,
+  "sha256": "f271376214b36fb3dd96a04d14ffcc8580f798ad72f8ec71ea492aa1bb060437",
+  "files": [
+   "tatoh/raw/ranked_506894055/AgeIIDE_Replay_506894055.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_506885930",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=506885930&profileId=197388",
+  "period": "2026 ranked",
+  "match": 506885930,
+  "started": "2026-09-15T17:24:20.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "Marketplace",
+  "players": [
+   [
+    "Jibatong",
+    25365699,
+    true
+   ],
+   [
+    "TaToH",
+    197388,
+    false
+   ]
+  ],
+  "http": 200,
+  "bytes": 742254,
+  "sha256": "4cc5c90be6a46b58dbbf67969797c664444bfc2123a139f4555d7474f0eb228a",
+  "files": [
+   "tatoh/raw/ranked_506885930/AgeIIDE_Replay_506885930.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_506880558",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=506880558&profileId=197388",
+  "period": "2026 ranked",
+  "match": 506880558,
+  "started": "2026-09-15T16:56:11.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "Marketplace",
+  "players": [
+   [
+    "Jibatong",
+    25365699,
+    false
+   ],
+   [
+    "TaToH",
+    197388,
+    true
+   ]
+  ],
+  "http": 200,
+  "bytes": 712743,
+  "sha256": "5320ee5d260f2481dd710f05e73babd05574a14bffe7f28bad8898fd67069b56",
+  "files": [
+   "tatoh/raw/ranked_506880558/AgeIIDE_Replay_506880558.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_506874133",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=506874133&profileId=197388",
+  "period": "2026 ranked",
+  "match": 506874133,
+  "started": "2026-09-15T16:21:22.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "MegaRandom",
+  "players": [
+   [
+    "TaToH",
+    197388,
+    true
+   ],
+   [
+    "T90",
+    197930,
+    false
+   ]
+  ],
+  "http": 200,
+  "bytes": 803422,
+  "sha256": "0f4fca6964ad2074570d530bb72246a00700af641a35de907fac56885d8901f3",
+  "files": [
+   "tatoh/raw/ranked_506874133/AgeIIDE_Replay_506874133.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_506842626",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=506842626&profileId=197388",
+  "period": "2026 ranked",
+  "match": 506842626,
+  "started": "2026-09-15T13:28:06.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "Migration",
+  "players": [
+   [
+    "TaToH",
+    197388,
+    true
+   ],
+   [
+    "Pume",
+    1554380,
+    false
+   ]
+  ],
+  "http": 200,
+  "bytes": 678256,
+  "sha256": "c91676be8ba370783ab1832def8aebe53752ae3f2c685754d53bc9ecea54b96f",
+  "files": [
+   "tatoh/raw/ranked_506842626/AgeIIDE_Replay_506842626.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_506842010",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=506842010&profileId=197388",
+  "period": "2026 ranked",
+  "match": 506842010,
+  "started": "2026-09-15T13:23:48.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "Enclosed",
+  "players": [
+   [
+    "Eray_",
+    23347000,
+    false
+   ],
+   [
+    "TaToH",
+    197388,
+    true
+   ]
+  ],
+  "http": 200,
+  "bytes": 495781,
+  "sha256": "4ded2f0d696fa505d5480f9820f4758b0d316008e11fc11c0695027d069fb3e4",
+  "files": [
+   "tatoh/raw/ranked_506842010/AgeIIDE_Replay_506842010.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_506837938",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=506837938&profileId=197388",
+  "period": "2026 ranked",
+  "match": 506837938,
+  "started": "2026-09-15T12:59:19.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "MegaRandom",
+  "players": [
+   [
+    "Dennis",
+    2912198,
+    false
+   ],
+   [
+    "TaToH",
+    197388,
+    true
+   ]
+  ],
+  "http": 200,
+  "bytes": 695307,
+  "sha256": "3bd42de3c8d72afaae08404bbca13b11896cb780dc2fb671be61873c6be4377f",
+  "files": [
+   "tatoh/raw/ranked_506837938/AgeIIDE_Replay_506837938.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_506700185",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=506700185&profileId=197388",
+  "period": "2026 ranked",
+  "match": 506700185,
+  "started": "2026-09-14T19:34:43.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "MegaRandom",
+  "players": [
+   [
+    "TaToH",
+    197388,
+    true
+   ],
+   [
+    "Harty",
+    10715836,
+    false
+   ]
+  ],
+  "http": 200,
+  "bytes": 659273,
+  "sha256": "fbd4f58d1f50823b7ea7958d0faf2a4a8f177646e184fef751c90d6d2f1301d1",
+  "files": [
+   "tatoh/raw/ranked_506700185/AgeIIDE_Replay_506700185.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_506687982",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=506687982&profileId=197388",
+  "period": "2026 ranked",
+  "match": 506687982,
+  "started": "2026-09-14T18:39:05.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "MegaRandom",
+  "players": [
+   [
+    "TaToH",
+    197388,
+    true
+   ],
+   [
+    "Yo",
+    197964,
+    false
+   ]
+  ],
+  "http": 200,
+  "bytes": 786913,
+  "sha256": "a18ba6caea785cabda86e482321dc7ff48a9479a5b3b4dc1733cec78478cf888",
+  "files": [
+   "tatoh/raw/ranked_506687982/AgeIIDE_Replay_506687982.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_506683393",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=506683393&profileId=197388",
+  "period": "2026 ranked",
+  "match": 506683393,
+  "started": "2026-09-14T18:17:10.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "MegaRandom",
+  "players": [
+   [
+    "TaToH",
+    197388,
+    false
+   ],
+   [
+    "Yo",
+    197964,
+    true
+   ]
+  ],
+  "http": 200,
+  "bytes": 698302,
+  "sha256": "f80c9a696ed4faf52afbd1a6652863564e4fd076d1d0d3da72b106b15b020bf8",
+  "files": [
+   "tatoh/raw/ranked_506683393/AgeIIDE_Replay_506683393.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_506421735",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=506421735&profileId=197388",
+  "period": "2026 ranked",
+  "match": 506421735,
+  "started": "2026-09-13T15:20:54.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "Enclosed",
+  "players": [
+   [
+    "Dark",
+    3108145,
+    true
+   ],
+   [
+    "TaToH",
+    197388,
+    false
+   ]
+  ],
+  "http": 200,
+  "bytes": 813719,
+  "sha256": "40c0e8e40e94c7f7a61205e56f1e1a5efb70e20abf16ce025c81fc0237f19c60",
+  "files": [
+   "tatoh/raw/ranked_506421735/AgeIIDE_Replay_506421735.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_505288489",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=505288489&profileId=197388",
+  "period": "2026 ranked",
+  "match": 505288489,
+  "started": "2026-09-08T18:59:11.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "MegaRandom",
+  "players": [
+   [
+    "TaToH",
+    197388,
+    true
+   ],
+   [
+    "ilovebaskets",
+    1292487,
+    false
+   ]
+  ],
+  "http": 200,
+  "bytes": 645239,
+  "sha256": "b4381b5b6565be690456a95adb3fd74c84971a5a599354efeb462e71ba0f9edc",
+  "files": [
+   "tatoh/raw/ranked_505288489/AgeIIDE_Replay_505288489.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_505286984",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=505286984&profileId=197388",
+  "period": "2026 ranked",
+  "match": 505286984,
+  "started": "2026-09-08T18:52:27.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "Migration",
+  "players": [
+   [
+    "_DY_\u5b5f\u5ddd",
+    1821855,
+    false
+   ],
+   [
+    "TaToH",
+    197388,
+    true
+   ]
+  ],
+  "http": 200,
+  "bytes": 496560,
+  "sha256": "92d48f5d97fb71fff21bb0f9a2acd1196b6414558a77b4199901cf79bd06bea1",
+  "files": [
+   "tatoh/raw/ranked_505286984/AgeIIDE_Replay_505286984.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_503599836",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=503599836&profileId=197388",
+  "period": "2026 ranked",
+  "match": 503599836,
+  "started": "2026-09-01T13:29:26.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "Acropolis",
+  "players": [
+   [
+    "TaToH",
+    197388,
+    false
+   ],
+   [
+    "Liereyy",
+    506898,
+    true
+   ]
+  ],
+  "http": 200,
+  "bytes": 716914,
+  "sha256": "1bbc0153dc897b5c9d15b94ed1f953a05eafea6d8a31efff224c6f2be62c981e",
+  "files": [
+   "tatoh/raw/ranked_503599836/AgeIIDE_Replay_503599836.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_503596731",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=503596731&profileId=197388",
+  "period": "2026 ranked",
+  "match": 503596731,
+  "started": "2026-09-01T13:10:18.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "MegaRandom",
+  "players": [
+   [
+    "Moneimon",
+    249653,
+    false
+   ],
+   [
+    "TaToH",
+    197388,
+    true
+   ]
+  ],
+  "http": 200,
+  "bytes": 694154,
+  "sha256": "e4b2fed17d190f92a1ffaa615635b8a366cf84aeab8ab9749dc8814805bfef1e",
+  "files": [
+   "tatoh/raw/ranked_503596731/AgeIIDE_Replay_503596731.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_503419779",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=503419779&profileId=197388",
+  "period": "2026 ranked",
+  "match": 503419779,
+  "started": "2026-08-31T16:49:17.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "MegaRandom",
+  "players": [
+   [
+    "SylPags",
+    20897475,
+    false
+   ],
+   [
+    "TaToH",
+    197388,
+    true
+   ]
+  ],
+  "http": 200,
+  "bytes": 671880,
+  "sha256": "6543c61634e7704c26ba13ea74b6a11bb4053b222bd37012223a24c85ef4553b",
+  "files": [
+   "tatoh/raw/ranked_503419779/AgeIIDE_Replay_503419779.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_502647651",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=502647651&profileId=197388",
+  "period": "2026 ranked",
+  "match": 502647651,
+  "started": "2026-08-28T16:14:40.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "MegaRandom",
+  "players": [
+   [
+    "Barles",
+    666976,
+    false
+   ],
+   [
+    "TaToH",
+    197388,
+    true
+   ]
+  ],
+  "http": 200,
+  "bytes": 758002,
+  "sha256": "d47c06416a6bb5a452c5a65df4f9ef8981157c9534fb071d93df7682cf540330",
+  "files": [
+   "tatoh/raw/ranked_502647651/AgeIIDE_Replay_502647651.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_502643690",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=502643690&profileId=197388",
+  "period": "2026 ranked",
+  "match": 502643690,
+  "started": "2026-08-28T15:54:48.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "MegaRandom",
+  "players": [
+   [
+    "Barles",
+    666976,
+    false
+   ],
+   [
+    "TaToH",
+    197388,
+    true
+   ]
+  ],
+  "http": 200,
+  "bytes": 628593,
+  "sha256": "14304f61eda3c180d3a7d2c5d4a5a7db9fd9a908848244101d862425061f6eff",
+  "files": [
+   "tatoh/raw/ranked_502643690/AgeIIDE_Replay_502643690.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_502637707",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=502637707&profileId=197388",
+  "period": "2026 ranked",
+  "match": 502637707,
+  "started": "2026-08-28T15:26:46.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "MegaRandom",
+  "players": [
+   [
+    "Barles",
+    666976,
+    true
+   ],
+   [
+    "TaToH",
+    197388,
+    false
+   ]
+  ],
+  "http": 200,
+  "bytes": 743538,
+  "sha256": "5356406fe25156dcd11d0dc1b703fe7d5400e984ffc5852a0db715054f96fe82",
+  "files": [
+   "tatoh/raw/ranked_502637707/AgeIIDE_Replay_502637707.aoe2record"
+  ]
+ },
+ {
+  "name": "ranked_502633630",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=502633630&profileId=197388",
+  "period": "2026 ranked",
+  "match": 502633630,
+  "started": "2026-08-28T15:08:13.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "MegaRandom",
+  "players": [
+   [
+    "Barles",
+    666976,
+    false
+   ],
+   [
+    "TaToH",
+    197388,
+    true
+   ]
+  ],
+  "http": 404,
+  "files": []
+ },
+ {
+  "name": "ranked_502192210",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=502192210&profileId=197388",
+  "period": "2026 ranked",
+  "match": 502192210,
+  "started": "2026-08-26T14:13:08.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "MegaRandom",
+  "players": [
+   [
+    "TaToH",
+    197388,
+    true
+   ],
+   [
+    "Qu\u1ea3ng Tr\u1ecb",
+    2660491,
+    false
+   ]
+  ],
+  "http": 404,
+  "files": []
+ },
+ {
+  "name": "ranked_502187522",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=502187522&profileId=197388",
+  "period": "2026 ranked",
+  "match": 502187522,
+  "started": "2026-08-26T13:47:58.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "QS Arena",
+  "players": [
+   [
+    "Vodka",
+    5632575,
+    false
+   ],
+   [
+    "TaToH",
+    197388,
+    true
+   ]
+  ],
+  "http": 404,
+  "files": []
+ },
+ {
+  "name": "ranked_501799492",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=501799492&profileId=197388",
+  "period": "2026 ranked",
+  "match": 501799492,
+  "started": "2026-08-24T18:02:18.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "MegaRandom",
+  "players": [
+   [
+    "TaToH",
+    197388,
+    true
+   ],
+   [
+    "Yo",
+    197964,
+    false
+   ]
+  ],
+  "http": 404,
+  "files": []
+ },
+ {
+  "name": "ranked_500790435",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=500790435&profileId=197388",
+  "period": "2026 ranked",
+  "match": 500790435,
+  "started": "2026-08-20T15:17:30.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "MegaRandom",
+  "players": [
+   [
+    "TaToH",
+    197388,
+    false
+   ],
+   [
+    "MbL",
+    251265,
+    true
+   ]
+  ],
+  "http": 404,
+  "files": []
+ },
+ {
+  "name": "ranked_500785049",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=500785049&profileId=197388",
+  "period": "2026 ranked",
+  "match": 500785049,
+  "started": "2026-08-20T14:50:53.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "MegaRandom",
+  "players": [
+   [
+    "Dooidy",
+    2594552,
+    false
+   ],
+   [
+    "TaToH",
+    197388,
+    true
+   ]
+  ],
+  "http": 404,
+  "files": []
+ },
+ {
+  "name": "ranked_500609792",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=500609792&profileId=197388",
+  "period": "2026 ranked",
+  "match": 500609792,
+  "started": "2026-08-19T18:18:55.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "QS Arena",
+  "players": [
+   [
+    "TaToH",
+    197388,
+    true
+   ],
+   [
+    "Lucho",
+    9423131,
+    false
+   ]
+  ],
+  "http": 404,
+  "files": []
+ },
+ {
+  "name": "ranked_500595940",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=500595940&profileId=197388",
+  "period": "2026 ranked",
+  "match": 500595940,
+  "started": "2026-08-19T17:06:32.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "QS Arena",
+  "players": [
+   [
+    "TaToH",
+    197388,
+    true
+   ],
+   [
+    "Lewis",
+    8793414,
+    false
+   ]
+  ],
+  "http": 404,
+  "files": []
+ },
+ {
+  "name": "ranked_499632292",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=499632292&profileId=197388",
+  "period": "2026 ranked",
+  "match": 499632292,
+  "started": "2026-08-15T15:37:11.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "Graveyards",
+  "players": [
+   [
+    "YuYa_AoE",
+    3032620,
+    false
+   ],
+   [
+    "TaToH",
+    197388,
+    true
+   ]
+  ],
+  "http": 404,
+  "files": []
+ },
+ {
+  "name": "ranked_499625587",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=499625587&profileId=197388",
+  "period": "2026 ranked",
+  "match": 499625587,
+  "started": "2026-08-15T15:07:17.000Z",
+  "lobby": "AUTOMATCH",
+  "map": "MegaRandom",
+  "players": [
+   [
+    "TaToH",
+    197388,
+    true
+   ],
+   [
+    "Ubetnir",
+    20313953,
+    false
+   ]
+  ],
+  "http": 404,
+  "files": []
+ },
+ {
+  "name": "lobby_511057711",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=511057711&profileId=197388",
+  "period": "2026 lobby 1v1",
+  "match": 511057711,
+  "started": "2026-10-03T17:05:16.000Z",
+  "lobby": "3v3",
+  "map": "TG2 - Arabia (Custom)",
+  "players": [
+   [
+    "Sora Kuma",
+    209118,
+    false
+   ],
+   [
+    "TaToH",
+    197388,
+    true
+   ]
+  ],
+  "http": 200,
+  "bytes": 689384,
+  "sha256": "f4839e818e2025990924b92dd319f0abb825d0706862429d5bbf52365b73d1b7",
+  "files": [
+   "tatoh/raw/lobby_511057711/AgeIIDE_Replay_511057711.aoe2record"
+  ]
+ },
+ {
+  "name": "lobby_511053797",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=511053797&profileId=197388",
+  "period": "2026 lobby 1v1",
+  "match": 511053797,
+  "started": "2026-10-03T16:44:57.000Z",
+  "lobby": "3v3",
+  "map": "TG2 - Chaos Pit (Custom)",
+  "players": [
+   [
+    "Sora Kuma",
+    209118,
+    false
+   ],
+   [
+    "TaToH",
+    197388,
+    true
+   ]
+  ],
+  "http": 200,
+  "bytes": 600481,
+  "sha256": "252c4f577f0cd692dd9d859b13a72e55f445a552f4a6d06dba01800a063ed647",
+  "files": [
+   "tatoh/raw/lobby_511053797/AgeIIDE_Replay_511053797.aoe2record"
+  ]
+ },
+ {
+  "name": "lobby_511046560",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=511046560&profileId=197388",
+  "period": "2026 lobby 1v1",
+  "match": 511046560,
+  "started": "2026-10-03T16:13:56.000Z",
+  "lobby": "3v3",
+  "map": "TG2 - Xingu (Custom)",
+  "players": [
+   [
+    "Sora Kuma",
+    209118,
+    true
+   ],
+   [
+    "TaToH",
+    197388,
+    false
+   ]
+  ],
+  "http": 200,
+  "bytes": 758551,
+  "sha256": "bdd5225e2e01c442a139507d2c96cc906cc183be73715a4937f4f973ed98b7ce",
+  "files": [
+   "tatoh/raw/lobby_511046560/AgeIIDE_Replay_511046560.aoe2record"
+  ]
+ },
+ {
+  "name": "lobby_511040166",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=511040166&profileId=197388",
+  "period": "2026 lobby 1v1",
+  "match": 511040166,
+  "started": "2026-10-03T15:46:02.000Z",
+  "lobby": "3v3",
+  "map": "TG2 - Nomad (Custom)",
+  "players": [
+   [
+    "Sora Kuma",
+    209118,
+    false
+   ],
+   [
+    "TaToH",
+    197388,
+    true
+   ]
+  ],
+  "http": 200,
+  "bytes": 705460,
+  "sha256": "1aedb2188c3fdeaa64ea00aa073bfea057674369b07bad2ec90c3ead567dcace",
+  "files": [
+   "tatoh/raw/lobby_511040166/AgeIIDE_Replay_511040166.aoe2record"
+  ]
+ },
+ {
+  "name": "lobby_510997318",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=510997318&profileId=197388",
+  "period": "2026 lobby 1v1",
+  "match": 510997318,
+  "started": "2026-10-03T12:36:46.000Z",
+  "lobby": "ABC",
+  "map": "TG2 - Arabia (Custom)",
+  "players": [
+   [
+    "TaToH",
+    197388,
+    true
+   ],
+   [
+    "Capoch",
+    409748,
+    false
+   ]
+  ],
+  "http": 200,
+  "bytes": 621875,
+  "sha256": "cf11a83162c76804590099c6360cfd0d7d80247c1f7e7c0f534859f5d520419a",
+  "files": [
+   "tatoh/raw/lobby_510997318/AgeIIDE_Replay_510997318.aoe2record"
+  ]
+ },
+ {
+  "name": "lobby_510992933",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=510992933&profileId=197388",
+  "period": "2026 lobby 1v1",
+  "match": 510992933,
+  "started": "2026-10-03T12:12:24.000Z",
+  "lobby": "ABC",
+  "map": "TG2 - Tidepool (Custom)",
+  "players": [
+   [
+    "TaToH",
+    197388,
+    true
+   ],
+   [
+    "Capoch",
+    409748,
+    false
+   ]
+  ],
+  "http": 200,
+  "bytes": 659088,
+  "sha256": "ca0f0f255f3ae21ba18b7d442dd3fd65dd1cf9b7df464570c51aa198f1cb1550",
+  "files": [
+   "tatoh/raw/lobby_510992933/AgeIIDE_Replay_510992933.aoe2record"
+  ]
+ },
+ {
+  "name": "lobby_510988467",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=510988467&profileId=197388",
+  "period": "2026 lobby 1v1",
+  "match": 510988467,
+  "started": "2026-10-03T11:44:11.000Z",
+  "lobby": "ABC",
+  "map": "TG2 - Chaos Pit (Custom)",
+  "players": [
+   [
+    "TaToH",
+    197388,
+    true
+   ],
+   [
+    "Capoch",
+    409748,
+    false
+   ]
+  ],
+  "http": 200,
+  "bytes": 707862,
+  "sha256": "f1a189ea34a014a3d39e03d06d3ba48f8a20e4ab4d34af25b605af87319f290a",
+  "files": [
+   "tatoh/raw/lobby_510988467/AgeIIDE_Replay_510988467.aoe2record"
+  ]
+ },
+ {
+  "name": "lobby_510777842",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=510777842&profileId=197388",
+  "period": "2026 lobby 1v1",
+  "match": 510777842,
+  "started": "2026-10-02T15:51:02.000Z",
+  "lobby": "ABC",
+  "map": "TG2 - Regicide Fortress (Custom)",
+  "players": [
+   [
+    "TaToH",
+    197388,
+    true
+   ],
+   [
+    "Lamo",
+    5188554,
+    false
+   ]
+  ],
+  "http": 200,
+  "bytes": 683918,
+  "sha256": "a630e857cc7b5c4319bbddd9b0afea4017b36afa635aa8cfc117549b8144703e",
+  "files": [
+   "tatoh/raw/lobby_510777842/AgeIIDE_Replay_510777842.aoe2record"
+  ]
+ },
+ {
+  "name": "lobby_510771979",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=510771979&profileId=197388",
+  "period": "2026 lobby 1v1",
+  "match": 510771979,
+  "started": "2026-10-02T15:22:49.000Z",
+  "lobby": "ABC",
+  "map": "TG2 - Xingu (Custom)",
+  "players": [
+   [
+    "TaToH",
+    197388,
+    true
+   ],
+   [
+    "Lamo",
+    5188554,
+    false
+   ]
+  ],
+  "http": 200,
+  "bytes": 743025,
+  "sha256": "1a227f735a539d1d6fad7b0e07f18e9bc60687aded764606da44de37595269d8",
+  "files": [
+   "tatoh/raw/lobby_510771979/AgeIIDE_Replay_510771979.aoe2record"
+  ]
+ },
+ {
+  "name": "lobby_510770026",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=510770026&profileId=197388",
+  "period": "2026 lobby 1v1",
+  "match": 510770026,
+  "started": "2026-10-02T15:11:52.000Z",
+  "lobby": "ABC",
+  "map": "TG2 - Ubari (Custom)",
+  "players": [
+   [
+    "TaToH",
+    197388,
+    true
+   ],
+   [
+    "Lamo",
+    5188554,
+    false
+   ]
+  ],
+  "http": 200,
+  "bytes": 636676,
+  "sha256": "26959ce0c3f7fefda427a6d6df9d3ea50b442ef07ab757248d629ca617b88e13",
+  "files": [
+   "tatoh/raw/lobby_510770026/AgeIIDE_Replay_510770026.aoe2record"
+  ]
+ },
+ {
+  "name": "lobby_510768616",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=510768616&profileId=197388",
+  "period": "2026 lobby 1v1",
+  "match": 510768616,
+  "started": "2026-10-02T15:09:05.000Z",
+  "lobby": "ABC",
+  "map": "TG2 - Ubari (Custom)",
+  "players": [
+   [
+    "TaToH",
+    197388,
+    false
+   ],
+   [
+    "Lamo",
+    5188554,
+    true
+   ]
+  ],
+  "http": 404,
+  "files": []
+ },
+ {
+  "name": "lobby_509112691",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=509112691&profileId=197388",
+  "period": "2026 lobby 1v1",
+  "match": 509112691,
+  "started": "2026-09-25T15:14:21.000Z",
+  "lobby": "Garrison",
+  "map": "TG2 - Chaos Pit (Custom)",
+  "players": [
+   [
+    "TaToH",
+    197388,
+    true
+   ],
+   [
+    "DongHaiDi",
+    15097184,
+    false
+   ]
+  ],
+  "http": 200,
+  "bytes": 536080,
+  "sha256": "0c19b1db42376d101062dde171437b175233ce1a6685be54d05b62df7951de9d",
+  "files": [
+   "tatoh/raw/lobby_509112691/AgeIIDE_Replay_509112691.aoe2record"
+  ]
+ },
+ {
+  "name": "lobby_509105894",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=509105894&profileId=197388",
+  "period": "2026 lobby 1v1",
+  "match": 509105894,
+  "started": "2026-09-25T14:38:43.000Z",
+  "lobby": "Garrison",
+  "map": "TG2 - Regicide Fortress (Custom)",
+  "players": [
+   [
+    "TaToH",
+    197388,
+    true
+   ],
+   [
+    "DongHaiDi",
+    15097184,
+    false
+   ]
+  ],
+  "http": 200,
+  "bytes": 837158,
+  "sha256": "5792f8361f98cd6dd88091fe0f10c81a6fa6e067f1f20b4e93de995354df98c8",
+  "files": [
+   "tatoh/raw/lobby_509105894/AgeIIDE_Replay_509105894.aoe2record"
+  ]
+ },
+ {
+  "name": "lobby_509104814",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=509104814&profileId=197388",
+  "period": "2026 lobby 1v1",
+  "match": 509104814,
+  "started": "2026-09-25T14:37:18.000Z",
+  "lobby": "Garrison",
+  "map": "TG2 - Regicide Fortress (Custom)",
+  "players": [
+   [
+    "TaToH",
+    197388,
+    false
+   ],
+   [
+    "DongHaiDi",
+    15097184,
+    true
+   ]
+  ],
+  "http": 200,
+  "bytes": 534500,
+  "sha256": "e4728b15ae81c2e100d4e007778c75fe6155952a9dedccfe865b8fa043a21479",
+  "files": [
+   "tatoh/raw/lobby_509104814/AgeIIDE_Replay_509104814.aoe2record"
+  ]
+ },
+ {
+  "name": "lobby_509101119",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=509101119&profileId=197388",
+  "period": "2026 lobby 1v1",
+  "match": 509101119,
+  "started": "2026-09-25T14:14:38.000Z",
+  "lobby": "Garrison",
+  "map": "TG2 - Xingu (Custom)",
+  "players": [
+   [
+    "TaToH",
+    197388,
+    true
+   ],
+   [
+    "DongHaiDi",
+    15097184,
+    false
+   ]
+  ],
+  "http": 200,
+  "bytes": 647481,
+  "sha256": "1d108ae5c5f80faad4630f9d3b999d13a4f2172e61286cdff4419d7328d0e952",
+  "files": [
+   "tatoh/raw/lobby_509101119/AgeIIDE_Replay_509101119.aoe2record"
+  ]
+ },
+ {
+  "name": "lobby_501621913",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=501621913&profileId=197388",
+  "period": "2026 lobby 1v1",
+  "match": 501621913,
+  "started": "2026-08-23T21:32:11.000Z",
+  "lobby": "CONQUIS ",
+  "map": "Nomad",
+  "players": [
+   [
+    "Mark Renton",
+    314216,
+    false
+   ],
+   [
+    "TaToH",
+    197388,
+    true
+   ]
+  ],
+  "http": 404,
+  "files": []
+ },
+ {
+  "name": "lobby_500406526",
+  "kind": "zip",
+  "url": "https://aoe.ms/replay/?gameId=500406526&profileId=197388",
+  "period": "2026 lobby 1v1",
+  "match": 500406526,
+  "started": "2026-08-18T19:30:17.000Z",
+  "lobby": "CONQUIS",
+  "map": "Chaos Pit",
+  "players": [
+   [
+    "CQ.Manudq85",
+    5043635,
+    false
+   ],
+   [
+    "TaToH",
+    197388,
+    true
+   ]
+  ],
+  "http": 404,
+  "files": []
+ }
+]

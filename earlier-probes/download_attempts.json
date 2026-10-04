@@ -1,0 +1,36 @@
+[
+  {
+    "name": "hc4-cache-refresh",
+    "url": "https://ageofnotes.com/wp-content/uploads/2021/05/7.-HC4-Ro16-Le-Loi-vs-John-the-Fearless.zip?replay_probe=20261004",
+    "http": 200,
+    "bytes": 524288,
+    "content_length": "524288",
+    "content_range": null,
+    "sha256": "e27c75023cfe3cd9ea01db0b1be06f052a14fa9130f94c925acfde48d8d7d0f2",
+    "saved": "artifacts/aoe2-aging/earlier-probes/hc4-cache-refresh.zip"
+  },
+  {
+    "name": "hc4-tail",
+    "url": "https://ageofnotes.com/wp-content/uploads/2021/05/7.-HC4-Ro16-Le-Loi-vs-John-the-Fearless.zip",
+    "http": 416,
+    "bytes": 0,
+    "content_length": "0",
+    "content_range": "bytes */524288",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "name": "aocrecs",
+    "url": "https://aocrecs.com",
+    "error": "HTTPSConnectionPool(host='aocrecs.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)')))"
+  },
+  {
+    "name": "archive-search",
+    "url": "https://archive.org/advancedsearch.php?q=tatoh&output=json&rows=25",
+    "http": 200,
+    "bytes": 9428,
+    "content_length": null,
+    "content_range": null,
+    "sha256": "fd32540c1644b5068eb9218e77b373580ac1579079f0c46c4b6522433d62b55c",
+    "saved": "artifacts/aoe2-aging/earlier-probes/archive-search.json"
+  }
+]

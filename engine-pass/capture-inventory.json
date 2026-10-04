@@ -1,0 +1,190 @@
+[
+  {
+    "folder": "daut-508977160-pilot",
+    "status": {
+      "game_version": 185872,
+      "api_version": 22,
+      "sequences": 8613,
+      "frames": 8613,
+      "commands": 292,
+      "events": 12,
+      "chat_events_removed": 0,
+      "first_time_ms": 0,
+      "last_time_ms": 114140,
+      "state": "stopped",
+      "complete_match_verified": false,
+      "elapsed_seconds": 119.99,
+      "grpc_code": "DEADLINE_EXCEEDED",
+      "error": "Deadline Exceeded"
+    }
+  },
+  {
+    "folder": "full-3598af4f05ca",
+    "status": {
+      "game_version": 185872,
+      "api_version": 22,
+      "sequences": 67323,
+      "frames": 67323,
+      "commands": 2262,
+      "events": 1267,
+      "chat_events_removed": 2,
+      "first_time_ms": 104,
+      "last_time_ms": 877383,
+      "state": "stopped",
+      "complete_match_verified": true,
+      "time_steps_skipped": 0,
+      "maximum_frames_queued": 37,
+      "resign_commands": 1,
+      "elapsed_seconds": 338.33,
+      "grpc_code": "CANCELLED",
+      "error": "Locally cancelled by application!",
+      "expected_duration_ms": 877383.0000000001
+    }
+  },
+  {
+    "folder": "full-61c225f6fcca",
+    "status": {
+      "game_version": 185872,
+      "api_version": 22,
+      "sequences": 0,
+      "frames": 0,
+      "commands": 0,
+      "events": 0,
+      "chat_events_removed": 0,
+      "first_time_ms": null,
+      "last_time_ms": null,
+      "state": "stopped",
+      "complete_match_verified": false,
+      "time_steps_skipped": 0,
+      "maximum_frames_queued": 0,
+      "resign_commands": 0,
+      "grpc_code": "CANCELLED",
+      "error": "Locally cancelled by application!"
+    }
+  },
+  {
+    "folder": "full-61c225f6fcca-attempt-2",
+    "status": {
+      "game_version": 185872,
+      "api_version": 22,
+      "sequences": 81151,
+      "frames": 81151,
+      "commands": 3005,
+      "events": 1298,
+      "chat_events_removed": 5,
+      "first_time_ms": 104,
+      "last_time_ms": 1057147,
+      "state": "stopped",
+      "complete_match_verified": true,
+      "time_steps_skipped": 0,
+      "maximum_frames_queued": 37,
+      "resign_commands": 1,
+      "elapsed_seconds": 185.91,
+      "grpc_code": "CANCELLED",
+      "error": "Locally cancelled by application!",
+      "expected_duration_ms": 1057147.0
+    }
+  },
+  {
+    "folder": "full-67f43712e111",
+    "status": {
+      "game_version": 185872,
+      "api_version": 22,
+      "sequences": 104745,
+      "frames": 104745,
+      "commands": 4595,
+      "events": 1474,
+      "chat_events_removed": 6,
+      "first_time_ms": 104,
+      "last_time_ms": 1363869,
+      "state": "stopped",
+      "complete_match_verified": true,
+      "time_steps_skipped": 0,
+      "maximum_frames_queued": 37,
+      "resign_commands": 1,
+      "elapsed_seconds": 280.81,
+      "grpc_code": "CANCELLED",
+      "error": "Locally cancelled by application!",
+      "expected_duration_ms": 1363869.0
+    }
+  },
+  {
+    "folder": "full-a467a9f1780f",
+    "status": {
+      "game_version": 185872,
+      "api_version": 22,
+      "sequences": 58708,
+      "frames": 58708,
+      "commands": 1787,
+      "events": 427,
+      "chat_events_removed": 2,
+      "first_time_ms": 104,
+      "last_time_ms": 765388,
+      "state": "stopped",
+      "complete_match_verified": false,
+      "time_steps_skipped": 0,
+      "maximum_frames_queued": 37,
+      "resign_commands": 0,
+      "elapsed_seconds": 956.85,
+      "grpc_code": "CANCELLED",
+      "error": "Locally cancelled by application!",
+      "expected_duration_ms": 1510365.0
+    }
+  },
+  {
+    "folder": "full-c7d3588daf74",
+    "status": {
+      "game_version": 185872,
+      "api_version": 22,
+      "sequences": 95,
+      "frames": 95,
+      "commands": 13,
+      "events": 0,
+      "chat_events_removed": 0,
+      "first_time_ms": 104,
+      "last_time_ms": 3419,
+      "state": "stopped",
+      "complete_match_verified": false,
+      "time_steps_skipped": 0,
+      "maximum_frames_queued": 3,
+      "resign_commands": 0,
+      "elapsed_seconds": 7.68,
+      "grpc_code": "CANCELLED",
+      "error": "Locally cancelled by application!"
+    }
+  },
+  {
+    "folder": "full-c7d3588daf74-attempt-2",
+    "status": {
+      "game_version": 185872,
+      "api_version": 22,
+      "sequences": 108792,
+      "frames": 108792,
+      "commands": 2506,
+      "events": 1234,
+      "chat_events_removed": 4,
+      "first_time_ms": 104,
+      "last_time_ms": 1416480,
+      "state": "stopped",
+      "complete_match_verified": true,
+      "time_steps_skipped": 0,
+      "maximum_frames_queued": 37,
+      "resign_commands": 1,
+      "elapsed_seconds": 539.02,
+      "grpc_code": "CANCELLED",
+      "error": "Locally cancelled by application!",
+      "expected_duration_ms": 1416480,
+      "end_verified_after_final_flush": true
+    }
+  },
+  {
+    "folder": "startup-probe",
+    "status": {
+      "state": "connection_failed",
+      "frames": 0,
+      "grpc_code": "UNAVAILABLE",
+      "error": "failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:4341: Failed to connect to remote host: connect: Connection refused (61)",
+      "complete_match_verified": false
+    }
+  }
+]

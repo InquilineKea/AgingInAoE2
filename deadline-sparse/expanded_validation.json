@@ -1,0 +1,46 @@
+{
+  "catalog_entries": 255,
+  "command_feature_observations": 49,
+  "command_features_per_window": 31,
+  "command_windows_compared_with_prior_verified_core_rate": 88,
+  "core_rate_agreement": true,
+  "engine_actor_observations": 6,
+  "complete_match_captures": [
+    {
+      "folder": "full-c7d3588daf74-attempt-2",
+      "frames": 108792,
+      "commands": 2506,
+      "last_game_time_ms": 1416480,
+      "compressed_bytes": 97140024,
+      "zero_reported_skips": true
+    },
+    {
+      "folder": "full-3598af4f05ca",
+      "frames": 67323,
+      "commands": 2262,
+      "last_game_time_ms": 877383,
+      "compressed_bytes": 44520129,
+      "zero_reported_skips": true
+    },
+    {
+      "folder": "full-67f43712e111",
+      "frames": 104745,
+      "commands": 4595,
+      "last_game_time_ms": 1363869,
+      "compressed_bytes": 89921796,
+      "zero_reported_skips": true
+    },
+    {
+      "folder": "full-61c225f6fcca-attempt-2",
+      "frames": 81151,
+      "commands": 3005,
+      "last_game_time_ms": 1057147,
+      "compressed_bytes": 63729901,
+      "zero_reported_skips": true
+    }
+  ],
+  "complete_match_frames": 362011,
+  "state_schema_decoded": false,
+  "2019_candidate_quarantined": true,
+  "no_cognitive_constructs_measured": true
+}

@@ -1,0 +1,12 @@
+{
+  "measured_trait_definitions": 82,
+  "comparison_sets": 7,
+  "windowed_comparison_rows": 1148,
+  "rows_with_both_periods": 808,
+  "verified_player_game_observations": 98,
+  "provisional_2019_separate": true,
+  "short_game_excluded_from_10_min_opening": true,
+  "weighting": "equal series/session clusters; games share cluster weight; weighted median; midpoint when cumulative weight equals one half",
+  "state_traits_unavailable": true,
+  "age_effect_identified": false
+}

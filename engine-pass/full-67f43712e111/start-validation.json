@@ -1,0 +1,10 @@
+{
+  "first_state_time_ms": 104,
+  "first_recorded_command_time_ms": 416.0,
+  "source_hash_verified": true,
+  "player_names_verified": [
+    "DS_StonePleaseAoE",
+    "Oni.TheViper"
+  ],
+  "capture_began_before_first_recorded_command": true
+}

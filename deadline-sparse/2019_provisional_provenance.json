@@ -1,0 +1,32 @@
+{
+  "url": "https://archive.org/details/rec.20190928-160552",
+  "replay_sha256": "a182d3a2b3552cb66d0301718d177b9e4200e33603735c7e5f7b8d0f70c0a39d",
+  "file_bytes": 1900312,
+  "body_end": 1900312,
+  "full_body_consumed": true,
+  "duration_game_minutes": 32.98311666666667,
+  "header_players": [
+    "+Zaid",
+    "feudalVoy"
+  ],
+  "archive_title": "Tatoh p\u00ederde feudalVoy",
+  "archive_description": "Tatoh pierde con feudalVoy",
+  "date_precision": "2019-09-28 filename; uploaded 2019-10-29",
+  "identity_status": "Uploader attribution plus matching alias; not independent account verification",
+  "special_challenge": "Feudal-only series attribution; not comparable to unrestricted ranked/tournament play",
+  "unattributed_action_fraction": 0.2089489235964542,
+  "unattributed_types": {
+    "QUEUE": 278,
+    "GATHER_POINT": 290,
+    "STANCE": 171,
+    "SPECIAL": 85,
+    "UNGARRISON": 82,
+    "ADD_WAYPOINT": 15,
+    "BACK_TO_WORK": 20,
+    "PATROL": 45,
+    "GATE": 3,
+    "POSTGAME": 1
+  },
+  "included_in_main_comparison": false,
+  "timing_comparable_to_DE": false
+}

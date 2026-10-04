@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+*.zip
+raw/
+tatoh/raw/
+tools/
+engine-pass/**/frames.pb.gz
+engine-pass/**/initial-patch.bin
+*.pem
+*.key
+.env*

@@ -1,0 +1,17 @@
+[
+  {
+    "file": "raw/hc4_daut_ro8/[HC4]10.2  Ro8 - Sundjata vs Gonzalo Pizarro g2.aoe2record",
+    "sha256": "8e71220cea16bf6ceb4d329230f1df3ded7d066cfda75e5e40d08e8b252432a1",
+    "error": "AssertionError: Replay clock mismatch: body sync 1293746 ms vs accumulated 17235 ms; header restore 1276000 ms"
+  },
+  {
+    "file": "raw/hc4_viper_ro8/[HC4]11.2  Ro8 - Ivaylo vs Edward Longshanks g2.aoe2record",
+    "sha256": "eac073c44612f87f3b31423c7d42216584159c0471a09b6a49bec3a7f8ca23c0",
+    "error": "AssertionError: Replay clock mismatch: body sync 142532 ms vs accumulated 11458 ms; header restore 131000 ms"
+  },
+  {
+    "file": "raw/historical_119/Expart games 2012 01 06 arabia G1 .mgx",
+    "sha256": "abfca9f523fb8ddf69fc6c72389752a32ec99e2249c23264914a4d164ee8f1ab",
+    "error": "AssertionError: ('Expart games 2012 01 06 arabia G1 .mgx', 'MOVE', Counter({'total': 6207, 'attributed': 5170}))"
+  }
+]

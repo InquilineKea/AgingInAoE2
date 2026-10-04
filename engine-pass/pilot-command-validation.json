@@ -1,0 +1,18 @@
+{
+  "scope": "partial opening pilot, not a full match",
+  "last_game_time_ms": 114140,
+  "movement_order_counts": {
+    "movement_order_commands": 265,
+    "with_explicit_units": 265,
+    "human_order_true": 265
+  },
+  "comm_player_counts": {
+    "1": 146,
+    "2": 119
+  },
+  "event_types": {
+    "null": 12
+  },
+  "onager_dodges_classified": 0,
+  "state_decoder_valid_for_current_patch": false
+}

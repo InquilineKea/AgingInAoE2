@@ -1,0 +1,26 @@
+[
+  {
+    "check": "independent mgz.model vs local body decoder",
+    "file": "raw/hc4_daut/[HC4]4.1  Ro16 - Pope Leo vs Gonzalo g1.aoe2record",
+    "action_count": 6722,
+    "exact_timestamp_type_owner_agreement": true
+  },
+  {
+    "check": "independent mgz.model vs local body decoder",
+    "file": "raw/hc4_viper/[HC4]5.1  Ro16 - King Bela IV vs Ivaylo g1.aoe2record",
+    "action_count": 6322,
+    "exact_timestamp_type_owner_agreement": true
+  },
+  {
+    "check": "hashes/full body consumed/non-restored",
+    "files": 43
+  },
+  {
+    "check": "2026 independent sync clock checkpoints",
+    "n": 2891
+  },
+  {
+    "check": "per-game rate/time/entropy/fraction invariants",
+    "observations": 44
+  }
+]

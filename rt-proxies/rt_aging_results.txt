@@ -1,0 +1,46 @@
+== Focal player, cluster-weighted median (n games with a value)
+  group                                  feudal_resp       castle_resp  attack_resp_medi  attack_resp_with  spatial_switch_c  task_switch_cost  corrections_per1     fatigue_ratio
+  DauT 2011 1v1 challenge                 2.19 (n 4)        2.59 (n 3)        1.80 (n 4)        0.96 (n 4)           - (n 0)           - (n 0)           - (n 0)        0.91 (n 2)
+  DauT 2012 team game                        - (n 0)           - (n 0)        6.09 (n 7)        0.74 (n 7)           - (n 0)           - (n 0)           - (n 0)        0.52 (n 6)
+  DauT 2021 1v1 tournament                2.39 (n 9)        2.07 (n 8)        1.94 (n 9)        0.89 (n 9)        0.73 (n 9)        0.54 (n 9)        0.19 (n 9)        0.81 (n 5)
+  DauT 2026 1v1 ranked                    6.37 (n 5)        5.69 (n 2)        0.54 (n 5)        1.00 (n 5)        0.61 (n 5)        0.53 (n 5)        1.91 (n 5)        1.39 (n 1)
+  TheViper 2012 team game                 2.49 (n 8)        2.80 (n 7)        1.62 (n 9)        0.78 (n 9)           - (n 0)           - (n 0)           - (n 0)        0.69 (n 8)
+  TheViper 2021 1v1 tournament            6.62 (n 5)        1.46 (n 4)        2.21 (n 5)        0.92 (n 5)        0.95 (n 5)        0.60 (n 5)        0.13 (n 5)        0.82 (n 4)
+  TheViper 2026 1v1 ranked                6.37 (n 5)        1.36 (n 3)        1.50 (n 5)        1.00 (n 5)        0.84 (n 5)        0.36 (n 5)        2.01 (n 5)        0.70 (n 1)
+  TaToH 2021 tournament                  11.04 (n 1)        6.20 (n 1)        2.32 (n 1)        0.85 (n 1)        0.96 (n 1)        0.48 (n 1)        0.18 (n 1)        0.96 (n 1)
+  TaToH 2026 tournament                   2.28 (n10)        4.01 (n 9)        0.84 (n13)        0.94 (n13)        0.72 (n12)        0.47 (n13)        2.94 (n13)        1.01 (n 5)
+  TaToH 2026 ranked                       6.02 (n37)        3.21 (n28)        1.56 (n40)        0.95 (n40)        0.72 (n40)        0.36 (n40)        2.66 (n40)        0.78 (n11)
+
+== Pooled attack-onset response latencies (focal, all onsets with a response)
+  DauT     2011 1v1 challenge     n=  69  p25= 0.72  median= 1.80  p75= 5.58
+  DauT     2012 team game         n= 146  p25= 0.99  median= 3.23  p75= 8.09
+  DauT     2021 1v1 tournament    n= 211  p25= 0.61  median= 2.19  p75= 5.96
+  DauT     2026 1v1 ranked        n=  74  p25= 0.24  median= 0.78  p75= 1.92
+  TheViper 2012 team game         n= 181  p25= 0.66  median= 1.74  p75= 4.32
+  TheViper 2021 1v1 tournament    n= 118  p25= 0.62  median= 2.34  p75= 5.83
+  TheViper 2026 1v1 ranked        n=  93  p25= 0.35  median= 1.20  p75= 3.12
+  TaToH    2021 tournament        n=  44  p25= 0.58  median= 2.32  p75= 5.65
+  TaToH    2026 tournament        n= 224  p25= 0.36  median= 0.86  p75= 3.04
+  TaToH    2026 ranked            n= 602  p25= 0.37  median= 1.21  p75= 3.25
+
+== Age-up response excluded as out of range (count)
+  DauT     2011 1v1 challenge     feudal kept 4/4, out-of-range 0; castle kept 3, out-of-range 0
+  DauT     2012 team game         feudal kept 0/7, out-of-range 0; castle kept 0, out-of-range 0
+  DauT     2021 1v1 tournament    feudal kept 9/9, out-of-range 0; castle kept 8, out-of-range 1
+  DauT     2026 1v1 ranked        feudal kept 5/5, out-of-range 0; castle kept 2, out-of-range 2
+  TheViper 2012 team game         feudal kept 8/9, out-of-range 0; castle kept 7, out-of-range 1
+  TheViper 2021 1v1 tournament    feudal kept 5/5, out-of-range 0; castle kept 4, out-of-range 0
+  TheViper 2026 1v1 ranked        feudal kept 5/5, out-of-range 0; castle kept 3, out-of-range 0
+  TaToH    2021 tournament        feudal kept 1/1, out-of-range 0; castle kept 1, out-of-range 0
+  TaToH    2026 tournament        feudal kept 10/13, out-of-range 1; castle kept 9, out-of-range 0
+  TaToH    2026 ranked            feudal kept 37/40, out-of-range 1; castle kept 28, out-of-range 3
+
+== Focal minus opponent, same 1v1 game (median of per-game differences)
+  DauT     2011 1v1 challenge     attack_resp=+0.36(n4)  attack_resp=+0.00(n4)  fatigue_rati=+1.03(n2)
+  DauT     2021 1v1 tournament    feudal_resp=-0.86(n7)  castle_resp=+0.42(n6)  attack_resp=-0.07(n9)  attack_resp=+0.02(n9)  spatial_swit=-0.13(n9)  task_swit=-0.13(n9)  corrections_per1=+0.00(n9)  fatigue_rati=-0.11(n5)
+  DauT     2026 1v1 ranked        feudal_resp=+1.38(n4)  attack_resp=-1.20(n5)  attack_resp=+0.00(n5)  spatial_swit=-0.36(n5)  task_swit=-0.18(n5)  corrections_per1=-0.59(n5)  fatigue_rati=-0.02(n1)  castle_resp=-10.58(n1)
+  TheViper 2021 1v1 tournament    feudal_resp=+12.36(n3)  castle_resp=+2.96(n3)  attack_resp=+0.35(n5)  attack_resp=+0.01(n5)  spatial_swit=-0.14(n5)  task_swit=-0.13(n5)  corrections_per1=-0.10(n5)  fatigue_rati=+0.14(n4)
+  TheViper 2026 1v1 ranked        feudal_resp=+3.31(n4)  attack_resp=+0.12(n5)  attack_resp=+0.00(n5)  spatial_swit=-0.25(n5)  task_swit=-0.12(n5)  corrections_per1=-0.04(n5)  castle_resp=+7.69(n1)  fatigue_rati=+0.11(n1)
+  TaToH    2021 tournament        feudal_resp=+6.32(n1)  castle_resp=+0.98(n1)  attack_resp=+0.01(n1)  attack_resp=-0.05(n1)  spatial_swit=-0.12(n1)  task_swit=-0.12(n1)  corrections_per1=-0.80(n1)  fatigue_rati=+0.22(n1)
+  TaToH    2026 tournament        feudal_resp=-1.56(n9)  castle_resp=+2.70(n6)  attack_resp=-0.24(n13)  attack_resp=-0.01(n13)  spatial_swit=-0.25(n12)  task_swit=-0.12(n13)  corrections_per1=+0.02(n13)  fatigue_rati=+0.04(n5)
+  TaToH    2026 ranked            attack_resp=+0.12(n40)  attack_resp=+0.00(n40)  spatial_swit=-0.24(n38)  task_swit=-0.13(n40)  corrections_per1=+0.37(n40)  feudal_resp=-1.32(n35)  castle_resp=+0.72(n21)  fatigue_rati=+0.05(n11)

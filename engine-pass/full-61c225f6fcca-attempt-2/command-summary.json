@@ -1,0 +1,46 @@
+{
+  "frames": 81151,
+  "first_game_time_ms": 104,
+  "last_game_time_ms": 1057147,
+  "time_steps_skipped": 0,
+  "command_types": {
+    "transformObject": 3,
+    "game": 2,
+    "multiQueue": 111,
+    "build": 67,
+    "move": 1802,
+    "setGatherPoint": 323,
+    "interact": 307,
+    "unitAiState": 119,
+    "unitOrder": 96,
+    "follow": 29,
+    "unload": 48,
+    "research": 13,
+    "buildWall": 28,
+    "cancelBuild": 12,
+    "formFormation": 13,
+    "patrol": 17,
+    "repair": 3,
+    "goBackToWork": 5,
+    "stop": 6,
+    "resign": 1
+  },
+  "event_types": {
+    "unparsed_new_event": 1284,
+    "combatNotificationSound": 14
+  },
+  "comm_player_command_counts": {
+    "2": 1105,
+    "1": 1005
+  },
+  "commands_with_unit_list_field": 2858,
+  "commands_with_explicit_unit_ids": 2858,
+  "human_order_true_count": 2109,
+  "onager_dodges_classified": 0,
+  "state_schema_decoded": false,
+  "limitations": [
+    "Current binary state schema is not yet decoded.",
+    "New event types are retained as protobuf data but not classified.",
+    "Commands alone do not identify onager dodges or reaction time."
+  ]
+}

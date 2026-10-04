@@ -1,0 +1,877 @@
+[
+  {
+    "file": "artifacts/aoe2-aging/raw/historical_110/Daut vs Chris BO21 challenge_S1_G1_arabia.mgx",
+    "meta": {
+      "players": [
+        {
+          "number": 1,
+          "name": "[TyRanT]_DauT_",
+          "civilization_id": 15,
+          "color_id": 0
+        },
+        {
+          "number": 2,
+          "name": "_OrCuS_",
+          "civilization_id": 15,
+          "color_id": 2
+        }
+      ],
+      "speed": 1.5,
+      "dimension": 120,
+      "map_id": 9,
+      "timestamp": null,
+      "restore_time": 0,
+      "decoder": "mgz construct classic header + mgz body",
+      "duration_s": 2495.52,
+      "save_version": 11.76,
+      "game_version": "VER 9.4",
+      "log_version": 4,
+      "sync_checks": 0,
+      "operations": {
+        "SYNC": 55062,
+        "VIEWLOCK": 55062,
+        "ACTION": 4929,
+        "CHAT": 8
+      },
+      "body_start": 87824,
+      "body_end": 1620536,
+      "resigned": [
+        2
+      ]
+    }
+  },
+  {
+    "file": "artifacts/aoe2-aging/raw/historical_110/Daut vs Chris BO21 challenge_S1_G2_Black Forest.mgx",
+    "meta": {
+      "players": [
+        {
+          "number": 1,
+          "name": "[TyRanT]_DauT_",
+          "civilization_id": 13,
+          "color_id": 0
+        },
+        {
+          "number": 2,
+          "name": "_OrCuS_",
+          "civilization_id": 13,
+          "color_id": 2
+        }
+      ],
+      "speed": 1.5,
+      "dimension": 120,
+      "map_id": 12,
+      "timestamp": null,
+      "restore_time": 0,
+      "decoder": "mgz construct classic header + mgz body",
+      "duration_s": 2571.66,
+      "save_version": 11.76,
+      "game_version": "VER 9.4",
+      "log_version": 4,
+      "sync_checks": 0,
+      "operations": {
+        "SYNC": 56754,
+        "VIEWLOCK": 56754,
+        "ACTION": 3608,
+        "CHAT": 11
+      },
+      "body_start": 190685,
+      "body_end": 1710394,
+      "resigned": [
+        2
+      ]
+    }
+  },
+  {
+    "file": "artifacts/aoe2-aging/raw/historical_110/Daut vs Chris BO21 challenge_S1_G3_Regiside Fortress.mgx",
+    "meta": {
+      "players": [
+        {
+          "number": 1,
+          "name": "[TyRanT]_DauT_",
+          "civilization_id": 16,
+          "color_id": 0
+        },
+        {
+          "number": 2,
+          "name": "_OrCuS_",
+          "civilization_id": 6,
+          "color_id": 2
+        }
+      ],
+      "speed": 1.5,
+      "dimension": 120,
+      "map_id": 44,
+      "timestamp": null,
+      "restore_time": 0,
+      "decoder": "mgz construct classic header + mgz body",
+      "duration_s": 2052.54,
+      "save_version": 11.76,
+      "game_version": "VER 9.4",
+      "log_version": 4,
+      "sync_checks": 0,
+      "operations": {
+        "SYNC": 45098,
+        "VIEWLOCK": 45098,
+        "ACTION": 3877,
+        "CHAT": 10
+      },
+      "body_start": 92092,
+      "body_end": 1343031,
+      "resigned": [
+        2
+      ]
+    }
+  },
+  {
+    "file": "artifacts/aoe2-aging/raw/historical_110/Daut vs Chris BO21 challenge_S1_G4_Full Random.mgx",
+    "meta": {
+      "players": [
+        {
+          "number": 1,
+          "name": "[TyRanT]_DauT_",
+          "civilization_id": 11,
+          "color_id": 0
+        },
+        {
+          "number": 2,
+          "name": "_OrCuS_",
+          "civilization_id": 11,
+          "color_id": 2
+        }
+      ],
+      "speed": 1.5,
+      "dimension": 144,
+      "map_id": 10,
+      "timestamp": null,
+      "restore_time": 0,
+      "decoder": "mgz construct classic header + mgz body",
+      "duration_s": 1972.395,
+      "save_version": 11.76,
+      "game_version": "VER 9.4",
+      "log_version": 4,
+      "sync_checks": 0,
+      "operations": {
+        "SYNC": 43437,
+        "VIEWLOCK": 43437,
+        "ACTION": 3833,
+        "CHAT": 11
+      },
+      "body_start": 84586,
+      "body_end": 1294852,
+      "resigned": [
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "file": "artifacts/aoe2-aging/raw/historical_119/Expart games 2012 01 06 arabia G1 .mgx",
+    "meta": {
+      "players": [
+        {
+          "number": 1,
+          "name": "Vo0do0",
+          "civilization_id": 12,
+          "color_id": 2
+        },
+        {
+          "number": 2,
+          "name": "L_Clan_Fr0do_",
+          "civilization_id": 16,
+          "color_id": 1
+        },
+        {
+          "number": 3,
+          "name": "Akodo",
+          "civilization_id": 16,
+          "color_id": 3
+        },
+        {
+          "number": 4,
+          "name": "TheViper",
+          "civilization_id": 17,
+          "color_id": 4
+        },
+        {
+          "number": 5,
+          "name": "The_Armenian",
+          "civilization_id": 17,
+          "color_id": 5
+        },
+        {
+          "number": 6,
+          "name": "[RoR]S1esta__",
+          "civilization_id": 12,
+          "color_id": 0
+        }
+      ],
+      "speed": 1.5,
+      "dimension": 200,
+      "map_id": 9,
+      "timestamp": null,
+      "restore_time": 0,
+      "decoder": "mgz construct classic header + mgz body",
+      "duration_s": 2748.06,
+      "save_version": 11.76,
+      "game_version": "VER 9.4",
+      "log_version": 4,
+      "sync_checks": 0,
+      "operations": {
+        "SYNC": 60636,
+        "VIEWLOCK": 60636,
+        "ACTION": 13530,
+        "CHAT": 44
+      },
+      "body_start": 203556,
+      "body_end": 2324433,
+      "resigned": [
+        3,
+        1,
+        5
+      ]
+    }
+  },
+  {
+    "file": "artifacts/aoe2-aging/raw/historical_119/Expart games 2012 01 06 arabia G2.mgx",
+    "meta": {
+      "players": [
+        {
+          "number": 1,
+          "name": "None_Right_Now",
+          "civilization_id": 3,
+          "color_id": 6
+        },
+        {
+          "number": 2,
+          "name": "Vo0do0",
+          "civilization_id": 4,
+          "color_id": 2
+        },
+        {
+          "number": 3,
+          "name": "Ideas_Necias",
+          "civilization_id": 16,
+          "color_id": 1
+        },
+        {
+          "number": 4,
+          "name": "BreathingLove",
+          "civilization_id": 15,
+          "color_id": 3
+        },
+        {
+          "number": 5,
+          "name": "TheViper",
+          "civilization_id": 12,
+          "color_id": 4
+        },
+        {
+          "number": 6,
+          "name": "The_Armenian",
+          "civilization_id": 18,
+          "color_id": 5
+        },
+        {
+          "number": 7,
+          "name": "HasanForgiveMe",
+          "civilization_id": 6,
+          "color_id": 0
+        },
+        {
+          "number": 8,
+          "name": "SlipKn0T_RedHot",
+          "civilization_id": 10,
+          "color_id": 7
+        }
+      ],
+      "speed": 1.5,
+      "dimension": 220,
+      "map_id": 9,
+      "timestamp": null,
+      "restore_time": 0,
+      "decoder": "mgz construct classic header + mgz body",
+      "duration_s": 3385.26,
+      "save_version": 11.76,
+      "game_version": "VER 9.4",
+      "log_version": 4,
+      "sync_checks": 0,
+      "operations": {
+        "SYNC": 74834,
+        "VIEWLOCK": 74834,
+        "ACTION": 19416,
+        "CHAT": 258
+      },
+      "body_start": 258497,
+      "body_end": 3046473,
+      "resigned": [
+        2,
+        7,
+        8,
+        6
+      ]
+    }
+  },
+  {
+    "file": "artifacts/aoe2-aging/raw/historical_119/Expart games 2012 01 06 islands.mgx",
+    "meta": {
+      "players": [
+        {
+          "number": 1,
+          "name": "[LoS]Q_t_FoDaS",
+          "civilization_id": 9,
+          "color_id": 5
+        },
+        {
+          "number": 2,
+          "name": "Vo0do0",
+          "civilization_id": 12,
+          "color_id": 1
+        },
+        {
+          "number": 3,
+          "name": "L_Clan_Nand",
+          "civilization_id": 2,
+          "color_id": 2
+        },
+        {
+          "number": 4,
+          "name": "TheViper",
+          "civilization_id": 3,
+          "color_id": 3
+        },
+        {
+          "number": 5,
+          "name": "[RVK]dogao",
+          "civilization_id": 18,
+          "color_id": 4
+        },
+        {
+          "number": 6,
+          "name": "None_Right_Now",
+          "civilization_id": 17,
+          "color_id": 0
+        },
+        {
+          "number": 7,
+          "name": "The_Armenian",
+          "civilization_id": 16,
+          "color_id": 6
+        },
+        {
+          "number": 8,
+          "name": "St4rk",
+          "civilization_id": 4,
+          "color_id": 7
+        }
+      ],
+      "speed": 1.5,
+      "dimension": 240,
+      "map_id": 19,
+      "timestamp": null,
+      "restore_time": 0,
+      "decoder": "mgz construct classic header + mgz body",
+      "duration_s": 2751.27,
+      "save_version": 11.76,
+      "game_version": "VER 9.4",
+      "log_version": 4,
+      "sync_checks": 0,
+      "operations": {
+        "SYNC": 59694,
+        "VIEWLOCK": 59694,
+        "ACTION": 14987,
+        "CHAT": 17
+      },
+      "body_start": 241280,
+      "body_end": 2425548,
+      "resigned": [
+        1,
+        5,
+        3,
+        8
+      ]
+    }
+  },
+  {
+    "file": "artifacts/aoe2-aging/raw/historical_119/Expert games 2012 01 06 arabia G3.mgx",
+    "meta": {
+      "players": [
+        {
+          "number": 1,
+          "name": "[LoS]Q_t_FoDaS",
+          "civilization_id": 16,
+          "color_id": 5
+        },
+        {
+          "number": 2,
+          "name": "Vo0do0",
+          "civilization_id": 2,
+          "color_id": 2
+        },
+        {
+          "number": 3,
+          "name": "St4rk",
+          "civilization_id": 5,
+          "color_id": 1
+        },
+        {
+          "number": 4,
+          "name": "Zulfiqar",
+          "civilization_id": 12,
+          "color_id": 3
+        },
+        {
+          "number": 5,
+          "name": "[RVK]dogao",
+          "civilization_id": 18,
+          "color_id": 4
+        },
+        {
+          "number": 6,
+          "name": "L_Clan_Nand",
+          "civilization_id": 4,
+          "color_id": 0
+        },
+        {
+          "number": 7,
+          "name": "BreathingLove",
+          "civilization_id": 7,
+          "color_id": 6
+        },
+        {
+          "number": 8,
+          "name": "The_Armenian",
+          "civilization_id": 1,
+          "color_id": 7
+        }
+      ],
+      "speed": 1.5,
+      "dimension": 220,
+      "map_id": 9,
+      "timestamp": null,
+      "restore_time": 0,
+      "decoder": "mgz construct classic header + mgz body",
+      "duration_s": 4551.525,
+      "save_version": 11.76,
+      "game_version": "VER 9.4",
+      "log_version": 4,
+      "sync_checks": 0,
+      "operations": {
+        "SYNC": 99250,
+        "VIEWLOCK": 99250,
+        "ACTION": 25814,
+        "CHAT": 470
+      },
+      "body_start": 262433,
+      "body_end": 3906832,
+      "resigned": [
+        5,
+        3,
+        6,
+        1
+      ]
+    }
+  },
+  {
+    "file": "artifacts/aoe2-aging/raw/historical_147/Chris+Daut vs Jordan+TheViper - TheViper PoV .mgx",
+    "meta": {
+      "players": [
+        {
+          "number": 1,
+          "name": "JorDan_23",
+          "civilization_id": 17,
+          "color_id": 0
+        },
+        {
+          "number": 2,
+          "name": "[TyRanT]_DauT_",
+          "civilization_id": 16,
+          "color_id": 1
+        },
+        {
+          "number": 3,
+          "name": "L_Clan_Chris",
+          "civilization_id": 17,
+          "color_id": 2
+        },
+        {
+          "number": 4,
+          "name": "TheViper",
+          "civilization_id": 16,
+          "color_id": 3
+        }
+      ],
+      "speed": 1.5,
+      "dimension": 168,
+      "map_id": 9,
+      "timestamp": null,
+      "restore_time": 0,
+      "decoder": "mgz construct classic header + mgz body",
+      "duration_s": 2872.125,
+      "save_version": 11.76,
+      "game_version": "VER 9.4",
+      "log_version": 4,
+      "sync_checks": 0,
+      "operations": {
+        "SYNC": 63337,
+        "VIEWLOCK": 63337,
+        "ACTION": 11316,
+        "CHAT": 4
+      },
+      "body_start": 144792,
+      "body_end": 2227832,
+      "resigned": [
+        3,
+        2
+      ]
+    }
+  },
+  {
+    "file": "artifacts/aoe2-aging/raw/historical_147/Chris+Daut vs Jordan+TheViper G2 - TheViper PoV.mgx",
+    "meta": {
+      "players": [
+        {
+          "number": 1,
+          "name": "JorDan_23",
+          "civilization_id": 15,
+          "color_id": 0
+        },
+        {
+          "number": 2,
+          "name": "[TyRanT]_DauT_",
+          "civilization_id": 12,
+          "color_id": 1
+        },
+        {
+          "number": 3,
+          "name": "L_Clan_Chris",
+          "civilization_id": 17,
+          "color_id": 2
+        },
+        {
+          "number": 4,
+          "name": "TheViper",
+          "civilization_id": 16,
+          "color_id": 3
+        }
+      ],
+      "speed": 1.5,
+      "dimension": 168,
+      "map_id": 9,
+      "timestamp": null,
+      "restore_time": 0,
+      "decoder": "mgz construct classic header + mgz body",
+      "duration_s": 3404.745,
+      "save_version": 11.76,
+      "game_version": "VER 9.4",
+      "log_version": 4,
+      "sync_checks": 0,
+      "operations": {
+        "SYNC": 75267,
+        "VIEWLOCK": 75267,
+        "ACTION": 14061,
+        "CHAT": 3
+      },
+      "body_start": 147675,
+      "body_end": 2621346,
+      "resigned": [
+        1,
+        4
+      ]
+    }
+  },
+  {
+    "file": "artifacts/aoe2-aging/raw/historical_147/Chris+Daut vs Jordan+TheViper G3 - TheViper PoV.mgx",
+    "meta": {
+      "players": [
+        {
+          "number": 1,
+          "name": "JorDan_23",
+          "civilization_id": 14,
+          "color_id": 0
+        },
+        {
+          "number": 2,
+          "name": "[TyRanT]_DauT_",
+          "civilization_id": 13,
+          "color_id": 1
+        },
+        {
+          "number": 3,
+          "name": "L_Clan_Chris",
+          "civilization_id": 14,
+          "color_id": 2
+        },
+        {
+          "number": 4,
+          "name": "TheViper",
+          "civilization_id": 13,
+          "color_id": 3
+        }
+      ],
+      "speed": 1.5,
+      "dimension": 168,
+      "map_id": 9,
+      "timestamp": null,
+      "restore_time": 0,
+      "decoder": "mgz construct classic header + mgz body",
+      "duration_s": 2530.62,
+      "save_version": 11.76,
+      "game_version": "VER 9.4",
+      "log_version": 4,
+      "sync_checks": 0,
+      "operations": {
+        "SYNC": 55722,
+        "VIEWLOCK": 55722,
+        "ACTION": 8675,
+        "CHAT": 23
+      },
+      "body_start": 148800,
+      "body_end": 1864914,
+      "resigned": [
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "file": "artifacts/aoe2-aging/raw/historical_147/Chris+Daut vs Jordan+TheViper G4 - TheViper PoV.mgx",
+    "meta": {
+      "players": [
+        {
+          "number": 1,
+          "name": "JorDan_23",
+          "civilization_id": 18,
+          "color_id": 0
+        },
+        {
+          "number": 2,
+          "name": "L_Clan_Chris",
+          "civilization_id": 18,
+          "color_id": 1
+        },
+        {
+          "number": 3,
+          "name": "TheViper",
+          "civilization_id": 12,
+          "color_id": 2
+        },
+        {
+          "number": 4,
+          "name": "[TyRanT]_DauT_",
+          "civilization_id": 12,
+          "color_id": 3
+        }
+      ],
+      "speed": 1.5,
+      "dimension": 168,
+      "map_id": 9,
+      "timestamp": null,
+      "restore_time": 0,
+      "decoder": "mgz construct classic header + mgz body",
+      "duration_s": 4497.75,
+      "save_version": 11.76,
+      "game_version": "VER 9.4",
+      "log_version": 4,
+      "sync_checks": 0,
+      "operations": {
+        "SYNC": 99556,
+        "VIEWLOCK": 99556,
+        "ACTION": 17527,
+        "CHAT": 10
+      },
+      "body_start": 147426,
+      "body_end": 3371054,
+      "resigned": [
+        1,
+        3
+      ]
+    }
+  },
+  {
+    "file": "artifacts/aoe2-aging/raw/historical_147/Chris+Daut vs Jordan+TheViper G5 - TheViper PoV.mgx",
+    "meta": {
+      "players": [
+        {
+          "number": 1,
+          "name": "JorDan_23",
+          "civilization_id": 17,
+          "color_id": 0
+        },
+        {
+          "number": 2,
+          "name": "[TyRanT]_DauT_",
+          "civilization_id": 17,
+          "color_id": 1
+        },
+        {
+          "number": 3,
+          "name": "L_Clan_Chris",
+          "civilization_id": 16,
+          "color_id": 2
+        },
+        {
+          "number": 4,
+          "name": "TheViper",
+          "civilization_id": 16,
+          "color_id": 3
+        }
+      ],
+      "speed": 1.5,
+      "dimension": 168,
+      "map_id": 9,
+      "timestamp": null,
+      "restore_time": 0,
+      "decoder": "mgz construct classic header + mgz body",
+      "duration_s": 2347.965,
+      "save_version": 11.76,
+      "game_version": "VER 9.4",
+      "log_version": 4,
+      "sync_checks": 0,
+      "operations": {
+        "SYNC": 51783,
+        "VIEWLOCK": 51783,
+        "ACTION": 8464,
+        "CHAT": 5
+      },
+      "body_start": 145474,
+      "body_end": 1775400,
+      "resigned": [
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "file": "artifacts/aoe2-aging/raw/historical_147/Chris+Daut vs Jordan+TheViper G6 - TheViper PoV.mgx",
+    "meta": {
+      "players": [
+        {
+          "number": 1,
+          "name": "JorDan_23",
+          "civilization_id": 17,
+          "color_id": 0
+        },
+        {
+          "number": 2,
+          "name": "[TyRanT]_DauT_",
+          "civilization_id": 17,
+          "color_id": 1
+        },
+        {
+          "number": 3,
+          "name": "L_Clan_Chris",
+          "civilization_id": 16,
+          "color_id": 2
+        },
+        {
+          "number": 4,
+          "name": "TheViper",
+          "civilization_id": 16,
+          "color_id": 3
+        }
+      ],
+      "speed": 1.5,
+      "dimension": 168,
+      "map_id": 9,
+      "timestamp": null,
+      "restore_time": 0,
+      "decoder": "mgz construct classic header + mgz body",
+      "duration_s": 2429.865,
+      "save_version": 11.76,
+      "game_version": "VER 9.4",
+      "log_version": 4,
+      "sync_checks": 0,
+      "operations": {
+        "SYNC": 53603,
+        "VIEWLOCK": 53603,
+        "ACTION": 8616,
+        "CHAT": 5
+      },
+      "body_start": 147250,
+      "body_end": 1835124,
+      "resigned": [
+        1,
+        4
+      ]
+    }
+  },
+  {
+    "file": "artifacts/aoe2-aging/raw/historical_159/TheViper + JorDan_23 + Daut + FenixBird vs [SaTaN_]Fayt_ + No_Re_i_Go_Eat + Garyyyyyyy + thundernoob  -  24.mgx",
+    "meta": {
+      "players": [
+        {
+          "number": 1,
+          "name": "FenixBird",
+          "civilization_id": 1,
+          "color_id": 0
+        },
+        {
+          "number": 2,
+          "name": "TheViper",
+          "civilization_id": 8,
+          "color_id": 1
+        },
+        {
+          "number": 3,
+          "name": "[SaTaN_]Fayt_",
+          "civilization_id": 3,
+          "color_id": 2
+        },
+        {
+          "number": 4,
+          "name": "No_Re_i_Go_Eat",
+          "civilization_id": 15,
+          "color_id": 3
+        },
+        {
+          "number": 5,
+          "name": "thundernoob",
+          "civilization_id": 2,
+          "color_id": 4
+        },
+        {
+          "number": 6,
+          "name": "[TyRanT]_DauT_",
+          "civilization_id": 6,
+          "color_id": 5
+        },
+        {
+          "number": 7,
+          "name": "Garyyyyyyy",
+          "civilization_id": 6,
+          "color_id": 6
+        },
+        {
+          "number": 8,
+          "name": "JorDan_23",
+          "civilization_id": 7,
+          "color_id": 7
+        }
+      ],
+      "speed": 1.5,
+      "dimension": 220,
+      "map_id": 9,
+      "timestamp": null,
+      "restore_time": 0,
+      "decoder": "mgz construct classic header + mgz body",
+      "duration_s": 3650.76,
+      "save_version": 11.76,
+      "game_version": "VER 9.4",
+      "log_version": 4,
+      "sync_checks": 0,
+      "operations": {
+        "SYNC": 80534,
+        "VIEWLOCK": 80534,
+        "ACTION": 24139,
+        "CHAT": 39
+      },
+      "body_start": 262131,
+      "body_end": 3423680,
+      "resigned": [
+        8,
+        2,
+        6
+      ]
+    }
+  }
+]

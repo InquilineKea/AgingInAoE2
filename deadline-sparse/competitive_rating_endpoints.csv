@@ -1,0 +1,4 @@
+player,earliest_rating_year,earliest_year_series,earliest_year_median_elo,latest_rating_year,latest_year_series,latest_year_median_elo,highest_year_median_elo,highest_median_year,latest_minus_highest_year_median,interpretation
+DauT,2002,3,2000.0,2026,66,2296.0,2371.0,2024,-75.0,Separate rating history; earliest rating year can predate available replay. No causal aging inference.
+TheViper,2011,6,1999.5,2026,34,2456.0,2456.0,2026,0.0,Separate rating history; earliest rating year can predate available replay. No causal aging inference.
+TaToH,2012,1,1990.0,2026,35,2411.0,2437.0,2024,-26.0,Separate rating history; earliest rating year can predate available replay. No causal aging inference.

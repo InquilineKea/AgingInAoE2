@@ -1,0 +1,9 @@
+{
+  "requested_speed": "EXTRA_FAST enum 3",
+  "response_hex": "0801",
+  "wall_seconds": 20.096090417006053,
+  "game_seconds_advanced": 99.671,
+  "game_clock_multiplier": 4.959720917440475,
+  "time_steps_skipped": 0,
+  "frames_added": 7667
+}

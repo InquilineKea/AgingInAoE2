@@ -1,0 +1,326 @@
+[
+  {
+    "game_id": "hc4_tatoh_vs_hera",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": true
+  },
+  {
+    "game_id": "lobby_509101119",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "lobby_509105894",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "lobby_509112691",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "lobby_510770026",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "lobby_510771979",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "lobby_510777842",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "lobby_510988467",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "lobby_510992933",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "lobby_510997318",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "lobby_511040166",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "lobby_511046560",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "lobby_511053797",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "lobby_511057711",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_502637707",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_502643690",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_502647651",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_503419779",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_503596731",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_503599836",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_505288489",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_506421735",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_506683393",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_506687982",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_506700185",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_506837938",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_506842626",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_506874133",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_506880558",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_506885930",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_506894055",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_506897408",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_507064675",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_507070391",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_507075120",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_507093584",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_508468284",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_508883926",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_508889323",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_508893295",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_508899243",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_508902656",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_508907620",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_508914728",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_508917520",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_508924320",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_508927645",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_508931665",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_510124286",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_510125405",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_510128528",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_510325757",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_510330665",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  },
+  {
+    "game_id": "ranked_510333065",
+    "body_end_verified": true,
+    "clock_verified": true,
+    "partial_match": false
+  }
+]

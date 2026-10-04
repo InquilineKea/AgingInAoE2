@@ -1,0 +1,20 @@
+{
+  "game_version": 185872,
+  "api_version": 22,
+  "sequences": 81151,
+  "frames": 81151,
+  "commands": 3005,
+  "events": 1298,
+  "chat_events_removed": 5,
+  "first_time_ms": 104,
+  "last_time_ms": 1057147,
+  "state": "stopped",
+  "complete_match_verified": true,
+  "time_steps_skipped": 0,
+  "maximum_frames_queued": 37,
+  "resign_commands": 1,
+  "elapsed_seconds": 185.91,
+  "grpc_code": "CANCELLED",
+  "error": "Locally cancelled by application!",
+  "expected_duration_ms": 1057147.0
+}

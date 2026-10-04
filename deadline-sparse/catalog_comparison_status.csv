@@ -1,0 +1,256 @@
+catalog_id,category,metric,status,comparison_field,requirement
+1,Command volume,Replay-derived APM,Measured; see comparisons and restrictions,all_recorded_cpm,Commands; timestamped attributed actions
+2,Command volume,Core command rate,Measured; see comparisons and restrictions,core_cpm,Commands; timestamped attributed actions
+3,Command volume,Phase-specific command rate,Not implemented or not validated for earliest/latest comparison,,Commands; timestamped attributed actions
+4,Command volume,Command-type shares,Not implemented or not validated for earliest/latest comparison,,Commands; timestamped attributed actions
+5,Command volume,Movement-command rate,Not implemented or not validated for earliest/latest comparison,,Commands; timestamped attributed actions
+6,Command volume,Interaction-command rate,Not implemented or not validated for earliest/latest comparison,,Commands; timestamped attributed actions
+7,Command volume,Build-command rate,Measured; see comparisons and restrictions,build_commands_nominal_min,Commands; timestamped attributed actions
+8,Command volume,Wall-command rate,Measured; see comparisons and restrictions,wall_commands_nominal_min,Commands; timestamped attributed actions
+9,Command volume,Research-command rate,Measured; see comparisons and restrictions,research_commands_nominal_min,Commands; timestamped attributed actions
+10,Command volume,Market-command rate,Measured; see comparisons and restrictions,market_commands_nominal_min,Commands; timestamped attributed actions
+11,Command volume,Queue-command rate,Not implemented or not validated for earliest/latest comparison,,Commands; timestamped attributed actions
+12,Command volume,Cancel-command rate,Not implemented or not validated for earliest/latest comparison,,Commands; timestamped attributed actions
+13,Command volume,Patrol-command rate,Not implemented or not validated for earliest/latest comparison,,Commands; timestamped attributed actions
+14,Command volume,Formation-command rate,Not implemented or not validated for earliest/latest comparison,,Commands; timestamped attributed actions
+15,Command volume,Stop-command rate,Not implemented or not validated for earliest/latest comparison,,Commands; timestamped attributed actions
+16,Command volume,Garrison-command rate,Not implemented or not validated for earliest/latest comparison,,Commands; timestamped attributed actions
+17,Command volume,Ungarrison-command rate,Not implemented or not validated for earliest/latest comparison,,Commands; timestamped attributed actions
+18,Command volume,Delete-command rate,Not implemented or not validated for earliest/latest comparison,,Commands; timestamped attributed actions
+19,Command volume,Attack-move-command rate,Not implemented or not validated for earliest/latest comparison,,Commands; timestamped attributed actions
+20,Command volume,Repair-command rate,Not implemented or not validated for earliest/latest comparison,,Commands; timestamped attributed actions
+21,Timing and consistency,Median positive command gap,Measured; see comparisons and restrictions,core_gap_p50_s,Commands; adequate timestamp resolution
+22,Timing and consistency,p90 command gap,Measured; see comparisons and restrictions,core_gap_p90_s,Commands; adequate timestamp resolution
+23,Timing and consistency,p99 command gap,Measured; see comparisons and restrictions,core_gap_p99_s,Commands; adequate timestamp resolution
+24,Timing and consistency,Maximum command gap,Measured; see comparisons and restrictions,core_gap_max_s,Commands; adequate timestamp resolution
+25,Timing and consistency,Zero-gap command share,Measured; see comparisons and restrictions,simultaneous_core_gap_fraction,Commands; adequate timestamp resolution
+26,Timing and consistency,Gap coefficient of variation,Measured; see comparisons and restrictions,core_gap_cv,Commands; adequate timestamp resolution
+27,Timing and consistency,Gap burstiness,Measured; see comparisons and restrictions,core_gap_burstiness,Commands; adequate timestamp resolution
+28,Timing and consistency,Five-second action-count variation,Measured; see comparisons and restrictions,core_count_5s_cv,Commands; adequate timestamp resolution
+29,Timing and consistency,Peak five-second action rate,Measured; see comparisons and restrictions,peak_5s_nominal_cpm,Commands; adequate timestamp resolution
+30,Timing and consistency,Peak ten-second action rate,Not implemented or not validated for earliest/latest comparison,,Commands; adequate timestamp resolution
+31,Timing and consistency,Empty five-second bin share,Measured; see comparisons and restrictions,empty_5s_bin_fraction,Commands; adequate timestamp resolution
+32,Timing and consistency,Command-silence time above five seconds,Measured; see comparisons and restrictions,command_silence_ge5s_time_fraction,Commands; adequate timestamp resolution
+33,Timing and consistency,Command-silence time above ten seconds,Measured; see comparisons and restrictions,command_silence_ge10s_time_fraction,Commands; adequate timestamp resolution
+34,Timing and consistency,First-command delay,Measured; see comparisons and restrictions,first_core_command_nominal_s,Commands; adequate timestamp resolution
+35,Timing and consistency,Rate slope within matched phase,Not implemented or not validated for earliest/latest comparison,,Commands; adequate timestamp resolution
+36,Timing and consistency,Rate change after minute ten,Not implemented or not validated for earliest/latest comparison,,Commands; adequate timestamp resolution
+37,Timing and consistency,Early-versus-late gap change,Not implemented or not validated for earliest/latest comparison,,Commands; adequate timestamp resolution
+38,Timing and consistency,Across-game coefficient of variation,Not implemented or not validated for earliest/latest comparison,,Commands; adequate timestamp resolution
+39,Timing and consistency,Across-session trend,Not implemented or not validated for earliest/latest comparison,,Commands; adequate timestamp resolution
+40,Timing and consistency,Back-to-back game fatigue slope,Not implemented or not validated for earliest/latest comparison,,Commands; adequate timestamp resolution
+41,Command organization,Command-type diversity,Not implemented or not validated for earliest/latest comparison,,Commands; command semantics and payload coverage
+42,Command organization,Command-type entropy,Measured; see comparisons and restrictions,core_type_entropy_bits,Commands; command semantics and payload coverage
+43,Command organization,Command-category entropy,Measured; see comparisons and restrictions,core_category_entropy_bits,Commands; command semantics and payload coverage
+44,Command organization,Type transition entropy,Measured; see comparisons and restrictions,core_type_transition_entropy_bits,Commands; command semantics and payload coverage
+45,Command organization,Type switch rate,Measured; see comparisons and restrictions,core_type_switch_fraction,Commands; command semantics and payload coverage
+46,Command organization,Category switch rate,Measured; see comparisons and restrictions,core_category_switch_fraction,Commands; command semantics and payload coverage
+47,Command organization,Same-type streak length,Not implemented or not validated for earliest/latest comparison,,Commands; command semantics and payload coverage
+48,Command organization,Same-type triplet share,Measured; see comparisons and restrictions,core_same_type_triplet_fraction,Commands; command semantics and payload coverage
+49,Command organization,Repeated-command share,Not implemented or not validated for earliest/latest comparison,,Commands; command semantics and payload coverage
+50,Command organization,Approximate deduplicated command rate,Measured; see comparisons and restrictions,dedup_core_cpm,Commands; command semantics and payload coverage
+51,Command organization,Commands per requested action,Not implemented or not validated for earliest/latest comparison,,Commands; command semantics and payload coverage
+52,Command organization,Actor-list coverage,Measured; see comparisons and restrictions,explicit_actor_coverage,Commands; command semantics and payload coverage
+53,Command organization,Explicit actor-group size,Measured; see comparisons and restrictions,actor_group_size_median,Commands; command semantics and payload coverage
+54,Command organization,Explicit actor-group size p90,Measured; see comparisons and restrictions,actor_group_size_p90,Commands; command semantics and payload coverage
+55,Command organization,Large explicit-group share,Measured; see comparisons and restrictions,actor_group_ge10_fraction,Commands; command semantics and payload coverage
+56,Command organization,Explicit-group overlap,Measured; see comparisons and restrictions,actor_overlap_jaccard_median,Commands; command semantics and payload coverage
+57,Command organization,Explicit-group change rate,Measured; see comparisons and restrictions,actor_group_change_fraction,Commands; command semantics and payload coverage
+58,Command organization,Same explicit-group revisit interval,Current engine-command measurements only; no historical engine baseline,,Commands; command semantics and payload coverage
+59,Command organization,Explicit production-building revisit interval,Measured; see comparisons and restrictions,production_command_revisit_nominal_median_s,Commands; command semantics and payload coverage
+60,Command organization,Number of distinct commanded actor IDs,Measured; see comparisons and restrictions,commanded_actor_ids,Commands; command semantics and payload coverage
+61,Spatial command organization,Median destination jump,Measured; see comparisons and restrictions,destination_jump_diagonal_p50,Commands; coordinate coverage and map dimensions
+62,Spatial command organization,p90 destination jump,Measured; see comparisons and restrictions,destination_jump_diagonal_p90,Commands; coordinate coverage and map dimensions
+63,Spatial command organization,Large destination-jump share,Measured; see comparisons and restrictions,destination_jump_ge_quarter_fraction,Commands; coordinate coverage and map dimensions
+64,Spatial command organization,Destination entropy across map cells,Measured; see comparisons and restrictions,destination_entropy_4x4_bits,Commands; coordinate coverage and map dimensions
+65,Spatial command organization,Destination-cell switch rate,Measured; see comparisons and restrictions,destination_cell_switch_fraction,Commands; coordinate coverage and map dimensions
+66,Spatial command organization,Destination concentration,Not implemented or not validated for earliest/latest comparison,,Commands; coordinate coverage and map dimensions
+67,Spatial command organization,Distance between consecutive build requests,Not implemented or not validated for earliest/latest comparison,,Commands; coordinate coverage and map dimensions
+68,Spatial command organization,Commanded-region count,Not implemented or not validated for earliest/latest comparison,,Commands; coordinate coverage and map dimensions
+69,Spatial command organization,Within-region burst length,Not implemented or not validated for earliest/latest comparison,,Commands; coordinate coverage and map dimensions
+70,Spatial command organization,Destination-return interval,Not implemented or not validated for earliest/latest comparison,,Commands; coordinate coverage and map dimensions
+71,Spatial command organization,Spatial command alternation,Not implemented or not validated for earliest/latest comparison,,Commands; coordinate coverage and map dimensions
+72,Spatial command organization,Direction-reversal share,Not implemented or not validated for earliest/latest comparison,,Commands; coordinate coverage and map dimensions
+73,Spatial command organization,Repeated nearby destination share,Measured; see comparisons and restrictions,rapid_destination_repeat_fraction,Commands; coordinate coverage and map dimensions
+74,Spatial command organization,Commanded target diversity,Measured; see comparisons and restrictions,distinct_order_target_ids,Commands; coordinate coverage and map dimensions
+75,Spatial command organization,Target-change rate,Not implemented or not validated for earliest/latest comparison,,Commands; coordinate coverage and map dimensions
+76,Spatial command organization,Cross-map command density,Not implemented or not validated for earliest/latest comparison,,Commands; coordinate coverage and map dimensions
+77,Economy,Town-center idle time,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; resources; queues; unit activity
+78,Economy,Villager idle time,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; resources; queues; unit activity
+79,Economy,Idle production-building time,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; resources; queues; unit activity
+80,Economy,Villager count at matched minutes,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; resources; queues; unit activity
+81,Economy,Villager growth rate,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; resources; queues; unit activity
+82,Economy,Resource stockpile trajectories,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; resources; queues; unit activity
+83,Economy,Resource float area under curve,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; resources; queues; unit activity
+84,Economy,Resource imbalance,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; resources; queues; unit activity
+85,Economy,Worker allocation shares,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; resources; queues; unit activity
+86,Economy,Worker allocation changes,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; resources; queues; unit activity
+87,Economy,Resource income per minute,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; resources; queues; unit activity
+88,Economy,Gather efficiency per villager,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; resources; queues; unit activity
+89,Economy,Villager losses per exposed villager-minute,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; resources; queues; unit activity
+90,Economy,House-block duration,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; resources; queues; unit activity
+91,Economy,House-block incident rate,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; resources; queues; unit activity
+92,Economy,Farm reseed downtime,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; resources; queues; unit activity
+93,Economy,Gatherer walking time,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; resources; queues; unit activity
+94,Economy,Builder-minutes per completed structure,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; resources; queues; unit activity
+95,Economy,Trade efficiency,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; resources; queues; unit activity
+96,Economy,Market transaction cost,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; resources; queues; unit activity
+97,Economy,Resource collection before age-up,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; resources; queues; unit activity
+98,Economy,Economy recovery after raid,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; resources; queues; unit activity
+99,Production and planning,First Feudal research request,Measured; see comparisons and restrictions,feudal_request_game_s,Commands for requests; decoded state for completion and opportunity
+100,Production and planning,First Castle research request,Measured; see comparisons and restrictions,castle_request_game_s,Commands for requests; decoded state for completion and opportunity
+101,Production and planning,First Imperial research request,Measured; see comparisons and restrictions,imperial_request_game_s,Commands for requests; decoded state for completion and opportunity
+102,Production and planning,Actual age-up completion,Not implemented or not validated for earliest/latest comparison,,Commands for requests; decoded state for completion and opportunity
+103,Production and planning,Upgrade timing relative to army,Not implemented or not validated for earliest/latest comparison,,Commands for requests; decoded state for completion and opportunity
+104,Production and planning,Production-building count,Not implemented or not validated for earliest/latest comparison,,Commands for requests; decoded state for completion and opportunity
+105,Production and planning,Production uptime,Not implemented or not validated for earliest/latest comparison,,Commands for requests; decoded state for completion and opportunity
+106,Production and planning,Queue depth,Not implemented or not validated for earliest/latest comparison,,Commands for requests; decoded state for completion and opportunity
+107,Production and planning,Queue emptiness duration,Not implemented or not validated for earliest/latest comparison,,Commands for requests; decoded state for completion and opportunity
+108,Production and planning,Requested queue batch size,Measured; see comparisons and restrictions,positive_queue_amount_mean,Commands for requests; decoded state for completion and opportunity
+109,Production and planning,Actual production batch size,Not implemented or not validated for earliest/latest comparison,,Commands for requests; decoded state for completion and opportunity
+110,Production and planning,Queue-cancel rate,Not implemented or not validated for earliest/latest comparison,,Commands for requests; decoded state for completion and opportunity
+111,Production and planning,Research-cancel rate,Not implemented or not validated for earliest/latest comparison,,Commands for requests; decoded state for completion and opportunity
+112,Production and planning,Building-cancel rate,Not implemented or not validated for earliest/latest comparison,,Commands for requests; decoded state for completion and opportunity
+113,Production and planning,Build completion delay,Not implemented or not validated for earliest/latest comparison,,Commands for requests; decoded state for completion and opportunity
+114,Production and planning,Construction abandonment,Not implemented or not validated for earliest/latest comparison,,Commands for requests; decoded state for completion and opportunity
+115,Production and planning,Technology-choice diversity,Measured; see comparisons and restrictions,distinct_research_type_ids,Commands for requests; decoded state for completion and opportunity
+116,Production and planning,Unit-production diversity,Measured; see comparisons and restrictions,requested_queue_unit_type_ids,Commands for requests; decoded state for completion and opportunity
+117,Production and planning,Production composition entropy,Not implemented or not validated for earliest/latest comparison,,Commands for requests; decoded state for completion and opportunity
+118,Production and planning,Production switching delay,Not implemented or not validated for earliest/latest comparison,,Commands for requests; decoded state for completion and opportunity
+119,Production and planning,Supply added before cap,Not implemented or not validated for earliest/latest comparison,,Commands for requests; decoded state for completion and opportunity
+120,Production and planning,Unspent resources despite affordable production,Not implemented or not validated for earliest/latest comparison,,Commands for requests; decoded state for completion and opportunity
+121,Combat efficiency,Resource-weighted kill-loss ratio,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; unit values and combat exposure
+122,Combat efficiency,Unit survival time,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; unit values and combat exposure
+123,Combat efficiency,Army resource value over time,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; unit values and combat exposure
+124,Combat efficiency,Damage per army-value minute,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; unit values and combat exposure
+125,Combat efficiency,Damage taken per exposed unit-minute,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; unit values and combat exposure
+126,Combat efficiency,Overkill fraction,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; unit values and combat exposure
+127,Combat efficiency,Target priority by unit value,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; unit values and combat exposure
+128,Combat efficiency,Focus-fire concentration,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; unit values and combat exposure
+129,Combat efficiency,Fight initiation at favorable value ratio,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; unit values and combat exposure
+130,Combat efficiency,Retreat latency after unfavorable exchange,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; unit values and combat exposure
+131,Combat efficiency,Low-health unit rescue rate,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; unit values and combat exposure
+132,Combat efficiency,Idle army time during engagement,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; unit values and combat exposure
+133,Combat efficiency,Pathing congestion time,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; unit values and combat exposure
+134,Combat efficiency,Reinforcement travel time,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; unit values and combat exposure
+135,Combat efficiency,Army regrouping time,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; unit values and combat exposure
+136,Combat efficiency,Unit cohesion,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; unit values and combat exposure
+137,Combat efficiency,Formation spread,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; unit values and combat exposure
+138,Combat efficiency,Conversion success per attempt,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; unit values and combat exposure
+139,Combat efficiency,Monk losses per conversion,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; unit values and combat exposure
+140,Combat efficiency,Repair value saved,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; unit values and combat exposure
+141,Combat efficiency,Friendly-fire losses,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; unit values and combat exposure
+142,Combat efficiency,Siege survival time,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; unit values and combat exposure
+143,Combat efficiency,Siege escort distance,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; unit values and combat exposure
+144,Combat efficiency,Raid damage per raider-value minute,Not implemented or not validated for earliest/latest comparison,,Decoded state; ownership; unit values and combat exposure
+145,Projectile and precise micro,Projectile-threat opportunity count,Not implemented or not validated for earliest/latest comparison,,Decoded state; projectile trajectories; unit paths; command actors; visibility
+146,Projectile and precise micro,Visible-threat-to-command latency,Not implemented or not validated for earliest/latest comparison,,Decoded state; projectile trajectories; unit paths; command actors; visibility
+147,Projectile and precise micro,Command-to-motion latency,Not implemented or not validated for earliest/latest comparison,,Decoded state; projectile trajectories; unit paths; command actors; visibility
+148,Projectile and precise micro,Preemptive dodge fraction,Not implemented or not validated for earliest/latest comparison,,Decoded state; projectile trajectories; unit paths; command actors; visibility
+149,Projectile and precise micro,Dodge success rate,Not implemented or not validated for earliest/latest comparison,,Decoded state; projectile trajectories; unit paths; command actors; visibility
+150,Projectile and precise micro,Dodge distance perpendicular to trajectory,Not implemented or not validated for earliest/latest comparison,,Decoded state; projectile trajectories; unit paths; command actors; visibility
+151,Projectile and precise micro,Dodge angle,Not implemented or not validated for earliest/latest comparison,,Decoded state; projectile trajectories; unit paths; command actors; visibility
+152,Projectile and precise micro,Units hit per projectile,Not implemented or not validated for earliest/latest comparison,,Decoded state; projectile trajectories; unit paths; command actors; visibility
+153,Projectile and precise micro,Expected damage avoided,Not implemented or not validated for earliest/latest comparison,,Decoded state; projectile trajectories; unit paths; command actors; visibility
+154,Projectile and precise micro,Army split count,Not implemented or not validated for earliest/latest comparison,,Decoded state; projectile trajectories; unit paths; command actors; visibility
+155,Projectile and precise micro,Split separation distance,Not implemented or not validated for earliest/latest comparison,,Decoded state; projectile trajectories; unit paths; command actors; visibility
+156,Projectile and precise micro,Regroup time after dodge,Not implemented or not validated for earliest/latest comparison,,Decoded state; projectile trajectories; unit paths; command actors; visibility
+157,Projectile and precise micro,Commands per successful dodge,Not implemented or not validated for earliest/latest comparison,,Decoded state; projectile trajectories; unit paths; command actors; visibility
+158,Projectile and precise micro,Dodge performance under simultaneous threats,Not implemented or not validated for earliest/latest comparison,,Decoded state; projectile trajectories; unit paths; command actors; visibility
+159,Projectile and precise micro,False-positive dodge rate,Not implemented or not validated for earliest/latest comparison,,Decoded state; projectile trajectories; unit paths; command actors; visibility
+160,Projectile and precise micro,Kiting attack-cycle efficiency,Not implemented or not validated for earliest/latest comparison,,Decoded state; projectile trajectories; unit paths; command actors; visibility
+161,Projectile and precise micro,Stutter-step lost attack time,Not implemented or not validated for earliest/latest comparison,,Decoded state; projectile trajectories; unit paths; command actors; visibility
+162,Projectile and precise micro,Melee surround completion time,Not implemented or not validated for earliest/latest comparison,,Decoded state; projectile trajectories; unit paths; command actors; visibility
+163,Projectile and precise micro,Target-switch latency after target death,Not implemented or not validated for earliest/latest comparison,,Decoded state; projectile trajectories; unit paths; command actors; visibility
+164,Projectile and precise micro,Conversion-response latency,Not implemented or not validated for earliest/latest comparison,,Decoded state; projectile trajectories; unit paths; command actors; visibility
+165,Projectile and precise micro,Villager quickwall latency,Not implemented or not validated for earliest/latest comparison,,Decoded state; projectile trajectories; unit paths; command actors; visibility
+166,Projectile and precise micro,Quickwall completion before contact,Not implemented or not validated for earliest/latest comparison,,Decoded state; projectile trajectories; unit paths; command actors; visibility
+167,Projectile and precise micro,Garrison latency after visible raid,Not implemented or not validated for earliest/latest comparison,,Decoded state; projectile trajectories; unit paths; command actors; visibility
+168,Projectile and precise micro,Missed visible threat rate,Not implemented or not validated for earliest/latest comparison,,Decoded state; projectile trajectories; unit paths; command actors; visibility
+169,Multiple-task interference,Number of concurrently active fronts,Not implemented or not validated for earliest/latest comparison,,Decoded state plus commands; predefined simultaneous tasks
+170,Multiple-task interference,Task-switch interval,Not implemented or not validated for earliest/latest comparison,,Decoded state plus commands; predefined simultaneous tasks
+171,Multiple-task interference,Return-to-task delay,Not implemented or not validated for earliest/latest comparison,,Decoded state plus commands; predefined simultaneous tasks
+172,Multiple-task interference,Economy-command gap during battle,Not implemented or not validated for earliest/latest comparison,,Decoded state plus commands; predefined simultaneous tasks
+173,Multiple-task interference,Economy idle time during battle,Not implemented or not validated for earliest/latest comparison,,Decoded state plus commands; predefined simultaneous tasks
+174,Multiple-task interference,Production idle time during battle,Not implemented or not validated for earliest/latest comparison,,Decoded state plus commands; predefined simultaneous tasks
+175,Multiple-task interference,Secondary-front loss during main battle,Not implemented or not validated for earliest/latest comparison,,Decoded state plus commands; predefined simultaneous tasks
+176,Multiple-task interference,Unattended-raid loss rate,Not implemented or not validated for earliest/latest comparison,,Decoded state plus commands; predefined simultaneous tasks
+177,Multiple-task interference,Threat-response latency by concurrent-front count,Not implemented or not validated for earliest/latest comparison,,Decoded state plus commands; predefined simultaneous tasks
+178,Multiple-task interference,Micro outcome by concurrent-front count,Not implemented or not validated for earliest/latest comparison,,Decoded state plus commands; predefined simultaneous tasks
+179,Multiple-task interference,Two-front performance decrement,Not implemented or not validated for earliest/latest comparison,,Decoded state plus commands; predefined simultaneous tasks
+180,Multiple-task interference,Army control while expanding economy,Not implemented or not validated for earliest/latest comparison,,Decoded state plus commands; predefined simultaneous tasks
+181,Multiple-task interference,Task completion before interruption,Not implemented or not validated for earliest/latest comparison,,Decoded state plus commands; predefined simultaneous tasks
+182,Multiple-task interference,Resumption error rate,Not implemented or not validated for earliest/latest comparison,,Decoded state plus commands; predefined simultaneous tasks
+183,Multiple-task interference,Cross-front resource imbalance,Not implemented or not validated for earliest/latest comparison,,Decoded state plus commands; predefined simultaneous tasks
+184,Scouting and information,Explored map fraction,Not implemented or not validated for earliest/latest comparison,,Decoded player visibility; exploration; ideally original camera stream
+185,Scouting and information,Time to locate opponent,Not implemented or not validated for earliest/latest comparison,,Decoded player visibility; exploration; ideally original camera stream
+186,Scouting and information,Time to locate each resource,Not implemented or not validated for earliest/latest comparison,,Decoded player visibility; exploration; ideally original camera stream
+187,Scouting and information,Scout survival,Not implemented or not validated for earliest/latest comparison,,Decoded player visibility; exploration; ideally original camera stream
+188,Scouting and information,Relevant opponent structure discovery time,Not implemented or not validated for earliest/latest comparison,,Decoded player visibility; exploration; ideally original camera stream
+189,Scouting and information,Scouting revisit frequency,Not implemented or not validated for earliest/latest comparison,,Decoded player visibility; exploration; ideally original camera stream
+190,Scouting and information,Information age at strategy decision,Not implemented or not validated for earliest/latest comparison,,Decoded player visibility; exploration; ideally original camera stream
+191,Scouting and information,Response delay after observed tech reveal,Not implemented or not validated for earliest/latest comparison,,Decoded player visibility; exploration; ideally original camera stream
+192,Scouting and information,Response delay after observed army reveal,Not implemented or not validated for earliest/latest comparison,,Decoded player visibility; exploration; ideally original camera stream
+193,Scouting and information,Revealed-threat miss rate,Not implemented or not validated for earliest/latest comparison,,Decoded player visibility; exploration; ideally original camera stream
+194,Scouting and information,Army orders into known danger,Not implemented or not validated for earliest/latest comparison,,Decoded player visibility; exploration; ideally original camera stream
+195,Scouting and information,Fog-of-war exposure,Not implemented or not validated for earliest/latest comparison,,Decoded player visibility; exploration; ideally original camera stream
+196,Scouting and information,Camera revisit interval,Not implemented or not validated for earliest/latest comparison,,Decoded player visibility; exploration; ideally original camera stream
+197,Scouting and information,Camera-command distance,Not implemented or not validated for earliest/latest comparison,,Decoded player visibility; exploration; ideally original camera stream
+198,Scouting and information,Visible-event response conditional on camera,Not implemented or not validated for earliest/latest comparison,,Decoded player visibility; exploration; ideally original camera stream
+199,Strategy and adaptation,Opening sequence,Not implemented or not validated for earliest/latest comparison,,State; commands; opponent and map context; strategy labels
+200,Strategy and adaptation,Opening diversity across games,Not implemented or not validated for earliest/latest comparison,,State; commands; opponent and map context; strategy labels
+201,Strategy and adaptation,Build-order deviation timing,Not implemented or not validated for earliest/latest comparison,,State; commands; opponent and map context; strategy labels
+202,Strategy and adaptation,Resource investment split,Not implemented or not validated for earliest/latest comparison,,State; commands; opponent and map context; strategy labels
+203,Strategy and adaptation,Military composition versus visible enemy,Not implemented or not validated for earliest/latest comparison,,State; commands; opponent and map context; strategy labels
+204,Strategy and adaptation,Counter-unit production delay,Not implemented or not validated for earliest/latest comparison,,State; commands; opponent and map context; strategy labels
+205,Strategy and adaptation,Technology adaptation delay,Not implemented or not validated for earliest/latest comparison,,State; commands; opponent and map context; strategy labels
+206,Strategy and adaptation,Expansion timing,Not implemented or not validated for earliest/latest comparison,,State; commands; opponent and map context; strategy labels
+207,Strategy and adaptation,Defensive investment timing,Not implemented or not validated for earliest/latest comparison,,State; commands; opponent and map context; strategy labels
+208,Strategy and adaptation,Walling timing relative to threat,Not implemented or not validated for earliest/latest comparison,,State; commands; opponent and map context; strategy labels
+209,Strategy and adaptation,Distance of defensive structures to threatened economy,Not implemented or not validated for earliest/latest comparison,,State; commands; opponent and map context; strategy labels
+210,Strategy and adaptation,Map-control share,Not implemented or not validated for earliest/latest comparison,,State; commands; opponent and map context; strategy labels
+211,Strategy and adaptation,Choke-point control,Not implemented or not validated for earliest/latest comparison,,State; commands; opponent and map context; strategy labels
+212,Strategy and adaptation,Safe-resource access,Not implemented or not validated for earliest/latest comparison,,State; commands; opponent and map context; strategy labels
+213,Strategy and adaptation,Relic acquisition timing,Not implemented or not validated for earliest/latest comparison,,State; commands; opponent and map context; strategy labels
+214,Strategy and adaptation,Objective capture timing,Not implemented or not validated for earliest/latest comparison,,State; commands; opponent and map context; strategy labels
+215,Strategy and adaptation,Strategic transition frequency,Not implemented or not validated for earliest/latest comparison,,State; commands; opponent and map context; strategy labels
+216,Strategy and adaptation,Strategy persistence after failed attack,Not implemented or not validated for earliest/latest comparison,,State; commands; opponent and map context; strategy labels
+217,Strategy and adaptation,Army-value advantage converted to damage,Not implemented or not validated for earliest/latest comparison,,State; commands; opponent and map context; strategy labels
+218,Strategy and adaptation,Economy advantage converted to army,Not implemented or not validated for earliest/latest comparison,,State; commands; opponent and map context; strategy labels
+219,Strategy and adaptation,Comeback conversion probability,Not implemented or not validated for earliest/latest comparison,,State; commands; opponent and map context; strategy labels
+220,Outcomes and relative performance,Win share,Competitive outcome/context available in separate snapshot tables,,Match metadata; ratings; series and opponent context
+221,Outcomes and relative performance,Opponent-adjusted win probability,Competitive outcome/context available in separate snapshot tables,,Match metadata; ratings; series and opponent context
+222,Outcomes and relative performance,Tournament Elo,Competitive outcome/context available in separate snapshot tables,,Match metadata; ratings; series and opponent context
+223,Outcomes and relative performance,Relative peer rank,Competitive outcome/context available in separate snapshot tables,,Match metadata; ratings; series and opponent context
+224,Outcomes and relative performance,Gap to peer median,Competitive outcome/context available in separate snapshot tables,,Match metadata; ratings; series and opponent context
+225,Outcomes and relative performance,Gap to best peer,Competitive outcome/context available in separate snapshot tables,,Match metadata; ratings; series and opponent context
+226,Outcomes and relative performance,Series win share against fixed peers,Competitive outcome/context available in separate snapshot tables,,Match metadata; ratings; series and opponent context
+227,Outcomes and relative performance,Game length,Competitive outcome/context available in separate snapshot tables,,Match metadata; ratings; series and opponent context
+228,Outcomes and relative performance,Resign timing relative to deficit,Competitive outcome/context available in separate snapshot tables,,Match metadata; ratings; series and opponent context
+229,Outcomes and relative performance,Close-game conversion rate,Competitive outcome/context available in separate snapshot tables,,Match metadata; ratings; series and opponent context
+230,Outcomes and relative performance,Performance by civilization,Competitive outcome/context available in separate snapshot tables,,Match metadata; ratings; series and opponent context
+231,Outcomes and relative performance,Performance by map,Competitive outcome/context available in separate snapshot tables,,Match metadata; ratings; series and opponent context
+232,Outcomes and relative performance,Performance by matchup,Competitive outcome/context available in separate snapshot tables,,Match metadata; ratings; series and opponent context
+233,Outcomes and relative performance,Performance against repeated opponent,Competitive outcome/context available in separate snapshot tables,,Match metadata; ratings; series and opponent context
+234,Outcomes and relative performance,Within-series adaptation,Competitive outcome/context available in separate snapshot tables,,Match metadata; ratings; series and opponent context
+235,Outcomes and relative performance,Game-to-game recovery after loss,Competitive outcome/context available in separate snapshot tables,,Match metadata; ratings; series and opponent context
+236,Coverage and controls,Timestamp quantization,Control/provenance; not an aging trait,,Source provenance; timestamps; replay metadata; capture validation
+237,Coverage and controls,Nominal replay speed,Control/provenance; not an aging trait,,Source provenance; timestamps; replay metadata; capture validation
+238,Coverage and controls,Measured simulation throughput,Control/provenance; not an aging trait,,Source provenance; timestamps; replay metadata; capture validation
+239,Coverage and controls,Skipped simulation steps,Control/provenance; not an aging trait,,Source provenance; timestamps; replay metadata; capture validation
+240,Coverage and controls,Partial replay duration,Control/provenance; not an aging trait,,Source provenance; timestamps; replay metadata; capture validation
+241,Coverage and controls,Attributed command coverage,Control/provenance; not an aging trait,,Source provenance; timestamps; replay metadata; capture validation
+242,Coverage and controls,Coordinate coverage,Measured; see comparisons and restrictions,coordinate_coverage,Source provenance; timestamps; replay metadata; capture validation
+243,Coverage and controls,Explicit actor coverage,Measured; see comparisons and restrictions,explicit_actor_coverage,Source provenance; timestamps; replay metadata; capture validation
+244,Coverage and controls,Entity-state coverage,Control/provenance; not an aging trait,,Source provenance; timestamps; replay metadata; capture validation
+245,Coverage and controls,Player identity confidence,Control/provenance; not an aging trait,,Source provenance; timestamps; replay metadata; capture validation
+246,Coverage and controls,Map identity,Control/provenance; not an aging trait,,Source provenance; timestamps; replay metadata; capture validation
+247,Coverage and controls,Civilization identity,Control/provenance; not an aging trait,,Source provenance; timestamps; replay metadata; capture validation
+248,Coverage and controls,Patch and engine version,Control/provenance; not an aging trait,,Source provenance; timestamps; replay metadata; capture validation
+249,Coverage and controls,Match setting and start age,Control/provenance; not an aging trait,,Source provenance; timestamps; replay metadata; capture validation
+250,Coverage and controls,Opponent strength,Control/provenance; not an aging trait,,Source provenance; timestamps; replay metadata; capture validation
+251,Coverage and controls,Series or session cluster,Control/provenance; not an aging trait,,Source provenance; timestamps; replay metadata; capture validation
+252,Coverage and controls,Time of day,Control/provenance; not an aging trait,,Source provenance; timestamps; replay metadata; capture validation
+253,Coverage and controls,Session game order,Control/provenance; not an aging trait,,Source provenance; timestamps; replay metadata; capture validation
+254,Coverage and controls,Opportunity count per metric,Control/provenance; not an aging trait,,Source provenance; timestamps; replay metadata; capture validation
+255,Coverage and controls,At-risk unit-minutes,Control/provenance; not an aging trait,,Source provenance; timestamps; replay metadata; capture validation

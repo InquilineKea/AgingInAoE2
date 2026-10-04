@@ -1,0 +1,13 @@
+{
+  "purpose": "Sparse DauT, TheViper and TaToH state validation",
+  "deadline_local": "2026-10-04 18:00 America/New_York",
+  "game_ids": [
+    "c7d3588daf74",
+    "3598af4f05ca",
+    "67f43712e111",
+    "61c225f6fcca"
+  ],
+  "preserved_partial_opening": "a467a9f1780f",
+  "historical_state_capture": "unavailable without compatible engines",
+  "shared_game": "3598af4f05ca contains TheViper and TaToH"
+}

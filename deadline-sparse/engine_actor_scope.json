@@ -1,0 +1,5 @@
+{
+  "player_game_observations": 6,
+  "state_decoded": false,
+  "scope": "Known command payloads with explicit commPlayerId and humanOrder=true. Group means exact set of commanded IDs, not a semantic task or army. Game seconds are not human reaction time. Flag fields reported literally; not validated cognitive constructs. Partial captures labeled."
+}

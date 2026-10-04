@@ -1,0 +1,9 @@
+{
+  "player_game_observations": 49,
+  "windows": 98,
+  "numeric_features": 31,
+  "classic_timing_not_comparable": true,
+  "command_destinations_not_unit_motion": true,
+  "state_schema_decoded": false,
+  "no_age_effect_tests": true
+}

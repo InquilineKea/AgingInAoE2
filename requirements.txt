@@ -1,0 +1,6 @@
+# Added packages, all inspected and published at least seven days before 2026-10-04.
+mgz==1.8.51
+aocref==2.0.42
+construct==2.8.16
+six==1.17.0
+# Analysis uses pre-existing numpy, pandas, matplotlib, beautifulsoup4 and requests.

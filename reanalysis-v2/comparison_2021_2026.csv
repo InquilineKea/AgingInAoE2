@@ -1,0 +1,121 @@
+player,window,feature,median_2021,median_2026,change,relative_change_percent,n_2021,n_2026
+DauT,whole game,core_cpm_nominal,74.72204872436073,86.11784432549187,11.395795601131141,15.250914282568262,9,5
+DauT,whole game,move_order_commands,1736.0,1268.0,-468.0,-26.95852534562212,9,5
+DauT,whole game,explicit_actor_commands,657.0,565.0,-92.0,-14.00304414003044,9,5
+DauT,whole game,explicit_actor_coverage,0.39812734082397006,0.4116719242902208,0.01354458346625076,3.4020731754364597,9,5
+DauT,whole game,actor_pair_count,280.0,248.0,-32.0,-11.428571428571432,9,5
+DauT,whole game,same_actor_pair_count,4.0,45.0,41.0,1025.0,9,5
+DauT,whole game,actor_group_size_median,2.0,2.0,0.0,0.0,9,5
+DauT,whole game,actor_group_size_p90,9.0,8.0,-1.0,-11.111111111111116,9,5
+DauT,whole game,actor_group_ge10_fraction,0.09331476323119778,0.05363984674329502,-0.03967491648790276,-42.51729856464803,9,5
+DauT,whole game,actor_group_change_fraction,0.9895561357702349,0.8170731707317073,-0.17248296503852767,-17.43033657249501,9,5
+DauT,whole game,actor_overlap_jaccard_median,0.0,0.0,0.0,,9,5
+DauT,whole game,same_actor_gap_nominal_median_s,1.3230768782798366,0.36153844929746015,-0.9615384289823764,-72.6744186046464,9,5
+DauT,whole game,same_actor_recommand_under1s_fraction,0.3333333333333333,0.7708333333333334,0.43750000000000006,131.25000000000006,9,5
+DauT,whole game,commanded_actor_ids,230.0,77.0,-153.0,-66.52173913043478,9,5
+DauT,whole game,destination_coordinate_coverage,1.0,1.0,0.0,0.0,9,5
+DauT,whole game,destination_jump_diagonal_median,0.0241907320012633,0.01987224654428433,-0.004318485456978972,-17.851818029952337,9,5
+DauT,whole game,destination_jump_ge_quarter_diagonal_fraction,0.08947804473902236,0.062449310624493104,-0.02702873411452926,-30.207113033552613,9,5
+DauT,whole game,valid_target_order_fraction,1.0,1.0,0.0,0.0,9,5
+DauT,whole game,distinct_order_target_ids,172.0,106.0,-66.0,-38.372093023255815,9,5
+DauT,whole game,distinct_building_type_ids,16.0,12.0,-4.0,-25.0,9,5
+DauT,whole game,distinct_research_type_ids,23.0,12.0,-11.0,-47.82608695652174,9,5
+DauT,whole game,positive_de_queue_commands,307.0,84.0,-223.0,-72.63843648208469,9,5
+DauT,whole game,requested_queue_unit_type_ids,8.0,5.0,-3.0,-37.5,9,5
+DauT,whole game,explicitly_commanded_production_building_ids,20.0,5.0,-15.0,-75.0,9,5
+DauT,whole game,production_command_revisit_nominal_median_s,6.577514570196203,12.86153802606916,6.2840234558729575,95.53796329614985,9,5
+DauT,whole game,positive_queue_amount_mean,1.006993006993007,1.04,0.033006993006992946,3.2777777777777795,9,5
+DauT,whole game,build_commands_nominal_min,5.7499547023307,3.222532410903935,-2.527422291426765,-43.95551656089211,9,5
+DauT,whole game,wall_commands_nominal_min,0.33688398964949184,0.4381407254090395,0.10125673575954763,30.05685603073609,9,5
+DauT,whole game,research_commands_nominal_min,1.3102230525735516,0.9306167715971689,-0.3796062809763827,-28.97264555304203,9,5
+DauT,whole game,market_commands_nominal_min,0.4537921332252545,0.3286055440567796,-0.12518658916847492,-27.58676936039666,9,5
+DauT,first 10 game minutes,core_cpm_nominal,95.82300324440001,84.83800287246703,-10.985000371932983,-11.463844797178135,9,5
+DauT,first 10 game minutes,move_order_commands,544.0,489.0,-55.0,-10.110294117647056,9,5
+DauT,first 10 game minutes,explicit_actor_commands,178.0,188.0,10.0,5.617977528089879,9,5
+DauT,first 10 game minutes,explicit_actor_coverage,0.3327205882352941,0.40229885057471265,0.06957826233941855,20.91191973074238,9,5
+DauT,first 10 game minutes,actor_pair_count,68.0,86.0,18.0,26.470588235294112,9,5
+DauT,first 10 game minutes,same_actor_pair_count,0.0,8.0,8.0,,9,5
+DauT,first 10 game minutes,actor_group_size_median,1.0,1.0,0.0,0.0,9,5
+DauT,first 10 game minutes,actor_group_size_p90,2.0,3.0,1.0,50.0,9,5
+DauT,first 10 game minutes,actor_group_ge10_fraction,0.0,0.005319148936170213,0.005319148936170213,,9,5
+DauT,first 10 game minutes,actor_group_change_fraction,1.0,0.8939393939393939,-0.10606060606060608,-10.606060606060607,9,5
+DauT,first 10 game minutes,actor_overlap_jaccard_median,0.0,0.0,0.0,,9,5
+DauT,first 10 game minutes,same_actor_gap_nominal_median_s,1.34201178888136,0.36153844929739287,-0.9804733395839672,-73.05996472663219,9,5
+DauT,first 10 game minutes,same_actor_recommand_under1s_fraction,0.0,0.875,0.875,,9,5
+DauT,first 10 game minutes,commanded_actor_ids,28.0,30.0,2.0,7.14285714285714,9,5
+DauT,first 10 game minutes,destination_coordinate_coverage,1.0,1.0,0.0,0.0,9,5
+DauT,first 10 game minutes,destination_jump_diagonal_median,0.02123241858352569,0.02482503709703195,0.0035926185135062606,16.920439371394956,9,5
+DauT,first 10 game minutes,destination_jump_ge_quarter_diagonal_fraction,0.07751937984496124,0.05122950819672131,-0.026289871648239926,-33.91393442622951,9,5
+DauT,first 10 game minutes,valid_target_order_fraction,1.0,1.0,0.0,0.0,9,5
+DauT,first 10 game minutes,distinct_order_target_ids,28.0,30.0,2.0,7.14285714285714,9,5
+DauT,first 10 game minutes,distinct_building_type_ids,5.0,6.0,1.0,19.999999999999996,9,5
+DauT,first 10 game minutes,distinct_research_type_ids,2.0,2.0,0.0,0.0,9,5
+DauT,first 10 game minutes,positive_de_queue_commands,30.0,23.0,-7.0,-23.33333333333333,9,5
+DauT,first 10 game minutes,requested_queue_unit_type_ids,2.0,2.0,0.0,0.0,9,5
+DauT,first 10 game minutes,explicitly_commanded_production_building_ids,2.0,2.0,0.0,0.0,9,5
+DauT,first 10 game minutes,production_command_revisit_nominal_median_s,9.864200849447283,14.546153353646407,4.681952504199124,47.46408326084992,9,5
+DauT,first 10 game minutes,positive_queue_amount_mean,1.032258064516129,1.1304347826086956,0.09817671809256656,9.510869565217384,9,5
+DauT,first 10 game minutes,build_commands_nominal_min,2.0280000686645505,1.8590000629425047,-0.16900000572204577,-8.333333333333325,9,5
+DauT,first 10 game minutes,wall_commands_nominal_min,0.5070000171661376,0.5070000171661376,0.0,0.0,9,5
+DauT,first 10 game minutes,research_commands_nominal_min,0.33800001144409175,0.33800001144409175,0.0,0.0,9,5
+DauT,first 10 game minutes,market_commands_nominal_min,0.0,0.0,0.0,,9,5
+TheViper,whole game,core_cpm_nominal,94.7281933768787,103.32321043158684,8.595017054708137,9.073346327331123,5,5
+TheViper,whole game,move_order_commands,2140.0,1620.0,-520.0,-24.29906542056075,5,5
+TheViper,whole game,explicit_actor_commands,743.0,636.0,-107.0,-14.401076716016147,5,5
+TheViper,whole game,explicit_actor_coverage,0.3294392523364486,0.39033942558746737,0.06090017325101876,18.48601003647945,5,5
+TheViper,whole game,actor_pair_count,225.0,303.0,78.0,34.66666666666667,5,5
+TheViper,whole game,same_actor_pair_count,4.0,90.0,86.0,2150.0,5,5
+TheViper,whole game,actor_group_size_median,1.0,1.0,0.0,0.0,5,5
+TheViper,whole game,actor_group_size_p90,6.0,8.0,2.0,33.33333333333333,5,5
+TheViper,whole game,actor_group_ge10_fraction,0.04701397712833545,0.059748427672955975,0.012734450544620524,27.08652048274689,5,5
+TheViper,whole game,actor_group_change_fraction,0.9773584905660377,0.7588235294117647,-0.21853496115427307,-22.35975471269589,5,5
+TheViper,whole game,actor_overlap_jaccard_median,0.0,0.0,0.0,,5,5
+TheViper,whole game,same_actor_gap_nominal_median_s,1.3230768782798366,0.23846153038765786,-1.0846153478921787,-81.97674418604554,5,5
+TheViper,whole game,same_actor_recommand_under1s_fraction,0.5,0.9,0.4,80.0,5,5
+TheViper,whole game,commanded_actor_ids,221.0,97.0,-124.0,-56.10859728506787,5,5
+TheViper,whole game,destination_coordinate_coverage,1.0,1.0,0.0,0.0,5,5
+TheViper,whole game,destination_jump_diagonal_median,0.020501030616045305,0.011049888678958272,-0.009451141937087033,-46.10081373026201,5,5
+TheViper,whole game,destination_jump_ge_quarter_diagonal_fraction,0.09943714821763602,0.06142322097378277,-0.03801392724385325,-38.22910041693167,5,5
+TheViper,whole game,valid_target_order_fraction,1.0,1.0,0.0,0.0,5,5
+TheViper,whole game,distinct_order_target_ids,217.0,115.0,-102.0,-47.004608294930875,5,5
+TheViper,whole game,distinct_building_type_ids,16.0,12.0,-4.0,-25.0,5,5
+TheViper,whole game,distinct_research_type_ids,30.0,9.0,-21.0,-70.0,5,5
+TheViper,whole game,positive_de_queue_commands,337.0,118.0,-219.0,-64.98516320474778,5,5
+TheViper,whole game,requested_queue_unit_type_ids,13.0,4.0,-9.0,-69.23076923076923,5,5
+TheViper,whole game,explicitly_commanded_production_building_ids,25.0,4.0,-21.0,-84.0,5,5
+TheViper,whole game,production_command_revisit_nominal_median_s,0.13136094229789738,10.57692271880688,10.445561776508983,7951.801801802528,5,5
+TheViper,whole game,positive_queue_amount_mean,1.0,1.0,0.0,0.0,5,5
+TheViper,whole game,build_commands_nominal_min,6.440542364837398,2.7508507980087673,-3.689691566828631,-57.28852257804817,5,5
+TheViper,whole game,wall_commands_nominal_min,0.5093665340834896,0.2973892754604073,-0.21197725862308237,-41.615859001121066,5,5
+TheViper,whole game,research_commands_nominal_min,2.7274706653835783,0.5947785509208146,-2.1326921144627637,-78.19303582364402,5,5
+TheViper,whole game,market_commands_nominal_min,0.5092599430400351,0.36084939615222417,-0.1484105468878109,-29.14239553220539,5,5
+TheViper,first 10 game minutes,core_cpm_nominal,122.18700413703917,102.75200347900389,-19.43500065803528,-15.90594744121715,5,5
+TheViper,first 10 game minutes,move_order_commands,695.0,585.0,-110.0,-15.827338129496404,5,5
+TheViper,first 10 game minutes,explicit_actor_commands,203.0,197.0,-6.0,-2.9556650246305383,5,5
+TheViper,first 10 game minutes,explicit_actor_coverage,0.2949640287769784,0.34991119005328597,0.054947161276307555,18.62842784733354,5,5
+TheViper,first 10 game minutes,actor_pair_count,45.0,103.0,58.0,128.88888888888889,5,5
+TheViper,first 10 game minutes,same_actor_pair_count,0.0,18.0,18.0,,5,5
+TheViper,first 10 game minutes,actor_group_size_median,1.0,1.0,0.0,0.0,5,5
+TheViper,first 10 game minutes,actor_group_size_p90,3.0,4.0,1.0,33.33333333333333,5,5
+TheViper,first 10 game minutes,actor_group_ge10_fraction,0.0,0.004347826086956522,0.004347826086956522,,5,5
+TheViper,first 10 game minutes,actor_group_change_fraction,1.0,0.8461538461538461,-0.15384615384615385,-15.384615384615385,5,5
+TheViper,first 10 game minutes,actor_overlap_jaccard_median,0.0,0.0,0.0,,5,5
+TheViper,first 10 game minutes,same_actor_gap_nominal_median_s,,0.23846153038765786,,,5,5
+TheViper,first 10 game minutes,same_actor_recommand_under1s_fraction,,1.0,,,5,5
+TheViper,first 10 game minutes,commanded_actor_ids,34.0,29.0,-5.0,-14.70588235294118,5,5
+TheViper,first 10 game minutes,destination_coordinate_coverage,1.0,1.0,0.0,0.0,5,5
+TheViper,first 10 game minutes,destination_jump_diagonal_median,0.017353511802802497,0.0143399854517691,-0.003013526351033396,-17.36551301706395,5,5
+TheViper,first 10 game minutes,destination_jump_ge_quarter_diagonal_fraction,0.09345794392523364,0.04452054794520548,-0.048937395980028164,-52.36301369863015,5,5
+TheViper,first 10 game minutes,valid_target_order_fraction,1.0,1.0,0.0,0.0,5,5
+TheViper,first 10 game minutes,distinct_order_target_ids,42.0,32.0,-10.0,-23.809523809523814,5,5
+TheViper,first 10 game minutes,distinct_building_type_ids,5.0,5.0,0.0,0.0,5,5
+TheViper,first 10 game minutes,distinct_research_type_ids,2.0,2.0,0.0,0.0,5,5
+TheViper,first 10 game minutes,positive_de_queue_commands,33.0,23.0,-10.0,-30.303030303030297,5,5
+TheViper,first 10 game minutes,requested_queue_unit_type_ids,3.0,2.0,-1.0,-33.333333333333336,5,5
+TheViper,first 10 game minutes,explicitly_commanded_production_building_ids,2.0,2.0,0.0,0.0,5,5
+TheViper,first 10 game minutes,production_command_revisit_nominal_median_s,13.794082373193069,14.423076434736656,0.6289940615435867,4.559883321894254,5,5
+TheViper,first 10 game minutes,positive_queue_amount_mean,1.0,1.0,0.0,0.0,5,5
+TheViper,first 10 game minutes,build_commands_nominal_min,1.8590000629425047,1.8590000629425047,0.0,0.0,5,5
+TheViper,first 10 game minutes,wall_commands_nominal_min,1.0140000343322753,0.6760000228881835,-0.33800001144409175,-33.333333333333336,5,5
+TheViper,first 10 game minutes,research_commands_nominal_min,0.5070000171661376,0.33800001144409175,-0.16900000572204588,-33.333333333333336,5,5
+TheViper,first 10 game minutes,market_commands_nominal_min,0.0,0.0,0.0,,5,5

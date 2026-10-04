@@ -1,0 +1,1431 @@
+player,sequence,date_source,date_precision,year,elo,event,outcome,opponent_event
+DauT,1,Aug 2002,month,2002,2004,Legion Alliance Cup | K.O. Phase,win,1:0 victory against TaMoCk_
+DauT,2,Aug 2002,month,2002,2000,Legion Alliance Cup | Quarter-Finals,loss,1:0 defeat against Pepin
+DauT,3,Dec 2002,month,2002,1996,MFO Cash Tourney | Group Stage,loss,1:0 defeat against FletcheR
+DauT,4,"Apr 05, 2003",day,2003,2000,The Unkown Is Near | K.O. Phase,win,0:1 victory against 2scareD
+DauT,5,"Apr 05, 2003",day,2003,2004,The Unkown Is Near | K.O. Phase,win,0:1 victory against IamJordan
+DauT,6,"Apr 05, 2003",day,2003,2007,The Unkown Is Near | Semi-Finals,win,0:1 victory against Derptus
+DauT,7,"Apr 05, 2003",day,2003,2011,The Unkown Is Near | Finale,win,0:1 victory against Capoch
+DauT,8,"Apr 05, 2003",day,2003,2016,The Unkown Is Near | Finale,win,0:1 victory against Chris
+DauT,9,Apr 2003,month,2003,2019,Lord of Maps | Quarter-Finals,win,0:1 victory against Jordan
+DauT,10,Apr 2003,month,2003,2023,Lord of Maps | Semi-Finals,win,0:1 victory against Ugnis
+DauT,11,Apr 2003,month,2003,2019,Lord of Maps | Finale,loss,0:1 defeat against Capoch
+DauT,12,Jul 2003,month,2003,2027,FOPT Anniversary Cup | K.O. Phase,win,0:2 victory against ralber
+DauT,13,Jul 2003,month,2003,2031,FOPT Anniversary Cup | Quarter-Finals,win,1:2 victory against Inc
+DauT,14,Jul 2003,month,2003,2037,FOPT Anniversary Cup | Semi-Finals,win,0:2 victory against Brujo_WaRL0cK
+DauT,15,Jul 2003,month,2003,2041,FOPT Anniversary Cup | Finale,win,2:1 victory against Halen
+DauT,16,Jul 2003,month,2003,2049,TvK Tourney | Semi-Finals,win,0:2 victory against Capoch
+DauT,17,Jul 2003,month,2003,2045,TvK Tourney | Finale,loss,1:2 defeat against Chunyu
+DauT,18,Oct 2003,month,2003,2049,FOPT - Arabia Masters | K.O. Phase,win,2:0 victory against Tenorio
+DauT,19,Oct 2003,month,2003,2050,FOPT - Arabia Masters | Quarter-Finals,win,2:1 victory against PeEl
+DauT,20,Oct 2003,month,2003,2056,FOPT - Arabia Masters | Semi-Finals,win,0:2 victory against BAT_YYQ
+DauT,21,Oct 2003,month,2003,2047,FOPT - Arabia Masters | Finale,loss,3:2 defeat against windy
+DauT,22,Dec 2003,month,2003,2053,CERPIO Gladiators Cup | Semi-Finals,win,0:2 victory against bvirus
+DauT,23,Dec 2003,month,2003,2059,CERPIO Gladiators Cup | Finale,win,0:2 victory against Ramirez
+DauT,24,"Dec 20, 2003",day,2003,2061,MFO - The Conquering Hero | K.O. Phase,win,0:1 victory against Ninja
+DauT,25,"Dec 21, 2003",day,2003,2063,MFO - The Conquering Hero | K.O. Phase,win,1:0 victory against BeVeR
+DauT,26,"Dec 21, 2003",day,2003,2066,MFO - The Conquering Hero | Quarter-Finals,win,0:1 victory against Ramirez
+DauT,27,"Dec 21, 2003",day,2003,2062,MFO - The Conquering Hero | Semi-Finals,loss,2:1 defeat against Capoch
+DauT,28,"Jan 01, 2004",day,2004,2066,Legion Cup 3 | K.O. Phase,win,0:2 victory against Rei
+DauT,29,Feb 2004,month,2004,2069,BsK - MVP | Group Stage,win,0:1 victory against 2scareD
+DauT,30,Feb 2004,month,2004,2070,Legion Cup 3 | K.O. Phase,win,1:2 victory against Inc
+DauT,31,Feb 2004,month,2004,2071,BsK - MVP | K.O. Phase,win,1:2 victory against RuKie
+DauT,32,Feb 2004,month,2004,2075,BsK - MVP | K.O. Phase,win,0:2 victory against s0rCK__
+DauT,33,Feb 2004,month,2004,2081,BsK - MVP | Quarter-Finals,win,0:2 victory against Fox
+DauT,34,Feb 2004,month,2004,2071,Legion Cup 3 | Quarter-Finals,loss,0:2 defeat against Ramirez
+DauT,35,Feb 2004,month,2004,2075,BsK - MVP | Semi-Finals,win,2:3 victory against Capoch
+DauT,36,Feb 2004,month,2004,2087,BsK - MVP | Finale,win,0:3 victory against Grunt
+DauT,37,"Apr 25, 2004",day,2004,2090,CERPIO Gladiators Cup II | K.O. Phase,win,1:0 victory against RuKie
+DauT,38,"May 02, 2004",day,2004,2094,CERPIO Gladiators Cup II | K.O. Phase,win,0:1 victory against Capoch
+DauT,39,"May 09, 2004",day,2004,2098,CERPIO Gladiators Cup II | Quarter-Finals,win,1:0 victory against Chris
+DauT,40,"May 16, 2004",day,2004,2100,CERPIO Gladiators Cup II | Semi-Finals,win,0:1 victory against KoolPixel
+DauT,41,"May 23, 2004",day,2004,2088,CERPIO Gladiators Cup II | Finale,loss,3:1 defeat against PeEl
+DauT,42,Jul 2004,month,2004,2092,Simply the Best | K.O. Phase,win,0:2 victory against Wait4mE
+DauT,43,Jul 2004,month,2004,2098,Simply the Best | K.O. Phase,win,0:2 victory against ralber
+DauT,44,Jul 2004,month,2004,2091,Simply the Best | Quarter-Finals,loss,2:1 defeat against IORI
+DauT,45,Nov 2004,month,2004,2089,Rakeshty 2004 | K.O. Phase,win,1:2 victory against Junior__MAFIA
+DauT,46,Nov 2004,month,2004,2090,Rakeshty 2004 | Quarter-Finals,win,1:2 victory against RuKie
+DauT,47,Nov 2004,month,2004,2089,Rakeshty 2004 | Semi-Finals,win,2:3 victory against Ruso
+DauT,48,Nov 2004,month,2004,2101,Rakeshty 2004 | Finale,win,0:3 victory against Chris
+DauT,49,Feb 2005,month,2005,2105,ELT - Hero of Arabia 2004 | Quarter-Finals,win,0:1 victory against Chris
+DauT,50,Feb 2005,month,2005,2109,ELT - Hero of Arabia 2004 | Semi-Finals,win,0:1 victory against Capoch
+DauT,51,Feb 2005,month,2005,2112,ELT - Hero of Arabia 2004 | Finale,win,0:1 victory against DreaIVIs
+DauT,52,Mar 2005,month,2005,2115,Global Gaming League 2004 | Quarter-Finals (Winner Bracket),win,0:1 victory against PeEl
+DauT,53,Mar 2005,month,2005,2118,Global Gaming League 2004 | Semi-Finals (Winner Bracket),win,0:1 victory against Ramirez
+DauT,54,Mar 2005,month,2005,2114,Global Gaming League 2004 | Finale (Winner Bracket),loss,0:1 defeat against Chris
+DauT,55,Mar 2005,month,2005,2117,Global Gaming League 2004 | Finale (Loser Bracket),win,1:0 victory against Buddha
+DauT,56,Mar 2005,month,2005,2113,Global Gaming League 2004 | Grand Finale,loss,0:1 defeat against Chris
+DauT,57,May 2005,month,2005,2116,Handicap Tournament | K.O. Phase,win,1:0 victory against 2scareD
+DauT,58,May 2005,month,2005,2119,Handicap Tournament | Quarter-Finals,win,0:1 victory against DreaIVIs
+DauT,59,May 2005,month,2005,2122,Handicap Tournament | Semi-Finals,win,1:0 victory against ShiNe
+DauT,60,May 2005,month,2005,2125,Handicap Tournament | Finale,win,0:1 victory against Dziamdziak
+DauT,61,May 2005,month,2005,2128,Handicap Tournament | Grand Finale,win,0:1 victory against DreaIVIs
+DauT,62,"Jun 13, 2005",day,2005,2134,BsK - MVP2 | K.O. (Winner Bracket),win,0:2 victory against seker
+DauT,63,"Jun 20, 2005",day,2005,2138,BsK - MVP2 | K.O. (Winner Bracket),win,0:2 victory against Dziamdziak
+DauT,64,"Jun 27, 2005",day,2005,2142,BsK - MVP2 | Quarter-Finals (Winner Bracket),win,0:2 victory against 2scareD
+DauT,65,Jun 2005,month,2005,2145,UD Clan - Return of Champion II | Quarter-Finals,win,0:1 victory against MoCZyMoRdA
+DauT,66,Jun 2005,month,2005,2147,UD Clan - Return of Champion II | Semi-Finals,win,0:1 victory against seker
+DauT,67,Jun 2005,month,2005,2150,UD Clan - Return of Champion II | Finale,win,0:1 victory against DreaIVIs
+DauT,68,"Jul 04, 2005",day,2005,2150,BsK - MVP2 | Semi-Finals (Winner Bracket),win,1:3 victory against MoCZyMoRdA
+DauT,69,"Jul 18, 2005",day,2005,2138,BsK - MVP2 | Finale (Winner Bracket),loss,3:0 defeat against Chris
+DauT,70,"Jul 25, 2005",day,2005,2142,BsK - MVP2 | Semi-Finale (Loser Bracket),win,3:1 victory against Dziamdziak
+DauT,71,"Aug 01, 2005",day,2005,2130,BsK - MVP2 | Finale (Loser Bracket),loss,3:1 defeat against GeeK
+DauT,72,Sep 2005,month,2005,2134,Back to Almaty | Group Stage,win,1:3 victory against Dziamdziak
+DauT,73,Sep 2005,month,2005,2138,Back to Almaty | K.O. Phase,win,1:3 victory against Capoch
+DauT,74,Sep 2005,month,2005,2142,Back to Almaty | Quarter-Finals,win,1:3 victory against Ramirez
+DauT,75,Sep 2005,month,2005,2133,Back to Almaty | Semi-Finals,loss,3:2 defeat against RuKie
+DauT,76,"Jan 09, 2006",day,2006,2127,BsK - MVP3 | K.O. Phase,win,2:3 victory against Sy4KeN
+DauT,77,"Jan 16, 2006",day,2006,2126,BsK - MVP3 | K.O. Phase,win,2:3 victory against DreaIVIs
+DauT,78,"Jan 23, 2006",day,2006,2130,BsK - MVP3 | Quarter-Finals,win,1:3 victory against Chunyu
+DauT,79,"Jan 30, 2006",day,2006,2134,BsK - MVP3 | Semi-Finals,win,1:3 victory against seker
+DauT,80,"Jan 31, 2006",day,2006,2142,BsK - MVP3 | Finale,win,4:2 victory against Chris
+DauT,81,"Mar 18, 2006",day,2006,2148,AoCGroup Tourney 1 vs 1 | Semi-Finals,win,0:3 victory against hs
+DauT,82,"Mar 19, 2006",day,2006,2140,AoCGroup Tourney 1 vs 1 | Finale,loss,2:4 defeat against Chris
+DauT,83,"Jan 01, 2007",day,2007,2150,Arbalet Cup IV | Group Stage,win,0:5 victory against Ra
+DauT,84,"Jan 01, 2007",day,2007,2160,Arbalet Cup IV | Group Stage,win,0:5 victory against SuperSmurf_
+DauT,85,"Jan 01, 2007",day,2007,2170,Arbalet Cup IV | Group Stage,win,0:5 victory against WraTh_
+DauT,86,"Jan 02, 2007",day,2007,2170,Arbalet Cup IV | K.O. Phase,draw,0:0 draw against RuKie
+DauT,87,"Jan 06, 2007",day,2007,2176,Arbalet Cup IV | Quarter-Finals,win,0:3 victory against hs
+DauT,88,"Jan 10, 2007",day,2007,2172,Arbalet Cup IV | Group Stage,loss,4:3 defeat against Chris
+DauT,89,"Jan 15, 2007",day,2007,2170,Arbalet Cup IV | Group Stage,win,5:2 victory against EnjoyLonely
+DauT,90,"Jan 20, 2007",day,2007,2159,Arbalet Cup IV | Group Stage,loss,3:4 defeat against Ding
+DauT,91,"Jan 21, 2007",day,2007,2139,WOTC Arena Masters Tournament | K.O. Phase,loss,1:3 defeat against Wild_RedHot
+DauT,92,Jan 2008,month,2008,2145,The 1st From China | Group Stage,win,0:3 victory against Spring
+DauT,93,Jan 2008,month,2008,2145,The 1st From China | Group Stage,win,1:3 victory against ImStupid
+DauT,94,Jan 2008,month,2008,2151,The 1st From China | K.O. Phase,win,0:3 victory against Dziamdziak
+DauT,95,Jan 2008,month,2008,2160,The 1st From China | Quarter-Finals,win,0:3 victory against DreaIVIs
+DauT,96,Jan 2008,month,2008,2160,The 1st From China | Semi-Finals,win,1:3 victory against bvirus
+DauT,97,Jan 2008,month,2008,2167,The 1st From China | Grand Finale,win,1:4 victory against IORI
+DauT,98,Jan 2008,month,2008,2163,The 1st From China | Grand Finale,win,2:4 victory against Air_feeling
+DauT,99,Jan 2008,month,2008,2155,The 1st From China | Grand Finale,loss,2:4 defeat against Chris
+DauT,100,"Feb 10, 2008",day,2008,2157,Brain Champion Cup | K.O. Phase,win,0:2 victory against AR
+DauT,101,"Feb 17, 2008",day,2008,2159,Brain Champion Cup | K.O. Phase,win,0:2 victory against Water_Arch
+DauT,102,"Feb 21, 2008",day,2008,2165,Brain Champion Cup | K.O. (Winner Bracket),win,0:3 victory against ShiNe
+DauT,103,"Mar 07, 2008",day,2008,2164,Brain Champion Cup | K.O. (Winner Bracket),win,2:3 victory against WraTh_
+DauT,104,"May 01, 2008",day,2008,2153,Brain Champion Cup | Group Stage,loss,3:4 defeat against Ding
+DauT,105,"May 01, 2008",day,2008,2150,Brain Champion Cup | Group Stage,win,3:4 victory against Ruso
+DauT,106,"May 01, 2008",day,2008,2155,Brain Champion Cup | Group Stage,win,2:5 victory against Alive
+DauT,107,"May 01, 2008",day,2008,2152,Brain Champion Cup | Group Stage,win,3:4 victory against IORI
+DauT,108,"May 01, 2008",day,2008,2147,Brain Champion Cup | Group Stage,loss,5:2 defeat against Chris
+DauT,109,"Feb 08, 2009",day,2009,2151,Brain Champion Cup 2: first stage | Semi-Finals,win,0:2 victory against _OSTRY_
+DauT,110,"Feb 15, 2009",day,2009,2155,Brain Champion Cup 2: first stage | Finale,win,0:2 victory against Dziamdziak
+DauT,111,"Feb 27, 2009",day,2009,2161,Brain Champion Cup 2 | K.O. Phase,win,0:3 victory against saymyname
+DauT,112,"Mar 08, 2009",day,2009,2165,Brain Champion Cup 2 | K.O. Phase,win,1:3 victory against Tim
+DauT,113,"Mar 28, 2009",day,2009,2170,Brain Champion Cup 2 | Group Stage,win,5:2 victory against Alive
+DauT,114,"Apr 05, 2009",day,2009,2160,Brain Champion Cup 2 | Group Stage,win,3:4 victory against dogao
+DauT,115,"Apr 09, 2009",day,2009,2173,Brain Champion Cup 2 | Group Stage,win,1:6 victory against WraTh_
+DauT,116,"Apr 15, 2009",day,2009,2186,Brain Champion Cup 2 | Group Stage,win,1:6 victory against Tim
+DauT,117,"Apr 25, 2009",day,2009,2191,Brain Champion Cup 2 | Group Stage,win,5:2 victory against Ding
+DauT,118,"Nov 20, 2009",day,2009,2187,Master of the huns: first stage | K.O. Phase,win,1:3 victory against FHM_251sex
+DauT,119,"Nov 27, 2009",day,2009,2176,Master of the huns: first stage | K.O. Phase,win,2:3 victory against DaYe
+DauT,120,"Dec 04, 2009",day,2009,2182,Master of the huns: first stage | Quarter-Finals,win,0:3 victory against Cain
+DauT,121,"Jan 03, 2010",day,2010,2184,Master of the Huns | Group Stage,win,1:4 victory against RiuT
+DauT,122,"Jan 10, 2010",day,2010,2170,Master of the Huns | Group Stage,loss,3:2 defeat against CHe_
+DauT,123,"Jan 17, 2010",day,2010,2180,Master of the Huns | Group Stage,win,0:5 victory against Zuppi
+DauT,124,"Jan 31, 2010",day,2010,2166,Master of the Huns | Group Stage,loss,3:2 defeat against BlinG
+DauT,125,"Feb 07, 2010",day,2010,2173,Master of the Huns | Group Stage,win,1:4 victory against Alive
+DauT,126,"Feb 14, 2010",day,2010,2175,Master of the Huns | Group Stage,win,1:4 victory against DreaIVIs
+DauT,127,"Feb 21, 2010",day,2010,2182,Master of the Huns | Group Stage,win,1:4 victory against goodboy
+DauT,128,"Feb 25, 2010",day,2010,2185,Brain Champion Cup 3: first stage | K.O. Phase,win,0:3 victory against DP
+DauT,129,"Feb 27, 2010",day,2010,2188,Brain Champion Cup 3: first stage | Quarter-Finals,win,0:3 victory against DayDream
+DauT,130,"Feb 28, 2010",day,2010,2187,Master of the Huns | Group Stage,win,2:3 victory against Chris
+DauT,131,"Mar 06, 2010",day,2010,2195,Brain Champion Cup 3 | K.O. (Winner Bracket),win,0:4 victory against Alive
+DauT,132,"Mar 13, 2010",day,2010,2203,Brain Champion Cup 3 | Quarter-Finals (Winner Bracket),win,4:0 victory against dogao
+DauT,133,"Mar 14, 2010",day,2010,2205,Master of the Huns | Semi-Finals,win,1:4 victory against goodboy
+DauT,134,"Mar 21, 2010",day,2010,2217,Master of the Huns | Finale,win,0:4 victory against RiuT
+DauT,135,"Apr 11, 2010",day,2010,2215,Brain Champion Cup 3 | Group Stage,win,4:6 victory against Tim
+DauT,136,"Apr 18, 2010",day,2010,2215,Brain Champion Cup 3 | Group Stage,draw,0:0 draw against Cain
+DauT,137,"Apr 29, 2010",day,2010,2196,Brain Champion Cup 3 | Group Stage,loss,5:2 defeat against RiuT
+DauT,138,"May 03, 2010",day,2010,2200,Brain Champion Cup 3 | Group Stage,win,1:5 victory against Alive
+DauT,139,"May 08, 2010",day,2010,2198,Brain Champion Cup 3 | Group Stage,win,2:5 victory against dogao
+DauT,140,"Oct 31, 2011",day,2011,2201,World Clan League 7 | Group Stage,win,0:1 victory against Ding
+DauT,141,"Oct 31, 2011",day,2011,2203,World Clan League 7 | Group Stage,win,0:1 victory against Raiden
+DauT,142,"Oct 31, 2011",day,2011,2205,World Clan League 7 | Group Stage,win,0:1 victory against goodboy
+DauT,143,"Oct 31, 2011",day,2011,2199,World Clan League 7 | Group Stage,loss,0:1 defeat against FeAge
+DauT,144,"Oct 31, 2011",day,2011,2194,World Clan League 7 | Group Stage,loss,0:1 defeat against JorDan_AoE
+DauT,145,"Oct 11, 2012",day,2012,2200,Grand Masters League | Group Stage,win,0:2 victory against Tim
+DauT,146,"Oct 18, 2012",day,2012,2196,Grand Masters League | Group Stage,draw,1:1 draw against dogao
+DauT,147,"Oct 26, 2012",day,2012,2186,Grand Masters League | Group Stage,loss,2:0 defeat against JorDan_AoE
+DauT,148,"Nov 01, 2012",day,2012,2174,Grand Masters League | Group Stage,loss,0:2 defeat against FeAge
+DauT,149,"Nov 08, 2012",day,2012,2178,Grand Masters League | Group Stage,win,0:2 victory against goodboy
+DauT,150,"Nov 18, 2012",day,2012,2168,Grand Masters League | Group Stage,loss,0:2 defeat against TheViper
+DauT,151,"Nov 27, 2012",day,2012,2166,Grand Masters League | Group Stage,draw,1:1 draw against Chris
+DauT,152,"Dec 04, 2012",day,2012,2157,Grand Masters League | Group Stage,loss,2:3 defeat against Chris
+DauT,153,"Aug 11, 2013",day,2013,2158,The Medieval Wars | K.O. Phase,win,1:0 victory against Sorachi
+DauT,154,"Aug 21, 2013",day,2013,2160,The Medieval Wars | Quarter-Finals,win,0:1 victory against TokiwaMiao
+DauT,155,"Aug 31, 2013",day,2013,2156,The Medieval Wars | Semi-Finals,loss,0:1 defeat against Tim
+DauT,156,"Sep 15, 2013",day,2013,2152,The Medieval Wars | Finale,loss,0:1 defeat against Chris
+DauT,157,"Oct 20, 2013",day,2013,2152,Clash of the Titans | K.O. Phase,win,1:3 victory against Fanjita
+DauT,158,"Oct 27, 2013",day,2013,2158,Clash of the Titans | K.O. Phase,win,0:3 victory against GoKu
+DauT,159,"Nov 03, 2013",day,2013,2164,Clash of the Titans | K.O. Phase,win,0:3 victory against St4rk
+DauT,160,"Nov 10, 2013",day,2013,2152,Clash of the Titans | Quarter-Finals (Winner Bracket),loss,1:4 defeat against RiuT
+DauT,161,"Nov 17, 2013",day,2013,2164,Clash of the Titans | First RO4 (Loser Bracket),win,4:0 victory against Paladin
+DauT,162,"Dec 01, 2013",day,2013,2144,Clash of the Titans | Group Stage,loss,5:0 defeat against JorDan_AoE
+DauT,163,"Dec 03, 2013",day,2013,2143,Clash of the Titans | Group Stage,win,2:3 victory against saymyname
+DauT,164,"Dec 08, 2013",day,2013,2153,Clash of the Titans | Group Stage,win,5:0 victory against Lojza
+DauT,165,"Dec 10, 2013",day,2013,2157,Clash of the Titans | Group Stage,win,2:3 victory against RiuT
+DauT,166,"Dec 20, 2013",day,2013,2142,Clash of the Titans | Group Stage,loss,0:5 defeat against TheViper
+DauT,167,"Dec 21, 2013",day,2013,2154,Top Experts League 2 | Group Stage,win,0:4 victory against slam
+DauT,168,"Dec 27, 2013",day,2013,2138,Top Experts League 2 | Group Stage,loss,4:0 defeat against JorDan_AoE
+DauT,169,"Dec 27, 2013",day,2013,2121,Top Experts League 2 | Group Stage,loss,4:1 defeat against BacT
+DauT,170,"Aug 18, 2014",day,2014,2124,Saiyanhood Legends United | Group Stage,win,0:1 victory against Emin
+DauT,171,"Aug 18, 2014",day,2014,2118,Saiyanhood Legends United | Group Stage,loss,0:1 defeat against Artras
+DauT,172,"Feb 14, 2015",day,2015,2121,War is Coming | Group Stage,win,0:1 victory against saymyname
+DauT,173,"Feb 16, 2015",day,2015,2116,War is Coming | Group Stage,loss,0:1 defeat against Lojza
+DauT,174,"Feb 16, 2015",day,2015,2111,War is Coming | Group Stage,loss,0:1 defeat against Yo
+DauT,175,"Mar 23, 2015",day,2015,2106,War is Coming | Finale,loss,0:1 defeat against BacT
+DauT,176,"Mar 23, 2015",day,2015,2109,War is Coming | Finale,win,0:1 victory against F1Re
+DauT,177,"May 17, 2015",day,2015,2102,Balance of Power | K.O. Phase,loss,2:1 defeat against Spaden
+DauT,178,"May 24, 2015",day,2015,2102,WSVG Europe & Africa Qualifiers | Quarter-Finals,win,1:3 victory against here_Iam_
+DauT,179,"May 31, 2015",day,2015,2111,WSVG Europe & Africa Qualifiers | Semi-Finals,win,0:3 victory against Barles
+DauT,180,"Jun 28, 2015",day,2015,2118,WSVG Finals | Group Stage,win,1:4 victory against TaToH
+DauT,181,"Jun 30, 2015",day,2015,2120,WSVG Europe & Africa Qualifiers | Finale,win,2:4 victory against TaToH
+DauT,182,"Jul 12, 2015",day,2015,2106,WSVG Finals | Group Stage,loss,4:2 defeat against yinghua
+DauT,183,"Jul 19, 2015",day,2015,2089,WSVG Finals | Group Stage,loss,1:4 defeat against Yo
+DauT,184,"Feb 01, 2016",day,2016,2081,Arabia Invitational | Group Stage,loss,3:1 defeat against Lojza
+DauT,185,"Feb 08, 2016",day,2016,2085,Arabia Invitational | Group Stage,win,1:3 victory against saymyname
+DauT,186,"Feb 15, 2016",day,2016,2093,Arabia Invitational | Group Stage,win,3:1 victory against BacT
+DauT,187,"Feb 22, 2016",day,2016,2102,Arabia Invitational | Group Stage,win,3:0 victory against Whoop
+DauT,188,"Feb 29, 2016",day,2016,2090,Arabia Invitational | Group Stage,loss,1:3 defeat against Chris
+DauT,189,"Mar 07, 2016",day,2016,2083,Arabia Invitational | Quarter-Finals,loss,1:4 defeat against Yo
+DauT,190,"Apr 08, 2016",day,2016,2087,Masters of MegaRandom | K.O. Phase,win,0:2 victory against Arma
+DauT,191,"Apr 16, 2016",day,2016,2088,Masters of MegaRandom | K.O. Phase,win,1:2 victory against PraYs
+DauT,192,"May 07, 2016",day,2016,2080,Masters of MegaRandom | Quarter-Finals,loss,0:2 defeat against mentalist
+DauT,193,"Oct 14, 2016",day,2016,2092,Clash of the Hippo 1 | K.O. Phase,win,4:1 victory against BacT
+DauT,194,"Oct 15, 2016",day,2016,2096,Clash of the Hippo 1 | Quarter-Finals,win,4:3 victory against yinghua
+DauT,195,"Oct 16, 2016",day,2016,2108,Clash of the Hippo 1 | Semi-Finals,win,4:0 victory against Vinchester
+DauT,196,"Oct 17, 2016",day,2016,2130,Clash of the Hippo 1 | Finale,win,4:5 victory against TheViper
+DauT,197,"Oct 28, 2016",day,2016,2131,ZP DauT Cup | K.O. Phase,win,1:2 victory against dogao
+DauT,198,"Oct 29, 2016",day,2016,2135,ZP DauT Cup | Quarter-Finals,win,2:1 victory against Yo
+DauT,199,"Oct 30, 2016",day,2016,2129,ZP DauT Cup | Semi-Finals,loss,2:0 defeat against RiuT
+DauT,200,"Dec 13, 2016",day,2016,2134,Battle for Angkor | Quarter-Finals (Winner Bracket),win,1:0 victory against RiuT
+DauT,201,"Dec 14, 2016",day,2016,2137,Battle for Angkor | Semi-Finals (Winner Bracket),win,0:1 victory against Nicov
+DauT,202,"Dec 16, 2016",day,2016,2138,Battle for Angkor | Finale (Winner Bracket),win,2:1 victory against dogao
+DauT,203,"Dec 18, 2016",day,2016,2129,Battle for Angkor | Grand Finale,loss,3:0 defeat against TheViper
+DauT,204,"Jan 17, 2017",day,2017,2132,Escape Gaming Masters 1 | Quarter-Finals (Winner Bracket),win,0:1 victory against TaToH
+DauT,205,"Jan 18, 2017",day,2017,2135,Escape Gaming Masters 1 | Semi-Finals (Winner Bracket),win,0:1 victory against BacT
+DauT,206,"Jan 19, 2017",day,2017,2141,Escape Gaming Masters 1 | Finale (Winner Bracket),win,2:0 victory against slam
+DauT,207,"Jan 22, 2017",day,2017,2137,Escape Gaming Masters 1 | Grand Finale,loss,3:1 defeat against TheViper
+DauT,208,"Feb 11, 2017",day,2017,2132,Escape Gaming Masters 2 | Quarter-Finals (Winner Bracket),loss,1:0 defeat against Liereyy
+DauT,209,"Feb 12, 2017",day,2017,2135,Escape Gaming Masters 2 | First RO4 (Loser Bracket),win,0:1 victory against slam
+DauT,210,"Feb 13, 2017",day,2017,2138,Escape Gaming Masters 2 | Second RO4 (Loser Bracket),win,1:0 victory against TaToH
+DauT,211,"Feb 14, 2017",day,2017,2139,Escape Gaming Masters 2 | Semi-Finale (Loser Bracket),win,2:1 victory against Liereyy
+DauT,212,"Feb 15, 2017",day,2017,2140,Escape Gaming Masters 2 | Finale (Loser Bracket),win,2:1 victory against BacT
+DauT,213,"Feb 16, 2017",day,2017,2128,Escape Gaming Masters 2 | Grand Finale,loss,1:3 defeat against Nicov
+DauT,214,"Feb 28, 2017",day,2017,2137,Strike the Balance | K.O. (Winner Bracket),win,0:3 victory against NorthernPike
+DauT,215,"Mar 10, 2017",day,2017,2128,Strike the Balance | Quarter-Finals (Winner Bracket),loss,3:2 defeat against Liereyy
+DauT,216,"Mar 18, 2017",day,2017,2118,Elimination Draft | Group Stage,loss,2:0 defeat against TaToH
+DauT,217,"Mar 19, 2017",day,2017,2116,Elimination Draft | Group Stage,draw,1:1 draw against Liereyy
+DauT,218,"Mar 19, 2017",day,2017,2120,Strike the Balance | K.O. (Loser Bracket),win,1:3 victory against ACCM
+DauT,219,"Mar 20, 2017",day,2017,2110,Elimination Draft | Group Stage,loss,2:0 defeat against slam
+DauT,220,"Mar 28, 2017",day,2017,2122,Strike the Balance | First RO4 (Loser Bracket),win,0:3 victory against St4rk
+DauT,221,"Apr 08, 2017",day,2017,2118,Strike the Balance | Group Stage,loss,2:3 defeat against Nicov
+DauT,222,"Apr 09, 2017",day,2017,2116,Strike the Balance | Group Stage,loss,4:1 defeat against TheViper
+DauT,223,"Apr 10, 2017",day,2017,2115,Strike the Balance | Group Stage,win,3:2 victory against Liereyy
+DauT,224,"Apr 11, 2017",day,2017,2122,Strike the Balance | Group Stage,win,1:4 victory against MbL
+DauT,225,"Apr 12, 2017",day,2017,2129,Strike the Balance | Group Stage,win,4:1 victory against BacT
+DauT,226,"Apr 30, 2017",day,2017,2135,AoE All-Stars | K.O. Phase,win,0:2 victory against ACCM
+DauT,227,"May 15, 2017",day,2017,2139,AoE All-Stars | Group Stage,win,2:1 victory against Tim
+DauT,228,"May 22, 2017",day,2017,2141,AoE All-Stars | Group Stage,loss,1:2 defeat against TheViper
+DauT,229,"Jun 04, 2017",day,2017,2142,AoE All-Stars | Group Stage,win,1:2 victory against BacT
+DauT,230,"Jun 05, 2017",day,2017,2146,AoE All-Stars | Group Stage,win,2:1 victory against Nicov
+DauT,231,"Jun 12, 2017",day,2017,2155,AoE All-Stars | Group Stage,win,3:0 victory against miguel
+DauT,232,"Jun 12, 2017",day,2017,2164,AoE All-Stars | Group Stage,win,0:3 victory against Liereyy
+DauT,233,"Jun 19, 2017",day,2017,2173,AoE All-Stars | Group Stage,win,0:3 victory against slam
+DauT,234,"Jun 26, 2017",day,2017,2166,AoE All-Stars | Group Stage,loss,1:2 defeat against TaToH
+DauT,235,"Jul 07, 2017",day,2017,2164,Escape Gaming Euro Cup Qualifier A | K.O. Phase,win,1:2 victory against pedro
+DauT,236,"Jul 07, 2017",day,2017,2168,Escape Gaming Euro Cup Qualifier A | Quarter-Finals,win,0:2 victory against StonePleaseAoE
+DauT,237,"Jul 08, 2017",day,2017,2177,Escape Gaming Euro Cup Qualifier A | Semi-Finals,win,0:3 victory against TaToH
+DauT,238,"Jul 08, 2017",day,2017,2178,Escape Gaming Euro Cup Qualifier A | Finale,loss,2:3 defeat against TheViper
+DauT,239,"Jul 15, 2017",day,2017,2182,Escape Gaming Euro Cup Qualifier B | K.O. Phase,win,0:2 victory against Dobbs351
+DauT,240,"Jul 15, 2017",day,2017,2186,Escape Gaming Euro Cup Qualifier B | Quarter-Finals,win,0:2 victory against classicpro
+DauT,241,"Jul 16, 2017",day,2017,2195,Escape Gaming Euro Cup Qualifier B | Semi-Finals,win,0:3 victory against TaToH
+DauT,242,"Jul 16, 2017",day,2017,2180,Escape Gaming Euro Cup Qualifier B | Finale,loss,3:0 defeat against Liereyy
+DauT,243,"Jul 22, 2017",day,2017,2182,Escape Gaming Euro Cup Qualifier C | K.O. Phase,win,0:2 victory against carlini8
+DauT,244,"Jul 22, 2017",day,2017,2182,Escape Gaming Euro Cup Qualifier C | Quarter-Finals,draw,0:0 draw against LaaaaaN
+DauT,245,"Jul 23, 2017",day,2017,2168,Escape Gaming Euro Cup Qualifier C | Semi-Finals,loss,3:2 defeat against Vinchester
+DauT,246,"Jul 29, 2017",day,2017,2170,Escape Gaming Euro Cup Qualifier D | K.O. Phase,win,0:2 victory against Der Esser
+DauT,247,"Jul 29, 2017",day,2017,2174,Escape Gaming Euro Cup Qualifier D | Quarter-Finals,win,0:2 victory against LaaaaaN
+DauT,248,"Jul 30, 2017",day,2017,2158,Escape Gaming Euro Cup Qualifier D | Semi-Finals,loss,3:1 defeat against Vinchester
+DauT,249,"Oct 20, 2017",day,2017,2142,Clash of the Hippo 4 | Quarter-Finals,loss,4:0 defeat against TaToH
+DauT,250,"Nov 07, 2017",day,2017,2145,Escape Gaming Masters 3 | Quarter-Finals (Winner Bracket),win,0:1 victory against ACCM
+DauT,251,"Nov 08, 2017",day,2017,2142,Escape Gaming Masters 3 | Semi-Finals (Winner Bracket),loss,1:0 defeat against TaToH
+DauT,252,"Nov 09, 2017",day,2017,2145,Escape Gaming Masters 3 | Second RO4 (Loser Bracket),win,0:1 victory against GKT_cloud
+DauT,253,"Nov 10, 2017",day,2017,2135,Escape Gaming Masters 3 | Semi-Finale (Loser Bracket),loss,0:2 defeat against MbL
+DauT,254,Dec 2017,month,2017,2135,King of the Desert 1 | K.O. Phase,win,1:3 victory against Metal
+DauT,255,Dec 2017,month,2017,2144,King of the Desert 1 | K.O. Phase,win,0:3 victory against F1Re
+DauT,256,Dec 2017,month,2017,2135,King of the Desert 1 | Quarter-Finals,loss,3:2 defeat against Hearttt
+DauT,257,"Jan 04, 2018",day,2018,2136,Masters of Arena 5 | K.O. Phase,win,1:2 victory against Scogo
+DauT,258,"Jan 12, 2018",day,2018,2136,Masters of Arena 5 | K.O. Phase,win,1:3 victory against Glokken
+DauT,259,"Jan 20, 2018",day,2018,2127,Masters of Arena 5 | K.O. (Winner Bracket),loss,3:2 defeat against St4rk
+DauT,260,"Jan 28, 2018",day,2018,2118,Masters of Arena 5 | K.O. (Loser Bracket),loss,3:2 defeat against Hera
+DauT,261,Jun 2018,month,2018,2124,KillerB's Arabia Cup | Quarter-Finals,win,0:3 victory against saymyname
+DauT,262,Jun 2018,month,2018,2123,KillerB's Arabia Cup | Semi-Finals,win,3:2 victory against MbL
+DauT,263,Jun 2018,month,2018,2133,KillerB's Arabia Cup | Finale,loss,3:4 defeat against TheViper
+DauT,264,Jul 2018,month,2018,2121,Nili's Apartment Cup 1 | Group Stage,loss,1:4 defeat against Liereyy
+DauT,265,Jul 2018,month,2018,2109,Nili's Apartment Cup 1 | Group Stage,loss,4:0 defeat against TaToH
+DauT,266,Jul 2018,month,2018,2093,Nili's Apartment Cup 1 | Group Stage,loss,4:0 defeat against MbL
+DauT,267,Jul 2018,month,2018,2091,Nili's Apartment Cup 1 | Group Stage,loss,1:4 defeat against TheViper
+DauT,268,Jul 2018,month,2018,2079,Nili's Apartment Cup 1 | Group Stage,loss,4:1 defeat against JorDan_AoE
+DauT,269,Jul 2018,month,2018,2085,ECL Europe East 1v1 | K.O. Phase,win,2:0 victory against CooL
+DauT,270,Jul 2018,month,2018,2079,ECL Europe East 1v1 | Quarter-Finals,loss,2:0 defeat against Liereyy
+DauT,271,Aug 2018,month,2018,2085,Legacy of the Huns 2 | K.O. Phase,win,0:2 victory against LaaaaaN
+DauT,272,Aug 2018,month,2018,2079,Legacy of the Huns 2 | Quarter-Finals,loss,0:2 defeat against Yo
+DauT,273,Oct 2018,month,2018,2067,Hidden Cup | K.O. Phase,loss,3:1 defeat against miguel
+DauT,274,"Oct 28, 2018",day,2018,2066,King of the Realm | Quarter-Finals,win,3:2 victory against saymyname
+DauT,275,Nov 2018,month,2018,2081,King of the Realm | Semi-Finals,win,3:0 victory against TaToH
+DauT,276,Nov 2018,month,2018,2090,NAC 2 Qualifier 1 | K.O. (Loser Bracket),win,0:3 victory against GKT_cloud
+DauT,277,Nov 2018,month,2018,2099,NAC 2 Qualifier 1 | K.O. (Loser Bracket),win,3:0 victory against chart
+DauT,278,Nov 2018,month,2018,2107,NAC 2 Qualifier 1 | First RO4 (Loser Bracket),win,3:1 victory against ACCM
+DauT,279,Nov 2018,month,2018,2090,NAC 2 Qualifier 1 | Second RO4 (Loser Bracket),loss,1:4 defeat against St4rk
+DauT,280,Nov 2018,month,2018,2102,King of the Realm | Finale,win,1:4 victory against BacT
+DauT,281,Dec 2018,month,2018,2111,NAC 2 Qualifier 2 | K.O. Phase,win,0:3 victory against Scotty
+DauT,282,Dec 2018,month,2018,2119,NAC 2 Qualifier 2 | Quarter-Finals,win,1:3 victory against St4rk
+DauT,283,Dec 2018,month,2018,2126,NAC 2 Qualifier 2 | Semi-Finals,win,4:1 victory against Vinchester
+DauT,284,Dec 2018,month,2018,2130,NAC 2 Qualifier 2 | Finale (Winner Bracket),win,4:3 victory against F1Re
+DauT,285,Dec 2018,month,2018,2146,NAC 2 Qualifier 2 | Grand Finale,win,1:5 victory against F1Re
+DauT,286,"Jan 06, 2019",day,2019,2134,King of the Desert 2 | K.O. Phase,loss,3:1 defeat against yinghua
+DauT,287,"Feb 09, 2019",day,2019,2128,Nili's Apartment Cup 2 | Group Stage,loss,0:3 defeat against TheViper
+DauT,288,"Feb 10, 2019",day,2019,2132,Nili's Apartment Cup 2 | Group Stage,win,1:3 victory against F1Re
+DauT,289,"Feb 11, 2019",day,2019,2124,Nili's Apartment Cup 2 | Group Stage,loss,1:3 defeat against TaToH
+DauT,290,"Feb 12, 2019",day,2019,2136,Nili's Apartment Cup 2 | Group Stage,win,3:0 victory against JorDan_AoE
+DauT,291,"Feb 13, 2019",day,2019,2132,Nili's Apartment Cup 2 | Group Stage,loss,1:3 defeat against Liereyy
+DauT,292,"Feb 14, 2019",day,2019,2122,Nili's Apartment Cup 2 | Quarter-Finals,loss,0:5 defeat against TheViper
+DauT,293,"Mar 29, 2019",day,2019,2121,DemEyesRed Arena Cup | Quarter-Finals,win,3:2 victory against ACCM
+DauT,294,"Mar 30, 2019",day,2019,2109,DemEyesRed Arena Cup | Semi-Finals,loss,3:1 defeat against vivi
+DauT,295,"Mar 31, 2019",day,2019,2115,DemEyesRed Arena Cup | Bronze-Match,win,0:3 victory against Melkor
+DauT,296,"Apr 12, 2019",day,2019,2111,Hidden Cup 2 | K.O. Phase,loss,1:3 defeat against MbL
+DauT,297,"May 26, 2019",day,2019,2101,ECL Europe West 1v1 | K.O. Phase,loss,1:2 defeat against xiaofan
+DauT,298,"Jun 16, 2019",day,2019,2113,Mangrove Shallows Cup | Group Stage,win,3:0 victory against Nicov
+DauT,299,"Jun 23, 2019",day,2019,2121,Mangrove Shallows Cup | Group Stage,win,3:1 victory against TheMax
+DauT,300,"Jun 25, 2019",day,2019,2115,Nomad Summer Showdown | K.O. Phase,loss,0:3 defeat against TheViper
+DauT,301,"Jun 30, 2019",day,2019,2106,Mangrove Shallows Cup | Group Stage,loss,0:3 defeat against TaToH
+DauT,302,"Jul 07, 2019",day,2019,2100,Mangrove Shallows Cup | Group Stage,loss,0:3 defeat against TheViper
+DauT,303,"Jul 13, 2019",day,2019,2112,Mangrove Shallows Cup | Group Stage,win,0:3 victory against BacT
+DauT,304,"Jul 21, 2019",day,2019,2130,Mangrove Shallows Cup | Quarter-Finals,win,4:3 victory against TheViper
+DauT,305,"Jul 28, 2019",day,2019,2114,Mangrove Shallows Cup | Semi-Finals,loss,0:4 defeat against Yo
+DauT,306,"Aug 17, 2019",day,2019,2120,Mono Civ Cup | K.O. Phase,win,0:2 victory against ACCM
+DauT,307,"Aug 17, 2019",day,2019,2112,Mono Civ Cup | Quarter-Finals,loss,0:2 defeat against Nicov
+DauT,308,"Nov 01, 2019",day,2019,2113,ClownCup2 | Quarter-Finals,win,1:2 victory against Stefan
+DauT,309,"Nov 02, 2019",day,2019,2119,ClownCup2 | Semi-Finals,win,0:2 victory against ACCM
+DauT,310,"Nov 02, 2019",day,2019,2123,ClownCup2 | Finale,win,3:1 victory against Hera
+DauT,311,"Jan 04, 2020",day,2020,2119,Nili's Apartment Cup 3 | Group Stage,loss,1:3 defeat against TaToH
+DauT,312,"Jan 05, 2020",day,2020,2110,Nili's Apartment Cup 3 | Group Stage,loss,0:3 defeat against Yo
+DauT,313,"Jan 07, 2020",day,2020,2109,Nili's Apartment Cup 3 | Group Stage,win,2:3 victory against LaaaaaN
+DauT,314,"Jan 08, 2020",day,2020,2105,Nili's Apartment Cup 3 | Group Stage,loss,1:3 defeat against Liereyy
+DauT,315,"Feb 02, 2020",day,2020,2114,Fair Civs Cup | K.O. Phase,win,0:3 victory against Sora_Kuma
+DauT,316,"Feb 06, 2020",day,2020,2118,Bonjwa Fight Night Club | Group Stage,win,2:1 victory against Villese
+DauT,317,"Feb 08, 2020",day,2020,2130,Fair Civs Cup | K.O. Phase,win,3:0 victory against Villese
+DauT,318,"Feb 12, 2020",day,2020,2140,Fair Civs Cup | Quarter-Finals,loss,3:4 defeat against TheViper
+DauT,319,"Feb 20, 2020",day,2020,2141,Bonjwa Fight Night Club | Group Stage,win,2:1 victory against LaaaaaN
+DauT,320,"Feb 24, 2020",day,2020,2145,Hidden Cup 3 Qualifier | K.O. Phase,win,0:2 victory against hoang485
+DauT,321,"Mar 02, 2020",day,2020,2152,Hidden Cup 3 Qualifier | K.O. Phase,win,1:4 victory against Tim
+DauT,322,"Mar 04, 2020",day,2020,2143,Bonjwa Fight Night Club | Group Stage,loss,0:3 defeat against TheViper
+DauT,323,"Mar 07, 2020",day,2020,2139,Empires Showdown Invitational | Quarter-Finals,loss,1:3 defeat against Yo
+DauT,324,"Mar 19, 2020",day,2020,2143,Hidden Cup 3 | K.O. Phase,win,3:1 victory against F1Re
+DauT,325,"Mar 21, 2020",day,2020,2144,Hidden Cup 3 | Quarter-Finals,loss,3:2 defeat against Hera
+DauT,326,"Mar 27, 2020",day,2020,2148,Empire Wars Arena Mini-Cup | Semi-Finals,win,1:3 victory against ACCM
+DauT,327,"Mar 29, 2020",day,2020,2157,Empire Wars Arena Mini-Cup | Finale,win,3:0 victory against BacT
+DauT,328,"Apr 30, 2020",day,2020,2156,Red Bull Wololo | K.O. Phase,win,2:3 victory against ACCM
+DauT,329,"May 02, 2020",day,2020,2152,Red Bull Wololo | Quarter-Finals,loss,1:3 defeat against TheViper
+DauT,330,"Jul 01, 2020",day,2020,2156,ClownCup3 Qualifiers | K.O. Phase,win,0:2 victory against Dench
+DauT,331,"Jul 06, 2020",day,2020,2150,ClownCup3 Qualifiers | K.O. Phase,win,2:3 victory against Feanor
+DauT,332,"Jul 17, 2020",day,2020,2145,ClownCup3 - Serious Edition | K.O. Phase,loss,0:1 defeat against ACCM
+DauT,333,"Aug 08, 2020",day,2020,2141,Arabia Invitational by Mario Ovalle | Quarter-Finals,loss,3:1 defeat against Hera
+DauT,334,"Aug 21, 2020",day,2020,2137,Red Bull Wololo 2 | K.O. Phase,loss,3:2 defeat against Nicov
+DauT,335,"Sep 18, 2020",day,2020,2143,King of the Desert 3 | K.O. Phase,win,0:2 victory against Hearttt
+DauT,336,"Sep 25, 2020",day,2020,2147,King of the Desert 3 | K.O. Phase,win,1:3 victory against Twigg
+DauT,337,"Oct 03, 2020",day,2020,2159,King of the Desert 3 | Group Stage,win,3:0 victory against Nicov
+DauT,338,"Oct 10, 2020",day,2020,2168,King of the Desert 3 | Group Stage,win,3:2 victory against Liereyy
+DauT,339,"Oct 18, 2020",day,2020,2164,King of the Desert 3 | Quarter-Finals,loss,3:2 defeat against Villese
+DauT,340,"Nov 28, 2020",day,2020,2168,Terra Nova | Group Stage,win,0:2 victory against classicpro
+DauT,341,"Nov 30, 2020",day,2020,2174,Terra Nova | Group Stage,win,0:2 victory against saymyname
+DauT,342,"Dec 03, 2020",day,2020,2172,Terra Nova | Group Stage,win,1:2 victory against classicpro
+DauT,343,"Dec 04, 2020",day,2020,2178,Terra Nova | Group Stage,win,0:2 victory against saymyname
+DauT,344,"Dec 08, 2020",day,2020,2179,Terra Nova | Group Stage,win,1:2 victory against saymyname
+DauT,345,"Dec 10, 2020",day,2020,2183,Terra Nova | Group Stage,win,0:2 victory against classicpro
+DauT,346,"Dec 15, 2020",day,2020,2189,Terra Nova | Group Stage,win,0:2 victory against saymyname
+DauT,347,"Dec 18, 2020",day,2020,2187,Terra Nova | Group Stage,win,1:2 victory against classicpro
+DauT,348,"Dec 29, 2020",day,2020,2181,Terra Nova | Quarter-Finals,win,2:3 victory against PROject_Belgium
+DauT,349,"Jan 02, 2021",day,2021,2185,Red Bull Wololo 3 Qualifier #1 | K.O. Phase,win,0:2 victory against Rxndy
+DauT,350,"Jan 02, 2021",day,2021,2191,Red Bull Wololo 3 Qualifier #1 | K.O. Phase,win,0:3 victory against Darknoob
+DauT,351,"Jan 02, 2021",day,2021,2195,Red Bull Wololo 3 Qualifier #1 | K.O. Phase,win,1:3 victory against bruh
+DauT,352,"Jan 03, 2021",day,2021,2207,Red Bull Wololo 3 Qualifier #1 | Quarter-Finals,win,1:4 victory against dogao
+DauT,353,"Jan 06, 2021",day,2021,2203,Terra Nova | Semi-Finals,loss,3:2 defeat against Vinchester
+DauT,354,"Jan 16, 2021",day,2021,2193,Red Bull Wololo 3 | Group Stage,loss,1:2 defeat against Capoch
+DauT,355,"Jan 17, 2021",day,2021,2201,Red Bull Wololo 3 | Group Stage,win,0:2 victory against MbL
+DauT,356,"Jan 22, 2021",day,2021,2201,Red Bull Wololo 3 | Group Stage,win,3:1 victory against Capoch
+DauT,357,"Jan 23, 2021",day,2021,2213,Red Bull Wololo 3 | Quarter-Finals,win,3:1 victory against Yo
+DauT,358,"Jan 24, 2021",day,2021,2221,Red Bull Wololo 3 | Semi-Finals,win,1:3 victory against ACCM
+DauT,359,"Jan 24, 2021",day,2021,2232,Red Bull Wololo 3 | Finale,win,3:4 victory against Liereyy
+DauT,360,"Feb 10, 2021",day,2021,2228,Lords of the Arena | Quarter-Finals,win,1:3 victory against JonSlow
+DauT,361,"Feb 13, 2021",day,2021,2230,Lords of the Arena | Semi-Finals,win,4:1 victory against Running
+DauT,362,"Feb 14, 2021",day,2021,2222,Lords of the Arena | Finale,loss,4:2 defeat against TheViper
+DauT,363,"Feb 17, 2021",day,2021,2210,Master of Socotra | K.O. Phase,loss,3:1 defeat against slam
+DauT,364,"Mar 18, 2021",day,2021,2214,Hidden Cup 4 | K.O. Phase,win,3:2 victory against Villese
+DauT,365,"Mar 20, 2021",day,2021,2206,Hidden Cup 4 | Quarter-Finals,loss,1:3 defeat against Yo
+DauT,366,"Mar 30, 2021",day,2021,2194,Deep Waters Gaming Pro League S1 | Group Stage,loss,3:0 defeat against TaToH
+DauT,367,"Apr 01, 2021",day,2021,2203,Deep Waters Gaming Pro League S1 | Group Stage,win,0:3 victory against miguel
+DauT,368,"Apr 14, 2021",day,2021,2191,Deep Waters Gaming Pro League S1 | Group Stage,loss,3:0 defeat against ACCM
+DauT,369,"Apr 20, 2021",day,2021,2200,Good Old Times Cup | Group Stage,win,0:3 victory against LaaaaaN
+DauT,370,"Apr 22, 2021",day,2021,2198,Good Old Times Cup | Group Stage,win,1:2 victory against Capoch
+DauT,371,"Apr 25, 2021",day,2021,2204,Deep Waters Gaming Pro League S1 | Group Stage,win,3:0 victory against Dark
+DauT,372,"Apr 26, 2021",day,2021,2205,Good Old Times Cup | Group Stage,win,2:1 victory against bruh
+DauT,373,"May 02, 2021",day,2021,2211,Ellie's Charity Invitational 2 | Group Stage,win,0:3 victory against BlinG
+DauT,374,"May 03, 2021",day,2021,2217,Deep Waters Gaming Pro League S1 | Group Stage,win,3:0 victory against The_Dragonstar
+DauT,375,"May 04, 2021",day,2021,2221,Good Old Times Cup | Group Stage,win,2:1 victory against BacT
+DauT,376,"May 04, 2021",day,2021,2230,Deep Waters Gaming Pro League S1 | Group Stage,win,0:3 victory against bruh
+DauT,377,"May 07, 2021",day,2021,2222,Ellie's Charity Invitational 2 | Group Stage,loss,1:3 defeat against Yo
+DauT,378,"May 11, 2021",day,2021,2215,Deep Waters Gaming Pro League S1 | Group Stage,loss,1:2 defeat against Vodka_L
+DauT,379,"May 14, 2021",day,2021,2227,Arabia Invitational by Mario Ovalle 2 | Quarter-Finals,win,3:1 victory against Liereyy
+DauT,380,"May 15, 2021",day,2021,2231,Good Old Times Cup | Group Stage,win,2:1 victory against ACCM
+DauT,381,"May 16, 2021",day,2021,2228,World Desert Championship | Quarter-Finals,loss,0:1 defeat against Hera
+DauT,382,"May 16, 2021",day,2021,2219,Arabia Invitational by Mario Ovalle 2 | Semi-Finals,loss,3:0 defeat against TheViper
+DauT,383,"May 19, 2021",day,2021,2217,Deep Waters Gaming Pro League S1 | Group Stage,win,2:1 victory against Capoch
+DauT,384,"May 19, 2021",day,2021,2225,Good Old Times Cup | Finale,win,2:4 victory against ACCM
+DauT,385,"May 20, 2021",day,2021,2218,Deep Waters Gaming Pro League S1 | Group Stage,loss,1:2 defeat against vivi
+DauT,386,"May 21, 2021",day,2021,2214,Deep Waters Gaming Pro League S1 | Group Stage,loss,1:2 defeat against Nicov
+DauT,387,"May 28, 2021",day,2021,2214,Ellie's Charity Invitational 2 | Group Stage,win,3:1 victory against Capoch
+DauT,388,"Jun 01, 2021",day,2021,2207,Deep Waters Gaming Pro League S1 | Group Stage,loss,2:1 defeat against BacT
+DauT,389,"Jun 08, 2021",day,2021,2208,Deep Waters Gaming Pro League S1 | Group Stage,win,1:2 victory against Sitaux
+DauT,390,"Jun 15, 2021",day,2021,2204,Deep Waters Gaming Pro League S1 | Group Stage,loss,1:2 defeat against dogao
+DauT,391,"Jun 19, 2021",day,2021,2212,Red Bull Wololo 4 | Group Stage,win,0:2 victory against Nicov
+DauT,392,"Jun 20, 2021",day,2021,2211,Red Bull Wololo 4 | Group Stage,loss,2:1 defeat against Yo
+DauT,393,"Jun 25, 2021",day,2021,2215,Red Bull Wololo 4 | Group Stage,win,2:3 victory against Nicov
+DauT,394,"Jun 26, 2021",day,2021,2206,Red Bull Wololo 4 | Quarter-Finals,loss,0:3 defeat against Hera
+DauT,395,"Jun 30, 2021",day,2021,2215,Collection Cup | K.O. Phase,win,0:3 victory against Barles
+DauT,396,"Jun 30, 2021",day,2021,2218,Masters of Arena 6 Qualifiers | K.O. Phase,win,0:3 victory against Big Don Bepis
+DauT,397,"Jul 03, 2021",day,2021,2224,Empires Showdown 3 | Quarter-Finals,win,0:3 victory against Capoch
+DauT,398,"Jul 04, 2021",day,2021,2228,Empires Showdown 3 | Semi-Finals,win,1:3 victory against JorDan_AoE
+DauT,399,"Jul 04, 2021",day,2021,2236,Empires Showdown 3 | Finale,win,4:2 victory against TaToH
+DauT,400,"Jul 06, 2021",day,2021,2237,Collection Cup | K.O. Phase,loss,2:3 defeat against Hera
+DauT,401,"Jul 07, 2021",day,2021,2243,Masters of Arena 6 Qualifiers | K.O. Phase,win,0:3 victory against D3rp
+DauT,402,"Jul 11, 2021",day,2021,2252,Masters of Arena 6 Qualifiers | K.O. Phase,win,0:3 victory against repard
+DauT,403,"Jul 19, 2021",day,2021,2261,Masters of Arena 6 | K.O. Phase,win,3:0 victory against BacT
+DauT,404,"Jul 22, 2021",day,2021,2273,Masters of Arena 6 | Quarter-Finals,win,3:0 victory against Villese
+DauT,405,"Jul 23, 2021",day,2021,2275,The Open Classic | K.O. Phase,win,0:2 victory against Good_Game
+DauT,406,"Jul 23, 2021",day,2021,2281,The Open Classic | K.O. Phase,win,0:3 victory against classicpro
+DauT,407,"Jul 24, 2021",day,2021,2277,The Open Classic | K.O. Phase,draw,2:2 draw against dogao
+DauT,408,"Jul 24, 2021",day,2021,2273,The Open Classic | Quarter-Finals,loss,2:3 defeat against Liereyy
+DauT,409,"Jul 30, 2021",day,2021,2285,Masters of Arena 6 | Semi-Finals,win,0:4 victory against Babaorum
+DauT,410,"Jul 30, 2021",day,2021,2292,Masters of Arena 6 | Finale,win,1:4 victory against slam
+DauT,411,"Sep 13, 2021",day,2021,2282,Red Bull Wololo 5 | Group Stage,loss,2:1 defeat against Capoch
+DauT,412,"Sep 14, 2021",day,2021,2275,Red Bull Wololo 5 | Group Stage,loss,2:1 defeat against JorDan_AoE
+DauT,413,"Sep 15, 2021",day,2021,2281,Red Bull Wololo 5 | Group Stage,win,0:2 victory against Nicov
+DauT,414,"Sep 16, 2021",day,2021,2285,Red Bull Wololo 5 | Group Stage,win,2:1 victory against TaToH
+DauT,415,"Sep 18, 2021",day,2021,2277,Red Bull Wololo 5 | Quarter-Finals,loss,1:3 defeat against TheViper
+DauT,416,"Oct 01, 2021",day,2021,2279,History Hit Open | K.O. Phase,win,0:2 victory against Mihai06
+DauT,417,"Oct 08, 2021",day,2021,2281,History Hit Open | K.O. Phase,win,0:2 victory against Cl3m3nT
+DauT,418,"Oct 08, 2021",day,2021,2285,HOLY Cup | K.O. Phase,win,1:3 victory against slam
+DauT,419,"Oct 09, 2021",day,2021,2289,HOLY Cup | Quarter-Finals,win,3:2 victory against Yo
+DauT,420,"Oct 10, 2021",day,2021,2285,HOLY Cup | Semi-Finals,loss,2:3 defeat against Liereyy
+DauT,421,"Oct 13, 2021",day,2021,2286,History Hit Open | K.O. Phase,win,2:1 victory against Capoch
+DauT,422,"Oct 15, 2021",day,2021,2279,History Hit Open | Quarter-Finals,loss,2:1 defeat against dogao
+DauT,423,"Nov 20, 2021",day,2021,2279,King of the Desert 4 | K.O. Phase,win,1:3 victory against Barles
+DauT,424,"Nov 25, 2021",day,2021,2283,King of the Desert 4 | Group Stage,win,1:3 victory against Nicov
+DauT,425,"Nov 27, 2021",day,2021,2271,King of the Desert 4 | Group Stage,loss,0:3 defeat against Yo
+DauT,426,"Dec 03, 2021",day,2021,2267,King of the Desert 4 | Group Stage,loss,3:2 defeat against Villese
+DauT,427,"Dec 30, 2021",day,2021,2270,Master of HyperRandom | K.O. Phase,win,0:3 victory against The Bloodless
+DauT,428,"Jan 14, 2022",day,2022,2276,Master of HyperRandom | K.O. (Winner Bracket),win,0:3 victory against Modri
+DauT,429,"Jan 15, 2022",day,2022,2279,Wandering Warriors Cup | K.O. Phase,win,0:3 victory against Mihai06
+DauT,430,"Jan 23, 2022",day,2022,2283,Wandering Warriors Cup | K.O. Phase,win,3:1 victory against miguel
+DauT,431,"Jan 25, 2022",day,2022,2279,Master of HyperRandom | Quarter-Finals (Winner Bracket),loss,2:3 defeat against ACCM
+DauT,432,"Jan 26, 2022",day,2022,2263,Master of HyperRandom | K.O. (Loser Bracket),loss,3:1 defeat against Valas
+DauT,433,"Jan 29, 2022",day,2022,2271,Wandering Warriors Cup | K.O. Phase,win,3:1 victory against Villese
+DauT,434,"Feb 05, 2022",day,2022,2280,Wandering Warriors Cup | Quarter-Finals,win,2:3 victory against Liereyy
+DauT,435,"Feb 06, 2022",day,2022,2292,Wandering Warriors Cup | Semi-Finals,win,0:3 victory against Vinchester
+DauT,436,"Feb 06, 2022",day,2022,2290,Wandering Warriors Cup | Finale,loss,4:2 defeat against TheViper
+DauT,437,"Feb 08, 2022",day,2022,2275,Deep Waters Pro League: Season 2 | Group Stage,loss,3:0 defeat against ACCM
+DauT,438,"Feb 09, 2022",day,2022,2273,Deep Waters Pro League: Season 2 | Group Stage,win,1:2 victory against Daniel
+DauT,439,"Feb 21, 2022",day,2022,2271,Deep Waters Pro League: Season 2 | Group Stage,win,2:1 victory against Dark
+DauT,440,"Feb 23, 2022",day,2022,2273,Master of Socotra 2 | K.O. Phase,win,0:2 victory against GoldenAcid
+DauT,441,"Mar 05, 2022",day,2022,2258,Master of Socotra 2 | K.O. Phase,loss,0:3 defeat against The_Dragonstar
+DauT,442,"Mar 11, 2022",day,2022,2254,Deep Waters Pro League: Season 2 | Group Stage,loss,1:2 defeat against JorDan_AoE
+DauT,443,"Mar 13, 2022",day,2022,2253,Deep Waters Pro League: Season 2 | Group Stage,loss,2:1 defeat against TaToH
+DauT,444,"Mar 17, 2022",day,2022,2256,Deep Waters Pro League: Season 2 | Group Stage,win,0:3 victory against Monoz
+DauT,445,"Mar 17, 2022",day,2022,2249,Deep Waters Pro League: Season 2 | Group Stage,loss,2:1 defeat against dogao
+DauT,446,"Apr 15, 2022",day,2022,2249,Rey de las Américas 3 | K.O. Phase,draw,0:0 draw against cHELOOO
+DauT,447,"Apr 17, 2022",day,2022,2252,Rey de las Américas 3 | Group Stage,win,0:3 victory against Biry
+DauT,448,"Apr 23, 2022",day,2022,2258,Rey de las Américas 3 | Group Stage,win,0:3 victory against Twigg
+DauT,449,"Apr 25, 2022",day,2022,2264,Rey de las Américas 3 | Group Stage,win,3:0 victory against Sobek
+DauT,450,"Apr 26, 2022",day,2022,2266,OnlyBans | K.O. Phase,win,0:2 victory against Dr.Kozmonot
+DauT,451,"Apr 27, 2022",day,2022,2269,Master of the Circus 2 | K.O. Phase,win,0:3 victory against Rex Caedis
+DauT,452,"Apr 30, 2022",day,2022,2271,The Resurgence Qualifier | K.O. Phase,win,0:2 victory against christar123 ten
+DauT,453,"Apr 30, 2022",day,2022,2275,The Resurgence Qualifier | K.O. Phase,win,1:3 victory against TheMax
+DauT,454,"May 02, 2022",day,2022,2277,Rise of the Elephants | Group Stage,win,1:0 victory against Valas
+DauT,455,"May 04, 2022",day,2022,2278,Rise of the Elephants | Group Stage,win,0:1 victory against Cl3m3nT
+DauT,456,"May 05, 2022",day,2022,2280,Rey de las Américas 3 | Quarter-Finals,win,1:4 victory against Sebastian
+DauT,457,"May 06, 2022",day,2022,2284,Rise of the Elephants | Group Stage,win,0:1 victory against Hera
+DauT,458,"May 06, 2022",day,2022,2273,Master of the Circus 2 | K.O. Phase,win,2:3 victory against FreakinAndy
+DauT,459,"May 07, 2022",day,2022,2272,The Resurgence | Group Stage,win,2:3 victory against Sitaux
+DauT,460,"May 07, 2022",day,2022,2270,Rey de las Américas 3 | Semi-Finals,loss,2:4 defeat against TaToH
+DauT,461,"May 10, 2022",day,2022,2276,OnlyBans | K.O. Phase,win,2:0 victory against BacT
+DauT,462,"May 12, 2022",day,2022,2284,OnlyBans | Quarter-Finals,win,3:1 victory against JorDan_AoE
+DauT,463,"May 12, 2022",day,2022,2284,Rey de las Américas 3 | Bronze-Match,draw,0:0 draw against Capoch
+DauT,464,"May 13, 2022",day,2022,2292,The Resurgence | Group Stage,win,3:1 victory against Vinchester
+DauT,465,"May 13, 2022",day,2022,2292,Master of the Circus 2 | Quarter-Finals,win,1:3 victory against Ganji
+DauT,466,"May 14, 2022",day,2022,2284,Master of the Circus 2 | Semi-Finals,loss,4:2 defeat against Vinchester
+DauT,467,"May 17, 2022",day,2022,2287,Only Land Cup | K.O. Phase,win,0:3 victory against Mullisaukko
+DauT,468,"May 18, 2022",day,2022,2279,OnlyBans | Semi-Finals,loss,2:4 defeat against Yo
+DauT,469,"May 20, 2022",day,2022,2275,The Resurgence | Quarter-Finals,loss,3:2 defeat against ACCM
+DauT,470,"May 21, 2022",day,2022,2271,OnlyBans | Bronze-Match,loss,4:3 defeat against Vinchester
+DauT,471,"Jun 01, 2022",day,2022,2275,Only Land Cup | Group Stage,win,0:2 victory against Kingstone
+DauT,472,"Jun 09, 2022",day,2022,2276,Only Land Cup | Group Stage,win,1:2 victory against Sitaux
+DauT,473,"Jun 20, 2022",day,2022,2267,Only Land Cup | K.O. Phase,loss,3:2 defeat against vivi
+DauT,474,"Jul 09, 2022",day,2022,2270,RMS Cup 2: Qualifier 2 | K.O. Phase,win,0:3 victory against QFilip
+DauT,475,"Jul 09, 2022",day,2022,2264,RMS Cup 2: Qualifier 2 | K.O. Phase,win,2:3 victory against Cyclops
+DauT,476,"Jul 10, 2022",day,2022,2273,RMS Cup 2: Qualifier 2 | K.O. Phase,win,0:3 victory against slam
+DauT,477,"Jul 11, 2022",day,2022,2274,T90 Titans League: Platinum League | Group Stage,win,1:2 victory against saymyname
+DauT,478,"Jul 12, 2022",day,2022,2283,T90 Titans League: Platinum League | Group Stage,win,0:3 victory against miguel
+DauT,479,"Jul 13, 2022",day,2022,2271,T90 Titans League: Platinum League | Group Stage,loss,3:0 defeat against JorDan_AoE
+DauT,480,"Jul 17, 2022",day,2022,2262,RMS Cup 2 | K.O. (Winner Bracket),loss,0:3 defeat against TheViper
+DauT,481,"Jul 18, 2022",day,2022,2261,T90 Titans League: Platinum League | Group Stage,loss,1:2 defeat against TheViper
+DauT,482,"Jul 19, 2022",day,2022,2262,T90 Titans League: Platinum League | Group Stage,win,1:2 victory against classicpro
+DauT,483,"Jul 19, 2022",day,2022,2264,Nomad Warriors | K.O. Phase,win,0:2 victory against King_Marv
+DauT,484,"Jul 23, 2022",day,2022,2276,RMS Cup 2 | K.O. (Loser Bracket),win,0:3 victory against Nicov
+DauT,485,"Jul 25, 2022",day,2022,2280,RMS Cup 2 | K.O. (Loser Bracket),win,3:2 victory against JorDan_AoE
+DauT,486,"Jul 26, 2022",day,2022,2268,Nomad Warriors | K.O. Phase,loss,2:0 defeat against Running
+DauT,487,"Jul 29, 2022",day,2022,2269,RMS Cup 2 | Quarter-Finals,loss,2:3 defeat against Villese
+DauT,488,"Aug 05, 2022",day,2022,2261,T90 Titans League: Platinum League | K.O. Phase,loss,1:3 defeat against Nicov
+DauT,489,"Sep 09, 2022",day,2022,2249,Wallhalla | K.O. Phase,loss,3:1 defeat against Running
+DauT,490,"Sep 21, 2022",day,2022,2252,Magna Carto | Group Stage,win,0:3 victory against Ozone
+DauT,491,"Sep 26, 2022",day,2022,2255,Magna Carto | Group Stage,win,0:3 victory against uno1
+DauT,492,"Oct 03, 2022",day,2022,2259,Magna Carto | K.O. Phase,win,1:3 victory against Kingstone
+DauT,493,"Oct 09, 2022",day,2022,2250,Magna Carto | Quarter-Finals,loss,0:3 defeat against ACCM
+DauT,494,"Oct 21, 2022",day,2022,2240,Red Bull Wololo: Legacy 2022 | Group Stage,loss,2:0 defeat against dogao
+DauT,495,"Oct 22, 2022",day,2022,2233,Red Bull Wololo: Legacy 2022 | Group Stage,loss,2:1 defeat against Capoch
+DauT,496,"Nov 05, 2022",day,2022,2235,Warlords Qualifier | K.O. Phase,win,0:2 victory against Kellar
+DauT,497,"Nov 05, 2022",day,2022,2241,Warlords Qualifier | K.O. Phase,win,0:3 victory against Mihai06
+DauT,498,"Nov 06, 2022",day,2022,2245,Warlords Qualifier | K.O. Phase,win,1:3 victory against F1Re
+DauT,499,"Nov 12, 2022",day,2022,2253,Warlords | Group Stage,win,3:1 victory against JorDan_AoE
+DauT,500,"Nov 19, 2022",day,2022,2249,Warlords | Group Stage,loss,1:3 defeat against TheViper
+DauT,501,"Nov 20, 2022",day,2022,2245,Warlords | Group Stage,loss,3:1 defeat against ACCM
+DauT,502,"Dec 03, 2022",day,2022,2247,The Grand Melee Qualifier | K.O. Phase,win,0:2 victory against Mr.Dobbsn
+DauT,503,"Dec 03, 2022",day,2022,2245,The Grand Melee Qualifier | Quarter-Finals,win,1:2 victory against Ming
+DauT,504,"Dec 03, 2022",day,2022,2253,The Grand Melee Qualifier | Semi-Finals,win,1:3 victory against Barles
+DauT,505,"Dec 04, 2022",day,2022,2244,The Grand Melee Qualifier | Finale,loss,0:3 defeat against Hera
+DauT,506,"Dec 06, 2022",day,2022,2253,The Grand Melee Replacement Qualifier | K.O. Phase,win,3:2 victory against Nicov
+DauT,507,"Dec 09, 2022",day,2022,2265,The Grand Melee Replacement Qualifier | Group Stage,win,3:0 victory against MbL
+DauT,508,"Dec 09, 2022",day,2022,2277,The Grand Melee Replacement Qualifier | Group Stage,win,3:0 victory against JorDan_AoE
+DauT,509,"Dec 15, 2022",day,2022,2278,The Grand Melee | Quarter-Finals,loss,2:3 defeat against Liereyy
+DauT,510,"Jan 05, 2023",day,2023,2277,T90 Titans League 2: Platinum League | Group Stage,loss,2:1 defeat against ACCM
+DauT,511,"Jan 12, 2023",day,2023,2286,T90 Titans League 2: Platinum League | Group Stage,win,3:0 victory against Running
+DauT,512,"Jan 27, 2023",day,2023,2288,AoE2 Admirals League | K.O. Phase,win,0:2 victory against Shir
+DauT,513,"Jan 28, 2023",day,2023,2289,AoE2 Admirals League | Quarter-Finals,loss,3:2 defeat against ACCM
+DauT,514,"Jan 31, 2023",day,2023,2293,T90 Titans League 2: Platinum League | Group Stage,win,2:1 victory against Vinchester
+DauT,515,"Feb 01, 2023",day,2023,2286,T90 Titans League 2: Platinum League | Group Stage,loss,2:1 defeat against Valas
+DauT,516,"Feb 03, 2023",day,2023,2282,T90 Titans League 2: Platinum League | Group Stage,loss,1:2 defeat against Nicov
+DauT,517,"Feb 07, 2023",day,2023,2284,Unus Imperium | K.O. Phase,win,0:2 victory against eskabe
+DauT,518,"Feb 08, 2023",day,2023,2280,T90 Titans League 2: Platinum League | K.O. Phase,loss,3:1 defeat against TaToH
+DauT,519,"Feb 17, 2023",day,2023,2283,Nili's Apartment Cup 4 Qualifier 1 | K.O. Phase,win,0:3 victory against Nahue05
+DauT,520,"Feb 18, 2023",day,2023,2283,Nili's Apartment Cup 4 Qualifier 1 | Quarter-Finals,draw,0:0 draw against Dark
+DauT,521,"Feb 18, 2023",day,2023,2291,Nili's Apartment Cup 4 Qualifier 1 | Semi-Finals,win,3:1 victory against Nicov
+DauT,522,"Feb 19, 2023",day,2023,2287,Nili's Apartment Cup 4 Qualifier 1 | Finale,loss,3:4 defeat against Villese
+DauT,523,"Feb 20, 2023",day,2023,2283,Unus Imperium | Quarter-Finals,loss,1:3 defeat against TaToH
+DauT,524,"Feb 23, 2023",day,2023,2286,Nili's Apartment Cup 4 Qualifier 2 | K.O. Phase,win,0:3 victory against Dziamdziak
+DauT,525,"Feb 25, 2023",day,2023,2292,Nili's Apartment Cup 4 Qualifier 2 | K.O. Phase,win,0:3 victory against Mihai06
+DauT,526,"Feb 25, 2023",day,2023,2301,Nili's Apartment Cup 4 Qualifier 2 | K.O. Phase,win,0:3 victory against dogao
+DauT,527,"Feb 26, 2023",day,2023,2297,Nili's Apartment Cup 4 Qualifier 2 | K.O. Phase,loss,3:4 defeat against Nicov
+DauT,528,"Feb 28, 2023",day,2023,2299,AoE2 Admirals League | K.O. Phase,win,0:2 victory against Dr.Kozmonot
+DauT,529,"Mar 02, 2023",day,2023,2303,NAC4 Replacement Qualifier | Group Stage,win,1:3 victory against Barles
+DauT,530,"Mar 02, 2023",day,2023,2307,NAC4 Replacement Qualifier | Group Stage,win,2:3 victory against Valas
+DauT,531,"Mar 09, 2023",day,2023,2299,AoE2 Admirals League | K.O. Phase,loss,3:1 defeat against TaToH
+DauT,532,"Apr 29, 2023",day,2023,2301,King of the Desert 5 Qualifier 1 | Quarter-Finals,win,0:2 victory against Nectarie
+DauT,533,"Apr 29, 2023",day,2023,2304,King of the Desert 5 Qualifier 1 | Semi-Finals,win,0:3 victory against chart
+DauT,534,"Apr 30, 2023",day,2023,2304,King of the Desert 5 Qualifier 1 | Finale,win,1:3 victory against slam
+DauT,535,"May 09, 2023",day,2023,2310,King of the Desert 5 | Group Stage,win,0:3 victory against Kingstone
+DauT,536,"May 16, 2023",day,2023,2302,King of the Desert 5 | Group Stage,loss,1:3 defeat against Villese
+DauT,537,"May 20, 2023",day,2023,2306,King of the Desert 5 | Group Stage,win,1:3 victory against Valas
+DauT,538,"May 22, 2023",day,2023,2307,King of the Desert 5 | K.O. Phase,loss,2:3 defeat against Yo
+DauT,539,"May 30, 2023",day,2023,2309,Masters of Arena 7 Qualifier | K.O. Phase,win,0:2 victory against Zarathak
+DauT,540,"Jun 03, 2023",day,2023,2305,Masters of Arena 7 Qualifier | Quarter-Finals,win,1:3 victory against salsicciotto1999
+DauT,541,"Jun 08, 2023",day,2023,2299,Masters of Arena 7 | Group Stage,win,2:3 victory against repard
+DauT,542,"Jun 08, 2023",day,2023,2301,AoE2 Admirals League 2 | K.O. Phase,win,0:2 victory against Nahue05
+DauT,543,"Jun 13, 2023",day,2023,2293,Masters of Arena 7 | Group Stage,loss,1:3 defeat against JorDan_AoE
+DauT,544,"Jun 15, 2023",day,2023,2305,AoE2 Admirals League 2 | K.O. Phase,win,1:3 victory against TheViper
+DauT,545,"Jun 17, 2023",day,2023,2308,Masters of Arena 7 | Group Stage,win,0:3 victory against St4rk
+DauT,546,"Jun 19, 2023",day,2023,2308,Pablito's Invitational | Quarter-Finals,loss,3:1 defeat against Hera
+DauT,547,"Jun 20, 2023",day,2023,2311,AoE2 Admirals League 2 | Quarter-Finals,win,3:0 victory against El_Matador
+DauT,548,"Jun 21, 2023",day,2023,2310,Masters of Arena 7 | K.O. Phase,win,3:2 victory against Running
+DauT,549,"Jun 27, 2023",day,2023,2298,AoE2 Admirals League 2 | Semi-Finals,loss,3:0 defeat against JorDan_AoE
+DauT,550,"Jun 30, 2023",day,2023,2290,Masters of Arena 7 | Quarter-Finals,loss,3:1 defeat against Vinchester
+DauT,551,"Jul 25, 2023",day,2023,2292,Clash of Empires: Qualifier | Quarter-Finals,win,0:2 victory against MrOsoVC8
+DauT,552,"Aug 01, 2023",day,2023,2295,Clash of Empires: Qualifier | Semi-Finals,win,0:3 victory against Ozone
+DauT,553,"Aug 11, 2023",day,2023,2297,MetaWorldTour: Qualifier 2 | K.O. Phase,win,0:2 victory against GurasTobbyBufas
+DauT,554,"Aug 13, 2023",day,2023,2306,Clash of Empires: Qualifier | Finale,win,0:3 victory against vivi
+DauT,555,"Aug 19, 2023",day,2023,2308,MetaWorldTour: Qualifier 2 | Quarter-Finals,win,0:2 victory against Ubetnir
+DauT,556,"Aug 20, 2023",day,2023,2317,Clash of Empires | Group Stage,win,3:2 victory against TheViper
+DauT,557,"Aug 22, 2023",day,2023,2323,MetaWorldTour: Qualifier 2 | Semi-Finals,win,0:2 victory against Margougou
+DauT,558,"Aug 24, 2023",day,2023,2327,MetaWorldTour: Qualifier 2 | Finale,win,1:3 victory against FreakinAndy
+DauT,559,"Aug 27, 2023",day,2023,2336,Clash of Empires | Group Stage,win,0:3 victory against Barles
+DauT,560,"Sep 01, 2023",day,2023,2338,MetaWorldTour | Group Stage,win,0:2 victory against Salted Pepper
+DauT,561,"Sep 03, 2023",day,2023,2350,Clash of Empires | Quarter-Finals,win,0:3 victory against Vinchester
+DauT,562,"Sep 06, 2023",day,2023,2351,MetaWorldTour | Group Stage,win,1:2 victory against FreakinAndy
+DauT,563,"Sep 09, 2023",day,2023,2363,Clash of Empires | Semi-Finals,win,1:4 victory against Yo
+DauT,564,"Sep 10, 2023",day,2023,2363,Clash of Empires | Finale,loss,3:5 defeat against Liereyy
+DauT,565,"Sep 11, 2023",day,2023,2369,T90 Titans League 3: Platinum League | Group Stage,win,0:3 victory against Running
+DauT,566,"Sep 19, 2023",day,2023,2367,T90 Titans League 3: Platinum League | Group Stage,win,1:2 victory against Valas
+DauT,567,"Sep 20, 2023",day,2023,2379,MetaWorldTour | Group Stage,win,3:0 victory against ACCM
+DauT,568,"Sep 26, 2023",day,2023,2385,T90 Titans League 3: Platinum League | Group Stage,win,0:3 victory against Daniel
+DauT,569,"Oct 01, 2023",day,2023,2388,T90 Titans League 3: Platinum League | Group Stage,win,0:3 victory against Lyx
+DauT,570,"Oct 05, 2023",day,2023,2391,MetaWorldTour | Quarter-Finals,win,0:3 victory against _Tomate
+DauT,571,"Oct 08, 2023",day,2023,2379,T90 Titans League 3: Platinum League | Group Stage,loss,0:3 defeat against Yo
+DauT,572,"Oct 09, 2023",day,2023,2381,EndorWar 4 Qualifier | K.O. Phase,win,0:2 victory against Tointoin
+DauT,573,"Oct 11, 2023",day,2023,2388,Clash of the Titans II: Promo Invitational | Group Stage,win,1:4 victory against JorDan_AoE
+DauT,574,"Oct 11, 2023",day,2023,2376,MetaWorldTour | Semi-Finals,loss,3:1 defeat against FreakinAndy
+DauT,575,"Oct 14, 2023",day,2023,2372,T90 Titans League 3: Platinum League | K.O. Phase,loss,3:2 defeat against TaToH
+DauT,576,"Oct 17, 2023",day,2023,2374,EndorWar 4 Qualifier | Quarter-Finals,win,0:2 victory against Overtaken
+DauT,577,"Oct 21, 2023",day,2023,2374,Warlords II Qualifier 1 | K.O. Phase,win,0:2 victory against Nobu
+DauT,578,"Oct 21, 2023",day,2023,2377,Warlords II Qualifier 1 | Quarter-Finals,win,0:3 victory against Rayzor
+DauT,579,"Oct 21, 2023",day,2023,2377,Warlords II Qualifier 1 | Semi-Finals,win,1:3 victory against Margougou
+DauT,580,"Oct 22, 2023",day,2023,2381,Warlords II Qualifier 1 | Finale,win,1:3 victory against MbL
+DauT,581,"Oct 23, 2023",day,2023,2393,Warlords Waiting Room | Group Stage,win,3:0 victory against Liereyy
+DauT,582,"Oct 23, 2023",day,2023,2390,Clash of the Titans II: Promo Invitational | Group Stage,win,4:1 victory against saymyname
+DauT,583,"Oct 24, 2023",day,2023,2393,Warlords Waiting Room | Group Stage,win,0:3 victory against Dr.Kozmonot
+DauT,584,"Oct 25, 2023",day,2023,2396,Warlords Waiting Room | Group Stage,win,0:3 victory against Kasva
+DauT,585,"Oct 26, 2023",day,2023,2392,Warlords Waiting Room | Quarter-Finals,loss,3:2 defeat against TaToH
+DauT,586,"Oct 26, 2023",day,2023,2390,EndorWar 4 Qualifier | Semi-Finals,win,1:2 victory against Running
+DauT,587,"Oct 31, 2023",day,2023,2383,HalloWinners 2: Smashing PumpKings | K.O. Phase,loss,1:0 defeat against shiXo.#
+DauT,588,"Nov 01, 2023",day,2023,2387,Warlords II | Group Stage,win,3:1 victory against ACCM
+DauT,589,"Nov 03, 2023",day,2023,2375,EndorWar 4 Qualifier | Finale,loss,0:3 defeat against Yo
+DauT,590,"Nov 04, 2023",day,2023,2376,Warlords II | Group Stage,loss,2:3 defeat against Hera
+DauT,591,"Nov 06, 2023",day,2023,2385,Clash of the Titans II: Promo Invitational | Group Stage,win,3:2 victory against TheViper
+DauT,592,"Nov 06, 2023",day,2023,2387,The Holly Jolly Christmas Cup | K.O. (Winner Bracket),win,0:2 victory against shiXo.#
+DauT,593,"Nov 09, 2023",day,2023,2391,Warlords II | Group Stage,win,1:3 victory against JorDan_AoE
+DauT,594,"Nov 10, 2023",day,2023,2387,Warlords II | Group Stage,loss,2:3 defeat against Liereyy
+DauT,595,"Nov 12, 2023",day,2023,2378,Warlords II | Group Stage,loss,3:2 defeat against Villese
+DauT,596,"Nov 26, 2023",day,2023,2380,The Holly Jolly Christmas Cup | K.O. (Winner Bracket),win,0:2 victory against Ozone
+DauT,597,"Dec 04, 2023",day,2023,2384,Clash of the Titans II: Promo Invitational | Group Stage,win,3:2 victory against Yo
+DauT,598,"Dec 05, 2023",day,2023,2378,Clash of the Titans II: Promo Invitational | Group Stage,win,3:2 victory against dogao
+DauT,599,"Dec 06, 2023",day,2023,2382,The Holly Jolly Christmas Cup | Quarter-Finals (Winner Bracket),win,0:2 victory against Kingstone
+DauT,600,"Dec 08, 2023",day,2023,2385,Nili's Apartment Cup V Qualifier 1 | K.O. Phase,win,0:3 victory against Biry
+DauT,601,"Dec 08, 2023",day,2023,2380,AoE2 Middle East Tournament | K.O. Phase,win,1:2 victory against Uzzi
+DauT,602,"Dec 09, 2023",day,2023,2380,Nili's Apartment Cup V Qualifier 1 | Quarter-Finals,win,1:3 victory against classicpro
+DauT,603,"Dec 09, 2023",day,2023,2371,Nili's Apartment Cup V Qualifier 1 | Semi-Finals,loss,3:2 defeat against Hearttt
+DauT,604,"Dec 13, 2023",day,2023,2374,Nili's Apartment Cup V Qualifier 2 | K.O. Phase,win,0:3 victory against BlackheartXY
+DauT,605,"Dec 16, 2023",day,2023,2380,Nili's Apartment Cup V Qualifier 2 | Quarter-Finals,win,0:3 victory against Kingstone
+DauT,606,"Dec 16, 2023",day,2023,2389,Nili's Apartment Cup V Qualifier 2 | Semi-Finals,win,0:3 victory against dogao
+DauT,607,"Dec 17, 2023",day,2023,2396,Nili's Apartment Cup V Qualifier 2 | Finale,win,1:4 victory against Nicov
+DauT,608,"Dec 18, 2023",day,2023,2399,The Holly Jolly Christmas Cup | Semi-Finals (Winner Bracket),win,0:3 victory against Uzzi
+DauT,609,"Dec 27, 2023",day,2023,2387,AoE2 Middle East Tournament | K.O. Phase,loss,3:1 defeat against Sitaux
+DauT,610,"Jan 06, 2024",day,2024,2379,Nili's Apartment Cup V | Group Stage,loss,1:3 defeat against Liereyy
+DauT,611,"Jan 07, 2024",day,2024,2375,Nili's Apartment Cup V | Group Stage,loss,1:3 defeat against Hera
+DauT,612,"Jan 08, 2024",day,2024,2366,Nili's Apartment Cup V | Group Stage,loss,3:2 defeat against FreakinAndy
+DauT,613,"Jan 09, 2024",day,2024,2370,Nili's Apartment Cup V | Group Stage,win,1:3 victory against Hearttt
+DauT,614,"Jan 10, 2024",day,2024,2382,Nili's Apartment Cup V | Group Stage,win,0:3 victory against ACCM
+DauT,615,"Jan 11, 2024",day,2024,2384,Nili's Apartment Cup V | K.O. Phase,win,4:2 victory against FreakinAndy
+DauT,616,"Jan 12, 2024",day,2024,2387,Nili's Apartment Cup V | Quarter-Finals,loss,3:4 defeat against TheViper
+DauT,617,"Feb 27, 2024",day,2024,2389,Hidden Cup 5 | K.O. Phase,win,2:4 victory against Vinchester
+DauT,618,"Mar 01, 2024",day,2024,2387,Hidden Cup 5 | Quarter-Finals,loss,4:2 defeat against TheViper
+DauT,619,"Mar 13, 2024",day,2024,2389,SuperDr4ft | Group Stage,win,0:2 victory against Target331
+DauT,620,"Mar 16, 2024",day,2024,2384,SuperDr4ft | Group Stage,win,1:2 victory against DracKeN
+DauT,621,"Mar 17, 2024",day,2024,2390,SuperDr4ft | Group Stage,win,0:2 victory against FreakinAndy
+DauT,622,"Apr 05, 2024",day,2024,2386,SuperDr4ft | Group Stage,loss,0:2 defeat against Hera
+DauT,623,"Apr 13, 2024",day,2024,2386,Thalassocracy Cup | K.O. Phase,win,0:2 victory against paradox303
+DauT,624,"Apr 13, 2024",day,2024,2380,SuperDr4ft | Quarter-Finals,win,3:2 victory against Dark
+DauT,625,"Apr 19, 2024",day,2024,2368,SuperDr4ft | Semi-Finals,loss,4:0 defeat against TaToH
+DauT,626,"Apr 21, 2024",day,2024,2370,Thalassocracy Cup | K.O. Phase,win,0:2 victory against Somero
+DauT,627,"Apr 27, 2024",day,2024,2376,Thalassocracy Cup | K.O. Phase,win,0:3 victory against Running
+DauT,628,"Apr 30, 2024",day,2024,2382,Thalassocracy Cup | K.O. Phase,win,3:0 victory against Margougou
+DauT,629,"May 01, 2024",day,2024,2382,Warlords III: Qualifier 1 | K.O. Phase,win,0:3 victory against Patoshiq
+DauT,630,"May 05, 2024",day,2024,2371,Warlords III: Qualifier 1 | Quarter-Finals,win,2:3 victory against Monoz
+DauT,631,"May 08, 2024",day,2024,2377,Warlords III: Qualifier 1 | Semi-Finals,win,0:3 victory against Daniel
+DauT,632,"May 09, 2024",day,2024,2381,Thalassocracy Cup | Quarter-Finals,win,1:3 victory against MbL
+DauT,633,"May 12, 2024",day,2024,2393,Warlords III: Qualifier 1 | Finale,win,0:4 victory against Hearttt
+DauT,634,"May 13, 2024",day,2024,2397,Thalassocracy Cup | Semi-Finals,win,3:4 victory against Yo
+DauT,635,"May 18, 2024",day,2024,2389,Thalassocracy Cup | Finale,loss,2:4 defeat against Sebastian
+DauT,636,"Jun 05, 2024",day,2024,2391,Warlords III | K.O. Phase,win,2:4 victory against Barles
+DauT,637,"Jun 07, 2024",day,2024,2379,Warlords III | Quarter-Finals,loss,0:4 defeat against TheViper
+DauT,638,"Jun 19, 2024",day,2024,2379,ShenAiXie Cup Qualifier | K.O. Phase,win,0:3 victory against CN_Dauh
+DauT,639,"Jun 23, 2024",day,2024,2369,ShenAiXie Cup Qualifier | Finale,win,2:4 victory against jibatong
+DauT,640,"Jun 29, 2024",day,2024,2371,ShenAiXie Cup | K.O. Phase,win,1:4 victory against Daniel
+DauT,641,"Jul 07, 2024",day,2024,2357,ShenAiXie Cup | K.O. Phase,loss,4:2 defeat against Sitaux
+DauT,642,"Aug 10, 2024",day,2024,2359,Red Bull Wololo: El Reinado - Last Chance Qualifier | K.O. Phase,win,0:2 victory against FolderOfDoom
+DauT,643,"Aug 11, 2024",day,2024,2359,Red Bull Wololo: El Reinado - Last Chance Qualifier | K.O. Phase,win,1:3 victory against Ganji
+DauT,644,"Aug 11, 2024",day,2024,2371,Red Bull Wololo: El Reinado - Last Chance Qualifier | Quarter-Finals,win,0:3 victory against Nicov
+DauT,645,"Aug 17, 2024",day,2024,2367,Red Bull Wololo: El Reinado - Last Chance Qualifier | Semi-Finals,loss,2:3 defeat against ACCM
+DauT,646,"Aug 31, 2024",day,2024,2368,World Desert Championship 2 (1v1s) | K.O. Phase,win,0:1 victory against Socksyy
+DauT,647,"Sep 08, 2024",day,2024,2369,World Desert Championship 2 (1v1s) | K.O. Phase,win,0:1 victory against LobodelaNieve
+DauT,648,"Sep 15, 2024",day,2024,2371,World Desert Championship 2 (1v1s) | K.O. Phase,win,0:1 victory against Capoch
+DauT,649,"Sep 27, 2024",day,2024,2367,World Desert Championship 2 (1v1s) | Quarter-Finals,loss,1:0 defeat against Hearttt
+DauT,650,"Sep 28, 2024",day,2024,2363,World Desert Championship 2 (1v1s) | Semi-Finals,loss,1:0 defeat against Nicov
+DauT,651,"Sep 29, 2024",day,2024,2357,World Desert Championship 2 (1v1s) | Finale,loss,1:0 defeat against Kingstone
+DauT,652,"Nov 08, 2024",day,2024,2360,Noble Apartment Cup: Qualifier | K.O. Phase,win,0:3 victory against nono12
+DauT,653,"Nov 09, 2024",day,2024,2356,Noble Apartment Cup: Qualifier | Quarter-Finals,win,1:3 victory against DuDuZhu
+DauT,654,"Nov 09, 2024",day,2024,2362,Noble Apartment Cup: Qualifier | Semi-Finals,win,0:3 victory against Ciskhan
+DauT,655,"Nov 10, 2024",day,2024,2359,Noble Apartment Cup: Qualifier | Finale,win,3:4 victory against vivi
+DauT,656,"Nov 14, 2024",day,2024,2362,Wandering Warriors Cup 2 | K.O. Phase,win,0:3 victory against Koala26
+DauT,657,"Nov 21, 2024",day,2024,2368,Wandering Warriors Cup 2 | K.O. Phase,win,0:3 victory against miguel
+DauT,658,"Nov 26, 2024",day,2024,2374,Wandering Warriors Cup 2 | K.O. Phase,win,0:3 victory against Running
+DauT,659,"Nov 30, 2024",day,2024,2370,Wandering Warriors Cup 2 | K.O. Phase,loss,3:2 defeat against Liereyy
+DauT,660,"Dec 15, 2024",day,2024,2366,Noble Apartment Cup | Group Stage,loss,1:3 defeat against TheViper
+DauT,661,"Dec 16, 2024",day,2024,2354,Noble Apartment Cup | Group Stage,loss,0:3 defeat against Vinchester
+DauT,662,"Dec 17, 2024",day,2024,2353,Noble Apartment Cup | Group Stage,win,2:3 victory against dogao
+DauT,663,"Dec 18, 2024",day,2024,2344,Noble Apartment Cup | Group Stage,loss,0:3 defeat against ACCM
+DauT,664,"Dec 19, 2024",day,2024,2340,Noble Apartment Cup | Group Stage,loss,2:3 defeat against Hearttt
+DauT,665,"Jan 04, 2025",day,2025,2342,The Garrison qualifier | K.O. Phase,win,0:2 victory against sziky
+DauT,666,"Jan 04, 2025",day,2025,2348,The Garrison qualifier | Quarter-Finals,win,0:3 victory against prisma09
+DauT,667,"Jan 04, 2025",day,2025,2339,The Garrison qualifier | Semi-Finals,loss,3:2 defeat against Mihai06
+DauT,668,"Jan 18, 2025",day,2025,2327,T90 Titans League 4: Platinum League | Group Stage,loss,3:0 defeat against Sebastian
+DauT,669,"Jan 31, 2025",day,2025,2330,Master of HyperRandom 2 | K.O. Phase,win,0:3 victory against Neozz
+DauT,670,"Feb 02, 2025",day,2025,2321,T90 Titans League 4: Platinum League | Group Stage,loss,0:3 defeat against Liereyy
+DauT,671,"Feb 03, 2025",day,2025,2311,T90 Titans League 4: Platinum League | Group Stage,loss,2:1 defeat against The_Dragonstar
+DauT,672,"Feb 07, 2025",day,2025,2314,Wallhalla 2: Qualifier | Finale,win,0:3 victory against ThunderboltX
+DauT,673,"Feb 10, 2025",day,2025,2323,Master of HyperRandom 2 | K.O. Phase,win,0:3 victory against Margougou
+DauT,674,"Feb 12, 2025",day,2025,2332,Master of HyperRandom 2 | Quarter-Finals (Winner Bracket),win,3:2 victory against ACCM
+DauT,675,"Feb 16, 2025",day,2025,2323,T90 Titans League 4: Platinum League | Group Stage,loss,0:3 defeat against Yo
+DauT,676,"Feb 20, 2025",day,2025,2324,Master of HyperRandom 2 | Semi-Finals (Winner Bracket),loss,2:3 defeat against Vinchester
+DauT,677,"Feb 23, 2025",day,2025,2333,T90 Titans League 4: Platinum League | Group Stage,win,0:3 victory against Margougou
+DauT,678,"Feb 27, 2025",day,2025,2342,Master of HyperRandom 2 | Second RO4 (Loser Bracket),win,0:3 victory against Kingstone
+DauT,679,"Mar 08, 2025",day,2025,2346,Wallhalla 2 | K.O. Phase,win,3:1 victory against Lucho
+DauT,680,"Mar 18, 2025",day,2025,2334,Wallhalla 2 | K.O. Phase,loss,0:3 defeat against ACCM
+DauT,681,"Mar 25, 2025",day,2025,2342,Master of HyperRandom 2 | Semi-Finale (Loser Bracket),win,1:3 victory against TaToH
+DauT,682,"Mar 28, 2025",day,2025,2334,Master of HyperRandom 2 | Finale (Loser Bracket),loss,2:4 defeat against FreakinAndy
+DauT,683,"Apr 18, 2025",day,2025,2329,KCIP | Group Stage,win,1:2 victory against Neozz
+DauT,684,"Apr 24, 2025",day,2025,2332,KCIP | Group Stage,win,0:3 victory against King_Boo
+DauT,685,"Apr 25, 2025",day,2025,2335,Warlords IV: Qualifier #1 | K.O. Phase,win,0:3 victory against Neozz
+DauT,686,"Apr 26, 2025",day,2025,2341,Warlords IV: Qualifier #1 | Quarter-Finals,win,0:3 victory against Valas
+DauT,687,"Apr 26, 2025",day,2025,2345,Warlords IV: Qualifier #1 | Semi-Finals,win,2:3 victory against Sitaux
+DauT,688,"Apr 27, 2025",day,2025,2341,Warlords IV: Qualifier #1 | Finale,loss,1:3 defeat against ACCM
+DauT,689,"May 02, 2025",day,2025,2337,Warlords IV: Qualifier #2 | K.O. Phase,win,1:3 victory against King_Boo
+DauT,690,"May 03, 2025",day,2025,2328,Warlords IV: Qualifier #2 | Quarter-Finals,loss,3:0 defeat against JorDan_AoE
+DauT,691,"May 07, 2025",day,2025,2319,KCIP | Group Stage,loss,0:3 defeat against TaToH
+DauT,692,"May 08, 2025",day,2025,2322,Warlords IV: Qualifier #3 | K.O. Phase,win,0:3 victory against Dimo
+DauT,693,"May 10, 2025",day,2025,2322,Warlords IV: Qualifier #3 | Quarter-Finals,win,1:3 victory against IAnTaGoNiStI
+DauT,694,"May 10, 2025",day,2025,2331,Warlords IV: Qualifier #3 | Semi-Finals,win,0:3 victory against Sora_Kuma
+DauT,695,"May 11, 2025",day,2025,2340,Warlords IV: Qualifier #3 | Finale,win,0:3 victory against Capoch
+DauT,696,"May 12, 2025",day,2025,2336,KCIP | Quarter-Finals,loss,1:3 defeat against Vinchester
+DauT,697,"May 20, 2025",day,2025,2337,Warlords IV | Group Stage,loss,2:3 defeat against TheViper
+DauT,698,"May 22, 2025",day,2025,2328,Warlords IV | Group Stage,loss,0:3 defeat against ACCM
+DauT,699,"May 26, 2025",day,2025,2332,Warlords IV | Group Stage,win,1:2 victory against Mihai06
+DauT,700,"Jul 30, 2025",day,2025,2335,LingYuan Cup: International Qualifier #1 | K.O. Phase,win,0:3 victory against StonePleaseAoE
+DauT,701,"Aug 02, 2025",day,2025,2320,LingYuan Cup: International Qualifier #1 | Quarter-Finals,loss,3:0 defeat against Mihai06
+DauT,702,"Aug 08, 2025",day,2025,2320,LingYuan Cup: International Qualifier #2 | K.O. Phase,win,1:3 victory against DracKeN
+DauT,703,"Aug 09, 2025",day,2025,2326,LingYuan Cup: International Qualifier #2 | Quarter-Finals,win,0:3 victory against The_Dragonstar
+DauT,704,"Aug 09, 2025",day,2025,2322,LingYuan Cup: International Qualifier #2 | Semi-Finals,loss,2:3 defeat against Dark
+DauT,705,"Sep 15, 2025",day,2025,2313,Quintessential Cookout | K.O. Phase,loss,0:3 defeat against ACCM
+DauT,706,"Sep 24, 2025",day,2025,2315,Master of HyperRandom 3: Qualifier | Quarter-Finals,win,0:2 victory against Spaden
+DauT,707,"Sep 26, 2025",day,2025,2321,Master of HyperRandom 3: Qualifier | Semi-Finals,win,0:3 victory against Nahue05
+DauT,708,"Sep 28, 2025",day,2025,2324,Master of HyperRandom 3: Qualifier | Finale,win,0:3 victory against Benanji
+DauT,709,"Oct 04, 2025",day,2025,2328,Master of HyperRandom 3 | K.O. Phase,win,3:2 victory against FreakinAndy
+DauT,710,"Oct 07, 2025",day,2025,2324,Master of HyperRandom 3 | K.O. (Winner Bracket),loss,1:3 defeat against TheViper
+DauT,711,"Oct 09, 2025",day,2025,2320,Stronghold Frenzy 2 | K.O. Phase,win,1:3 victory against MATZE
+DauT,712,"Oct 14, 2025",day,2025,2328,Master of HyperRandom 3 | K.O. (Loser Bracket),win,1:3 victory against Lewis
+DauT,713,"Oct 15, 2025",day,2025,2324,Stronghold Frenzy 2 | K.O. (Winner Bracket),win,3:1 victory against Terz
+DauT,714,"Oct 17, 2025",day,2025,2333,Master of HyperRandom 3 | Quarter-Finals,win,3:2 victory against ACCM
+DauT,715,"Oct 18, 2025",day,2025,2333,Master of HyperRandom 3 | Semi-Finals,draw,0:0 draw against Liereyy
+DauT,716,"Oct 19, 2025",day,2025,2338,Master of HyperRandom 3 | Finale,loss,5:4 defeat against MbL
+DauT,717,"Oct 30, 2025",day,2025,2327,Stronghold Frenzy 2 | K.O. Phase,win,2:3 victory against Target331
+DauT,718,"Nov 06, 2025",day,2025,2329,Thalassocracy 2 | K.O. Phase,win,0:2 victory against Meh247
+DauT,719,"Nov 06, 2025",day,2025,2333,Stronghold Frenzy 2 | Quarter-Finals,win,3:2 victory against Barles
+DauT,720,"Nov 10, 2025",day,2025,2329,Thalassocracy 2 | K.O. Phase,win,1:3 victory against Emu Warrior
+DauT,721,"Nov 11, 2025",day,2025,2331,Stronghold Frenzy 2 | Semi-Finals,win,1:4 victory against IAnTaGoNiStI
+DauT,722,"Nov 18, 2025",day,2025,2327,Thalassocracy 2 | K.O. Phase,win,1:3 victory against TheKroks
+DauT,723,"Nov 20, 2025",day,2025,2321,Thalassocracy 2 | K.O. Phase,loss,0:3 defeat against Hera
+DauT,724,"Nov 22, 2025",day,2025,2309,Stronghold Frenzy 2 | Final,loss,1:4 defeat against FreakinAndy
+DauT,725,"Dec 05, 2025",day,2025,2305,King of the Desert VI | Round of 64 (Bo5),win,1:3 victory against DOOMSTER
+DauT,726,"Dec 12, 2025",day,2025,2304,King of the Desert VI | Round of 32 (Bo5),win,2:3 victory against vivi
+DauT,727,"Dec 17, 2025",day,2025,2292,King of the Desert VI | Round of 16 (Bo7),loss,0:4 defeat against Hearttt
+DauT,728,"Jan 24, 2026",day,2026,2296,Red Bull Wololo: Londinium Age of Empires II: Last-Chance Qualifier | Round of 32 (Bo3),win,0:2 victory against Uzzi
+DauT,729,"Jan 24, 2026",day,2026,2299,Red Bull Wololo: Londinium Age of Empires II: Last-Chance Qualifier | Round of 16 (Bo5),win,0:1 victory against classicpro
+DauT,730,"Jan 24, 2026",day,2026,2298,Red Bull Wololo: Londinium Age of Empires II: Last-Chance Qualifier | Round of 8 (Bo5),win,3:2 victory against dogao
+DauT,731,"Jan 25, 2026",day,2026,2290,Red Bull Wololo: Londinium Age of Empires II: Last-Chance Qualifier | Minor Ladder Round,loss,1:3 defeat against Lewis
+DauT,732,"Jan 29, 2026",day,2026,2296,T90 Titans League 5: Gold League | Round 1,win,0:3 victory against F1Re
+DauT,733,"Feb 05, 2026",day,2026,2302,T90 Titans League 5: Gold League | Round 2,win,0:3 victory against Z40
+DauT,734,"Feb 14, 2026",day,2026,2295,T90 Titans League 5: Gold League | Round 3,loss,2:1 defeat against Capoch
+DauT,735,"Feb 15, 2026",day,2026,2301,T90 Titans League 5: Gold League | Group B | Round 4,win,0:3 victory against Sobek
+DauT,736,"Feb 24, 2026",day,2026,2305,T90 Titans League 5: Gold League | Group B | Round 5,win,1:2 victory against Sora_Kuma
+DauT,737,"Mar 02, 2026",day,2026,2302,T90 Titans League 5: Gold League | Playoffs | Decider Match (Bo7),win,3:4 victory against Villese
+DauT,738,"Apr 10, 2026",day,2026,2305,Brazilian Dynasty: International Qualifier 1 | Bracket A | Round of 80 (Bo5),win,0:3 victory against Jubileu
+DauT,739,"Apr 11, 2026",day,2026,2309,Brazilian Dynasty: International Qualifier 1 | Bracket A | Round of 40 (Bo5),win,1:3 victory against Villese
+DauT,740,"Apr 11, 2026",day,2026,2303,Brazilian Dynasty: International Qualifier 1 | Bracket A | Round of 20 (Bo5),win,3:2 victory against StonePleaseAoE
+DauT,741,"Apr 12, 2026",day,2026,2301,Brazilian Dynasty: International Qualifier 1 | Bracket A | Qualifying Round (Bo7),loss,1:4 defeat against TheViper
+DauT,742,"Apr 16, 2026",day,2026,2304,Brazilian Dynasty: International Qualifier 2 | Bracket B | Round of 80 (Bo5),win,0:3 victory against Paganini
+DauT,743,"Apr 17, 2026",day,2026,2300,Brazilian Dynasty: International Qualifier 2 | Bracket B | Round of 40 (Bo5),win,1:3 victory against LobodelaNieve
+DauT,744,"Apr 18, 2026",day,2026,2292,Brazilian Dynasty: International Qualifier 2 | Bracket B | Round of 20 (Bo5),loss,3:1 defeat against Sora_Kuma
+DauT,745,"Apr 25, 2026",day,2026,2294,MembTV Warlords V: Qualifier #1 | Bracket A | Round of 16 (Bo3),win,0:2 victory against Storm
+DauT,746,"Apr 25, 2026",day,2026,2297,MembTV Warlords V: Qualifier #1 | Bracket A | Quarterfinals (Bo5),win,0:3 victory against Rodrixs
+DauT,747,"Apr 25, 2026",day,2026,2296,MembTV Warlords V: Qualifier #1 | Bracket A | Semifinals (Bo5),win,2:3 victory against Kingstone
+DauT,748,"Apr 26, 2026",day,2026,2297,MembTV Warlords V: Qualifier #1 | Bracket A | Final (Bo5),loss,2:3 defeat against TaToH
+DauT,749,"May 02, 2026",day,2026,2297,MembTV Warlords V: Qualifier #2 | Bracket D | Semifinals (Bo5),win,1:3 victory against Overtaken
+DauT,750,"May 02, 2026",day,2026,2300,MembTV Warlords V: Qualifier #2 | Bracket D | Quarterfinals (Bo5),win,0:3 victory against Ubetnir
+DauT,751,"May 03, 2026",day,2026,2291,MembTV Warlords V: Qualifier #2 | Bracket D | Final (Bo5),loss,3:2 defeat against classicpro
+DauT,752,"May 23, 2026",day,2026,2294,AoE2 Specialist Cup 2: Stronghold | Group B | Round 1,win,3:0 victory against Noszombie
+DauT,753,"May 23, 2026",day,2026,2289,AoE2 Specialist Cup 2: Thalassocracy | Group B | Round 1,win,2:1 victory against Noszombie
+DauT,754,"May 23, 2026",day,2026,2292,AoE2 Specialist Cup 2: Continental | Group B | Round 1,win,3:0 victory against Dobbs351
+DauT,755,"May 25, 2026",day,2026,2282,AoE2 Specialist Cup 2: Continental | Group B | Round 2,loss,2:1 defeat against Overtaken
+DauT,756,"May 25, 2026",day,2026,2280,AoE2 Specialist Cup 2: Stronghold | Group B | Round 2,win,1:2 victory against Overtaken
+DauT,757,"May 25, 2026",day,2026,2286,AoE2 Specialist Cup 2: Nomad | Group B | Round 2,win,0:3 victory against Dennis
+DauT,758,"May 25, 2026",day,2026,2284,AoE2 Specialist Cup 2: Thalassocracy | Group B | Round 2,win,1:2 victory against Dennis
+DauT,759,"May 25, 2026",day,2026,2287,AoE2 Specialist Cup 2: Continental | Group B | Round 3,win,0:3 victory against Rodrixs
+DauT,760,"May 25, 2026",day,2026,2290,AoE2 Specialist Cup 2: Stronghold | Group B | Round 3,win,0:3 victory against Rodrixs
+DauT,761,"May 25, 2026",day,2026,2293,AoE2 Specialist Cup 2: Nomad | Group B | Round 3,win,0:3 victory against Rodrixs
+DauT,762,"May 28, 2026",day,2026,2288,AoE2 Specialist Cup 2: Stronghold | Group B | Round 4,win,2:1 victory against Wean Dinchester
+DauT,763,"May 29, 2026",day,2026,2291,AoE2 Specialist Cup 2: Thalassocracy | Group B | Round 3,win,0:3 victory against youpudding
+DauT,764,"Jun 04, 2026",day,2026,2294,AoE2 Specialist Cup 2: Nomad | Group B | Round 1,win,3:0 victory against ChossMx
+DauT,765,"Jun 04, 2026",day,2026,2285,Survivors of Bazirandom 3 | Round of 32,loss,2:3 defeat against Running
+DauT,766,"Jun 06, 2026",day,2026,2288,AoE2 Specialist Cup 2: Nomad | Group B | Round 4,win,3:0 victory against SoyLaHostia
+DauT,767,"Jun 14, 2026",day,2026,2288,AoE2 Specialist Cup 2: Thalassocracy | Group B | Round 4,win,0:0 victory against buddybadi
+DauT,768,"Jun 15, 2026",day,2026,2288,AoE2 Specialist Cup 2: Continental | Group B | Round 4,draw,0:0 draw against yomi
+DauT,769,"Jun 18, 2026",day,2026,2288,AoE2 Specialist Cup 2: Continental | Playoffs | Round of 24 (Bo5),win,1:3 victory against youpudding
+DauT,770,"Jun 26, 2026",day,2026,2288,AoE2 Specialist Cup 2: Stronghold | Playoffs | Round of 16 (Bo5),win,1:3 victory against Blve
+DauT,771,"Jun 27, 2026",day,2026,2288,AoE2 Specialist Cup 2: Thalassocracy | Playoffs | Round of 16 (Bo5),win,1:3 victory against Overtaken
+DauT,772,"Jun 28, 2026",day,2026,2300,AoE2 Specialist Cup 2: Continental | Playoffs | Round of 16 (Bo5),win,3:1 victory against FreakinAndy
+DauT,773,"Jun 28, 2026",day,2026,2306,AoE2 Specialist Cup 2: Nomad | Playoffs | Round of 16 (Bo5),win,0:3 victory against Overtaken
+DauT,774,"Jun 30, 2026",day,2026,2306,AoE2 Specialist Cup 2: Thalassocracy | Playoffs | Quarterfinals (Bo5),win,1:3 victory against chart
+DauT,775,"Jun 30, 2026",day,2026,2315,AoE2 Specialist Cup 2: Stronghold | Playoffs | Quarterfinals (Bo5),win,0:3 victory against Neozz
+DauT,776,"Jul 02, 2026",day,2026,2306,AoE2 Specialist Cup 2: Nomad | Playoffs | Quarterfinals (Bo5),loss,3:2 defeat against StonePleaseAoE
+DauT,777,"Jul 03, 2026",day,2026,2310,AoE2 Specialist Cup 2: Stronghold | Playoffs | Semifinals (Bo5),win,1:3 victory against Running
+DauT,778,"Jul 07, 2026",day,2026,2314,AoE2 Specialist Cup 2: Continental | Playoffs | Quarterfinals (Bo5),win,1:3 victory against Capoch
+DauT,779,"Jul 21, 2026",day,2026,2314,AoE2 Specialist Cup 2: Thalassocracy | Playoffs | Semifinals (Bo5),win,1:3 victory against Target331
+DauT,780,"Jul 22, 2026",day,2026,2317,Hamsters vs Clowns | Round of 32 (Bo5),win,0:3 victory against Lamo
+DauT,781,"Jul 23, 2026",day,2026,2317,AoE2 Specialist Cup 2: Continental | Playoffs | Semifinals (Bo5),win,1:3 victory against Dennis
+DauT,782,"Jul 24, 2026",day,2026,2319,Workshop Wars | Group B | Round 3,win,2:0 victory against Happytheandy
+DauT,783,"Jul 24, 2026",day,2026,2321,Workshop Wars | Group B | Round 4,win,0:2 victory against Breakfast
+DauT,784,"Jul 27, 2026",day,2026,2317,Hamsters vs Clowns | Round of 16 (Bo5),loss,1:3 defeat against FreakinAndy
+DauT,785,"Jul 27, 2026",day,2026,2320,AoE2 Specialist Cup 2: Thalassocracy | Playoffs | Finals (Bo7),loss,3:4 defeat against FreakinAndy
+DauT,786,"Jul 29, 2026",day,2026,2306,AoE2 Specialist Cup 2: Continental | Playoffs | Finals (Bo7),loss,4:2 defeat against StonePleaseAoE
+DauT,787,"Jul 29, 2026",day,2026,2306,Workshop Wars | Group B | Round 1,win,0:0 victory against Neozz
+DauT,788,"Aug 04, 2026",day,2026,2292,Workshop Wars | Playoffs | Quarterfinals (Bo5),loss,3:2 defeat against Overtaken
+DauT,789,"Sep 16, 2026",day,2026,2287,Dynamic Battle: Season 4 Qualifier | Round 1,win,1:2 victory against Wean Dinchester
+DauT,790,"Sep 23, 2026",day,2026,2293,The Garrison 2026: Qualifier #1 | Bracket 1 | Round of 64 (Bo5),win,0:3 victory against wide
+DauT,791,"Sep 25, 2026",day,2026,2288,Dynamic Battle: Season 4 Qualifier | Round 2,win,1:2 victory against Andre_2i
+DauT,792,"Sep 26, 2026",day,2026,2273,The Garrison 2026: Qualifier #1 | Bracket 1 | Round of 32 (Bo5),loss,3:0 defeat against Ciskhan
+DauT,793,"Sep 30, 2026",day,2026,2276,The Garrison 2026: Qualifier #2 | Bracket 3 | Round of 90 (Bo5),win,0:3 victory against OGStragglerTree
+TheViper,1,"Jun 02, 2011",day,2011,1992,CivCup | Quarter-Finals,loss,0:2 defeat against FeAge
+TheViper,2,"Oct 31, 2011",day,2011,1997,World Clan League 7 | Group Stage,win,0:1 victory against Ding
+TheViper,3,"Oct 31, 2011",day,2011,2000,World Clan League 7 | Group Stage,win,0:1 victory against Hani
+TheViper,4,"Oct 31, 2011",day,2011,2003,World Clan League 7 | Group Stage,win,0:1 victory against Ares
+TheViper,5,"Oct 31, 2011",day,2011,1999,World Clan League 7 | Group Stage,loss,0:1 defeat against Duck
+TheViper,6,"Oct 31, 2011",day,2011,2003,World Clan League 7 | Group Stage,win,0:1 victory against kkab
+TheViper,7,"Mar 19, 2012",day,2012,2023,King of AoK | Group Stage,win,0:5 victory against Fanjita
+TheViper,8,"Mar 19, 2012",day,2012,2043,King of AoK | Group Stage,win,0:5 victory against NorthernPike
+TheViper,9,"Mar 19, 2012",day,2012,2058,King of AoK | Group Stage,win,0:5 victory against sletten
+TheViper,10,"Mar 19, 2012",day,2012,2068,King of AoK | Group Stage,win,0:5 victory against Kastu
+TheViper,11,"Jun 10, 2012",day,2012,2074,Masters of Arabia | K.O. Phase,win,0:2 victory against MrPlanner
+TheViper,12,"Jun 18, 2012",day,2012,2072,Masters of Arabia | Quarter-Finals,win,1:2 victory against Mahori
+TheViper,13,"Jun 22, 2012",day,2012,2073,Masters of Arabia | Semi-Finals,win,1:2 victory against Yo
+TheViper,14,"Jun 28, 2012",day,2012,2069,Masters of Arabia | Finale,loss,1:3 defeat against Tim
+TheViper,15,"Oct 11, 2012",day,2012,2077,Grand Masters League | Group Stage,win,0:2 victory against goodboy
+TheViper,16,"Oct 11, 2012",day,2012,2085,Grand Masters League | Finale,win,0:2 victory against JorDan_AoE
+TheViper,17,"Oct 21, 2012",day,2012,2091,Masters of Random Map | Quarter-Finals,win,0:2 victory against DarK_KnighT
+TheViper,18,"Oct 23, 2012",day,2012,2100,Masters of Random Map | Semi-Finals,win,0:3 victory against Juan
+TheViper,19,"Oct 26, 2012",day,2012,2106,Grand Masters League | Group Stage,win,0:2 victory against FeAge
+TheViper,20,"Oct 29, 2012",day,2012,2115,Masters of Random Map | Finale,win,0:3 victory against dogao
+TheViper,21,"Nov 01, 2012",day,2012,2115,Grand Masters League | Group Stage,draw,1:1 draw against Chris
+TheViper,22,"Nov 08, 2012",day,2012,2113,Grand Masters League | Group Stage,draw,1:1 draw against dogao
+TheViper,23,"Nov 18, 2012",day,2012,2123,Grand Masters League | Group Stage,win,0:2 victory against DauT
+TheViper,24,"Nov 27, 2012",day,2012,2131,Grand Masters League | Group Stage,win,0:2 victory against Tim
+TheViper,25,"Aug 11, 2013",day,2013,2134,The Medieval Wars | K.O. Phase,win,1:0 victory against komtan
+TheViper,26,"Aug 21, 2013",day,2013,2136,The Medieval Wars | Quarter-Finals,win,0:1 victory against Chocobo
+TheViper,27,"Aug 31, 2013",day,2013,2138,The Medieval Wars | Semi-Finals,win,0:1 victory against IamOK
+TheViper,28,"Sep 15, 2013",day,2013,2141,The Medieval Wars | Finale,win,0:1 victory against St4rk
+TheViper,29,"Sep 16, 2013",day,2013,2153,Top Experts League 1 | Group Stage,win,1:4 victory against JorDan_AoE
+TheViper,30,"Sep 21, 2013",day,2013,2169,Top Experts League 1 | Group Stage,win,0:4 victory against Chris
+TheViper,31,"Sep 22, 2013",day,2013,2165,Top Experts League 1 | Group Stage,loss,4:3 defeat against RiuT
+TheViper,32,"Sep 27, 2013",day,2013,2181,Top Experts League 1 | Finale,win,1:5 victory against JorDan_AoE
+TheViper,33,"Oct 20, 2013",day,2013,2184,Clash of the Titans | K.O. Phase,win,0:3 victory against magnata
+TheViper,34,"Oct 27, 2013",day,2013,2187,Clash of the Titans | K.O. Phase,win,0:3 victory against Chocobo
+TheViper,35,"Nov 03, 2013",day,2013,2193,Clash of the Titans | K.O. Phase,win,0:3 victory against F1Re
+TheViper,36,"Nov 10, 2013",day,2013,2195,Clash of the Titans | Quarter-Finals (Winner Bracket),win,1:4 victory against Paladin
+TheViper,37,"Nov 30, 2013",day,2013,2205,Clash of the Titans | Group Stage,win,0:5 victory against Lojza
+TheViper,38,"Dec 01, 2013",day,2013,2225,Clash of the Titans | Group Stage,win,5:0 victory against RiuT
+TheViper,39,"Dec 04, 2013",day,2013,2227,Clash of the Titans | Group Stage,win,1:4 victory against saymyname
+TheViper,40,"Dec 08, 2013",day,2013,2218,Clash of the Titans | Group Stage,loss,2:3 defeat against JorDan_AoE
+TheViper,41,"Dec 20, 2013",day,2013,2233,Clash of the Titans | Group Stage,win,0:5 victory against DauT
+TheViper,42,"Mar 01, 2014",day,2014,2237,Out Of Sync Cup | Quarter-Finals,win,0:2 victory against Spaden
+TheViper,43,"Mar 02, 2014",day,2014,2240,Out Of Sync Cup | Semi-Finals,win,0:3 victory against Spring
+TheViper,44,"Mar 02, 2014",day,2014,2248,Out Of Sync Cup | Finale,win,0:4 victory against BacT
+TheViper,45,"Aug 18, 2014",day,2014,2249,Saiyanhood Legends United | Group Stage,win,0:1 victory against Artras
+TheViper,46,"Aug 18, 2014",day,2014,2242,Saiyanhood Legends United | Group Stage,loss,0:1 defeat against Emin
+TheViper,47,"Aug 18, 2014",day,2014,2243,Saiyanhood Legends United | Group Stage,win,0:1 victory against Zuppi
+TheViper,48,"Aug 18, 2014",day,2014,2244,Saiyanhood Legends United | Group Stage,win,0:1 victory against Spaden
+TheViper,49,"Aug 18, 2014",day,2014,2245,Saiyanhood Legends United | Group Stage,win,0:1 victory against polpol
+TheViper,50,"Aug 18, 2014",day,2014,2246,Saiyanhood Legends United | Group Stage,win,0:1 victory against celesev
+TheViper,51,"Sep 08, 2014",day,2014,2248,Saiyanhood Legends United | Semi-Finals,win,0:1 victory against Raiden
+TheViper,52,"Sep 08, 2014",day,2014,2249,Saiyanhood Legends United | Semi-Finals,win,0:1 victory against Ra
+TheViper,53,"Sep 22, 2014",day,2014,2251,Saiyanhood Legends United | Finale,win,0:1 victory against F1Re
+TheViper,54,"Sep 22, 2014",day,2014,2254,Saiyanhood Legends United | Finale,win,0:1 victory against RiuT
+TheViper,55,"Oct 29, 2014",day,2014,2251,Top Experts League 5 | Group Stage,win,3:4 victory against JorDan_AoE
+TheViper,56,"Oct 31, 2014",day,2014,2247,Top Experts League 5 | Group Stage,win,4:2 victory against Yo
+TheViper,57,"Nov 01, 2014",day,2014,2259,Top Experts League 5 | Group Stage,win,4:0 victory against RiuT
+TheViper,58,"Nov 03, 2014",day,2014,2259,Top Experts League 5 | Finale,win,5:3 victory against RiuT
+TheViper,59,"Feb 14, 2015",day,2015,2260,War is Coming | Group Stage,win,0:1 victory against CooL
+TheViper,60,"Feb 16, 2015",day,2015,2261,War is Coming | Group Stage,win,0:1 victory against 8th_wonder
+TheViper,61,"Feb 16, 2015",day,2015,2262,War is Coming | Group Stage,win,0:1 victory against Paladin
+TheViper,62,"Mar 23, 2015",day,2015,2265,War is Coming | Finale,win,0:1 victory against RiuT
+TheViper,63,"Mar 23, 2015",day,2015,2259,War is Coming | Finale,loss,0:1 defeat against slam
+TheViper,64,"Mar 23, 2015",day,2015,2254,War is Coming | Finale,loss,0:1 defeat against RiuT
+TheViper,65,"May 17, 2015",day,2015,2256,Balance of Power | K.O. Phase,win,0:2 victory against Hera
+TheViper,66,"May 24, 2015",day,2015,2259,Balance of Power | K.O. Phase,win,0:3 victory against Vinchester
+TheViper,67,"May 24, 2015",day,2015,2262,WSVG Europe & Africa Qualifiers | Quarter-Finals,win,0:3 victory against lvlaximus
+TheViper,68,"May 31, 2015",day,2015,2265,Balance of Power | Quarter-Finals,win,0:3 victory against Emin
+TheViper,69,"May 31, 2015",day,2015,2261,WSVG Europe & Africa Qualifiers | Semi-Finals,win,1:3 victory against Arma
+TheViper,70,"Jun 07, 2015",day,2015,2263,Balance of Power | Semi-Finals,win,1:4 victory against slam
+TheViper,71,"Jun 14, 2015",day,2015,2261,Balance of Power | Finale,win,2:5 victory against slam
+TheViper,72,"Jun 28, 2015",day,2015,2251,WSVG Finals | Group Stage,win,2:4 victory against ACCM
+TheViper,73,"Jun 30, 2015",day,2015,2241,WSVG Europe & Africa Qualifiers | Finale,win,2:4 victory against Zuppi
+TheViper,74,"Jul 12, 2015",day,2015,2249,WSVG Finals | Group Stage,win,0:4 victory against saymyname
+TheViper,75,"Jul 12, 2015",day,2015,2255,The Empire Collective Cup - Platinium | Group Stage,win,0:3 victory against Lojza
+TheViper,76,"Jul 19, 2015",day,2015,2263,WSVG Finals | Group Stage,win,0:4 victory against dogao
+TheViper,77,"Jul 19, 2015",day,2015,2251,The Empire Collective Cup - Platinium | Group Stage,draw,2:2 draw against 8th_wonder
+TheViper,78,"Jul 26, 2015",day,2015,2257,The Empire Collective Cup - Platinium | Group Stage,win,0:3 victory against FeAge
+TheViper,79,"Aug 02, 2015",day,2015,2257,The Empire Collective Cup - Platinium | Group Stage,win,3:1 victory against TaToH
+TheViper,80,"Aug 16, 2015",day,2015,2260,The Empire Collective Cup - Platinium | Group Stage,win,3:0 victory against MbL
+TheViper,81,"Aug 23, 2015",day,2015,2266,The Empire Collective Cup - Platinium | Group Stage,win,0:3 victory against saymyname
+TheViper,82,"Aug 30, 2015",day,2015,2272,The Empire Collective Cup - Platinium | Group Stage,win,3:0 victory against Chris
+TheViper,83,"Sep 06, 2015",day,2015,2278,The Empire Collective Cup - Platinium | Group Stage,win,0:3 victory against BacT
+TheViper,84,"Sep 13, 2015",day,2015,2284,The Empire Collective Cup - Platinium | Group Stage,win,3:0 victory against Yo
+TheViper,85,"Sep 20, 2015",day,2015,2296,The Empire Collective Cup - Platinium | Group Stage,win,0:3 victory against RiuT
+TheViper,86,"Oct 07, 2015",day,2015,2294,WSVG Finals | Quarter-Finals (Winner Bracket),win,2:1 victory against yinghua
+TheViper,87,"Oct 07, 2015",day,2015,2298,WSVG Finals | Semi-Finals (Winner Bracket),win,2:0 victory against BacT
+TheViper,88,"Oct 07, 2015",day,2015,2304,WSVG Finals | Finale (Winner Bracket),win,2:0 victory against RiuT
+TheViper,89,"Oct 09, 2015",day,2015,2298,WSVG Finals | Grand Finale,win,2:3 victory against Yo
+TheViper,90,"Dec 06, 2015",day,2015,2301,Masters of Arena 3 | K.O. (Winner Bracket),win,0:3 victory against MadMax
+TheViper,91,"Dec 13, 2015",day,2015,2304,Masters of Arena 3 | K.O. (Winner Bracket),win,0:3 victory against pedro
+TheViper,92,"Dec 20, 2015",day,2015,2300,Masters of Arena 3 | Quarter-Finals (Winner Bracket),win,1:3 victory against Juan
+TheViper,93,"Dec 27, 2015",day,2015,2302,Masters of Arena 3 | Semi-Finals (Winner Bracket),win,1:4 victory against St4rk
+TheViper,94,"Jan 03, 2016",day,2016,2282,Masters of Arena 3 | Finale (Winner Bracket),loss,4:2 defeat against Lojza
+TheViper,95,"Jan 31, 2016",day,2016,2284,Masters of Arena 3 | Finale (Loser Bracket),win,1:4 victory against MbL
+TheViper,96,"Feb 01, 2016",day,2016,2278,Arabia Invitational | Group Stage,win,2:3 victory against St4rk
+TheViper,97,"Feb 08, 2016",day,2016,2272,Arabia Invitational | Group Stage,win,2:3 victory against Zuppi
+TheViper,98,"Feb 19, 2016",day,2016,2274,Masters of Arena 3 | Grand Finale,win,4:1 victory against Lojza
+TheViper,99,"Feb 22, 2016",day,2016,2268,Arabia Invitational | Group Stage,win,2:3 victory against yinghua
+TheViper,100,"Feb 22, 2016",day,2016,2270,Masters of Arena 3 | Grand Finale,win,1:4 victory against Lojza
+TheViper,101,"Feb 29, 2016",day,2016,2266,Arabia Invitational | Group Stage,win,1:3 victory against vivi
+TheViper,102,"Mar 07, 2016",day,2016,2254,Arabia Invitational | Quarter-Finals,loss,4:1 defeat against RiuT
+TheViper,103,"Oct 14, 2016",day,2016,2256,Clash of the Hippo 1 | K.O. Phase,win,4:1 victory against ACCM
+TheViper,104,"Oct 15, 2016",day,2016,2264,Clash of the Hippo 1 | Quarter-Finals,win,0:4 victory against slam
+TheViper,105,"Oct 16, 2016",day,2016,2266,Clash of the Hippo 1 | Semi-Finals,win,4:1 victory against MbL
+TheViper,106,"Oct 17, 2016",day,2016,2244,Clash of the Hippo 1 | Finale,loss,4:5 defeat against DauT
+TheViper,107,"Oct 29, 2016",day,2016,2246,ZP DauT Cup | Quarter-Finals,win,0:2 victory against fangxiaoqi
+TheViper,108,"Oct 30, 2016",day,2016,2244,ZP DauT Cup | Semi-Finals,win,1:2 victory against yinghua
+TheViper,109,"Nov 13, 2016",day,2016,2256,ZP DauT Cup | Finale,win,0:3 victory against RiuT
+TheViper,110,"Dec 01, 2016",day,2016,2264,AoC Champions League 2016 | Group Stage,win,0:4 victory against Vinchester
+TheViper,111,"Dec 09, 2016",day,2016,2264,AoC Champions League 2016 | Group Stage,win,3:1 victory against TaToH
+TheViper,112,"Dec 13, 2016",day,2016,2266,Battle for Angkor | Quarter-Finals (Winner Bracket),win,0:1 victory against TaToH
+TheViper,113,"Dec 14, 2016",day,2016,2260,Battle for Angkor | Semi-Finals (Winner Bracket),loss,1:0 defeat against dogao
+TheViper,114,"Dec 15, 2016",day,2016,2244,AoC Champions League 2016 | Group Stage,loss,3:1 defeat against F1Re
+TheViper,115,"Dec 15, 2016",day,2016,2248,Battle for Angkor | Second RO4 (Loser Bracket),win,0:1 victory against RiuT
+TheViper,116,"Dec 16, 2016",day,2016,2250,Battle for Angkor | Semi-Finale (Loser Bracket),win,1:0 victory against Nicov
+TheViper,117,"Dec 17, 2016",day,2016,2248,Battle for Angkor | Finale (Loser Bracket),win,2:1 victory against dogao
+TheViper,118,"Dec 18, 2016",day,2016,2257,Battle for Angkor | Grand Finale,win,3:0 victory against DauT
+TheViper,119,"Dec 30, 2016",day,2016,2263,AoC Champions League 2016 | Grand Finale,win,0:3 victory against F1Re
+TheViper,120,"Jan 17, 2017",day,2017,2265,Escape Gaming Masters 1 | Quarter-Finals (Winner Bracket),win,0:1 victory against Tim
+TheViper,121,"Jan 18, 2017",day,2017,2259,Escape Gaming Masters 1 | Semi-Finals (Winner Bracket),loss,1:0 defeat against slam
+TheViper,122,"Jan 19, 2017",day,2017,2261,Escape Gaming Masters 1 | Second RO4 (Loser Bracket),win,0:1 victory against dogao
+TheViper,123,"Jan 20, 2017",day,2017,2259,Escape Gaming Masters 1 | Semi-Finale (Loser Bracket),win,2:1 victory against Nicov
+TheViper,124,"Jan 21, 2017",day,2017,2263,Escape Gaming Masters 1 | Finale (Loser Bracket),win,2:0 victory against slam
+TheViper,125,"Jan 22, 2017",day,2017,2267,Escape Gaming Masters 1 | Grand Finale,win,3:1 victory against DauT
+TheViper,126,"Feb 11, 2017",day,2017,2261,Escape Gaming Masters 2 | Quarter-Finals (Winner Bracket),loss,1:0 defeat against TaToH
+TheViper,127,"Feb 12, 2017",day,2017,2263,Escape Gaming Masters 2 | First RO4 (Loser Bracket),win,0:1 victory against Tim
+TheViper,128,"Feb 13, 2017",day,2017,2256,Escape Gaming Masters 2 | Second RO4 (Loser Bracket),loss,0:1 defeat against Liereyy
+TheViper,129,"Feb 28, 2017",day,2017,2259,Strike the Balance | K.O. (Winner Bracket),win,0:3 victory against LB10
+TheViper,130,"Mar 10, 2017",day,2017,2265,Strike the Balance | Quarter-Finals (Winner Bracket),win,0:3 victory against TaToH
+TheViper,131,"Mar 14, 2017",day,2017,2266,Elimination Draft | K.O. Phase,win,0:1 victory against Spaden
+TheViper,132,"Mar 15, 2017",day,2017,2268,Elimination Draft | Finale,win,0:1 victory against Tim
+TheViper,133,"Mar 16, 2017",day,2017,2270,Elimination Draft | K.O. Phase,win,0:1 victory against slam
+TheViper,134,"Mar 18, 2017",day,2017,2274,Elimination Draft | Group Stage,win,2:0 victory against Liereyy
+TheViper,135,"Mar 19, 2017",day,2017,2278,Elimination Draft | Group Stage,win,2:0 victory against TaToH
+TheViper,136,"Mar 20, 2017",day,2017,2282,Elimination Draft | Group Stage,win,0:2 victory against Nicov
+TheViper,137,"Apr 08, 2017",day,2017,2276,Strike the Balance | Group Stage,win,2:3 victory against MbL
+TheViper,138,"Apr 09, 2017",day,2017,2278,Strike the Balance | Group Stage,win,4:1 victory against DauT
+TheViper,139,"Apr 10, 2017",day,2017,2288,Strike the Balance | Group Stage,win,0:5 victory against BacT
+TheViper,140,"Apr 11, 2017",day,2017,2274,Strike the Balance | Group Stage,loss,3:2 defeat against Liereyy
+TheViper,141,"Apr 12, 2017",day,2017,2276,Strike the Balance | Group Stage,win,1:4 victory against Nicov
+TheViper,142,"May 15, 2017",day,2017,2282,AoE All-Stars | Group Stage,win,0:3 victory against Liereyy
+TheViper,143,"May 20, 2017",day,2017,2286,Strike the Balance | Grand Finale,win,1:5 victory against Liereyy
+TheViper,144,"May 22, 2017",day,2017,2284,AoE All-Stars | Group Stage,win,1:2 victory against DauT
+TheViper,145,"Jun 04, 2017",day,2017,2282,AoE All-Stars | Group Stage,win,1:2 victory against slam
+TheViper,146,"Jun 05, 2017",day,2017,2288,AoE All-Stars | Group Stage,win,0:3 victory against BacT
+TheViper,147,"Jun 12, 2017",day,2017,2294,AoE All-Stars | Group Stage,win,0:3 victory against TaToH
+TheViper,148,"Jun 19, 2017",day,2017,2292,AoE All-Stars | Group Stage,win,1:2 victory against Nicov
+TheViper,149,"Jun 26, 2017",day,2017,2295,AoE All-Stars | Group Stage,win,0:3 victory against miguel
+TheViper,150,"Jul 03, 2017",day,2017,2299,AoE All-Stars | Grand Finale,win,1:5 victory against TaToH
+TheViper,151,"Jul 07, 2017",day,2017,2301,Escape Gaming Euro Cup Qualifier A | K.O. Phase,win,0:2 victory against Fanjita
+TheViper,152,"Jul 07, 2017",day,2017,2303,Escape Gaming Euro Cup Qualifier A | Quarter-Finals,win,0:2 victory against Spaden
+TheViper,153,"Jul 08, 2017",day,2017,2306,Escape Gaming Euro Cup Qualifier A | Semi-Finals,win,0:3 victory against MbL
+TheViper,154,"Jul 08, 2017",day,2017,2305,Escape Gaming Euro Cup Qualifier A | Finale,win,2:3 victory against DauT
+TheViper,155,Aug 2017,month,2017,2307,Escape Euro Cup Finals | Semi-Finals (Winner Bracket),win,0:2 victory against MbL
+TheViper,156,Aug 2017,month,2017,2311,Escape Euro Cup Finals | Finale (Winner Bracket),win,0:2 victory against Liereyy
+TheViper,157,Aug 2017,month,2017,2309,Escape Euro Cup Finals | Grand Finale,win,1:2 victory against Liereyy
+TheViper,158,"Oct 20, 2017",day,2017,2317,Clash of the Hippo 4 | Quarter-Finals,win,4:0 victory against BacT
+TheViper,159,"Oct 21, 2017",day,2017,2321,Clash of the Hippo 4 | Semi-Finals,win,0:4 victory against MbL
+TheViper,160,"Oct 22, 2017",day,2017,2319,Clash of the Hippo 4 | Finale,win,5:2 victory against TaToH
+TheViper,161,"Nov 07, 2017",day,2017,2320,Escape Gaming Masters 3 | Quarter-Finals (Winner Bracket),win,0:1 victory against GKT_cloud
+TheViper,162,"Nov 08, 2017",day,2017,2321,Escape Gaming Masters 3 | Semi-Finals (Winner Bracket),win,0:1 victory against MbL
+TheViper,163,"Nov 09, 2017",day,2017,2322,Escape Gaming Masters 3 | Finale (Winner Bracket),win,2:1 victory against TaToH
+TheViper,164,"Nov 12, 2017",day,2017,2325,Escape Gaming Masters 3 | Grand Finale,win,0:3 victory against MbL
+TheViper,165,Dec 2017,month,2017,2328,King of the Desert 1 | K.O. Phase,win,0:3 victory against miguel
+TheViper,166,Dec 2017,month,2017,2328,King of the Desert 1 | K.O. Phase,win,1:3 victory against JorDan_AoE
+TheViper,167,Dec 2017,month,2017,2331,King of the Desert 1 | Quarter-Finals,win,3:0 victory against Vinchester
+TheViper,168,Dec 2017,month,2017,2335,King of the Desert 1 | Semi-Finals,win,0:4 victory against TheMax
+TheViper,169,Dec 2017,month,2017,2321,King of the Desert 1 | Finale,win,5:4 victory against Liereyy
+TheViper,170,"Jan 05, 2018",day,2018,2321,Masters of Arena 5 | K.O. Phase,draw,0:0 draw against Loiveyoaeu
+TheViper,171,"Jan 21, 2018",day,2018,2324,Masters of Arena 5 | K.O. (Winner Bracket),win,0:3 victory against Melkor
+TheViper,172,"Jan 27, 2018",day,2018,2327,Masters of Arena 5 | Quarter-Finals (Winner Bracket),win,0:3 victory against ACCM
+TheViper,173,"Feb 01, 2018",day,2018,2329,Masters of Arena 5 | Semi-Finals (Winner Bracket),win,1:4 victory against Vinchester
+TheViper,174,"Feb 25, 2018",day,2018,2333,Masters of Arena 5 | Finale (Winner Bracket),win,0:4 victory against St4rk
+TheViper,175,"Mar 16, 2018",day,2018,2325,Masters of Arena 5 | Grand Finale,win,3:5 victory against TaToH
+TheViper,176,Jun 2018,month,2018,2328,KillerB's Arabia Cup | Quarter-Finals,win,0:3 victory against dogao
+TheViper,177,Jun 2018,month,2018,2331,KillerB's Arabia Cup | Semi-Finals,win,0:3 victory against Hera
+TheViper,178,Jun 2018,month,2018,2321,KillerB's Arabia Cup | Finale,win,3:4 victory against DauT
+TheViper,179,Jul 2018,month,2018,2323,Nili's Apartment Cup 1 | Group Stage,win,4:1 victory against TaToH
+TheViper,180,Jul 2018,month,2018,2331,Nili's Apartment Cup 1 | Group Stage,win,0:4 victory against JorDan_AoE
+TheViper,181,Jul 2018,month,2018,2327,Nili's Apartment Cup 1 | Group Stage,win,4:2 victory against Liereyy
+TheViper,182,Jul 2018,month,2018,2329,Nili's Apartment Cup 1 | Group Stage,win,1:4 victory against DauT
+TheViper,183,Jul 2018,month,2018,2311,Nili's Apartment Cup 1 | Group Stage,loss,3:4 defeat against MbL
+TheViper,184,Jul 2018,month,2018,2316,Nili's Apartment Cup 1 | Finale,win,2:5 victory against Liereyy
+TheViper,185,Jul 2018,month,2018,2314,ECL Europe East 1v1 | K.O. Phase,win,2:1 victory against ACCM
+TheViper,186,Jul 2018,month,2018,2316,ECL Europe East 1v1 | Quarter-Finals,win,0:2 victory against Melkor
+TheViper,187,Jul 2018,month,2018,2322,ECL Europe East 1v1 | Semi-Finals,win,0:3 victory against Yo
+TheViper,188,Jul 2018,month,2018,2325,ECL Europe East 1v1 | Finale,win,3:0 victory against vivi
+TheViper,189,Aug 2018,month,2018,2327,Legacy of the Huns 2 | K.O. Phase,win,0:2 victory against Spring
+TheViper,190,Aug 2018,month,2018,2322,Legacy of the Huns 2 | Quarter-Finals,win,1:2 victory against Whoop
+TheViper,191,Aug 2018,month,2018,2306,Legacy of the Huns 2 | Semi-Finals,loss,3:1 defeat against MbL
+TheViper,192,Aug 2018,month,2018,2292,Legacy of the Huns 2 | Bronze-Match,loss,3:2 defeat against vivi
+TheViper,193,Oct 2018,month,2018,2298,Hidden Cup | Quarter-Finals,win,0:3 victory against Nicov
+TheViper,194,Oct 2018,month,2018,2301,Hidden Cup | Semi-Finals,win,3:0 victory against miguel
+TheViper,195,Oct 2018,month,2018,2303,Hidden Cup | Finale,win,2:4 victory against MbL
+TheViper,196,"Jan 06, 2019",day,2019,2306,King of the Desert 2 | K.O. Phase,win,0:3 victory against _BL4CK_
+TheViper,197,"Jan 13, 2019",day,2019,2309,King of the Desert 2 | K.O. Phase,win,0:3 victory against ACCM
+TheViper,198,"Jan 20, 2019",day,2019,2315,King of the Desert 2 | Quarter-Finals,win,0:3 victory against TaToH
+TheViper,199,"Feb 01, 2019",day,2019,2311,King of the Desert 2 | Semi-Finals,win,2:4 victory against Yo
+TheViper,200,"Feb 03, 2019",day,2019,2311,King of the Desert 2 | Grand Finale,win,3:5 victory against Liereyy
+TheViper,201,"Feb 09, 2019",day,2019,2317,Nili's Apartment Cup 2 | Group Stage,win,0:3 victory against DauT
+TheViper,202,"Feb 10, 2019",day,2019,2301,Nili's Apartment Cup 2 | Group Stage,loss,3:1 defeat against MbL
+TheViper,203,"Feb 11, 2019",day,2019,2307,Nili's Apartment Cup 2 | Group Stage,win,0:3 victory against Nicov
+TheViper,204,"Feb 12, 2019",day,2019,2311,Nili's Apartment Cup 2 | Group Stage,win,3:1 victory against Liereyy
+TheViper,205,"Feb 13, 2019",day,2019,2317,Nili's Apartment Cup 2 | Group Stage,win,0:3 victory against JorDan_AoE
+TheViper,206,"Feb 14, 2019",day,2019,2327,Nili's Apartment Cup 2 | Quarter-Finals,win,0:5 victory against DauT
+TheViper,207,"Feb 16, 2019",day,2019,2342,Nili's Apartment Cup 2 | Semi-Finals,win,5:0 victory against Liereyy
+TheViper,208,"Feb 17, 2019",day,2019,2338,Nili's Apartment Cup 2 | Finale,win,7:3 victory against TaToH
+TheViper,209,"Apr 12, 2019",day,2019,2344,Hidden Cup 2 | K.O. Phase,win,0:3 victory against Nicov
+TheViper,210,"Apr 13, 2019",day,2019,2347,Hidden Cup 2 | Quarter-Finals,win,0:3 victory against vivi
+TheViper,211,"Apr 14, 2019",day,2019,2347,Hidden Cup 2 | Semi-Finals,win,3:1 victory against MbL
+TheViper,212,"Apr 14, 2019",day,2019,2330,Hidden Cup 2 | Finale,win,4:3 victory against TheMax
+TheViper,213,"May 26, 2019",day,2019,2332,ECL Europe West 1v1 | K.O. Phase,win,2:0 victory against D8_baby
+TheViper,214,"Jun 02, 2019",day,2019,2319,ECL Europe West 1v1 | Quarter-Finals,loss,2:1 defeat against TheMax
+TheViper,215,"Jun 16, 2019",day,2019,2299,Mangrove Shallows Cup | Group Stage,loss,3:1 defeat against Villese
+TheViper,216,"Jun 23, 2019",day,2019,2295,Mangrove Shallows Cup | Group Stage,win,1:3 victory against ACCM
+TheViper,217,"Jun 25, 2019",day,2019,2301,Nomad Summer Showdown | K.O. Phase,win,0:3 victory against DauT
+TheViper,218,"Jun 26, 2019",day,2019,2281,Nomad Summer Showdown | Quarter-Finals,loss,1:3 defeat against Hera
+TheViper,219,"Jun 30, 2019",day,2019,2285,Mangrove Shallows Cup | Group Stage,win,1:3 victory against MbL
+TheViper,220,"Jul 07, 2019",day,2019,2291,Mangrove Shallows Cup | Group Stage,win,0:3 victory against DauT
+TheViper,221,"Jul 21, 2019",day,2019,2273,Mangrove Shallows Cup | Quarter-Finals,loss,4:3 defeat against DauT
+TheViper,222,"Aug 17, 2019",day,2019,2277,Mono Civ Cup | Quarter-Finals,win,2:0 victory against vivi
+TheViper,223,"Aug 18, 2019",day,2019,2283,Mono Civ Cup | Semi-Finals,win,0:3 victory against Nicov
+TheViper,224,"Aug 21, 2019",day,2019,2292,Mono Civ Cup | Finale,win,0:3 victory against MbL
+TheViper,225,"Aug 30, 2019",day,2019,2301,ECL LAN Finals | Group Stage,win,0:3 victory against MbL
+TheViper,226,"Sep 01, 2019",day,2019,2295,ECL LAN Finals | Grand Finale,loss,0:1 defeat against Liereyy
+TheViper,227,"Jan 04, 2020",day,2020,2295,Nili's Apartment Cup 3 | Group Stage,win,1:3 victory against Hera
+TheViper,228,"Jan 05, 2020",day,2020,2299,Nili's Apartment Cup 3 | Group Stage,win,1:3 victory against Liereyy
+TheViper,229,"Jan 06, 2020",day,2020,2303,Nili's Apartment Cup 3 | Group Stage,win,1:3 victory against TaToH
+TheViper,230,"Jan 07, 2020",day,2020,2303,Nili's Apartment Cup 3 | Group Stage,win,1:3 victory against TheMax
+TheViper,231,"Jan 11, 2020",day,2020,2305,Nili's Apartment Cup 3 | Semi-Finals,win,2:4 victory against Yo
+TheViper,232,"Jan 12, 2020",day,2020,2293,Nili's Apartment Cup 3 | Grand Finale,win,4:6 victory against Hera
+TheViper,233,"Jan 29, 2020",day,2020,2296,Fair Civs Cup | K.O. Phase,win,0:3 victory against gwfe
+TheViper,234,"Feb 05, 2020",day,2020,2302,Bonjwa Fight Night Club | Group Stage,win,0:3 victory against LaaaaaN
+TheViper,235,"Feb 05, 2020",day,2020,2291,Fair Civs Cup | K.O. Phase,win,2:3 victory against PROject_Belgium
+TheViper,236,"Feb 06, 2020",day,2020,2275,eParadise Cup | Group Stage,loss,1:3 defeat against Hera
+TheViper,237,"Feb 07, 2020",day,2020,2281,eParadise Cup | Group Stage,win,0:3 victory against Villese
+TheViper,238,"Feb 09, 2020",day,2020,2287,eParadise Cup | Group Stage,win,0:2 victory against MbL
+TheViper,239,"Feb 12, 2020",day,2020,2277,Fair Civs Cup | Quarter-Finals,win,3:4 victory against DauT
+TheViper,240,"Feb 15, 2020",day,2020,2284,Fair Civs Cup | Semi-Finals,win,1:4 victory against Liereyy
+TheViper,241,"Feb 16, 2020",day,2020,2286,Fair Civs Cup | Finale,win,2:4 victory against Hera
+TheViper,242,"Feb 18, 2020",day,2020,2274,eParadise Cup | Grand Finale,loss,3:1 defeat against Hera
+TheViper,243,"Feb 19, 2020",day,2020,2272,Bonjwa Fight Night Club | Group Stage,win,1:2 victory against Villese
+TheViper,244,"Mar 04, 2020",day,2020,2281,Bonjwa Fight Night Club | Group Stage,win,0:3 victory against DauT
+TheViper,245,"Mar 07, 2020",day,2020,2280,Empires Showdown Invitational | Quarter-Finals,win,2:3 victory against Liereyy
+TheViper,246,"Mar 08, 2020",day,2020,2260,Empires Showdown Invitational | Finale,loss,4:0 defeat against Hera
+TheViper,247,"Mar 18, 2020",day,2020,2268,Bonjwa Fight Night Club | Finale,win,1:3 victory against Hera
+TheViper,248,"Mar 20, 2020",day,2020,2274,Hidden Cup 3 | K.O. Phase,win,0:3 victory against ACCM
+TheViper,249,"Mar 21, 2020",day,2020,2278,Hidden Cup 3 | Quarter-Finals,win,1:3 victory against Yo
+TheViper,250,"Mar 22, 2020",day,2020,2280,Hidden Cup 3 | Semi-Finals,win,1:4 victory against dogao
+TheViper,251,"Mar 22, 2020",day,2020,2292,Hidden Cup 3 | Finale,win,4:0 victory against Hera
+TheViper,252,"Apr 30, 2020",day,2020,2292,Red Bull Wololo | K.O. Phase,win,1:3 victory against F1Re
+TheViper,253,"May 02, 2020",day,2020,2296,Red Bull Wololo | Quarter-Finals,win,1:3 victory against DauT
+TheViper,254,"May 03, 2020",day,2020,2305,Red Bull Wololo | Semi-Finals,win,0:3 victory against Hera
+TheViper,255,"May 03, 2020",day,2020,2285,Red Bull Wololo | Finale,loss,4:0 defeat against Yo
+TheViper,256,"May 15, 2020",day,2020,2286,Red Bull Gaming World | Semi-Finals,win,0:1 victory against OLADUSHEK
+TheViper,257,"May 15, 2020",day,2020,2284,Red Bull Gaming World | Finale,win,1:2 victory against ACCM
+TheViper,258,"Jun 26, 2020",day,2020,2286,AOElympics Regicide Fortress 1v1 | K.O. Phase,win,0:2 victory against Speedlimit
+TheViper,259,"Jun 28, 2020",day,2020,2281,AOElympics Arena 1v1 | K.O. Phase,win,1:2 victory against mratin
+TheViper,260,"Jun 28, 2020",day,2020,2283,AOElympics Dry Arabia 1v1 | K.O. Phase,win,0:2 victory against Spring
+TheViper,261,"Jul 04, 2020",day,2020,2285,AOElympics Arena 1v1 | Quarter-Finals,win,0:2 victory against macluffy
+TheViper,262,"Jul 04, 2020",day,2020,2287,AOElympics Dry Arabia 1v1 | Quarter-Finals,win,0:2 victory against Tatakae
+TheViper,263,"Jul 04, 2020",day,2020,2289,AOElympics Regicide Fortress 1v1 | Quarter-Finals,win,0:2 victory against rmcoo
+TheViper,264,"Jul 07, 2020",day,2020,2285,AOElympics Arena 1v1 | Semi-Finals,win,1:3 victory against Feanor
+TheViper,265,"Jul 08, 2020",day,2020,2285,AOElympics Regicide Fortress 1v1 | Semi-Finals,win,1:3 victory against LaaaaaN
+TheViper,266,"Jul 08, 2020",day,2020,2279,AOElympics Arena 1v1 | Finale,win,2:3 victory against Modri
+TheViper,267,"Jul 11, 2020",day,2020,2273,AOElympics Dry Arabia 1v1 | Semi-Finals,win,2:3 victory against St4rk
+TheViper,268,"Jul 12, 2020",day,2020,2273,ClownCup3 - Serious Edition | K.O. Phase,win,1:3 victory against Running
+TheViper,269,"Jul 18, 2020",day,2020,2267,AOElympics Regicide Fortress 1v1 | Finale,win,2:3 victory against ACCM
+TheViper,270,"Jul 19, 2020",day,2020,2276,AOElympics Dry Arabia 1v1 | Finale,win,0:3 victory against Vinchester
+TheViper,271,"Jul 24, 2020",day,2020,2282,ClownCup3 - Serious Edition | Quarter-Finals,win,0:3 victory against BacT
+TheViper,272,"Jul 25, 2020",day,2020,2289,ClownCup3 - Serious Edition | Semi-Finals,win,1:4 victory against Hera
+TheViper,273,"Jul 26, 2020",day,2020,2278,ClownCup3 - Serious Edition | Finale,loss,4:3 defeat against TaToH
+TheViper,274,"Aug 07, 2020",day,2020,2287,Arabia Invitational by Mario Ovalle | Quarter-Finals,win,0:3 victory against MbL
+TheViper,275,"Aug 09, 2020",day,2020,2286,Arabia Invitational by Mario Ovalle | Semi-Finals,win,3:2 victory against Liereyy
+TheViper,276,"Aug 09, 2020",day,2020,2266,Arabia Invitational by Mario Ovalle | Finale,loss,4:0 defeat against Hera
+TheViper,277,"Aug 10, 2020",day,2020,2268,AOElympics Hideout 1v1 | Quarter-Finals,win,0:2 victory against Kamigawa
+TheViper,278,"Aug 14, 2020",day,2020,2271,AOElympics Hideout 1v1 | Semi-Finals,win,0:3 victory against Sobek
+TheViper,279,"Aug 21, 2020",day,2020,2271,Red Bull Wololo 2 | K.O. Phase,win,1:3 victory against miguel
+TheViper,280,"Aug 22, 2020",day,2020,2270,Red Bull Wololo 2 | Quarter-Finals,win,3:2 victory against Nicov
+TheViper,281,"Aug 23, 2020",day,2020,2258,Red Bull Wololo 2 | Semi-Finals,loss,1:3 defeat against Liereyy
+TheViper,282,"Aug 25, 2020",day,2020,2257,AOElympics Hideout 1v1 | Finale,win,2:3 victory against Vinchester
+TheViper,283,"Sep 20, 2020",day,2020,2259,King of the Desert 3 | K.O. Phase,win,0:2 victory against komtan
+TheViper,284,"Sep 27, 2020",day,2020,2259,King of the Desert 3 | K.O. Phase,win,1:3 victory against Lyx
+TheViper,285,"Oct 04, 2020",day,2020,2263,King of the Desert 3 | Group Stage,win,1:3 victory against BacT
+TheViper,286,"Oct 11, 2020",day,2020,2272,King of the Desert 3 | Group Stage,win,0:3 victory against TheMax
+TheViper,287,"Oct 18, 2020",day,2020,2260,King of the Desert 3 | Quarter-Finals,loss,3:0 defeat against Yo
+TheViper,288,"Nov 07, 2020",day,2020,2264,Tournament Champions League 2020 | Group Stage,win,2:1 victory against Hera
+TheViper,289,"Nov 07, 2020",day,2020,2268,Tournament Champions League 2020 | Group Stage,win,2:1 victory against Yo
+TheViper,290,"Nov 07, 2020",day,2020,2264,Tournament Champions League 2020 | Group Stage,loss,1:2 defeat against Liereyy
+TheViper,291,"Nov 08, 2020",day,2020,2260,Tournament Champions League 2020 | K.O. Phase,loss,0:1 defeat against Liereyy
+TheViper,292,"Nov 08, 2020",day,2020,2264,Tournament Champions League 2020 | K.O. Phase,win,0:1 victory against Hera
+TheViper,293,"Nov 08, 2020",day,2020,2276,Tournament Champions League 2020 | Finale,win,6:3 victory against Liereyy
+TheViper,294,"Jan 16, 2021",day,2021,2282,Red Bull Wololo 3 | Group Stage,win,0:2 victory against MbL
+TheViper,295,"Jan 17, 2021",day,2021,2286,Red Bull Wololo 3 | Group Stage,win,0:2 victory against Capoch
+TheViper,296,"Jan 23, 2021",day,2021,2277,Red Bull Wololo 3 | Quarter-Finals,loss,3:2 defeat against Villese
+TheViper,297,"Feb 10, 2021",day,2021,2283,Lords of the Arena | Quarter-Finals,win,0:3 victory against Modri
+TheViper,298,"Feb 13, 2021",day,2021,2273,Lords of the Arena | Semi-Finals,win,3:4 victory against DracKeN
+TheViper,299,"Feb 14, 2021",day,2021,2281,Lords of the Arena | Finale,win,4:2 victory against DauT
+TheViper,300,"Feb 15, 2021",day,2021,2270,Master of Socotra | K.O. Phase,win,2:3 victory against SongSong
+TheViper,301,"Feb 24, 2021",day,2021,2276,Master of Socotra | Quarter-Finals,win,0:3 victory against slam
+TheViper,302,"Feb 27, 2021",day,2021,2283,Master of Socotra | Semi-Finals,win,1:4 victory against ACCM
+TheViper,303,"Feb 28, 2021",day,2021,2295,Master of Socotra | Finale,win,4:1 victory against Hera
+TheViper,304,"Mar 19, 2021",day,2021,2304,Hidden Cup 4 | K.O. Phase,win,3:0 victory against dogao
+TheViper,305,"Mar 20, 2021",day,2021,2313,Hidden Cup 4 | Quarter-Finals,win,0:3 victory against BacT
+TheViper,306,"Mar 21, 2021",day,2021,2302,Hidden Cup 4 | Semi-Finals,loss,4:3 defeat against Hera
+TheViper,307,"May 02, 2021",day,2021,2311,Ellie's Charity Invitational 2 | Group Stage,win,0:3 victory against JorDan_AoE
+TheViper,308,"May 08, 2021",day,2021,2320,Ellie's Charity Invitational 2 | Group Stage,win,0:3 victory against Nicov
+TheViper,309,"May 10, 2021",day,2021,2321,World Desert Championship | K.O. Phase,win,0:1 victory against Noisick
+TheViper,310,"May 14, 2021",day,2021,2330,Arabia Invitational by Mario Ovalle 2 | Quarter-Finals,win,0:3 victory against Nicov
+TheViper,311,"May 14, 2021",day,2021,2332,World Desert Championship | Quarter-Finals,win,0:1 victory against dogao
+TheViper,312,"May 16, 2021",day,2021,2341,Arabia Invitational by Mario Ovalle 2 | Semi-Finals,win,3:0 victory against DauT
+TheViper,313,"May 17, 2021",day,2021,2348,Arabia Invitational by Mario Ovalle 2 | Finale,win,1:4 victory against Yo
+TheViper,314,"May 22, 2021",day,2021,2354,Ellie's Charity Invitational 2 | Group Stage,win,0:3 victory against F1Re
+TheViper,315,"May 22, 2021",day,2021,2356,World Desert Championship | Semi-Finals,win,1:0 victory against ACCM
+TheViper,316,"May 28, 2021",day,2021,2357,World Desert Championship | Finale,win,1:0 victory against Zuppi
+TheViper,317,"May 29, 2021",day,2021,2359,Ellie's Charity Invitational 2 | Semi-Finals,win,4:2 victory against Liereyy
+TheViper,318,"May 30, 2021",day,2021,2359,Ellie's Charity Invitational 2 | Finale,win,3:5 victory against Yo
+TheViper,319,"Jun 19, 2021",day,2021,2361,Red Bull Wololo 4 | Group Stage,win,0:2 victory against SongSong
+TheViper,320,"Jun 20, 2021",day,2021,2359,Red Bull Wololo 4 | Group Stage,win,2:1 victory against JorDan_AoE
+TheViper,321,"Jun 26, 2021",day,2021,2359,Red Bull Wololo 4 | Quarter-Finals,win,1:3 victory against ACCM
+TheViper,322,"Jun 27, 2021",day,2021,2344,Red Bull Wololo 4 | Semi-Finals,loss,3:0 defeat against Hera
+TheViper,323,"Jul 03, 2021",day,2021,2338,Empires Showdown 3 | Quarter-Finals,win,2:3 victory against MbL
+TheViper,324,"Jul 04, 2021",day,2021,2338,Collection Cup | K.O. Phase,draw,0:0 draw against LaaaaaN
+TheViper,325,"Jul 04, 2021",day,2021,2333,Empires Showdown 3 | Semi-Finals,loss,0:1 defeat against TaToH
+TheViper,326,"Jul 23, 2021",day,2021,2335,The Open Classic | K.O. Phase,win,0:2 victory against Ganji
+TheViper,327,"Jul 23, 2021",day,2021,2329,The Open Classic | K.O. Phase,win,2:3 victory against Valas
+TheViper,328,"Jul 24, 2021",day,2021,2329,The Open Classic | K.O. Phase,win,3:1 victory against BacT
+TheViper,329,"Jul 24, 2021",day,2021,2320,The Open Classic | Quarter-Finals,loss,2:3 defeat against Yo
+TheViper,330,"Sep 13, 2021",day,2021,2321,Red Bull Wololo 5 | Group Stage,win,1:2 victory against dogao
+TheViper,331,"Sep 14, 2021",day,2021,2325,Red Bull Wololo 5 | Group Stage,win,2:1 victory against Hera
+TheViper,332,"Sep 15, 2021",day,2021,2318,Red Bull Wololo 5 | Group Stage,loss,1:2 defeat against Liereyy
+TheViper,333,"Sep 16, 2021",day,2021,2324,Red Bull Wololo 5 | Group Stage,win,0:2 victory against MbL
+TheViper,334,"Sep 18, 2021",day,2021,2332,Red Bull Wololo 5 | Quarter-Finals,win,1:3 victory against DauT
+TheViper,335,"Sep 19, 2021",day,2021,2341,Red Bull Wololo 5 | Semi-Finals,win,0:3 victory against JorDan_AoE
+TheViper,336,"Sep 19, 2021",day,2021,2345,Red Bull Wololo 5 | Finale,win,4:3 victory against Liereyy
+TheViper,337,"Sep 29, 2021",day,2021,2347,History Hit Open | K.O. Phase,win,0:2 victory against Imperio_cc
+TheViper,338,"Oct 06, 2021",day,2021,2351,History Hit Open | K.O. Phase,win,0:2 victory against vivi
+TheViper,339,"Oct 08, 2021",day,2021,2357,HOLY Cup | K.O. Phase,win,0:3 victory against BadB0y_
+TheViper,340,"Oct 09, 2021",day,2021,2356,HOLY Cup | Quarter-Finals,win,2:3 victory against TaToH
+TheViper,341,"Oct 10, 2021",day,2021,2344,HOLY Cup | Semi-Finals,loss,3:0 defeat against Hera
+TheViper,342,"Oct 15, 2021",day,2021,2342,History Hit Open | K.O. Phase,win,1:2 victory against saymyname
+TheViper,343,"Oct 15, 2021",day,2021,2348,History Hit Open | Quarter-Finals,win,2:0 victory against ACCM
+TheViper,344,"Oct 16, 2021",day,2021,2347,History Hit Open | Semi-Finals,win,3:2 victory against Villese
+TheViper,345,"Oct 17, 2021",day,2021,2359,History Hit Open | Finale,win,1:4 victory against Yo
+TheViper,346,"Nov 21, 2021",day,2021,2353,King of the Desert 4 | K.O. Phase,win,2:3 victory against saymyname
+TheViper,347,"Nov 26, 2021",day,2021,2359,King of the Desert 4 | Group Stage,win,0:3 victory against Kasva
+TheViper,348,"Nov 28, 2021",day,2021,2365,King of the Desert 4 | Group Stage,win,0:3 victory against MbL
+TheViper,349,"Dec 05, 2021",day,2021,2372,King of the Desert 4 | Quarter-Finals,win,1:4 victory against Villese
+TheViper,350,"Dec 11, 2021",day,2021,2379,King of the Desert 4 | Semi-Finals,win,1:4 victory against JorDan_AoE
+TheViper,351,"Dec 12, 2021",day,2021,2377,King of the Desert 4 | Finale,win,5:2 victory against Vinchester
+TheViper,352,"Jan 15, 2022",day,2022,2380,Wandering Warriors Cup | K.O. Phase,win,0:3 victory against emalius2
+TheViper,353,"Jan 22, 2022",day,2022,2376,Wandering Warriors Cup | K.O. Phase,win,1:3 victory against Lyx
+TheViper,354,"Jan 29, 2022",day,2022,2382,Wandering Warriors Cup | K.O. Phase,win,0:3 victory against Barles
+TheViper,355,"Jan 29, 2022",day,2022,2386,8 Mercenaries | Semi-Finals,win,2:0 victory against JorDan_AoE
+TheViper,356,"Jan 30, 2022",day,2022,2371,8 Mercenaries | Finale,win,6:3 victory against Margougou
+TheViper,357,"Feb 04, 2022",day,2022,2366,Deep Waters Pro League: Season 2 | Group Stage,win,1:2 victory against The_Dragonstar
+TheViper,358,"Feb 05, 2022",day,2022,2375,Wandering Warriors Cup | Quarter-Finals,win,0:3 victory against Yo
+TheViper,359,"Feb 06, 2022",day,2022,2374,Wandering Warriors Cup | Semi-Finals,win,3:2 victory against TaToH
+TheViper,360,"Feb 06, 2022",day,2022,2376,Wandering Warriors Cup | Finale,win,4:2 victory against DauT
+TheViper,361,"Feb 17, 2022",day,2022,2374,Deep Waters Pro League: Season 2 | Group Stage,win,1:2 victory against BacT
+TheViper,362,"Feb 23, 2022",day,2022,2372,Deep Waters Pro League: Season 2 | Group Stage,win,1:2 victory against miguel
+TheViper,363,"Mar 15, 2022",day,2022,2373,Deep Waters Pro League: Season 2 | Group Stage,win,1:2 victory against Nicov
+TheViper,364,"Mar 16, 2022",day,2022,2373,Master of Socotra 2 | K.O. Phase,win,1:3 victory against Dark
+TheViper,365,"Mar 17, 2022",day,2022,2375,Deep Waters Pro League: Season 2 | Group Stage,win,0:2 victory against bruh
+TheViper,366,"Mar 23, 2022",day,2022,2363,Deep Waters Pro League: Season 2 | Quarter-Finals (Winner Bracket),loss,2:0 defeat against dogao
+TheViper,367,"Mar 24, 2022",day,2022,2348,Master of Socotra 2 | Quarter-Finals,loss,0:3 defeat against Yo
+TheViper,368,"Mar 29, 2022",day,2022,2352,Deep Waters Pro League: Season 2 | First RO4 (Loser Bracket),win,2:0 victory against The_Dragonstar
+TheViper,369,"Mar 31, 2022",day,2022,2342,Deep Waters Pro League: Season 2 | Second RO4 (Loser Bracket),loss,1:2 defeat against BacT
+TheViper,370,"Jun 28, 2022",day,2022,2348,T90 Titans League: Platinum League | Group Stage,win,0:3 victory against saymyname
+TheViper,371,"Jul 07, 2022",day,2022,2357,T90 Titans League: Platinum League | Group Stage,win,0:3 victory against JorDan_AoE
+TheViper,372,"Jul 09, 2022",day,2022,2360,RMS Cup 2: Qualifier 2 | K.O. Phase,win,0:3 victory against TheFather
+TheViper,373,"Jul 09, 2022",day,2022,2363,RMS Cup 2: Qualifier 2 | K.O. Phase,win,0:3 victory against Thành_Cổ_Quảng_Trị
+TheViper,374,"Jul 10, 2022",day,2022,2357,RMS Cup 2: Qualifier 2 | K.O. Phase,win,2:3 victory against BacT
+TheViper,375,"Jul 13, 2022",day,2022,2355,T90 Titans League: Platinum League | Group Stage,win,1:2 victory against classicpro
+TheViper,376,"Jul 17, 2022",day,2022,2364,RMS Cup 2 | K.O. (Winner Bracket),win,0:3 victory against DauT
+TheViper,377,"Jul 18, 2022",day,2022,2365,T90 Titans League: Platinum League | Group Stage,win,1:2 victory against DauT
+TheViper,378,"Jul 21, 2022",day,2022,2355,T90 Titans League: Platinum League | Group Stage,loss,2:1 defeat against miguel
+TheViper,379,"Jul 22, 2022",day,2022,2354,RMS Cup 2 | Quarter-Finals (Winner Bracket),win,2:3 victory against Sitaux
+TheViper,380,"Jul 29, 2022",day,2022,2346,RMS Cup 2 | Quarter-Finals,loss,3:1 defeat against TaToH
+TheViper,381,"Aug 06, 2022",day,2022,2358,T90 Titans League: Platinum League | Quarter-Finals,win,0:3 victory against Yo
+TheViper,382,"Aug 07, 2022",day,2022,2346,T90 Titans League: Platinum League | Semi-Finals,loss,4:1 defeat against Villese
+TheViper,383,"Sep 09, 2022",day,2022,2340,Wallhalla | K.O. Phase,win,3:2 victory against repard
+TheViper,384,"Sep 11, 2022",day,2022,2336,8 Mercenaries 2nd Edition | Semi-Finals,loss,2:1 defeat against ACCM
+TheViper,385,"Sep 15, 2022",day,2022,2328,Wallhalla | Quarter-Finals,loss,3:1 defeat against TaToH
+TheViper,386,"Oct 21, 2022",day,2022,2332,Red Bull Wololo: Legacy 2022 | Group Stage,win,0:2 victory against Kingstone
+TheViper,387,"Oct 21, 2022",day,2022,2338,Red Bull Wololo: Legacy 2022 | Group Stage,win,0:2 victory against MbL
+TheViper,388,"Oct 23, 2022",day,2022,2330,Red Bull Wololo: Legacy 2022 | Quarter-Finals,loss,3:1 defeat against Liereyy
+TheViper,389,"Nov 02, 2022",day,2022,2319,Double Cup 3 | K.O. (Winner Bracket),win,2:3 victory against Overtaken
+TheViper,390,"Nov 11, 2022",day,2022,2325,Warlords | Group Stage,win,0:3 victory against classicpro
+TheViper,391,"Nov 15, 2022",day,2022,2321,Double Cup 3 | Quarter-Finals (Winner Bracket),loss,2:3 defeat against Vinchester
+TheViper,392,"Nov 19, 2022",day,2022,2325,Warlords | Group Stage,win,1:3 victory against DauT
+TheViper,393,"Nov 23, 2022",day,2022,2334,Double Cup 3 | K.O. (Loser Bracket),win,0:3 victory against vivi
+TheViper,394,"Nov 25, 2022",day,2022,2338,Warlords | Quarter-Finals,win,3:4 victory against Yo
+TheViper,395,"Nov 26, 2022",day,2022,2346,Warlords | Semi-Finals,win,2:4 victory against Liereyy
+TheViper,396,"Nov 27, 2022",day,2022,2358,Warlords | Finale,win,2:5 victory against Hera
+TheViper,397,"Nov 30, 2022",day,2022,2352,Double Cup 3 | First RO4 (Loser Bracket),win,2:3 victory against The_Dragonstar
+TheViper,398,"Dec 03, 2022",day,2022,2354,The Grand Melee Qualifier | K.O. Phase,win,0:2 victory against PanikPanda
+TheViper,399,"Dec 03, 2022",day,2022,2356,The Grand Melee Qualifier | Quarter-Finals,win,0:2 victory against Uzzi
+TheViper,400,"Dec 03, 2022",day,2022,2362,The Grand Melee Qualifier | Semi-Finals,win,0:3 victory against Margougou
+TheViper,401,"Dec 04, 2022",day,2022,2366,The Grand Melee Qualifier | Finale,win,1:3 victory against JorDan_AoE
+TheViper,402,"Dec 05, 2022",day,2022,2372,Double Cup 3 | Second RO4 (Loser Bracket),win,3:0 victory against Dark
+TheViper,403,"Dec 08, 2022",day,2022,2360,Double Cup 3 | Semi-Finale (Loser Bracket),loss,1:3 defeat against Vinchester
+TheViper,404,"Dec 15, 2022",day,2022,2368,The Grand Melee | Quarter-Finals,win,1:3 victory against ACCM
+TheViper,405,"Dec 16, 2022",day,2022,2364,The Grand Melee | Semi-Finals,loss,4:3 defeat against Liereyy
+TheViper,406,"Dec 17, 2022",day,2022,2368,The Grand Melee | Bronze-Match,win,4:3 victory against TaToH
+TheViper,407,"Jan 07, 2023",day,2023,2371,T90 Titans League 2: Platinum League | Group Stage,win,3:0 victory against Sebastian
+TheViper,408,"Jan 09, 2023",day,2023,2372,T90 Titans League 2: Platinum League | Group Stage,win,2:1 victory against Sitaux
+TheViper,409,"Jan 09, 2023",day,2023,2372,Masters of Arena 5 | K.O. Phase,win,0:3 victory against Jupy
+TheViper,410,"Jan 21, 2023",day,2023,2370,T90 Titans League 2: Platinum League | Group Stage,win,1:2 victory against Barles
+TheViper,411,"Jan 25, 2023",day,2023,2368,JorDan's Medieval Brawl Season 2 #1 | Quarter-Finals,win,1:2 victory against Valas
+TheViper,412,"Jan 25, 2023",day,2023,2366,JorDan's Medieval Brawl Season 2 #1 | Semi-Finals,win,1:2 victory against Daniel
+TheViper,413,"Jan 25, 2023",day,2023,2367,JorDan's Medieval Brawl Season 2 #1 | Finale,loss,2:3 defeat against Hera
+TheViper,414,"Jan 26, 2023",day,2023,2379,T90 Titans League 2: Platinum League | Group Stage,win,0:3 victory against TaToH
+TheViper,415,"Jan 28, 2023",day,2023,2382,AoE2 Admirals League | Quarter-Finals,win,3:0 victory against WaRRioR
+TheViper,416,"Jan 29, 2023",day,2023,2394,AoE2 Admirals League | Semi-Finals,win,0:3 victory against Hera
+TheViper,417,"Jan 29, 2023",day,2023,2390,AoE2 Admirals League | Finale,loss,3:4 defeat against ACCM
+TheViper,418,"Jan 30, 2023",day,2023,2383,T90 Titans League 2: Platinum League | Group Stage,loss,2:1 defeat against Villese
+TheViper,419,"Feb 05, 2023",day,2023,2378,Unus Imperium | K.O. Phase,win,1:2 victory against Monoz
+TheViper,420,"Feb 08, 2023",day,2023,2382,JorDan's Medieval Brawl Season 2 #3 | Quarter-Finals,win,0:2 victory against dogao
+TheViper,421,"Feb 08, 2023",day,2023,2372,JorDan's Medieval Brawl Season 2 #3 | Semi-Finals,loss,2:0 defeat against Vinchester
+TheViper,422,"Feb 09, 2023",day,2023,2371,T90 Titans League 2: Platinum League | Quarter-Finals,win,2:3 victory against JorDan_AoE
+TheViper,423,"Feb 11, 2023",day,2023,2383,T90 Titans League 2: Platinum League | Semi-Finals,win,4:1 victory against TaToH
+TheViper,424,"Feb 12, 2023",day,2023,2395,T90 Titans League 2: Platinum League | Finale,win,1:4 victory against Hera
+TheViper,425,"Feb 16, 2023",day,2023,2385,JorDan's Medieval Brawl Season 2 #4 | Quarter-Finals,loss,2:1 defeat against dogao
+TheViper,426,"Feb 20, 2023",day,2023,2384,Unus Imperium | Quarter-Finals,win,2:3 victory against JorDan_AoE
+TheViper,427,"Feb 21, 2023",day,2023,2376,Unus Imperium | Semi-Finals,loss,3:1 defeat against TaToH
+TheViper,428,"Mar 10, 2023",day,2023,2371,AoE2 Admirals League | K.O. Phase,win,1:2 victory against El_Matador
+TheViper,429,"Mar 11, 2023",day,2023,2356,Nili's Apartment Cup 4 | Group Stage,loss,3:0 defeat against Villese
+TheViper,430,"Mar 12, 2023",day,2023,2365,Nili's Apartment Cup 4 | Group Stage,win,0:3 victory against JorDan_AoE
+TheViper,431,"Mar 13, 2023",day,2023,2369,Nili's Apartment Cup 4 | Group Stage,win,3:1 victory against Nicov
+TheViper,432,"Mar 14, 2023",day,2023,2360,Nili's Apartment Cup 4 | Group Stage,loss,3:0 defeat against Hera
+TheViper,433,"Mar 15, 2023",day,2023,2348,Nili's Apartment Cup 4 | Group Stage,loss,3:0 defeat against Liereyy
+TheViper,434,"Mar 16, 2023",day,2023,2360,Nili's Apartment Cup 4 | K.O. Phase,win,1:4 victory against Vinchester
+TheViper,435,"Mar 17, 2023",day,2023,2364,Nili's Apartment Cup 4 | Quarter-Finals,win,4:3 victory against Villese
+TheViper,436,"Mar 18, 2023",day,2023,2356,Nili's Apartment Cup 4 | Semi-Finals,loss,3:5 defeat against Liereyy
+TheViper,437,"Mar 23, 2023",day,2023,2359,AoE2 Admirals League | K.O. Phase,win,3:0 victory against Kasva
+TheViper,438,"Apr 03, 2023",day,2023,2367,Unus Imperium | Bronze-Match,win,3:1 victory against Vinchester
+TheViper,439,"Apr 04, 2023",day,2023,2358,AoE2 Admirals League | Quarter-Finals,loss,2:3 defeat against Vinchester
+TheViper,440,"Apr 05, 2023",day,2023,2354,JorDan's Medieval Brawl Season 2 Finals | Quarter-Finals,loss,1:2 defeat against Vinchester
+TheViper,441,"May 06, 2023",day,2023,2356,King of the Desert 5 Qualifier 2 | Quarter-Finals,win,0:2 victory against Frost_9
+TheViper,442,"May 06, 2023",day,2023,2359,King of the Desert 5 Qualifier 2 | Semi-Finals,win,0:3 victory against macluffy
+TheViper,443,"May 07, 2023",day,2023,2362,King of the Desert 5 Qualifier 2 | Finale,win,0:3 victory against Overtaken
+TheViper,444,"May 13, 2023",day,2023,2362,King of the Desert 5 | Group Stage,win,1:3 victory against Hearttt
+TheViper,445,"May 19, 2023",day,2023,2371,King of the Desert 5 | Group Stage,win,0:3 victory against Barles
+TheViper,446,"May 23, 2023",day,2023,2370,King of the Desert 5 | K.O. Phase,win,2:3 victory against ACCM
+TheViper,447,"May 25, 2023",day,2023,2382,King of the Desert 5 | Quarter-Finals,win,0:4 victory against vivi
+TheViper,448,"May 27, 2023",day,2023,2389,King of the Desert 5 | Semi-Finals,win,1:4 victory against MbL
+TheViper,449,"May 28, 2023",day,2023,2374,King of the Desert 5 | Finale,loss,0:5 defeat against Hera
+TheViper,450,"May 31, 2023",day,2023,2376,Masters of Arena 7 Qualifier | K.O. Phase,win,0:2 victory against Chirris
+TheViper,451,"Jun 03, 2023",day,2023,2380,AoE2 Admirals League 2 | K.O. Phase,win,2:0 victory against classicpro
+TheViper,452,"Jun 04, 2023",day,2023,2383,Masters of Arena 7 Qualifier | Quarter-Finals,win,0:3 victory against Dobbs351
+TheViper,453,"Jun 07, 2023",day,2023,2372,Masters of Arena 7 | Group Stage,win,2:3 victory against BlackheartXY
+TheViper,454,"Jun 11, 2023",day,2023,2366,Masters of Arena 7 | Group Stage,win,2:3 victory against FreakinAndy
+TheViper,455,"Jun 15, 2023",day,2023,2354,AoE2 Admirals League 2 | K.O. Phase,loss,1:3 defeat against DauT
+TheViper,456,"Jun 19, 2023",day,2023,2366,Pablito's Invitational | Quarter-Finals,win,0:3 victory against Vinchester
+TheViper,457,"Jun 20, 2023",day,2023,2380,Pablito's Invitational | Semi-Finals,win,2:4 victory against Hera
+TheViper,458,"Jun 21, 2023",day,2023,2396,Pablito's Invitational | Finale,win,5:1 victory against Yo
+TheViper,459,"Jun 24, 2023",day,2023,2395,Masters of Arena 7 | K.O. Phase,win,2:3 victory against ACCM
+TheViper,460,"Jun 30, 2023",day,2023,2383,Masters of Arena 7 | Quarter-Finals,loss,0:3 defeat against TaToH
+TheViper,461,"Aug 05, 2023",day,2023,2385,The Champions Invitational | Group Stage,loss,4:6 defeat against Hera
+TheViper,462,"Aug 06, 2023",day,2023,2400,The Champions Invitational | Group Stage,win,6:5 victory against Hera
+TheViper,463,"Aug 09, 2023",day,2023,2406,The Champions Invitational | Group Stage,win,7:3 victory against Vinchester
+TheViper,464,"Aug 10, 2023",day,2023,2418,The Champions Invitational | Group Stage,win,4:0 victory against Vinchester
+TheViper,465,"Aug 20, 2023",day,2023,2409,Clash of Empires | Group Stage,loss,3:2 defeat against DauT
+TheViper,466,"Aug 21, 2023",day,2023,2401,The Champions Invitational | Group Stage,loss,4:6 defeat against TaToH
+TheViper,467,"Aug 22, 2023",day,2023,2405,The Champions Invitational | Group Stage,win,6:5 victory against TaToH
+TheViper,468,"Aug 25, 2023",day,2023,2413,The Champions Invitational | Group Stage,win,6:4 victory against Yo
+TheViper,469,"Aug 26, 2023",day,2023,2417,The Champions Invitational | Group Stage,win,5:4 victory against Yo
+TheViper,470,"Aug 27, 2023",day,2023,2423,Clash of Empires | Group Stage,win,3:0 victory against Hearttt
+TheViper,471,"Sep 02, 2023",day,2023,2423,Clash of Empires | Group Stage,win,3:1 victory against Barles
+TheViper,472,"Sep 03, 2023",day,2023,2431,Clash of Empires | Quarter-Finals,win,3:1 victory against Hera
+TheViper,473,"Sep 09, 2023",day,2023,2423,Clash of Empires | Semi-Finals,loss,4:2 defeat against Liereyy
+TheViper,474,"Sep 10, 2023",day,2023,2411,Clash of Empires | Bronze-Match,loss,3:1 defeat against Yo
+TheViper,475,"Sep 11, 2023",day,2023,2407,T90 Titans League 3: Platinum League | Group Stage,loss,2:1 defeat against TaToH
+TheViper,476,"Sep 19, 2023",day,2023,2413,T90 Titans League 3: Platinum League | Group Stage,win,0:3 victory against vivi
+TheViper,477,"Sep 26, 2023",day,2023,2416,T90 Titans League 3: Platinum League | Group Stage,win,0:3 victory against Sobek
+TheViper,478,"Oct 03, 2023",day,2023,2422,T90 Titans League 3: Platinum League | Group Stage,win,0:3 victory against classicpro
+TheViper,479,"Oct 08, 2023",day,2023,2426,T90 Titans League 3: Platinum League | Group Stage,win,1:2 victory against Liereyy
+TheViper,480,"Oct 10, 2023",day,2023,2430,Clash of the Titans II: Promo Invitational | Group Stage,win,2:3 victory against Yo
+TheViper,481,"Oct 14, 2023",day,2023,2440,Clash of the Titans II: Promo Invitational | Group Stage,win,5:0 victory against dogao
+TheViper,482,"Oct 16, 2023",day,2023,2446,T90 Titans League 3: Platinum League | Quarter-Finals,win,0:3 victory against FreakinAndy
+TheViper,483,"Oct 18, 2023",day,2023,2453,T90 Titans League 3: Platinum League | Semi-Finals,win,4:1 victory against TaToH
+TheViper,484,"Oct 19, 2023",day,2023,2445,T90 Titans League 3: Platinum League | Finale,loss,2:4 defeat against Hera
+TheViper,485,"Oct 20, 2023",day,2023,2450,Clash of the Titans II: Promo Invitational | Group Stage,win,5:0 victory against saymyname
+TheViper,486,"Oct 23, 2023",day,2023,2459,Warlords Waiting Room | Group Stage,win,0:3 victory against TaToH
+TheViper,487,"Oct 25, 2023",day,2023,2462,Warlords Waiting Room | Group Stage,win,0:3 victory against Nili
+TheViper,488,"Oct 25, 2023",day,2023,2462,Warlords Waiting Room | Group Stage,win,0:3 victory against Ubetnir
+TheViper,489,"Oct 26, 2023",day,2023,2471,Warlords Waiting Room | Quarter-Finals,win,0:3 victory against Liereyy
+TheViper,490,"Oct 27, 2023",day,2023,2480,Warlords Waiting Room | Semi-Finals,win,3:0 victory against Yo
+TheViper,491,"Oct 27, 2023",day,2023,2466,Warlords Waiting Room | Finale,loss,4:2 defeat against TaToH
+TheViper,492,"Nov 02, 2023",day,2023,2466,Warlords II | Group Stage,win,1:3 victory against FreakinAndy
+TheViper,493,"Nov 05, 2023",day,2023,2466,Warlords II | Group Stage,win,1:3 victory against Villese
+TheViper,494,"Nov 06, 2023",day,2023,2457,Clash of the Titans II: Promo Invitational | Group Stage,loss,3:2 defeat against DauT
+TheViper,495,"Nov 08, 2023",day,2023,2469,Warlords II | Group Stage,win,0:3 victory against Liereyy
+TheViper,496,"Nov 17, 2023",day,2023,2471,Warlords II | Quarter-Finals,win,1:4 victory against Villese
+TheViper,497,"Nov 18, 2023",day,2023,2463,Warlords II | Semi-Finals,loss,4:2 defeat against TaToH
+TheViper,498,"Nov 19, 2023",day,2023,2472,Warlords II | Bronze-Match,win,3:0 victory against Yo
+TheViper,499,"Nov 20, 2023",day,2023,2455,Clash of the Titans II: Promo Invitational | Group Stage,loss,4:1 defeat against JorDan_AoE
+TheViper,500,"Dec 11, 2023",day,2023,2450,AoE2 Middle East Tournament | K.O. Phase,win,1:2 victory against Z40
+TheViper,501,"Dec 22, 2023",day,2023,2450,AoE2 Middle East Tournament | K.O. Phase,win,3:1 victory against vivi
+TheViper,502,"Dec 28, 2023",day,2023,2454,AoE2 Middle East Tournament | Quarter-Finals,win,1:3 victory against Yo
+TheViper,503,"Dec 29, 2023",day,2023,2458,AoE2 Middle East Tournament | Semi-Finals,win,3:1 victory against ACCM
+TheViper,504,"Dec 29, 2023",day,2023,2462,AoE2 Middle East Tournament | Finale,win,3:4 victory against Hera
+TheViper,505,"Jan 06, 2024",day,2024,2456,Nili's Apartment Cup V | Group Stage,win,2:3 victory against Hearttt
+TheViper,506,"Jan 07, 2024",day,2024,2452,Nili's Apartment Cup V | Group Stage,loss,3:2 defeat against TaToH
+TheViper,507,"Jan 08, 2024",day,2024,2461,Nili's Apartment Cup V | Group Stage,win,0:3 victory against Liereyy
+TheViper,508,"Jan 09, 2024",day,2024,2465,Nili's Apartment Cup V | Group Stage,win,1:3 victory against ACCM
+TheViper,509,"Jan 10, 2024",day,2024,2473,Nili's Apartment Cup V | Group Stage,win,3:1 victory against Hera
+TheViper,510,"Jan 12, 2024",day,2024,2470,Nili's Apartment Cup V | Quarter-Finals,win,3:4 victory against DauT
+TheViper,511,"Jan 13, 2024",day,2024,2450,Nili's Apartment Cup V | Semi-Finals,loss,0:5 defeat against Hera
+TheViper,512,"Feb 27, 2024",day,2024,2462,Hidden Cup 5 | K.O. Phase,win,1:4 victory against Yo
+TheViper,513,"Mar 01, 2024",day,2024,2464,Hidden Cup 5 | Quarter-Finals,win,4:2 victory against DauT
+TheViper,514,"Mar 02, 2024",day,2024,2447,Hidden Cup 5 | Semi-Finals,loss,4:1 defeat against Liereyy
+TheViper,515,"Mar 03, 2024",day,2024,2451,Hidden Cup 5 | Bronze-Match,win,3:1 victory against ACCM
+TheViper,516,"Apr 12, 2024",day,2024,2451,Thalassocracy Cup | K.O. Phase,win,0:2 victory against Hiikime
+TheViper,517,"Apr 19, 2024",day,2024,2438,Thalassocracy Cup | K.O. Phase,loss,2:1 defeat against Pela
+TheViper,518,"Jun 04, 2024",day,2024,2450,Warlords III | K.O. Phase,win,0:4 victory against Nicov
+TheViper,519,"Jun 07, 2024",day,2024,2462,Warlords III | Quarter-Finals,win,0:4 victory against DauT
+TheViper,520,"Jun 08, 2024",day,2024,2464,Warlords III | Semi-Finals,win,2:4 victory against Sebastian
+TheViper,521,"Jun 09, 2024",day,2024,2464,Warlords III | Finale,loss,3:5 defeat against Hera
+TheViper,522,"Jul 06, 2024",day,2024,2461,ShenAiXie Cup | K.O. Phase,win,1:4 victory against F1Re
+TheViper,523,"Jul 07, 2024",day,2024,2443,ShenAiXie Cup | K.O. Phase,loss,4:3 defeat against Mihai06
+TheViper,524,"Aug 31, 2024",day,2024,2443,World Desert Championship 2 (1v1s) | K.O. Phase,win,0:1 victory against Noszombie
+TheViper,525,"Sep 27, 2024",day,2024,2438,World Desert Championship 2 (1v1s) | Quarter-Finals,loss,1:0 defeat against Liereyy
+TheViper,526,"Sep 28, 2024",day,2024,2440,World Desert Championship 2 (1v1s) | Semi-Finals,win,0:1 victory against Lucky Rox
+TheViper,527,"Sep 29, 2024",day,2024,2442,World Desert Championship 2 (1v1s) | Finale,win,0:1 victory against dogao
+TheViper,528,"Oct 03, 2024",day,2024,2448,Red Bull Wololo: El Reinado | K.O. Phase,win,0:2 victory against MbL
+TheViper,529,"Oct 03, 2024",day,2024,2452,Red Bull Wololo: El Reinado | K.O. Phase,win,1:2 victory against Sebastian
+TheViper,530,"Oct 05, 2024",day,2024,2449,Red Bull Wololo: El Reinado | Semi-Finals,win,3:4 victory against Liereyy
+TheViper,531,"Oct 06, 2024",day,2024,2439,Red Bull Wololo: El Reinado | Finale,loss,1:5 defeat against Hera
+TheViper,532,"Nov 06, 2024",day,2024,2439,Battle of Scandinavia | Quarter-Finals,win,0:3 victory against Spaden
+TheViper,533,"Nov 15, 2024",day,2024,2439,Wandering Warriors Cup 2 | K.O. Phase,win,0:3 victory against Emu Warrior
+TheViper,534,"Nov 15, 2024",day,2024,2441,Battle of Scandinavia | Semi-Finals,win,4:1 victory against Villese
+TheViper,535,"Nov 18, 2024",day,2024,2437,Battle of Scandinavia | Finale,win,2:4 victory against Ganji
+TheViper,536,"Nov 20, 2024",day,2024,2439,Wandering Warriors Cup 2 | K.O. Phase,win,0:2 victory against repard
+TheViper,537,"Nov 24, 2024",day,2024,2442,Wandering Warriors Cup 2 | K.O. Phase,win,0:3 victory against Lewis
+TheViper,538,"Dec 01, 2024",day,2024,2441,Wandering Warriors Cup 2 | K.O. Phase,win,2:3 victory against MbL
+TheViper,539,"Dec 05, 2024",day,2024,2430,Wandering Warriors Cup 2 | Quarter-Finals,loss,4:3 defeat against ACCM
+TheViper,540,"Dec 15, 2024",day,2024,2434,Noble Apartment Cup | Group Stage,win,1:3 victory against DauT
+TheViper,541,"Dec 16, 2024",day,2024,2430,Noble Apartment Cup | Group Stage,loss,3:2 defeat against Liereyy
+TheViper,542,"Dec 17, 2024",day,2024,2438,Noble Apartment Cup | Group Stage,win,1:3 victory against TaToH
+TheViper,543,"Dec 18, 2024",day,2024,2437,Noble Apartment Cup | Group Stage,win,2:3 victory against Vinchester
+TheViper,544,"Dec 19, 2024",day,2024,2438,Noble Apartment Cup | Group Stage,loss,2:3 defeat against Hera
+TheViper,545,"Dec 20, 2024",day,2024,2445,Noble Apartment Cup | Quarter-Finals,win,1:4 victory against Vinchester
+TheViper,546,"Dec 21, 2024",day,2024,2441,Noble Apartment Cup | Semi-Finals,loss,3:4 defeat against Liereyy
+TheViper,547,"Jan 18, 2025",day,2025,2431,T90 Titans League 4: Platinum League | Group Stage,loss,2:1 defeat against Dark
+TheViper,548,"Jan 25, 2025",day,2025,2427,T90 Titans League 4: Platinum League | Group Stage,loss,2:1 defeat against Hearttt
+TheViper,549,"Jan 31, 2025",day,2025,2430,T90 Titans League 4: Platinum League | Group Stage,win,0:3 victory against Valas
+TheViper,550,"Feb 09, 2025",day,2025,2433,Wallhalla 2: Qualifier | Finale,win,0:3 victory against King_Boo
+TheViper,551,"Feb 16, 2025",day,2025,2439,T90 Titans League 4: Platinum League | Group Stage,win,0:3 victory against Daniel
+TheViper,552,"Feb 24, 2025",day,2025,2432,T90 Titans League 4: Platinum League | Group Stage,loss,2:1 defeat against FreakinAndy
+TheViper,553,"Feb 26, 2025",day,2025,2424,T90 Titans League 4: Platinum League | K.O. Phase,loss,1:3 defeat against Sebastian
+TheViper,554,"Mar 04, 2025",day,2025,2420,Wallhalla 2 | K.O. Phase,win,1:3 victory against Target331
+TheViper,555,"Mar 10, 2025",day,2025,2416,Wallhalla 2 | K.O. Phase,win,1:3 victory against Lewis
+TheViper,556,"Mar 13, 2025",day,2025,2424,The Garrison | Quarter-Finals (Winner Bracket),win,1:3 victory against Hearttt
+TheViper,557,"Mar 14, 2025",day,2025,2420,The Garrison | Semi-Finals (Winner Bracket),loss,2:3 defeat against Yo
+TheViper,558,"Mar 15, 2025",day,2025,2428,The Garrison | Second RO4 (Loser Bracket),win,1:3 victory against TaToH
+TheViper,559,"Mar 15, 2025",day,2025,2420,The Garrison | Semi-Finale (Loser Bracket),loss,3:1 defeat against Liereyy
+TheViper,560,"Mar 21, 2025",day,2025,2426,Wallhalla 2 | Quarter-Finals,win,0:3 victory against Valas
+TheViper,561,"Mar 22, 2025",day,2025,2434,Wallhalla 2 | Semi-Finals,win,4:2 victory against Yo
+TheViper,562,"Mar 23, 2025",day,2025,2442,Wallhalla 2 | Finale,win,2:4 victory against ACCM
+TheViper,563,"Apr 05, 2025",day,2025,2425,Copa Intercontinental | Semi-Finals,loss,4:1 defeat against TaToH
+TheViper,564,"May 20, 2025",day,2025,2424,Warlords IV | Group Stage,win,2:3 victory against DauT
+TheViper,565,"May 23, 2025",day,2025,2428,Warlords IV | Group Stage,win,1:3 victory against Mihai06
+TheViper,566,"May 25, 2025",day,2025,2432,Warlords IV | Group Stage,win,2:3 victory against ACCM
+TheViper,567,"May 30, 2025",day,2025,2428,Warlords IV | Quarter-Finals,loss,4:3 defeat against Yo
+TheViper,568,"Aug 25, 2025",day,2025,2430,Midweek Madness August #3 | K.O. Phase,win,0:2 victory against F1Re
+TheViper,569,"Aug 27, 2025",day,2025,2431,Midweek Madness August #3 | Quarter-Finals,win,1:2 victory against FreakinAndy
+TheViper,570,"Aug 28, 2025",day,2025,2435,Midweek Madness August #3 | Semi-Finals,win,1:2 victory against ACCM
+TheViper,571,"Aug 28, 2025",day,2025,2434,Midweek Madness August #3 | Finale,win,3:2 victory against Mihai06
+TheViper,572,"Sep 08, 2025",day,2025,2436,Midweek Madness September #1 | K.O. Phase,win,0:2 victory against Wean Dinchester
+TheViper,573,"Sep 09, 2025",day,2025,2438,Midweek Madness September #1 | K.O. Phase,win,0:2 victory against Blve
+TheViper,574,"Sep 10, 2025",day,2025,2428,Midweek Madness September #1 | Quarter-Finals,loss,2:0 defeat against JorDan_AoE
+TheViper,575,"Sep 15, 2025",day,2025,2431,Quintessential Cookout | K.O. Phase,win,0:3 victory against Ciskhan
+TheViper,576,"Sep 19, 2025",day,2025,2439,Quintessential Cookout | Quarter-Finals,win,1:3 victory against Vinchester
+TheViper,577,"Sep 20, 2025",day,2025,2443,Quintessential Cookout | Semi-Finals,win,4:3 victory against Yo
+TheViper,578,"Sep 21, 2025",day,2025,2451,Quintessential Cookout | Finale,win,4:2 victory against Sebastian
+TheViper,579,"Sep 23, 2025",day,2025,2446,Midweek Madness September #2 | K.O. Phase,win,1:2 victory against Ciskhan
+TheViper,580,"Sep 24, 2025",day,2025,2448,Midweek Madness September #2 | Quarter-Finals,win,0:2 victory against chart
+TheViper,581,"Sep 25, 2025",day,2025,2438,Midweek Madness September #2 | Semi-Finals,loss,0:2 defeat against Barles
+TheViper,582,"Sep 30, 2025",day,2025,2438,Midweek Madness September #3 | K.O. Phase,win,0:2 victory against Good_Game
+TheViper,583,"Oct 01, 2025",day,2025,2424,Midweek Madness September #3 | Quarter-Finals,loss,2:0 defeat against chart
+TheViper,584,"Oct 04, 2025",day,2025,2430,Master of HyperRandom 3 | K.O. Phase,win,0:3 victory against Capoch
+TheViper,585,"Oct 07, 2025",day,2025,2434,Master of HyperRandom 3 | K.O. (Winner Bracket),win,1:3 victory against DauT
+TheViper,586,"Oct 15, 2025",day,2025,2430,Master of HyperRandom 3 | Quarter-Finals,loss,3:2 defeat against Vinchester
+TheViper,587,"Oct 22, 2025",day,2025,2439,LingYuan Cup | Group Stage,win,0:3 victory against FreakinAndy
+TheViper,588,"Oct 23, 2025",day,2025,2435,LingYuan Cup | Group Stage,loss,3:2 defeat against ACCM
+TheViper,589,"Oct 24, 2025",day,2025,2427,LingYuan Cup | Group Stage,loss,1:3 defeat against Yo
+TheViper,590,"Oct 25, 2025",day,2025,2439,LingYuan Cup | Group Stage,win,3:0 victory against Sebastian
+TheViper,591,"Oct 26, 2025",day,2025,2427,LingYuan Cup | Semi-Finals,loss,0:4 defeat against Hera
+TheViper,592,"Nov 07, 2025",day,2025,2427,Thalassocracy 2 | K.O. Phase,draw,0:0 draw against egenem17
+TheViper,593,"Nov 13, 2025",day,2025,2427,Thalassocracy 2 | K.O. Phase,draw,0:0 draw against Andre_2i
+TheViper,594,"Nov 18, 2025",day,2025,2431,Thalassocracy 2 | K.O. Phase,win,1:3 victory against JorDan_AoE
+TheViper,595,"Nov 21, 2025",day,2025,2435,Thalassocracy 2 | K.O. Phase,win,1:3 victory against Sitaux
+TheViper,596,"Nov 27, 2025",day,2025,2439,Thalassocracy 2 | Quarter-Finals,win,2:3 victory against TaToH
+TheViper,597,"Nov 29, 2025",day,2025,2443,Thalassocracy 2 | Semi-Finals,loss,2:4 defeat against Hera
+TheViper,598,"Dec 02, 2025",day,2025,2443,King of the Desert VI | Round of 64 (Bo5),win,0:3 victory against Lamo
+TheViper,599,"Dec 06, 2025",day,2025,2449,King of the Desert VI | Round of 32 (Bo5),win,0:3 victory against classicpro
+TheViper,600,"Dec 13, 2025",day,2025,2456,King of the Desert VI | Round of 16 (Bo7),win,1:4 victory against Sitaux
+TheViper,601,"Dec 19, 2025",day,2025,2460,King of the Desert VI | Quarterfinals (Bo7),win,3:4 victory against Sebastian
+TheViper,602,"Dec 20, 2025",day,2025,2472,King of the Desert VI | Semifinals (Bo7),win,4:1 victory against Vinchester
+TheViper,603,"Dec 21, 2025",day,2025,2477,King of the Desert VI | Final (Bo9),loss,4:5 defeat against Hera
+TheViper,604,"Jan 26, 2026",day,2026,2473,Red Bull Wololo: Londinium Age of Empires II: Last-Chance Qualifier | Major Ladder Round,loss,4:3 defeat against Sebastian
+TheViper,605,"Feb 13, 2026",day,2026,2463,T90 Titans League 5: Platinum League | Group D | Round 1,loss,2:1 defeat against vivi
+TheViper,606,"Feb 15, 2026",day,2026,2469,T90 Titans League 5: Platinum League | Group D | Round 2,win,3:0 victory against Dark
+TheViper,607,"Feb 23, 2026",day,2026,2456,T90 Titans League 5: Platinum League | Group D | Round 3,loss,2:1 defeat against The_Dragonstar
+TheViper,608,"Mar 09, 2026",day,2026,2449,T90 Titans League 5: Platinum League | Group D | Round 4,loss,1:2 defeat against Sitaux
+TheViper,609,"Mar 15, 2026",day,2026,2455,T90 Titans League 5: Platinum League | Group D | Round 5,win,0:3 victory against Mihai06
+TheViper,610,"Mar 18, 2026",day,2026,2459,T90 Titans League 5: Platinum League | Playoffs | Round of 12 (Bo5),win,3:1 victory against TaToH
+TheViper,611,"Mar 20, 2026",day,2026,2455,T90 Titans League 5: Platinum League | Playoffs | Quarterfinals (Bo5),loss,1:3 defeat against Hera
+TheViper,612,"Mar 28, 2026",day,2026,2454,Red Bull Wololo: Londinium Age of Empires II: Replacement Qualifier | Unknown Stage,win,2:3 victory against Barles
+TheViper,613,"Mar 28, 2026",day,2026,2453,Red Bull Wololo: Londinium Age of Empires II: Replacement Qualifier | Unknown Stage,win,2:3 victory against Lewis
+TheViper,614,"Apr 01, 2026",day,2026,2457,Red Bull Wololo: Londinium Age of Empires II | Group B | Round 1,win,3:2 victory against Sebastian
+TheViper,615,"Apr 02, 2026",day,2026,2465,Red Bull Wololo: Londinium Age of Empires II | Group B | Round 2,win,1:3 victory against ACCM
+TheViper,616,"Apr 03, 2026",day,2026,2456,Red Bull Wololo: Londinium Age of Empires II | Group B | Round 3,loss,3:0 defeat against Liereyy
+TheViper,617,"Apr 04, 2026",day,2026,2464,Red Bull Wololo: Londinium Age of Empires II | Playoffs | Round of Six (Bo7),win,2:4 victory against Yo
+TheViper,618,"Apr 05, 2026",day,2026,2456,Red Bull Wololo: Londinium Age of Empires II | Playoffs | Semifinals (Bo7),loss,0:4 defeat against Hera
+TheViper,619,"Apr 10, 2026",day,2026,2456,Brazilian Dynasty: International Qualifier 1 | Bracket A | Round of 80 (Bo5),win,0:3 victory against Baxter
+TheViper,620,"Apr 11, 2026",day,2026,2452,Brazilian Dynasty: International Qualifier 1 | Bracket A | Round of 40 (Bo5),win,1:3 victory against Bad_Koala
+TheViper,621,"Apr 11, 2026",day,2026,2455,Brazilian Dynasty: International Qualifier 1 | Bracket A | Round of 20 (Bo5),win,0:3 victory against Running
+TheViper,622,"Apr 12, 2026",day,2026,2457,Brazilian Dynasty: International Qualifier 1 | Bracket A | Qualifying Round (Bo7),win,1:4 victory against DauT
+TheViper,623,"May 08, 2026",day,2026,2457,MembTV Warlords V | Group C | Opening Matches (Bo5),win,1:3 victory against Mihai06
+TheViper,624,"May 17, 2026",day,2026,2469,MembTV Warlords V | Group C | Winner's Match (Bo5),win,0:3 victory against TaToH
+TheViper,625,"May 22, 2026",day,2026,2465,MembTV Warlords V | Playoffs | Quarterfinals (Bo7),loss,4:3 defeat against ACCM
+TheViper,626,"Jul 01, 2026",day,2026,2466,Brazilian Dynasty | Round 1,win,1:2 victory against Lewis
+TheViper,627,"Jul 02, 2026",day,2026,2481,Brazilian Dynasty | Round 2,win,3:0 victory against Liereyy
+TheViper,628,"Jul 03, 2026",day,2026,2477,Brazilian Dynasty | Round 3,loss,2:1 defeat against Sebastian
+TheViper,629,"Jul 04, 2026",day,2026,2465,Brazilian Dynasty | Playoffs | Quarterfinals (Bo5),loss,3:0 defeat against ACCM
+TheViper,630,"Aug 05, 2026",day,2026,2450,Top Experts League #6 | UB Semis (Bo5),loss,3:0 defeat against Lewis
+TheViper,631,"Aug 06, 2026",day,2026,2441,Top Experts League #6 | LB Semis (Bo5),loss,3:0 defeat against Liereyy
+TheViper,632,"Sep 24, 2026",day,2026,2441,The Garrison 2026: Qualifier #1 | Bracket 2 | Round of 64 (Bo5),win,0:3 victory against Dadaya
+TheViper,633,"Sep 26, 2026",day,2026,2444,The Garrison 2026: Qualifier #1 | Bracket 2 | Round of 32 (Bo5),win,0:3 victory against Valas
+TheViper,634,"Sep 26, 2026",day,2026,2444,The Garrison 2026: Qualifier #1 | Bracket 2 | Round of 16 (Bo5),win,1:3 victory against Mihai06
+TheViper,635,"Sep 26, 2026",day,2026,2448,The Garrison 2026: Qualifier #1 | Bracket 2 | Round of 8 (Bo5),win,2:3 victory against FreakinAndy
+TheViper,636,"Sep 27, 2026",day,2026,2440,The Garrison 2026: Qualifier #1 | Bracket 2 | Round of 4 (Bo7),loss,4:2 defeat against Vinchester
+TheViper,637,"Oct 02, 2026",day,2026,2443,The Garrison 2026: Qualifier #2 | Bracket 2 | Round of 48 (Bo5),win,0:3 victory against Uzzi

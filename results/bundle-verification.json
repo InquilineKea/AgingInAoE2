@@ -1,0 +1,12 @@
+{
+  "bundle": "<LOCAL_ANALYSIS_ROOT>-samples-and-analysis.zip",
+  "bytes": 48147592,
+  "sha256": "d07e4d30289f0b7bfea86276d8335461e9e7fb65995ea316af149af1ca36e067",
+  "downloaded_replay_files": 46,
+  "duplicate_files_excluded": 5,
+  "validation_failures_excluded": 3,
+  "unrelated_game_excluded": 1,
+  "analyzed_target_games": 37,
+  "player_game_observations": 44,
+  "zip_integrity": "passed"
+}

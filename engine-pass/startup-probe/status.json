@@ -1,0 +1,7 @@
+{
+  "state": "connection_failed",
+  "frames": 0,
+  "grpc_code": "UNAVAILABLE",
+  "error": "failed to connect to all addresses; last error: UNKNOWN: ipv4:127.0.0.1:4341: Failed to connect to remote host: connect: Connection refused (61)",
+  "complete_match_verified": false
+}

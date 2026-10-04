@@ -1,0 +1,20 @@
+{
+  "game_id": "61c225f6fcca",
+  "file": "tatoh/raw/ranked_508914728/AgeIIDE_Replay_508914728.aoe2record",
+  "sha256": "61c225f6fcca291a17cd213c5f980ec4c5dbb0faa82f0922d588d3590718cac4",
+  "year": 2026,
+  "date": "2026-09-24T17:51:11+00:00",
+  "date_precision": "header UTC",
+  "source_url": "https://aoe.ms/replay/?gameId=508914728&profileId=197388",
+  "player_names": [
+    "NOC | Terz",
+    "Oni.TaToH"
+  ],
+  "target_players": [
+    "TaToH"
+  ],
+  "duration_game_min": 17.619116666666667,
+  "save_version": 68.9,
+  "status": "parsed",
+  "state": "pending_startup_validation"
+}

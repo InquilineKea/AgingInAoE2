@@ -1,0 +1,412 @@
+[
+  {
+    "sha": "9ba95c90368723fd9a05a3f08c3464d1d9708513",
+    "node_id": "C_kwDOAd7dkdoAKDliYTk1YzkwMzY4NzIzZmQ5YTA1YTNmMDhjMzQ2NGQxZDk3MDg1MTM",
+    "commit": {
+      "author": {
+        "name": "Emmanuel Marboeuf",
+        "email": "marboeuf.e@gmail.com",
+        "date": "2026-02-25T12:29:56Z"
+      },
+      "committer": {
+        "name": "Emmanuel Marboeuf",
+        "email": "marboeuf.e@gmail.com",
+        "date": "2026-03-02T08:29:20Z"
+      },
+      "message": "feat: expose per-player handicap percentage from replay headers\n\nThe handicap bytes (8 per player, save version >= 25.06) were being\nread and discarded. Now the second Int32 (handicap %) is decoded and\npropagated through the fast parser, model layer, and Player dataclass.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+      "tree": {
+        "sha": "2e2e31bc1901775c869dc335b84c28ae63100c10",
+        "url": "https://api.github.com/repos/happyleavesaoc/aoc-mgz/git/trees/2e2e31bc1901775c869dc335b84c28ae63100c10"
+      },
+      "url": "https://api.github.com/repos/happyleavesaoc/aoc-mgz/git/commits/9ba95c90368723fd9a05a3f08c3464d1d9708513",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/happyleavesaoc/aoc-mgz/commits/9ba95c90368723fd9a05a3f08c3464d1d9708513",
+    "html_url": "https://github.com/happyleavesaoc/aoc-mgz/commit/9ba95c90368723fd9a05a3f08c3464d1d9708513",
+    "comments_url": "https://api.github.com/repos/happyleavesaoc/aoc-mgz/commits/9ba95c90368723fd9a05a3f08c3464d1d9708513/comments",
+    "author": {
+      "login": "sanduckhan",
+      "id": 1183507,
+      "node_id": "MDQ6VXNlcjExODM1MDc=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1183507?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/sanduckhan",
+      "html_url": "https://github.com/sanduckhan",
+      "followers_url": "https://api.github.com/users/sanduckhan/followers",
+      "following_url": "https://api.github.com/users/sanduckhan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/sanduckhan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/sanduckhan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/sanduckhan/subscriptions",
+      "organizations_url": "https://api.github.com/users/sanduckhan/orgs",
+      "repos_url": "https://api.github.com/users/sanduckhan/repos",
+      "events_url": "https://api.github.com/users/sanduckhan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/sanduckhan/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "sanduckhan",
+      "id": 1183507,
+      "node_id": "MDQ6VXNlcjExODM1MDc=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1183507?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/sanduckhan",
+      "html_url": "https://github.com/sanduckhan",
+      "followers_url": "https://api.github.com/users/sanduckhan/followers",
+      "following_url": "https://api.github.com/users/sanduckhan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/sanduckhan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/sanduckhan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/sanduckhan/subscriptions",
+      "organizations_url": "https://api.github.com/users/sanduckhan/orgs",
+      "repos_url": "https://api.github.com/users/sanduckhan/repos",
+      "events_url": "https://api.github.com/users/sanduckhan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/sanduckhan/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "cf204731d75fd8cf7a47eb342b07f65ee7265f78",
+        "url": "https://api.github.com/repos/happyleavesaoc/aoc-mgz/commits/cf204731d75fd8cf7a47eb342b07f65ee7265f78",
+        "html_url": "https://github.com/happyleavesaoc/aoc-mgz/commit/cf204731d75fd8cf7a47eb342b07f65ee7265f78"
+      }
+    ]
+  },
+  {
+    "sha": "cf204731d75fd8cf7a47eb342b07f65ee7265f78",
+    "node_id": "C_kwDOAd7dkdoAKGNmMjA0NzMxZDc1ZmQ4Y2Y3YTQ3ZWIzNDJiMDdmNjVlZTcyNjVmNzg",
+    "commit": {
+      "author": {
+        "name": "happyleavesaoc",
+        "email": "happyleaves.tfr@gmail.com",
+        "date": "2026-02-01T17:41:56Z"
+      },
+      "committer": {
+        "name": "happyleavesaoc",
+        "email": "happyleaves.tfr@gmail.com",
+        "date": "2026-02-01T17:41:56Z"
+      },
+      "message": "player end search fallback",
+      "tree": {
+        "sha": "61f07384dc73d4f8d19cd5ca2c37dcb10ab31b67",
+        "url": "https://api.github.com/repos/happyleavesaoc/aoc-mgz/git/trees/61f07384dc73d4f8d19cd5ca2c37dcb10ab31b67"
+      },
+      "url": "https://api.github.com/repos/happyleavesaoc/aoc-mgz/git/commits/cf204731d75fd8cf7a47eb342b07f65ee7265f78",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/happyleavesaoc/aoc-mgz/commits/cf204731d75fd8cf7a47eb342b07f65ee7265f78",
+    "html_url": "https://github.com/happyleavesaoc/aoc-mgz/commit/cf204731d75fd8cf7a47eb342b07f65ee7265f78",
+    "comments_url": "https://api.github.com/repos/happyleavesaoc/aoc-mgz/commits/cf204731d75fd8cf7a47eb342b07f65ee7265f78/comments",
+    "author": {
+      "login": "happyleavesaoc",
+      "id": 11217032,
+      "node_id": "MDQ6VXNlcjExMjE3MDMy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11217032?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/happyleavesaoc",
+      "html_url": "https://github.com/happyleavesaoc",
+      "followers_url": "https://api.github.com/users/happyleavesaoc/followers",
+      "following_url": "https://api.github.com/users/happyleavesaoc/following{/other_user}",
+      "gists_url": "https://api.github.com/users/happyleavesaoc/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/happyleavesaoc/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/happyleavesaoc/subscriptions",
+      "organizations_url": "https://api.github.com/users/happyleavesaoc/orgs",
+      "repos_url": "https://api.github.com/users/happyleavesaoc/repos",
+      "events_url": "https://api.github.com/users/happyleavesaoc/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/happyleavesaoc/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "happyleavesaoc",
+      "id": 11217032,
+      "node_id": "MDQ6VXNlcjExMjE3MDMy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11217032?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/happyleavesaoc",
+      "html_url": "https://github.com/happyleavesaoc",
+      "followers_url": "https://api.github.com/users/happyleavesaoc/followers",
+      "following_url": "https://api.github.com/users/happyleavesaoc/following{/other_user}",
+      "gists_url": "https://api.github.com/users/happyleavesaoc/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/happyleavesaoc/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/happyleavesaoc/subscriptions",
+      "organizations_url": "https://api.github.com/users/happyleavesaoc/orgs",
+      "repos_url": "https://api.github.com/users/happyleavesaoc/repos",
+      "events_url": "https://api.github.com/users/happyleavesaoc/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/happyleavesaoc/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "509b1209352da1c31d067096048de55dadae47d2",
+        "url": "https://api.github.com/repos/happyleavesaoc/aoc-mgz/commits/509b1209352da1c31d067096048de55dadae47d2",
+        "html_url": "https://github.com/happyleavesaoc/aoc-mgz/commit/509b1209352da1c31d067096048de55dadae47d2"
+      }
+    ]
+  },
+  {
+    "sha": "0a79c2c736fc57fe0353a543c27d5a380aa7f9b8",
+    "node_id": "C_kwDOAd7dkdoAKDBhNzljMmM3MzZmYzU3ZmUwMzUzYTU0M2MyN2Q1YTM4MGFhN2Y5Yjg",
+    "commit": {
+      "author": {
+        "name": "happyleavesaoc",
+        "email": "happyleaves.tfr@gmail.com",
+        "date": "2025-10-14T19:28:52Z"
+      },
+      "committer": {
+        "name": "happyleavesaoc",
+        "email": "happyleaves.tfr@gmail.com",
+        "date": "2025-10-14T20:09:18Z"
+      },
+      "message": "support 66.6",
+      "tree": {
+        "sha": "3f831730bc7646fc365e86038df118a1e0d41830",
+        "url": "https://api.github.com/repos/happyleavesaoc/aoc-mgz/git/trees/3f831730bc7646fc365e86038df118a1e0d41830"
+      },
+      "url": "https://api.github.com/repos/happyleavesaoc/aoc-mgz/git/commits/0a79c2c736fc57fe0353a543c27d5a380aa7f9b8",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/happyleavesaoc/aoc-mgz/commits/0a79c2c736fc57fe0353a543c27d5a380aa7f9b8",
+    "html_url": "https://github.com/happyleavesaoc/aoc-mgz/commit/0a79c2c736fc57fe0353a543c27d5a380aa7f9b8",
+    "comments_url": "https://api.github.com/repos/happyleavesaoc/aoc-mgz/commits/0a79c2c736fc57fe0353a543c27d5a380aa7f9b8/comments",
+    "author": {
+      "login": "happyleavesaoc",
+      "id": 11217032,
+      "node_id": "MDQ6VXNlcjExMjE3MDMy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11217032?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/happyleavesaoc",
+      "html_url": "https://github.com/happyleavesaoc",
+      "followers_url": "https://api.github.com/users/happyleavesaoc/followers",
+      "following_url": "https://api.github.com/users/happyleavesaoc/following{/other_user}",
+      "gists_url": "https://api.github.com/users/happyleavesaoc/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/happyleavesaoc/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/happyleavesaoc/subscriptions",
+      "organizations_url": "https://api.github.com/users/happyleavesaoc/orgs",
+      "repos_url": "https://api.github.com/users/happyleavesaoc/repos",
+      "events_url": "https://api.github.com/users/happyleavesaoc/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/happyleavesaoc/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "happyleavesaoc",
+      "id": 11217032,
+      "node_id": "MDQ6VXNlcjExMjE3MDMy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11217032?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/happyleavesaoc",
+      "html_url": "https://github.com/happyleavesaoc",
+      "followers_url": "https://api.github.com/users/happyleavesaoc/followers",
+      "following_url": "https://api.github.com/users/happyleavesaoc/following{/other_user}",
+      "gists_url": "https://api.github.com/users/happyleavesaoc/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/happyleavesaoc/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/happyleavesaoc/subscriptions",
+      "organizations_url": "https://api.github.com/users/happyleavesaoc/orgs",
+      "repos_url": "https://api.github.com/users/happyleavesaoc/repos",
+      "events_url": "https://api.github.com/users/happyleavesaoc/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/happyleavesaoc/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "0bc67073976f5ee317807439f2594e47abc76033",
+        "url": "https://api.github.com/repos/happyleavesaoc/aoc-mgz/commits/0bc67073976f5ee317807439f2594e47abc76033",
+        "html_url": "https://github.com/happyleavesaoc/aoc-mgz/commit/0bc67073976f5ee317807439f2594e47abc76033"
+      }
+    ]
+  },
+  {
+    "sha": "2d07c92dd0c04f5101401c24c5da9d77da6faaf1",
+    "node_id": "C_kwDOAd7dkdoAKDJkMDdjOTJkZDBjMDRmNTEwMTQwMWMyNGM1ZGE5ZDc3ZGE2ZmFhZjE",
+    "commit": {
+      "author": {
+        "name": "St\u00e9phane Bisinger",
+        "email": "stephane@sbisinger.ch",
+        "date": "2025-08-28T20:18:44Z"
+      },
+      "committer": {
+        "name": "St\u00e9phane Bisinger",
+        "email": "stephane@sbisinger.ch",
+        "date": "2025-08-28T20:18:44Z"
+      },
+      "message": "Fallback to name as censored_name for older recs",
+      "tree": {
+        "sha": "0a46f54a6aa8626354c2999b0913e6999d60d2fd",
+        "url": "https://api.github.com/repos/happyleavesaoc/aoc-mgz/git/trees/0a46f54a6aa8626354c2999b0913e6999d60d2fd"
+      },
+      "url": "https://api.github.com/repos/happyleavesaoc/aoc-mgz/git/commits/2d07c92dd0c04f5101401c24c5da9d77da6faaf1",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/happyleavesaoc/aoc-mgz/commits/2d07c92dd0c04f5101401c24c5da9d77da6faaf1",
+    "html_url": "https://github.com/happyleavesaoc/aoc-mgz/commit/2d07c92dd0c04f5101401c24c5da9d77da6faaf1",
+    "comments_url": "https://api.github.com/repos/happyleavesaoc/aoc-mgz/commits/2d07c92dd0c04f5101401c24c5da9d77da6faaf1/comments",
+    "author": {
+      "login": "Kjir",
+      "id": 64094,
+      "node_id": "MDQ6VXNlcjY0MDk0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64094?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Kjir",
+      "html_url": "https://github.com/Kjir",
+      "followers_url": "https://api.github.com/users/Kjir/followers",
+      "following_url": "https://api.github.com/users/Kjir/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Kjir/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Kjir/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Kjir/subscriptions",
+      "organizations_url": "https://api.github.com/users/Kjir/orgs",
+      "repos_url": "https://api.github.com/users/Kjir/repos",
+      "events_url": "https://api.github.com/users/Kjir/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Kjir/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "Kjir",
+      "id": 64094,
+      "node_id": "MDQ6VXNlcjY0MDk0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64094?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Kjir",
+      "html_url": "https://github.com/Kjir",
+      "followers_url": "https://api.github.com/users/Kjir/followers",
+      "following_url": "https://api.github.com/users/Kjir/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Kjir/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Kjir/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Kjir/subscriptions",
+      "organizations_url": "https://api.github.com/users/Kjir/orgs",
+      "repos_url": "https://api.github.com/users/Kjir/repos",
+      "events_url": "https://api.github.com/users/Kjir/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Kjir/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "9bbc514f804267c1fe12cd2c88baf769aa43a269",
+        "url": "https://api.github.com/repos/happyleavesaoc/aoc-mgz/commits/9bbc514f804267c1fe12cd2c88baf769aa43a269",
+        "html_url": "https://github.com/happyleavesaoc/aoc-mgz/commit/9bbc514f804267c1fe12cd2c88baf769aa43a269"
+      }
+    ]
+  },
+  {
+    "sha": "9bbc514f804267c1fe12cd2c88baf769aa43a269",
+    "node_id": "C_kwDOAd7dkdoAKDliYmM1MTRmODA0MjY3YzFmZTEyY2QyYzg4YmFmNzY5YWE0M2EyNjk",
+    "commit": {
+      "author": {
+        "name": "St\u00e9phane Bisinger",
+        "email": "stephane@sbisinger.ch",
+        "date": "2025-08-28T20:13:04Z"
+      },
+      "committer": {
+        "name": "St\u00e9phane Bisinger",
+        "email": "stephane@sbisinger.ch",
+        "date": "2025-08-28T20:13:04Z"
+      },
+      "message": "Rename name2 to censored_name",
+      "tree": {
+        "sha": "4b32dd4b3f1dd2ba340c7147cde1d9c0ee677cb2",
+        "url": "https://api.github.com/repos/happyleavesaoc/aoc-mgz/git/trees/4b32dd4b3f1dd2ba340c7147cde1d9c0ee677cb2"
+      },
+      "url": "https://api.github.com/repos/happyleavesaoc/aoc-mgz/git/commits/9bbc514f804267c1fe12cd2c88baf769aa43a269",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/happyleavesaoc/aoc-mgz/commits/9bbc514f804267c1fe12cd2c88baf769aa43a269",
+    "html_url": "https://github.com/happyleavesaoc/aoc-mgz/commit/9bbc514f804267c1fe12cd2c88baf769aa43a269",
+    "comments_url": "https://api.github.com/repos/happyleavesaoc/aoc-mgz/commits/9bbc514f804267c1fe12cd2c88baf769aa43a269/comments",
+    "author": {
+      "login": "Kjir",
+      "id": 64094,
+      "node_id": "MDQ6VXNlcjY0MDk0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64094?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Kjir",
+      "html_url": "https://github.com/Kjir",
+      "followers_url": "https://api.github.com/users/Kjir/followers",
+      "following_url": "https://api.github.com/users/Kjir/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Kjir/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Kjir/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Kjir/subscriptions",
+      "organizations_url": "https://api.github.com/users/Kjir/orgs",
+      "repos_url": "https://api.github.com/users/Kjir/repos",
+      "events_url": "https://api.github.com/users/Kjir/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Kjir/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "Kjir",
+      "id": 64094,
+      "node_id": "MDQ6VXNlcjY0MDk0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64094?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Kjir",
+      "html_url": "https://github.com/Kjir",
+      "followers_url": "https://api.github.com/users/Kjir/followers",
+      "following_url": "https://api.github.com/users/Kjir/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Kjir/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Kjir/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Kjir/subscriptions",
+      "organizations_url": "https://api.github.com/users/Kjir/orgs",
+      "repos_url": "https://api.github.com/users/Kjir/repos",
+      "events_url": "https://api.github.com/users/Kjir/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Kjir/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "d840c35f469ae1fab0b4f68dfa85398456b68bfb",
+        "url": "https://api.github.com/repos/happyleavesaoc/aoc-mgz/commits/d840c35f469ae1fab0b4f68dfa85398456b68bfb",
+        "html_url": "https://github.com/happyleavesaoc/aoc-mgz/commit/d840c35f469ae1fab0b4f68dfa85398456b68bfb"
+      }
+    ]
+  }
+]
