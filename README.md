@@ -4,6 +4,15 @@ Replay-based longitudinal behavioral comparisons of **DauT, TheViper and TaToH**
 
 Start with **[individual player findings](deadline-sparse/PLAYER_FINDINGS.md)** and the **[full measured-trait comparison](deadline-sparse/ALL_TRAITS_ANALYSIS.md)**. Download [the searchable HTML report](deadline-sparse/all_traits.html) to open it locally.
 
+## Demand, game phase and observed-session follow-up
+
+The [new stamina analysis](stamina/REPORT.md) tests the same 98 observations using fixed game-clock intervals, per-game opening baselines, 29 qualifying 45+ player-game observations (19 DE), research-request anchors, and 12 recent observed-session/context groups with at least three complete openings. It reports raw gap denominators, burst definitions, first/last opening contrasts, and session-break sensitivities. The separate synchronization-counter audit is exploratory: its semantics are not validated and it does not measure useful output or cognitive capacity.
+
+- [Long-game paired changes](stamina/long_game_paired_changes.csv)
+- [Observed-session changes and slopes](stamina/session_first_last_and_slopes.csv)
+- [Counter-proxy audit and coverage](stamina/sync_counter_paired_audit.csv)
+- [Validation](stamina/validation.json)
+
 ## What is measured
 
 | Artifact | Coverage |

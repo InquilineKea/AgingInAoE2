@@ -8,5 +8,11 @@
     "name": "submission-all-traits.zip",
     "bytes": 59312199,
     "sha256": "1b25adda1b7a35bb4fb8785baa79f2f31a6af89d6dff6427e25d77ceb63eb5f7"
+  },
+  {
+    "name": "stamina-analysis.zip",
+    "bytes": 871558,
+    "sha256": "65bf65c638e03e238b29a34a3513d5f44fca99374de9662aacc7871dfc9f13df",
+    "release_tag": "stamina-v1"
   }
 ]

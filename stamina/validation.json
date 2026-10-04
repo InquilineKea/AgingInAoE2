@@ -1,0 +1,30 @@
+{
+  "verified_player_game_observations": 98,
+  "openings": 97,
+  "qualifying_long_player_game_observations": 29,
+  "long_game_unique_source_files": 25,
+  "window_rows": 771,
+  "source_hashes_verified": true,
+  "fresh_tatoh_body_clock_and_identity_verified": 54,
+  "existing_opening_rates_match": true,
+  "metric_boundary_checks_pass": true,
+  "game_state_demand_measured": false,
+  "useful_state_change_per_command_measured": false,
+  "causal_aging_effect_identified": false,
+  "historical_exact_session_timestamps_available": false,
+  "session_analysis_year": 2026,
+  "session_analysis_uses_cached_unparsed_matches": true,
+  "primary_session_break_minutes": 30,
+  "sensitivity_session_break_minutes": [
+    15,
+    60
+  ],
+  "same_45plus_cohort_in_all_five_clock_windows_verified": true,
+  "gap_numerators_denominators_verified": true,
+  "core_rates_count_and_duration_verified": true,
+  "primary_eligible_observed_session_contexts": 12,
+  "phase_request_anchor_window_rows": 374,
+  "sync_proxy_observations": 19,
+  "sync_proxy_semantics_validated": false,
+  "sync_proxy_coverage_guard_verified": true
+}

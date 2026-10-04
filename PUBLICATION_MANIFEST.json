@@ -6,8 +6,8 @@
   },
   {
     "path": "CONSISTENCY_AND_EFFICIENCY.md",
-    "bytes": 2327,
-    "sha256": "e21b35888b6ea6f417e22bc382ff0a2294f975b8db4439693fad05dc920cf7f3"
+    "bytes": 2771,
+    "sha256": "9dbcfa447cb87410edcac95d9023d5adb84050b66e5146147b336a36f26bc737"
   },
   {
     "path": "PUBLICATION_VALIDATION.json",
@@ -16,13 +16,13 @@
   },
   {
     "path": "README.md",
-    "bytes": 7079,
-    "sha256": "957560aedc6b842747604053fda54449ee30b1cb89a24ac03b90d140b8c29ed9"
+    "bytes": 7970,
+    "sha256": "b718c17b92c1d3976d48e44be01a3ea74dbed9e1f6c2cc292b4a0460057b3957"
   },
   {
     "path": "RELEASE_ASSETS.json",
-    "bytes": 319,
-    "sha256": "a893e6df0c90a4f7117473fb66e4308ab62b689a39482e2b9abe1a421d902603"
+    "bytes": 499,
+    "sha256": "1abd231dfa33194312b04cb28c53cd223784d7eced2f450cdba627b30fc14c71"
   },
   {
     "path": "REPORT.md",
@@ -1035,6 +1035,11 @@
     "sha256": "5ce5d85a4ed9821ef8b0b0f5a95e6d8c4708fbd8aa0c81a530c879a1ff91b9cc"
   },
   {
+    "path": "scripts/report_stamina.py",
+    "bytes": 19745,
+    "sha256": "cd5099d88912da35deceef0a82d3a7286102c6ccc29c1e9e22d18c1a60dc6225"
+  },
+  {
     "path": "scripts/report_v2.py",
     "bytes": 10221,
     "sha256": "5e6cc11f14071c7a23af1dfa303386f1846bb64cdbb1c5ac030c798c3340536d"
@@ -1050,9 +1055,19 @@
     "sha256": "938813b424e91ec034afb203379a12f47bf538a0ad3d9183732b972709d70ade"
   },
   {
+    "path": "scripts/stamina_analysis.py",
+    "bytes": 22642,
+    "sha256": "94417c14c319d6523e0d14dec747ed49da04f2013c4bfa55ea49bb47062af89a"
+  },
+  {
     "path": "scripts/summarize_engine_capture.py",
     "bytes": 3507,
     "sha256": "9f03dbe466d3f2164f71814bb5bca03275e64b69071c7f4b25f02388c0a8c2de"
+  },
+  {
+    "path": "scripts/sync_proxy_audit.py",
+    "bytes": 6544,
+    "sha256": "cfc71b1a58e2ffd8dba01ca54ea41204914ddd4cf498ff7194fdcaa6f1500071"
   },
   {
     "path": "scripts/tatoh_analyze.py",
@@ -1133,6 +1148,121 @@
     "path": "sources/tabulate-pypi.json",
     "bytes": 87052,
     "sha256": "e50c073be39200e1e20659f9e52106ef62c51cd5e5f397154c560fa261e37e3b"
+  },
+  {
+    "path": "stamina/REPORT.md",
+    "bytes": 16443,
+    "sha256": "5b3e5738f42b50b7b226a0e839264157bc73ed3c549f243f16064f98836cf6ac"
+  },
+  {
+    "path": "stamina/cohort_inventory.csv",
+    "bytes": 18715,
+    "sha256": "f3d40d99ed202f96896d68c82a1bed36569253452db6cdb8289f44c283f67bc4"
+  },
+  {
+    "path": "stamina/long_game_paired_changes.csv",
+    "bytes": 34899,
+    "sha256": "b67f336a5c1323005943211644ed217503f3d439eac7ebba40deb256441cdc35"
+  },
+  {
+    "path": "stamina/long_game_period_summary.csv",
+    "bytes": 30604,
+    "sha256": "39d1207c43ae6c894ebe0b5921078585ac3c00a2077b5a7e5ff7d2d6640b871c"
+  },
+  {
+    "path": "stamina/long_game_phase_summary.csv",
+    "bytes": 21207,
+    "sha256": "cbac3d68e74223455316dd69c7a2748784043f822afca0ad1eedb06344cab6a3"
+  },
+  {
+    "path": "stamina/long_game_trajectories.png",
+    "bytes": 385309,
+    "sha256": "27f18f852b633db61e5b61bdbabc438af416b938d53575280d26b1f39ddd5cd5"
+  },
+  {
+    "path": "stamina/long_game_trajectories.svg",
+    "bytes": 119424,
+    "sha256": "966fa6c9c6b8ae61ec8b068fbbfe8c09ee88cf122815846864e8edc21b455e9a"
+  },
+  {
+    "path": "stamina/observed_session_inventory.csv",
+    "bytes": 10215,
+    "sha256": "22a1609b81d394cd79ad518d218b7786df8a86456a2e15fe4853ab06f3dca39a"
+  },
+  {
+    "path": "stamina/request_anchor_period_summary.csv",
+    "bytes": 23283,
+    "sha256": "a3abb2b28f88d5213fa39f5457e10113177df4c757befbb93023a90e2000e148"
+  },
+  {
+    "path": "stamina/session_first_last_and_slopes.csv",
+    "bytes": 22774,
+    "sha256": "b61a3ebff74d3a3b51f6bf885736c94416be8efddc5c1b30d63f02830dcba7d4"
+  },
+  {
+    "path": "stamina/session_opening_changes.png",
+    "bytes": 225070,
+    "sha256": "84ae45a93d6972f211959229b2ced4f33234d39cfe42b8d5cf7bd303c79f4aca"
+  },
+  {
+    "path": "stamina/session_opening_changes.svg",
+    "bytes": 94728,
+    "sha256": "4f46c3a1554133c8df29fc9c1628e30e5d82f22d4c7ac5634fe0fe6b4ea400f5"
+  },
+  {
+    "path": "stamina/session_opening_metrics.csv",
+    "bytes": 40845,
+    "sha256": "0f9bbab4a2ec91004c2afc93cd7d042c279f153ba7a739319abe947abbb10f3c"
+  },
+  {
+    "path": "stamina/session_summary.csv",
+    "bytes": 8503,
+    "sha256": "b15175e855189625eccfb031e69faa38a47094fbeead91b735a181f7d87ae96a"
+  },
+  {
+    "path": "stamina/session_uncovered_games.json",
+    "bytes": 3,
+    "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+  },
+  {
+    "path": "stamina/source_validation.json",
+    "bytes": 20275,
+    "sha256": "46ea79dd5f6629bde79ec51d49d72a395e3617e37eb0986c003141476a4366e1"
+  },
+  {
+    "path": "stamina/sync_counter_paired_audit.csv",
+    "bytes": 3430,
+    "sha256": "710fba32c58eaef1e7e1199de5ea0269041ca5382dc2158fdd4059a4d3968560"
+  },
+  {
+    "path": "stamina/sync_counter_period_audit.csv",
+    "bytes": 2834,
+    "sha256": "4a8333708097e75166d5674a6473422a4fffe9ba54ad28b2fb45a95096e90cf9"
+  },
+  {
+    "path": "stamina/sync_counter_snapshots.csv",
+    "bytes": 407522,
+    "sha256": "68cbaf440305a436da3b6ff166515c20da5cfc33144205ede74dc9821b5d99d3"
+  },
+  {
+    "path": "stamina/sync_counter_validation.json",
+    "bytes": 6734,
+    "sha256": "7e5d7b1013f5221269756e01187f11615bab6e798296281cebae069d94fa017b"
+  },
+  {
+    "path": "stamina/sync_counter_window_audit.csv",
+    "bytes": 24263,
+    "sha256": "26689c719087acbc1f9ba4c2cc9d2c4133e8a4adab2c80d40730e7247fdcc59c"
+  },
+  {
+    "path": "stamina/validation.json",
+    "bytes": 1105,
+    "sha256": "8d1e10d6da0be9f90ed521fcaedcb89b511a1ef77d57498c536ec968b5269d32"
+  },
+  {
+    "path": "stamina/window_metrics.csv",
+    "bytes": 381983,
+    "sha256": "9cbfbfd4a5d4d40b76da4bfa9f5d00be342c5d205e594709d5e33c5ca1e7fd13"
   },
   {
     "path": "tatoh/REPORT.md",
